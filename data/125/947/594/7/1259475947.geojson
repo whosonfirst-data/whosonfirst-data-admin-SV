@@ -1,0 +1,72 @@
+{
+  "id": 1259475947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.81667,13.3,-88.81667,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":-88.81667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"San Jose La Montana",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583594,
+    "gn:latitude":13.3,
+    "gn:longitude":-88.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 La Monta\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n San Jos\u00e9 de La Monta\u00f1a",
+        "San Jos\u00e9 La Monta\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677185,
+        1108695077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583594
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"18d1aa7672a45d4d16ca9f71de62c631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695077,
+            "locality_id":1259475947,
+            "region_id":85677185
+        }
+    ],
+    "wof:id":1259475947,
+    "wof:lastmodified":1537701439,
+    "wof:name":"San Jose La Montana",
+    "wof:parent_id":1108695077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.81667,
+    13.3,
+    -88.81667,
+    13.3
+],
+  "geometry": {"coordinates":[-88.81667,13.3],"type":"Point"}
+}

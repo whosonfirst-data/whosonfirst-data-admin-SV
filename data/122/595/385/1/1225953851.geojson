@@ -1,0 +1,67 @@
+{
+  "id": 1225953851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.055,13.86694,-90.055,13.86694",
+    "geom:latitude":13.86694,
+    "geom:longitude":-90.055,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"El Telpetate",
+    "gn:country_code":"SV",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765243,
+    "gn:latitude":13.86694,
+    "gn:longitude":-90.055,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"El Telpetate",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765243
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3f456f494a02f9b5eb57e27ebe1fed6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1225953851,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1225953851,
+    "wof:lastmodified":1536856285,
+    "wof:name":"El Telpetate",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.055,
+    13.86694,
+    -90.055,
+    13.86694
+],
+  "geometry": {"coordinates":[-90.05500000000001,13.86694],"type":"Point"}
+}

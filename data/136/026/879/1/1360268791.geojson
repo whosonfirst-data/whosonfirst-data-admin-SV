@@ -1,0 +1,76 @@
+{
+  "id": 1360268791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.61667,13.36667,-88.61667,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":-88.61667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Cruzadilla de San Juan",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585290,
+    "gn:latitude":13.36667,
+    "gn:longitude":-88.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Cruzadilla de San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cruzadilla de San Juan",
+        "San Juan",
+        "Valle San Juan",
+        "Hacienda San Juan",
+        "Valle de San Juan",
+        "La Cruzadilla de San Juan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421168319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585290
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7a40e369bb18ce8a1745cc1f3465f30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421168319,
+            "locality_id":1360268791,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1360268791,
+    "wof:lastmodified":1537701473,
+    "wof:name":"La Cruzadilla de San Juan",
+    "wof:parent_id":421168319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.61667,
+    13.36667,
+    -88.61667,
+    13.36667
+],
+  "geometry": {"coordinates":[-88.61667,13.36667],"type":"Point"}
+}

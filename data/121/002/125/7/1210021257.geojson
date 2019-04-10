@@ -1,0 +1,72 @@
+{
+  "id": 1210021257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.53333,13.63333,-89.53333,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-89.53333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Los Izotes",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584602,
+    "gn:latitude":13.63333,
+    "gn:longitude":-89.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Izotes",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Isotes",
+        "Los Izotes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108695031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584602
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f815ce3ec6691f415863f1559e635bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695031,
+            "locality_id":1210021257,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1210021257,
+    "wof:lastmodified":1537701459,
+    "wof:name":"Los Izotes",
+    "wof:parent_id":1108695031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.53333,
+    13.63333,
+    -89.53333,
+    13.63333
+],
+  "geometry": {"coordinates":[-89.53333000000001,13.63333],"type":"Point"}
+}

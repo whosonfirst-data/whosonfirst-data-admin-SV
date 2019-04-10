@@ -1,0 +1,327 @@
+{
+  "id": 421169077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.18333,13.48333,-88.18333,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":-88.18333,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u064a\u063a\u064a\u0644"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576 \u0544\u056b\u0563\u0565\u056c"
+    ],
+    "name:baq_x_preferred":[
+        "San Miguel"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u041c\u0456\u0433\u0435\u043b\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ae\u09bf\u0997\u09cb\u09af\u09bc\u09c7\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "San Miguel"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u723e"
+    ],
+    "name:dan_x_preferred":[
+        "San Miguel"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguel"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguel"
+    ],
+    "name:epo_x_preferred":[
+        "San Miguel de la Frontera"
+    ],
+    "name:est_x_preferred":[
+        "San Miguel"
+    ],
+    "name:fin_x_preferred":[
+        "San Miguel"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguel"
+    ],
+    "name:ger_x_preferred":[
+        "San Miguel"
+    ],
+    "name:glg_x_preferred":[
+        "San Miguel"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039c\u03b9\u03b3\u03ba\u03ad\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0aae\u0abf\u0a97\u0ac7\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05de\u05d9\u05d2\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0928-\u092e\u0940\u0917\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "San Miguel"
+    ],
+    "name:ind_x_preferred":[
+        "San Miguel"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30df\u30b2\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cae\u0cbf\u0c97\u0cc1\u0caf\u0cc6\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ubbf8\uac94"
+    ],
+    "name:lav_x_preferred":[
+        "Sanmigela"
+    ],
+    "name:lit_x_preferred":[
+        "San Migelis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u092e\u093f\u0917\u0947\u0932"
+    ],
+    "name:may_x_preferred":[
+        "San Miguel"
+    ],
+    "name:nah_x_preferred":[
+        "San Miguel"
+    ],
+    "name:nno_x_preferred":[
+        "San Miguel"
+    ],
+    "name:nob_x_preferred":[
+        "San Miguel"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguel"
+    ],
+    "name:por_x_preferred":[
+        "San Miguel de la Frontera"
+    ],
+    "name:que_x_preferred":[
+        "San Miguel de la Frontera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca'\u0db8\u0dd2\u0d9c\u0dd9\u0dbd\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguel"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0438\u0433\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguel"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0bc1\u0bb5\u0bc7\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c37\u0c3e\u0c28\u0c4d \u0c2e\u0c3f\u0c17\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e21\u0e34\u0e40\u0e01\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "San Miguel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0456\u0433\u0435\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "San Miguel"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u0644\u060c \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "San Miguel"
+    ],
+    "name:war_x_preferred":[
+        "San Miguel"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"El Salvador",
+    "ne:ADM0_A3":"SLV",
+    "ne:ADM1NAME":"San Miguel",
+    "ne:ADMIN1_COD":9,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3583446,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"San Miquel",
+    "ne:GN_POP":161880,
+    "ne:GTOPO30":130.0,
+    "ne:ISO_A2":"SV",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":13.483349,
+    "ne:LONGITUDE":-88.183336,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Miguel",
+    "ne:MAX_AREAKM":54.0,
+    "ne:MAX_AREAMI":21.0,
+    "ne:MAX_BBXMAX":-88.108333,
+    "ne:MAX_BBXMIN":-88.216667,
+    "ne:MAX_BBYMAX":13.541667,
+    "ne:MAX_BBYMIN":13.425,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":71.0,
+    "ne:MAX_PERMI":44.0,
+    "ne:MAX_POP10":201563,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-88.164808,
+    "ne:MEAN_BBYC":13.478141,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":54.0,
+    "ne:MIN_AREAMI":21.0,
+    "ne:MIN_BBXMAX":-88.108333,
+    "ne:MIN_BBXMIN":-88.216667,
+    "ne:MIN_BBYMAX":13.541667,
+    "ne:MIN_BBYMIN":13.425,
+    "ne:MIN_PERKM":71.0,
+    "ne:MIN_PERMI":44.0,
+    "ne:NAME":"San Miguel",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Miguel",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":201563,
+    "ne:POP_MIN":161880,
+    "ne:POP_OTHER":201563,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"El Salvador",
+    "ne:SOV_A3":"SLV",
+    "ne:TIMEZONE":"America/El_Salvador",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583446,
+    "qs:gn_pop":161880,
+    "qs:name":"San Miquel",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Miguel",
+    "qs:photos":179,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":179,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":228563,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79759,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":13.483333,
+    "wd:longitude":-88.183333,
+    "wd:wordcount":600,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583446,
+        "gp:id":79759,
+        "qs:id":228563,
+        "wd:id":"Q672458",
+        "wk:page":"San Miguel, El Salvador"
+    },
+    "wof:country":"SV",
+    "wof:created":1459008793,
+    "wof:geomhash":"68e100bf57193c8b0f3b579d3002341f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":421169077,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":421169077,
+    "wof:lastmodified":1527716166,
+    "wof:name":"San Miquel",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:population":161880,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.18333,
+    13.48333,
+    -88.18333,
+    13.48333
+],
+  "geometry": {"coordinates":[-88.18333,13.48333],"type":"Point"}
+}

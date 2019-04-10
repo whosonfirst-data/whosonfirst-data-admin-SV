@@ -1,0 +1,112 @@
+{
+  "id": 421178015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.6,13.43333,-88.6,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":-88.6,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u963f\u53e4\u65af\u5ef7"
+    ],
+    "name:dut_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:glg_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u963f\u53e4\u65af\u5ef7"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583910,
+    "qs:gn_pop":2149,
+    "qs:name":"San Agust\u00edn",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Usulut\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":444752,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79399,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583910,
+        "gp:id":79399,
+        "qs:id":444752,
+        "wd:id":"Q1154943",
+        "wk:page":"San Agust\u00edn, Usulut\u00e1n"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009167,
+    "wof:geomhash":"65a0176b51df3531e296e4edad6dc51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694909,
+            "locality_id":421178015,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421178015,
+    "wof:lastmodified":1527717719,
+    "wof:name":"San Agust\u00edn",
+    "wof:parent_id":1108694909,
+    "wof:placetype":"locality",
+    "wof:population":2149,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.6,
+    13.43333,
+    -88.6,
+    13.43333
+],
+  "geometry": {"coordinates":[-88.59999999999999,13.43333],"type":"Point"}
+}

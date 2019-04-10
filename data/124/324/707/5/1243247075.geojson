@@ -1,0 +1,67 @@
+{
+  "id": 1243247075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35,13.18333,-88.35,13.18333",
+    "geom:latitude":13.18333,
+    "geom:longitude":-88.35,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hacienda La Chepona",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585587,
+    "gn:latitude":13.18333,
+    "gn:longitude":-88.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda La Chepona",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Chepona",
+        "Hacienda Chepona",
+        "Hacienda La Chepona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585587
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9e059be35ca703c6f076f182d2680c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243247075,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243247075,
+    "wof:lastmodified":1537701481,
+    "wof:name":"Hacienda La Chepona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35,
+    13.18333,
+    -88.35,
+    13.18333
+],
+  "geometry": {"coordinates":[-88.34999999999999,13.18333],"type":"Point"}
+}

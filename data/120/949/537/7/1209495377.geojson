@@ -1,0 +1,61 @@
+{
+  "id": 1209495377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88333,13.66667,-88.88333,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":-88.88333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Antonio Jiboa",
+    "gn:country_code":"SV",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583847,
+    "gn:latitude":13.66667,
+    "gn:longitude":-88.88333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"San Antonio Jiboa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583847
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2f938f90eec6709a758d195039b20882",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209495377
+        }
+    ],
+    "wof:id":1209495377,
+    "wof:lastmodified":1536285353,
+    "wof:name":"San Antonio Jiboa",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88333,
+    13.666670000000002,
+    -88.88333,
+    13.666670000000002
+],
+  "geometry": {"coordinates":[-88.88333,13.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293889881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0,13.76667,-89.0,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-89.0,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Miraflores",
+    "gn:country_code":"SV",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584366,
+    "gn:latitude":13.76667,
+    "gn:longitude":-89.0,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Miraflores",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421189499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584366
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b57062e961c60775360e68c8519ffb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189499,
+            "locality_id":1293889881,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1293889881,
+    "wof:lastmodified":1536704386,
+    "wof:name":"Miraflores",
+    "wof:parent_id":421189499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0,
+    13.76667,
+    -89.0,
+    13.76667
+],
+  "geometry": {"coordinates":[-89.0,13.76667],"type":"Point"}
+}

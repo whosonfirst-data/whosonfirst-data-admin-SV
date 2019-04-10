@@ -1,0 +1,67 @@
+{
+  "id": 1343269211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,14.18333,-88.93333,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Plan Verde",
+    "gn:country_code":"SV",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584051,
+    "gn:latitude":14.18333,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Plan Verde",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584051
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"718cb12b528f3215f30ae51816c251a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694825,
+            "locality_id":1343269211,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1343269211,
+    "wof:lastmodified":1537021272,
+    "wof:name":"Plan Verde",
+    "wof:parent_id":1108694825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    14.18333,
+    -88.93333,
+    14.18333
+],
+  "geometry": {"coordinates":[-88.93333,14.18333],"type":"Point"}
+}

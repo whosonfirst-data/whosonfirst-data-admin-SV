@@ -1,0 +1,111 @@
+{
+  "id": 421179099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.34,13.97556,-89.34,13.97556",
+    "geom:latitude":13.97556,
+    "geom:longitude":-89.34,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u52c3\u7f85\u5854\u5361\u5947\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:eng_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:fre_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:ita_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d1\u30d6\u30ed\u30fb\u30bf\u30ab\u30c1\u30b3"
+    ],
+    "name:por_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:spa_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:unk_x_variant":[
+        "Tacachico"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u52c3\u7f85\u5854\u5361\u5947\u79d1"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583429,
+    "qs:gn_pop":3033,
+    "qs:name":"San Pablo Tacachico",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149072,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79775,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583429,
+        "gp:id":79775,
+        "qs:id":149072,
+        "wd:id":"Q3947747",
+        "wk:page":"San Pablo Tacachico"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009204,
+    "wof:geomhash":"3e048549aa8f49091103cae883609a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694993,
+            "locality_id":421179099,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":421179099,
+    "wof:lastmodified":1514505789,
+    "wof:name":"San Pablo Tacachico",
+    "wof:parent_id":1108694993,
+    "wof:placetype":"locality",
+    "wof:population":3033,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.34,
+    13.97556,
+    -89.34,
+    13.97556
+],
+  "geometry": {"coordinates":[-89.34,13.97556],"type":"Point"}
+}

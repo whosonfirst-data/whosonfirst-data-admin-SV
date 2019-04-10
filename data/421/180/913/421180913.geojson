@@ -1,0 +1,102 @@
+{
+  "id": 421180913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000269,
+    "geom:area_square_m":3225435.84764,
+    "geom:bbox":"-89.2207557036,13.7457950263,-89.1946725842,13.7639665449",
+    "geom:latitude":13.756462,
+    "geom:longitude":-89.206027,
+    "iso:country":"SV",
+    "lbl:latitude":13.756511,
+    "lbl:longitude":-89.20583,
+    "meso:admin1r":"AMSS",
+    "meso:admin_1":"San Salvador",
+    "meso:diss_me":"AYUTUXTEPEQUESAN SALVADOR",
+    "meso:gadm_admin":"Apopa",
+    "meso:gadm_hasc2":"SV.SS.AP",
+    "meso:gaul_admin":"Ayutuxtepeque",
+    "meso:local_id":"03",
+    "meso:local_id_a":"0603",
+    "meso:mps_x":-89.20583,
+    "meso:mps_y":13.756511,
+    "meso:name_en":"Ayutuxtepeque",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.756511,
+    "mps:longitude":-89.20583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_variant":[
+        "Ayutuxtepeque",
+        "Apopa"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ayutuxtepeque",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":109,
+    "qs:photos_1k":22,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":339,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":467293,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808703,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":317,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808703,
+        "hasc:id":"SV.SS.AP",
+        "qs:id":467293,
+        "wd:id":"Q793367"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009275,
+    "wof:geomhash":"45bb35976956041076e887e041c1c0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180913,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421180913,
+    "wof:lastmodified":1536615967,
+    "wof:name":"Ayutuxtepeque",
+    "wof:parent_id":85677163,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"AP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2207557036312,
+    13.74579502631693,
+    -89.19467258423707,
+    13.76396654489859
+],
+  "geometry": {"coordinates":[[[-89.19467258423707,13.76055337628272],[-89.1954621821731,13.7575536176567],[-89.19855459294276,13.74579502631693],[-89.2207557036312,13.75732286793538],[-89.22051515354616,13.7575536176567],[-89.21499999999953,13.76284636851397],[-89.20782185962199,13.76396654489859],[-89.19467258423707,13.76055337628272]]],"type":"Polygon"}
+}

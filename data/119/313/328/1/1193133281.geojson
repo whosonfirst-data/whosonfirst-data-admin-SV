@@ -1,0 +1,67 @@
+{
+  "id": 1193133281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.46667,13.8,-88.46667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-88.46667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"SV",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583808,
+    "gn:latitude":13.8,
+    "gn:longitude":-88.46667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583808
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"777def7ba7b41b2601f80999c917e6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694873,
+            "locality_id":1193133281,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1193133281,
+    "wof:lastmodified":1536373481,
+    "wof:name":"San Carlos",
+    "wof:parent_id":1108694873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.46667,
+    13.8,
+    -88.46667,
+    13.8
+],
+  "geometry": {"coordinates":[-88.46666999999999,13.8],"type":"Point"}
+}

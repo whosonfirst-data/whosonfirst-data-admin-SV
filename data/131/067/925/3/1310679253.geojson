@@ -1,0 +1,74 @@
+{
+  "id": 1310679253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.71667,14.08333,-89.71667,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":-89.71667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Coco",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586564,
+    "gn:latitude":14.08333,
+    "gn:longitude":-89.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Coco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabl\u00f3n del Coco",
+        "Villa del Coco",
+        "El Cacao",
+        "El Coco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108694737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586564
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e72b2760a80833e95a10efb054095723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694737,
+            "locality_id":1310679253,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1310679253,
+    "wof:lastmodified":1537701504,
+    "wof:name":"El Coco",
+    "wof:parent_id":1108694737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.71667,
+    14.08333,
+    -89.71667,
+    14.08333
+],
+  "geometry": {"coordinates":[-89.71666999999999,14.08333],"type":"Point"}
+}

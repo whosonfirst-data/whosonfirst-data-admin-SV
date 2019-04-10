@@ -1,0 +1,72 @@
+{
+  "id": 1259997229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0,13.88333,-90.0,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":-90.0,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Las Mercedes",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584885,
+    "gn:latitude":13.88333,
+    "gn:longitude":-90.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Las Mercedes",
+        "Las Mercedes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584885
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"49e7e6629913f621a0dd1bd3150becc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1259997229,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1259997229,
+    "wof:lastmodified":1537701465,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0,
+    13.88333,
+    -90.0,
+    13.88333
+],
+  "geometry": {"coordinates":[-90.0,13.88333],"type":"Point"}
+}

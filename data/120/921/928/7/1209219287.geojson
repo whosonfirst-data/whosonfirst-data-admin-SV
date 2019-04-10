@@ -1,0 +1,61 @@
+{
+  "id": 1209219287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.47861,13.94556,-89.47861,13.94556",
+    "geom:latitude":13.94556,
+    "geom:longitude":-89.47861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Cerro",
+    "gn:country_code":"SV",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733632,
+    "gn:latitude":13.94556,
+    "gn:longitude":-89.47861,
+    "gn:modification_date":"1994-05-03",
+    "gn:name":"El Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733632
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9c645f64e59b7f38e85c9608c81e0bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209219287
+        }
+    ],
+    "wof:id":1209219287,
+    "wof:lastmodified":1536294020,
+    "wof:name":"El Cerro",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.47861,
+    13.94556,
+    -89.47861,
+    13.94556
+],
+  "geometry": {"coordinates":[-89.47861,13.94556],"type":"Point"}
+}

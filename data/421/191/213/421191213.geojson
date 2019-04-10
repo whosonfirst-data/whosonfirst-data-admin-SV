@@ -1,0 +1,75 @@
+{
+  "id": 421191213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.400334,13.988,-89.400334,13.988",
+    "geom:latitude":13.988,
+    "geom:longitude":-89.400334,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Pablo Tacachico",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":61161,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808607,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808607,
+        "qs:id":61161,
+        "wd:id":"Q3947747"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009684,
+    "wof:geomhash":"6a145fa7cdd7d4efa57d77d8b7336467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191213,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":421191213,
+    "wof:lastmodified":1527716385,
+    "wof:name":"San Pablo Tacachico",
+    "wof:parent_id":85677195,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.400334,
+    13.988,
+    -89.400334,
+    13.988
+],
+  "geometry": {"coordinates":[-89.400334,13.988],"type":"Point"}
+}

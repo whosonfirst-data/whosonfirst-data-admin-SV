@@ -1,0 +1,72 @@
+{
+  "id": 1292905331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.73333,14.03333,-88.73333,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-88.73333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Patanera",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584132,
+    "gn:latitude":14.03333,
+    "gn:longitude":-88.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Patanera",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patamera",
+        "Patanera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584132
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"62cc2c92f51d1d05bc7c59d849722995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694859,
+            "locality_id":1292905331,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1292905331,
+    "wof:lastmodified":1537701451,
+    "wof:name":"Patanera",
+    "wof:parent_id":1108694859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.73333000000002,
+    14.03333,
+    -88.73333000000002,
+    14.03333
+],
+  "geometry": {"coordinates":[-88.73333000000002,14.03333],"type":"Point"}
+}

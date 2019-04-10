@@ -1,0 +1,72 @@
+{
+  "id": 1343240295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.63333,13.91667,-89.63333,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":-89.63333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Beneficio Las Cruces",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587268,
+    "gn:latitude":13.91667,
+    "gn:longitude":-89.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beneficio Las Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Cruces",
+        "Beneficio Las Cruces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108694737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587268
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"16a5a62ee44e830548a14b815a15d466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694737,
+            "locality_id":1343240295,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1343240295,
+    "wof:lastmodified":1537701516,
+    "wof:name":"Beneficio Las Cruces",
+    "wof:parent_id":1108694737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.63333,
+    13.91667,
+    -89.63333,
+    13.91667
+],
+  "geometry": {"coordinates":[-89.63333,13.91667],"type":"Point"}
+}

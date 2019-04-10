@@ -1,0 +1,125 @@
+{
+  "id": 85898225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2746078.495145,
+    "geom:bbox":"14.475992,46.07452,14.475992,46.07452",
+    "geom:latitude":46.07452,
+    "geom:longitude":14.475992,
+    "iso:country":"SV",
+    "lbl:latitude":46.07452,
+    "lbl:longitude":14.475992,
+    "mps:latitude":46.059862,
+    "mps:longitude":14.503693,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Zgornja \u0160i\u0161ka"
+    ],
+    "name:eng_x_preferred":[
+        "Zgornja \u0160i\u0161ka"
+    ],
+    "name:slv_x_preferred":[
+        "Zgornja \u0160i\u0161ka"
+    ],
+    "name:und_x_colloquial":[
+        "Zgornja Siska"
+    ],
+    "name:und_x_preferred":[
+        "Zgornja \u0160i\u0161ka"
+    ],
+    "name:unk_x_variant":[
+        "Zgornja \u0160i\u0161ka",
+        "Zgornja \u0160i\u0161ka"
+    ],
+    "qs:gn_adm0_cc":"SI",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3196359,
+    "qs:gn_nam_loc":"Ljubljana, Ljubljana, Ljubljana, SI",
+    "qs:gn_namadm1":"61",
+    "qs:gn_name":"Zgornja \u0160i\u0161ka",
+    "qs:local_max":13863,
+    "qs:local_sum":25230,
+    "qs:localhoods":13,
+    "qs:name":"Zgornja \u0160i\u0161ka",
+    "qs:name_adm0":"Slovenija",
+    "qs:name_adm1":"Ljubljana",
+    "qs:name_adm2":"Ljubljana",
+    "qs:name_local":"Ljubljana",
+    "qs:photo_max":442,
+    "qs:photo_sum":4876,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":92,
+    "qs:woe_adm0":23424945,
+    "qs:woe_adm1":55848364,
+    "qs:woe_adm2":12591568,
+    "qs:woe_lau":0,
+    "qs:woe_local":530634,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":526,
+    "wof:belongsto":[
+        1108959949,
+        102191581,
+        1108959501,
+        85633779,
+        101752073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186526,
+        "gp:id":532292,
+        "qs:id":211233,
+        "qs_pg:id":211233,
+        "wd:id":"Q10860705",
+        "wk:page":"Zgornja \u0160i\u0161ka"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3f4e97982d3e3dbc988f65f41a23b017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":101752073,
+            "neighbourhood_id":85898225,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":85898225,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932033,
+    "wof:name":"Zgornja Siska",
+    "wof:parent_id":101752073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.475992,
+    46.07452,
+    14.475992,
+    46.07452
+],
+  "geometry": {"coordinates":[14.475992,46.07452],"type":"Point"}
+}

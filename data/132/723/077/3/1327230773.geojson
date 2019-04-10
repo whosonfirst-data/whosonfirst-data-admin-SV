@@ -1,0 +1,74 @@
+{
+  "id": 1327230773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.48333,13.51667,-89.48333,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":-89.48333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taquillo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583027,
+    "gn:latitude":13.51667,
+    "gn:longitude":-89.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taquillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taquio",
+        "Hacienda Taquio",
+        "Hacienda Taquillo",
+        "Taquillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583027
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ec6b64df7c8b473b502fc84a14e9bf7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171699,
+            "locality_id":1327230773,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1327230773,
+    "wof:lastmodified":1537701429,
+    "wof:name":"Taquillo",
+    "wof:parent_id":421171699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.48333000000002,
+    13.51667,
+    -89.48333000000002,
+    13.51667
+],
+  "geometry": {"coordinates":[-89.48333000000002,13.51667],"type":"Point"}
+}

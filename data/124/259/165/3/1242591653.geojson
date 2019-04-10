@@ -1,0 +1,67 @@
+{
+  "id": 1242591653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.76667,13.93333,-89.76667,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-89.76667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Montanita",
+    "gn:country_code":"SV",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585118,
+    "gn:latitude":13.93333,
+    "gn:longitude":-89.76667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"La Monta\u00f1ita",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421169323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585118
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"be07c1ddf000ca282961f7dd71c0cf99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169323,
+            "locality_id":1242591653,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1242591653,
+    "wof:lastmodified":1537041557,
+    "wof:name":"La Montanita",
+    "wof:parent_id":421169323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.76666999999998,
+    13.93333,
+    -89.76666999999998,
+    13.93333
+],
+  "geometry": {"coordinates":[-89.76666999999998,13.93333],"type":"Point"}
+}

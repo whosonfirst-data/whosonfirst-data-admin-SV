@@ -1,0 +1,67 @@
+{
+  "id": 1276895609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.71417,13.20528,-87.71417,13.20528",
+    "geom:latitude":13.20528,
+    "geom:longitude":-87.71417,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plan de La Negra",
+    "gn:country_code":"SV",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812086,
+    "gn:latitude":13.20528,
+    "gn:longitude":-87.71417,
+    "gn:modification_date":"2003-07-16",
+    "gn:name":"Plan de La Negra",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812086
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"06b02fb11d0862973605faf70018555d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694845,
+            "locality_id":1276895609,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1276895609,
+    "wof:lastmodified":1537019296,
+    "wof:name":"Plan de La Negra",
+    "wof:parent_id":1108694845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.71417,
+    13.20528,
+    -87.71417,
+    13.20528
+],
+  "geometry": {"coordinates":[-87.71417,13.20528],"type":"Point"}
+}

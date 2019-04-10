@@ -1,0 +1,67 @@
+{
+  "id": 1310417619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.3,14.4,-89.3,14.4",
+    "geom:latitude":14.4,
+    "geom:longitude":-89.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Chaguiton",
+    "gn:country_code":"SV",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586604,
+    "gn:latitude":14.4,
+    "gn:longitude":-89.3,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Chag\u00fcit\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421191209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586604
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e7f95cdcb0ea385a8b327f35683d3676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191209,
+            "locality_id":1310417619,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1310417619,
+    "wof:lastmodified":1537042008,
+    "wof:name":"El Chaguiton",
+    "wof:parent_id":421191209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.3,
+    14.4,
+    -89.3,
+    14.4
+],
+  "geometry": {"coordinates":[-89.3,14.4],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 421180175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001685,
+    "geom:area_square_m":20239994.614662,
+    "geom:bbox":"-89.2619064643,13.72,-89.1936446323,13.7579778937",
+    "geom:latitude":13.738879,
+    "geom:longitude":-89.224477,
+    "iso:country":"SV",
+    "lbl:latitude":13.739531,
+    "lbl:longitude":-89.221714,
+    "meso:admin1r":"AMSS",
+    "meso:admin_1":"San Salvador",
+    "meso:diss_me":"MEJICANOSSAN SALVADOR",
+    "meso:gadm_admin":"Mejicanos",
+    "meso:gadm_hasc2":"SV.SS.ME",
+    "meso:gaul_admin":"Mejicanos",
+    "meso:local_id":"08",
+    "meso:local_id_a":"0608",
+    "meso:mps_x":-89.221714,
+    "meso:mps_y":13.739531,
+    "meso:name_en":"Mejicanos",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.739531,
+    "mps:longitude":-89.221714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_variant":[
+        "Mejicanos"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mejicanos",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":62,
+    "qs:photos_1k":13,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":487,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":467294,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808709,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":492,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808709,
+        "hasc:id":"SV.SS.ME",
+        "qs:id":467294,
+        "wd:id":"Q723411"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009247,
+    "wof:geomhash":"9812af304ad4944cbb6677ce39e501ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180175,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421180175,
+    "wof:lastmodified":1536615966,
+    "wof:name":"Mejicanos",
+    "wof:parent_id":85677163,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"ME",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2619064642806,
+    13.72,
+    -89.19364463225254,
+    13.75797789371926
+],
+  "geometry": {"coordinates":[[[-89.24819585003782,13.75155995232761],[-89.24703609684823,13.75100877185591],[-89.23028769752869,13.75797789371926],[-89.22499999999953,13.75616972020905],[-89.22498969726249,13.75616144997428],[-89.2207557036312,13.75732286793538],[-89.19855459294276,13.74579502631693],[-89.19787187191773,13.74142162094878],[-89.19408003303099,13.73689321536859],[-89.19364463225254,13.72635536774696],[-89.19499999999999,13.725],[-89.19799475688338,13.72350262155807],[-89.21029501171175,13.72],[-89.2103249792757,13.72],[-89.21499999999953,13.7225894927039],[-89.22790841864044,13.72145420932044],[-89.22931015920699,13.72215507960371],[-89.23030595160843,13.72525229706111],[-89.23692645379502,13.72909651058002],[-89.24969215638268,13.72911512008418],[-89.25017761503986,13.73267054671158],[-89.26157709995911,13.743378856986],[-89.2619064642806,13.7449562160825],[-89.24819585003782,13.75155995232761]]],"type":"Polygon"}
+}

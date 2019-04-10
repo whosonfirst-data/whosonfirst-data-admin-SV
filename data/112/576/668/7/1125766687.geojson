@@ -1,0 +1,129 @@
+{
+  "id": 1125766687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.35972,13.87611,-89.35972,13.87611",
+    "geom:latitude":13.87611,
+    "geom:longitude":-89.35972,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7127,
+    "gn:population":7127,
+    "iso:country":"SV",
+    "lbl:latitude":13.87611,
+    "lbl:longitude":-89.35972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5967\u76ae\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "Opico"
+    ],
+    "name:eng_x_preferred":[
+        "Opico"
+    ],
+    "name:fre_x_preferred":[
+        "Opico"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan Opico"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30a2\u30f3\u30fb\u30aa\u30d4\u30b3"
+    ],
+    "name:pol_x_preferred":[
+        "Opico"
+    ],
+    "name:por_x_preferred":[
+        "Opico"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Opico"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0438\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u0456\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Opico"
+    ],
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3583531,
+    "qs_pg:gn_pop":7127,
+    "qs_pg:name":"San Juan Opico",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"La Libertad",
+    "qs_pg:photos":65,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":65,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":266435,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":79698,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424807,
+    "woe:name_adm0":"El Salvador",
+    "woe:name_adm1":"La Libertad",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583531,
+        "gp:id":79698,
+        "qs_pg:id":266435,
+        "wd:id":"Q2003995"
+    },
+    "wof:country":"SV",
+    "wof:created":1497289921,
+    "wof:geomhash":"92e68c390b42bce0eae018565660ae4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694967,
+            "locality_id":1125766687,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1125766687,
+    "wof:lastmodified":1514505785,
+    "wof:name":"San Juan Opico",
+    "wof:parent_id":1108694967,
+    "wof:placetype":"locality",
+    "wof:population":7127,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.35972,
+    13.87611,
+    -89.35972,
+    13.87611
+],
+  "geometry": {"coordinates":[-89.35972,13.87611],"type":"Point"}
+}

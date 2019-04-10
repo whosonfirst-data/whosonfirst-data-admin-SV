@@ -1,0 +1,67 @@
+{
+  "id": 1343279827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.77389,13.93389,-89.77389,13.93389",
+    "geom:latitude":13.93389,
+    "geom:longitude":-89.77389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cuyanausul",
+    "gn:country_code":"SV",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586821,
+    "gn:latitude":13.93389,
+    "gn:longitude":-89.77389,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Cuyanausul",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421169323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586821
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"754c6a08b524b5e97c7080a698ac8ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169323,
+            "locality_id":1343279827,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1343279827,
+    "wof:lastmodified":1537006223,
+    "wof:name":"Cuyanausul",
+    "wof:parent_id":421169323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.77389000000002,
+    13.93389,
+    -89.77389000000002,
+    13.93389
+],
+  "geometry": {"coordinates":[-89.77389000000002,13.93389],"type":"Point"}
+}

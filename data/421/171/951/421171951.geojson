@@ -1,0 +1,79 @@
+{
+  "id": 421171951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.76667,13.86667,-89.76667,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-89.76667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Los Anizales"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584667,
+    "qs:gn_pop":0,
+    "qs:name":"Los Anisales",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":402,
+    "qs:photos_1k":81,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":402,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1287867,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":24424702,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421167823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584667,
+        "gp:id":24424702,
+        "qs:id":1287867
+    },
+    "wof:country":"SV",
+    "wof:created":1459008913,
+    "wof:geomhash":"dfb9cd68c55821a743879502e344bbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421167823,
+            "locality_id":421171951,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421171951,
+    "wof:lastmodified":1501267923,
+    "wof:name":"Los Anisales",
+    "wof:parent_id":421167823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.76667,
+    13.86667,
+    -89.76667,
+    13.86667
+],
+  "geometry": {"coordinates":[-89.76667,13.86667],"type":"Point"}
+}

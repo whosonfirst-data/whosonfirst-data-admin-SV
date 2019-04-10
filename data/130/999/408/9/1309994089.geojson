@@ -1,0 +1,71 @@
+{
+  "id": 1309994089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.63611,13.96917,-89.63611,13.96917",
+    "geom:latitude":13.96917,
+    "geom:longitude":-89.63611,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Sebastian Salitrillo",
+    "gn:country_code":"SV",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583338,
+    "gn:latitude":13.96917,
+    "gn:longitude":-89.63611,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"San Sebasti\u00e1n Salitrillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Sebasti\u00e1n Salitrillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108695011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583338,
+        "wk:page":"San_Sebasti%C3%A1n_Salitrillo"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"8152684a52b52ad4c7e440a362010f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695011,
+            "locality_id":1309994089,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1309994089,
+    "wof:lastmodified":1537701434,
+    "wof:name":"San Sebastian Salitrillo",
+    "wof:parent_id":1108695011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.63611,
+    13.96917,
+    -89.63611,
+    13.96917
+],
+  "geometry": {"coordinates":[-89.63611,13.96917],"type":"Point"}
+}

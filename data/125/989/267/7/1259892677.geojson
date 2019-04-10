@@ -1,0 +1,72 @@
+{
+  "id": 1259892677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.53333,13.95,-88.53333,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-88.53333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Guiliguiste",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586417,
+    "gn:latitude":13.95,
+    "gn:longitude":-88.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El G\u00fcilig\u00fciste",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcilig\u00fciste",
+        "El G\u00fcilig\u00fciste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108695063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586417
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"fd54af3e6f0b5c5d833d455ed7adce1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695063,
+            "locality_id":1259892677,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1259892677,
+    "wof:lastmodified":1537701501,
+    "wof:name":"El Guiliguiste",
+    "wof:parent_id":1108695063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.53333,
+    13.95,
+    -88.53333,
+    13.95
+],
+  "geometry": {"coordinates":[-88.53333000000001,13.95],"type":"Point"}
+}

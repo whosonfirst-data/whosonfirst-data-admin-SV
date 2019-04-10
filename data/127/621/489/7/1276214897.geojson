@@ -1,0 +1,73 @@
+{
+  "id": 1276214897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.35,14.2,-89.35,14.2",
+    "geom:latitude":14.2,
+    "geom:longitude":-89.35,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Santa Rosa Guachipilin",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583211,
+    "gn:latitude":14.2,
+    "gn:longitude":-89.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Rosa Guachipil\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guachipilin",
+        "Santa Rosa Guachipil\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108695043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583211,
+        "wk:page":"Santa_Rosa_Guachipil%C3%ADn"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c9ad7d698156d3a2bd4a2df82800980d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695043,
+            "locality_id":1276214897,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1276214897,
+    "wof:lastmodified":1537701432,
+    "wof:name":"Santa Rosa Guachipilin",
+    "wof:parent_id":1108695043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.35,
+    14.2,
+    -89.35,
+    14.2
+],
+  "geometry": {"coordinates":[-89.34999999999999,14.2],"type":"Point"}
+}

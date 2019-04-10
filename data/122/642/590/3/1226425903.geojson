@@ -1,0 +1,67 @@
+{
+  "id": 1226425903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.15,13.18028,-88.15,13.18028",
+    "geom:latitude":13.18028,
+    "geom:longitude":-88.15,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Chapernal",
+    "gn:country_code":"SV",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586597,
+    "gn:latitude":13.18028,
+    "gn:longitude":-88.15,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Chapernal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421184409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586597
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9a391eba8273f2a05a808c5c8b599669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184409,
+            "locality_id":1226425903,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1226425903,
+    "wof:lastmodified":1536674054,
+    "wof:name":"El Chapernal",
+    "wof:parent_id":421184409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.15,
+    13.18028,
+    -88.15,
+    13.18028
+],
+  "geometry": {"coordinates":[-88.15000000000001,13.18028],"type":"Point"}
+}

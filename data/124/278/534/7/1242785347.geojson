@@ -1,0 +1,71 @@
+{
+  "id": 1242785347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.95,14.08333,-88.95,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":-88.95,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Concepcion Quezaltepeque",
+    "gn:country_code":"SV",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586919,
+    "gn:latitude":14.08333,
+    "gn:longitude":-88.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Concepci\u00f3n Quezaltepeque",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Concepci\u00f3n Quezaltepeque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586919,
+        "wk:page":"Concepci%C3%B3n_Quezaltepeque"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"bd9faa9d82483c91e867e6e857ca9865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694757,
+            "locality_id":1242785347,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1242785347,
+    "wof:lastmodified":1537701511,
+    "wof:name":"Concepcion Quezaltepeque",
+    "wof:parent_id":1108694757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.95,
+    14.08333,
+    -88.95,
+    14.08333
+],
+  "geometry": {"coordinates":[-88.95,14.08333],"type":"Point"}
+}

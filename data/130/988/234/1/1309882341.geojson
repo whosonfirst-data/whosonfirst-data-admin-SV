@@ -1,0 +1,71 @@
+{
+  "id": 1309882341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.65694,13.70389,-89.65694,13.70389",
+    "geom:latitude":13.70389,
+    "geom:longitude":-89.65694,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Suquiat",
+    "gn:country_code":"SV",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583074,
+    "gn:latitude":13.70389,
+    "gn:longitude":-89.65694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Suquiat",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuquiat",
+        "Sunquiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421189151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583074
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7355e13ecb0920c2dca14c7bcbe7facc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189151,
+            "locality_id":1309882341,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1309882341,
+    "wof:lastmodified":1537701430,
+    "wof:name":"Suquiat",
+    "wof:parent_id":421189151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.65694,
+    13.70389,
+    -89.65694,
+    13.70389
+],
+  "geometry": {"coordinates":[-89.65694000000001,13.70389],"type":"Point"}
+}

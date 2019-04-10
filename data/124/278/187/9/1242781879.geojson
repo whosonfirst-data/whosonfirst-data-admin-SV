@@ -1,0 +1,67 @@
+{
+  "id": 1242781879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.85,13.7,-89.85,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-89.85,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Istagapan",
+    "gn:country_code":"SV",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585475,
+    "gn:latitude":13.7,
+    "gn:longitude":-89.85,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Istagap\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        1108694807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585475
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"8c85777d9b761fbc92ba8587360efba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694807,
+            "locality_id":1242781879,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1242781879,
+    "wof:lastmodified":1536769888,
+    "wof:name":"Istagapan",
+    "wof:parent_id":1108694807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.85,
+    13.7,
+    -89.85,
+    13.7
+],
+  "geometry": {"coordinates":[-89.84999999999999,13.7],"type":"Point"}
+}

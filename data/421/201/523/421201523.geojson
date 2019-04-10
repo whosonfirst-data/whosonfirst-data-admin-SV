@@ -1,0 +1,101 @@
+{
+  "id": 421201523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000374,
+    "geom:area_square_m":4490188.499992,
+    "geom:bbox":"-89.7233916548,13.7350910107,-89.6997643069,13.7635694036",
+    "geom:latitude":13.746824,
+    "geom:longitude":-89.709251,
+    "iso:country":"SV",
+    "lbl:latitude":13.745692,
+    "lbl:longitude":-89.708448,
+    "meso:admin1r":"REGION OCCIDENTAL",
+    "meso:admin_1":"Sonsonate",
+    "meso:diss_me":"SONZACATESONSONATE",
+    "meso:gadm_admin":"Sonzacate",
+    "meso:gadm_hasc2":"SV.SO.SZ",
+    "meso:gaul_admin":"Sonzacate",
+    "meso:local_id":"16",
+    "meso:local_id_a":"0316",
+    "meso:mps_x":-89.708448,
+    "meso:mps_y":13.745692,
+    "meso:name_en":"Sonzacate",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.745692,
+    "mps:longitude":-89.708448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_variant":[
+        "Sonzacate"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sonzacate",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":773146,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":28358197,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28358197,
+        "hasc:id":"SV.SO.SZ",
+        "qs:id":773146,
+        "wd:id":"Q2287976"
+    },
+    "wof:country":"SV",
+    "wof:created":1459010075,
+    "wof:geomhash":"601667368e33ad88ce3d34637262dc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201523,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421201523,
+    "wof:lastmodified":1536616139,
+    "wof:name":"Sonzacate",
+    "wof:parent_id":85677159,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.72339165476225,
+    13.7350910107422,
+    -89.6997643068537,
+    13.76356940355794
+],
+  "geometry": {"coordinates":[[[-89.70459906464882,13.76356940355794],[-89.70004164265427,13.755],[-89.69989285751556,13.74944855733793],[-89.69976430685369,13.745],[-89.7029856889492,13.73823418936968],[-89.70325088512389,13.73786577954153],[-89.70346933938504,13.73775271413308],[-89.71538865299547,13.7350910107422],[-89.72339165476225,13.74027574930149],[-89.71604648297104,13.74944855733793],[-89.70481886657306,13.76356572875317],[-89.70459906464882,13.76356940355794]]],"type":"Polygon"}
+}

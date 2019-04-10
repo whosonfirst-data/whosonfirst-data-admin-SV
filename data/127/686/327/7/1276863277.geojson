@@ -1,0 +1,73 @@
+{
+  "id": 1276863277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08722,13.18417,-88.08722,13.18417",
+    "geom:latitude":13.18417,
+    "geom:longitude":-88.08722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hacienda San Roman",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585545,
+    "gn:latitude":13.18417,
+    "gn:longitude":-88.08722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda San Rom\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Rom\u00e1n",
+        "Hacienda San Ram\u00f3n",
+        "Hacienda San Rom\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        421172531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585545
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"98b4e5f3e43f224e53a5b33710683065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421172531,
+            "locality_id":1276863277,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1276863277,
+    "wof:lastmodified":1537701479,
+    "wof:name":"Hacienda San Roman",
+    "wof:parent_id":421172531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08722,
+    13.18417,
+    -88.08722,
+    13.18417
+],
+  "geometry": {"coordinates":[-88.08722,13.18417],"type":"Point"}
+}

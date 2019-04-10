@@ -1,0 +1,66 @@
+{
+  "id": 1209013449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.66667,13.8,-88.66667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-88.66667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Potrero y Tablas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584017,
+    "gn:latitude":13.8,
+    "gn:longitude":-88.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Potrero y Tablas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potrero y Tabla",
+        "Potrero y Tablas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584017
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"32384c297606265c4fd2002f31eb6a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209013449
+        }
+    ],
+    "wof:id":1209013449,
+    "wof:lastmodified":1537701448,
+    "wof:name":"Potrero y Tablas",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.66667,
+    13.8,
+    -88.66667,
+    13.8
+],
+  "geometry": {"coordinates":[-88.66667,13.8],"type":"Point"}
+}

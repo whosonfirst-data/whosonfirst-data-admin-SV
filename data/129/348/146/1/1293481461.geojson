@@ -1,0 +1,67 @@
+{
+  "id": 1293481461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.83333,13.3,-87.83333,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":-87.83333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yologual",
+    "gn:country_code":"SV",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582815,
+    "gn:latitude":13.3,
+    "gn:longitude":-87.83333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Yologual",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        421191221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582815
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3ae16b3d1548582f8a8f2fc061ddd869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191221,
+            "locality_id":1293481461,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293481461,
+    "wof:lastmodified":1536796019,
+    "wof:name":"Yologual",
+    "wof:parent_id":421191221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.83333,
+    13.3,
+    -87.83333,
+    13.3
+],
+  "geometry": {"coordinates":[-87.83333,13.3],"type":"Point"}
+}

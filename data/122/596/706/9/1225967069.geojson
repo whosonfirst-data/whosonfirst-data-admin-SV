@@ -1,0 +1,67 @@
+{
+  "id": 1225967069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.345,13.67917,-89.345,13.67917",
+    "geom:latitude":13.67917,
+    "geom:longitude":-89.345,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Los Amates",
+    "gn:country_code":"SV",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584677,
+    "gn:latitude":13.67917,
+    "gn:longitude":-89.345,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Los Amates",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421189127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584677
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9409db00957690ef4ee1bae7743b78a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189127,
+            "locality_id":1225967069,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1225967069,
+    "wof:lastmodified":1536837527,
+    "wof:name":"Los Amates",
+    "wof:parent_id":421189127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.345,
+    13.67917,
+    -89.345,
+    13.67917
+],
+  "geometry": {"coordinates":[-89.345,13.67917],"type":"Point"}
+}

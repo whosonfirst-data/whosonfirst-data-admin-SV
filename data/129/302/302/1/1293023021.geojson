@@ -1,0 +1,75 @@
+{
+  "id": 1293023021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.06667,13.63333,-89.06667,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-89.06667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Santa Cruz La Vega",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583282,
+    "gn:latitude":13.63333,
+    "gn:longitude":-89.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Cruz La Vega",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cruz",
+        "Finca La Cruz",
+        "Santa Cruz Vega",
+        "Santa Cruz de la Vega",
+        "Santa Cruz La Vega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        421191219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583282
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9e5f37d8df11ae25a5626ca47f9d9eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191219,
+            "locality_id":1293023021,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1293023021,
+    "wof:lastmodified":1537701434,
+    "wof:name":"Santa Cruz La Vega",
+    "wof:parent_id":421191219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.06667,
+    13.63333,
+    -89.06667,
+    13.63333
+],
+  "geometry": {"coordinates":[-89.06667,13.63333],"type":"Point"}
+}

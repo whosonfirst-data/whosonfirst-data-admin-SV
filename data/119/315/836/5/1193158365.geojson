@@ -1,0 +1,72 @@
+{
+  "id": 1193158365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.76472,13.78111,-87.76472,13.78111",
+    "geom:latitude":13.78111,
+    "geom:longitude":-87.76472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gueripe",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585632,
+    "gn:latitude":13.78111,
+    "gn:longitude":-87.76472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gueripe",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guaripe",
+        "Gueripe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585632
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"8b639a8eda91aaee3b4165b18b9d15f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694755,
+            "locality_id":1193158365,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1193158365,
+    "wof:lastmodified":1537701483,
+    "wof:name":"Gueripe",
+    "wof:parent_id":1108694755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.76472,
+    13.78111,
+    -87.76472,
+    13.78111
+],
+  "geometry": {"coordinates":[-87.76472,13.78111],"type":"Point"}
+}

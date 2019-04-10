@@ -1,0 +1,67 @@
+{
+  "id": 1292905273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.85,14.03333,-88.85,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-88.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lagunita",
+    "gn:country_code":"SV",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585216,
+    "gn:latitude":14.03333,
+    "gn:longitude":-88.85,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Lagunita",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585216
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"383078bd49177f600567f107599aadf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694831,
+            "locality_id":1292905273,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1292905273,
+    "wof:lastmodified":1536630703,
+    "wof:name":"Lagunita",
+    "wof:parent_id":1108694831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.85,
+    14.03333,
+    -88.85,
+    14.03333
+],
+  "geometry": {"coordinates":[-88.84999999999999,14.03333],"type":"Point"}
+}

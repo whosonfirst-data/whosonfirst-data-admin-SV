@@ -1,0 +1,67 @@
+{
+  "id": 1259793165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.86667,13.73333,-89.86667,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":-89.86667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cauta Abajo",
+    "gn:country_code":"SV",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587128,
+    "gn:latitude":13.73333,
+    "gn:longitude":-89.86667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Cauta Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        1108694807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587128
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f1d341743fb1abc119d37f3a9c78d54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694807,
+            "locality_id":1259793165,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1259793165,
+    "wof:lastmodified":1536909443,
+    "wof:name":"Cauta Abajo",
+    "wof:parent_id":1108694807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.86667,
+    13.73333,
+    -89.86667,
+    13.73333
+],
+  "geometry": {"coordinates":[-89.86667,13.73333],"type":"Point"}
+}

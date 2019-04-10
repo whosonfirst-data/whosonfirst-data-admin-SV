@@ -1,0 +1,73 @@
+{
+  "id": 1327140481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.06278,13.94528,-89.06278,13.94528",
+    "geom:latitude":13.94528,
+    "geom:longitude":-89.06278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Platanar",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586109,
+    "gn:latitude":13.94528,
+    "gn:longitude":-89.06278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Platanar",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Platanar",
+        "Hacienda El Platanar",
+        "El Platanar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421175391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586109
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7f39e32230d2a50f7eedef29b9f56983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421175391,
+            "locality_id":1327140481,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1327140481,
+    "wof:lastmodified":1537701493,
+    "wof:name":"El Platanar",
+    "wof:parent_id":421175391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.06278,
+    13.94528,
+    -89.06278,
+    13.94528
+],
+  "geometry": {"coordinates":[-89.06278,13.94528],"type":"Point"}
+}

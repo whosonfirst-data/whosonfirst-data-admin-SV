@@ -1,0 +1,67 @@
+{
+  "id": 1277059785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.24583,13.28389,-88.24583,13.28389",
+    "geom:latitude":13.28389,
+    "geom:longitude":-88.24583,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Encantado",
+    "gn:country_code":"SV",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734861,
+    "gn:latitude":13.28389,
+    "gn:longitude":-88.24583,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Encantado",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421184409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734861
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"40bf6da509cb177656c2a5c89d691bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184409,
+            "locality_id":1277059785,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1277059785,
+    "wof:lastmodified":1536799860,
+    "wof:name":"El Encantado",
+    "wof:parent_id":421184409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.24583,
+    13.28389,
+    -88.24583,
+    13.28389
+],
+  "geometry": {"coordinates":[-88.24583,13.28389],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209426425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.15,14.06667,-89.15,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":-89.15,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Quitasol",
+    "gn:country_code":"SV",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583975,
+    "gn:latitude":14.06667,
+    "gn:longitude":-89.15,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Quitasol",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583975
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3254be010637489bc8da2a7e3af01292",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209426425
+        }
+    ],
+    "wof:id":1209426425,
+    "wof:lastmodified":1536287369,
+    "wof:name":"Quitasol",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.15,
+    14.066670000000002,
+    -89.15,
+    14.066670000000002
+],
+  "geometry": {"coordinates":[-89.15000000000001,14.06667],"type":"Point"}
+}

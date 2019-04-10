@@ -1,0 +1,67 @@
+{
+  "id": 1242748969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.4,13.5,-88.4,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-88.4,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Amate",
+    "gn:country_code":"SV",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586770,
+    "gn:latitude":13.5,
+    "gn:longitude":-88.4,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Amate",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586770
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"13916627e85b3ef662553c7b523a4612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694821,
+            "locality_id":1242748969,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1242748969,
+    "wof:lastmodified":1536816173,
+    "wof:name":"El Amate",
+    "wof:parent_id":1108694821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.4,
+    13.5,
+    -88.4,
+    13.5
+],
+  "geometry": {"coordinates":[-88.40000000000001,13.5],"type":"Point"}
+}

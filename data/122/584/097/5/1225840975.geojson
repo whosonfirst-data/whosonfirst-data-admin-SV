@@ -1,0 +1,67 @@
+{
+  "id": 1225840975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.14639,13.20667,-88.14639,13.20667",
+    "geom:latitude":13.20667,
+    "geom:longitude":-88.14639,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Jiote",
+    "gn:country_code":"SV",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734900,
+    "gn:latitude":13.20667,
+    "gn:longitude":-88.14639,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Jiote",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734900
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"33b6f21117134657ed0cb8e81983ea97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1225840975,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1225840975,
+    "wof:lastmodified":1537019730,
+    "wof:name":"El Jiote",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.14639,
+    13.20667,
+    -88.14639,
+    13.20667
+],
+  "geometry": {"coordinates":[-88.14639,13.20667],"type":"Point"}
+}

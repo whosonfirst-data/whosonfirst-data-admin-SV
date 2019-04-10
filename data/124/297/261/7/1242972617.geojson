@@ -1,0 +1,73 @@
+{
+  "id": 1242972617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36667,14.11667,-89.36667,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-89.36667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Jose Chilin",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583611,
+    "gn:latitude":14.11667,
+    "gn:longitude":-89.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 Chil\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chil\u00edn",
+        "Valle Chil\u00edn",
+        "San Jos\u00e9 Chil\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421177967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583611
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ec7fe60bce6344d2a17c2a8b69c4a941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421177967,
+            "locality_id":1242972617,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1242972617,
+    "wof:lastmodified":1537701440,
+    "wof:name":"San Jose Chilin",
+    "wof:parent_id":421177967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36667,
+    14.11667,
+    -89.36667,
+    14.11667
+],
+  "geometry": {"coordinates":[-89.36667,14.11667],"type":"Point"}
+}

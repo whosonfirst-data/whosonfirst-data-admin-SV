@@ -1,0 +1,73 @@
+{
+  "id": 1226320865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.7,13.95,-89.7,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-89.7,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Finca Las Victorias",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585738,
+    "gn:latitude":13.95,
+    "gn:longitude":-89.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Finca Las Victorias",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Victorias",
+        "Caser\u00edo Las Victorias",
+        "Finca Las Victorias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108694737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585738
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ff28607817af07ee31411f784fcc049f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694737,
+            "locality_id":1226320865,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1226320865,
+    "wof:lastmodified":1537701485,
+    "wof:name":"Finca Las Victorias",
+    "wof:parent_id":1108694737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.7,
+    13.95,
+    -89.7,
+    13.95
+],
+  "geometry": {"coordinates":[-89.7,13.95],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226539353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.30111,13.71583,-89.30111,13.71583",
+    "geom:latitude":13.71583,
+    "geom:longitude":-89.30111,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Victoria",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582836,
+    "gn:latitude":13.71583,
+    "gn:longitude":-89.30111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Victoria",
+        "Las Victorias",
+        "Victoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108695045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582836
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"61d11c23e4b07ca9c05503a74e748b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695045,
+            "locality_id":1226539353,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1226539353,
+    "wof:lastmodified":1537701426,
+    "wof:name":"Victoria",
+    "wof:parent_id":1108695045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.30111,
+    13.71583,
+    -89.30111,
+    13.71583
+],
+  "geometry": {"coordinates":[-89.30110999999999,13.71583],"type":"Point"}
+}

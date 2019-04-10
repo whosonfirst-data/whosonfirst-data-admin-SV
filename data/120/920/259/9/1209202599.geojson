@@ -1,0 +1,61 @@
+{
+  "id": 1209202599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.31667,14.21667,-89.31667,14.21667",
+    "geom:latitude":14.21667,
+    "geom:longitude":-89.31667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chaguiton",
+    "gn:country_code":"SV",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587093,
+    "gn:latitude":14.21667,
+    "gn:longitude":-89.31667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Chag\u00fcit\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587093
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a604f7e08affbec80c884ed45502f036",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209202599
+        }
+    ],
+    "wof:id":1209202599,
+    "wof:lastmodified":1536294558,
+    "wof:name":"Chaguiton",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31667,
+    14.21667,
+    -89.31667,
+    14.21667
+],
+  "geometry": {"coordinates":[-89.31667,14.21667],"type":"Point"}
+}

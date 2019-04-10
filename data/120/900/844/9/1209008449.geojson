@@ -1,0 +1,66 @@
+{
+  "id": 1209008449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.09222,13.84417,-90.09222,13.84417",
+    "geom:latitude":13.84417,
+    "geom:longitude":-90.09222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Hachadura",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585215,
+    "gn:latitude":13.84417,
+    "gn:longitude":-90.09222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Hachadura",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hachadura",
+        "La Hachadura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585215
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"034301675f9d7abb897e586813d71da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209008449
+        }
+    ],
+    "wof:id":1209008449,
+    "wof:lastmodified":1537701471,
+    "wof:name":"La Hachadura",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.09222,
+    13.84417,
+    -90.09222,
+    13.84417
+],
+  "geometry": {"coordinates":[-90.09222,13.84417],"type":"Point"}
+}

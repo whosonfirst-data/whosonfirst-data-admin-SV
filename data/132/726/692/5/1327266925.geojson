@@ -1,0 +1,67 @@
+{
+  "id": 1327266925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0,13.71667,-89.0,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-89.0,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"SV",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587239,
+    "gn:latitude":13.71667,
+    "gn:longitude":-89.0,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421189499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587239
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a54a80ecc035b17e94b41adbf5884ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189499,
+            "locality_id":1327266925,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1327266925,
+    "wof:lastmodified":1536920476,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":421189499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0,
+    13.71667,
+    -89.0,
+    13.71667
+],
+  "geometry": {"coordinates":[-89.0,13.71667],"type":"Point"}
+}

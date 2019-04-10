@@ -1,0 +1,72 @@
+{
+  "id": 1276747969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.19333,13.34083,-88.19333,13.34083",
+    "geom:latitude":13.34083,
+    "geom:longitude":-88.19333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Los Llanitos",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584582,
+    "gn:latitude":13.34083,
+    "gn:longitude":-88.19333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Llanitos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Llanitos",
+        "Los Llanitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584582
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"70c9bd85e6cdf343840fa24b8a4ff577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1276747969,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1276747969,
+    "wof:lastmodified":1537701458,
+    "wof:name":"Los Llanitos",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.19333,
+    13.34083,
+    -88.19333,
+    13.34083
+],
+  "geometry": {"coordinates":[-88.19333,13.34083],"type":"Point"}
+}

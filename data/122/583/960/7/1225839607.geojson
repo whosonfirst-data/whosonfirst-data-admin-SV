@@ -1,0 +1,67 @@
+{
+  "id": 1225839607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.01889,13.45833,-88.01889,13.45833",
+    "geom:latitude":13.45833,
+    "geom:longitude":-88.01889,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"La Lomita",
+    "gn:country_code":"SV",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735473,
+    "gn:latitude":13.45833,
+    "gn:longitude":-88.01889,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"La Lomita",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735473
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"8384c389bc4e31ca39638a83f171ae14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695097,
+            "locality_id":1225839607,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1225839607,
+    "wof:lastmodified":1537021600,
+    "wof:name":"La Lomita",
+    "wof:parent_id":1108695097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.01889,
+    13.45833,
+    -88.01889,
+    13.45833
+],
+  "geometry": {"coordinates":[-88.01889,13.45833],"type":"Point"}
+}

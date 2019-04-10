@@ -1,0 +1,61 @@
+{
+  "id": 1209599783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.26667,13.6,-88.26667,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-88.26667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hualama",
+    "gn:country_code":"SV",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585504,
+    "gn:latitude":13.6,
+    "gn:longitude":-88.26667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Hualama",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585504
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b32089c2d19c7d2185193ca13b9af8d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209599783
+        }
+    ],
+    "wof:id":1209599783,
+    "wof:lastmodified":1536282206,
+    "wof:name":"Hualama",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.26666999999998,
+    13.6,
+    -88.26666999999998,
+    13.6
+],
+  "geometry": {"coordinates":[-88.26666999999998,13.6],"type":"Point"}
+}

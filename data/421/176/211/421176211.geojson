@@ -1,0 +1,126 @@
+{
+  "id": 421176211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.26667,13.76667,-88.26667,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-88.26667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u91cc\u5967\u65af\u5e02"
+    ],
+    "name:deu_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:dut_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:fra_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:fre_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:ger_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:ita_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30aa\u30b9\u5e02"
+    ],
+    "name:por_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434 \u0411\u0430\u0440\u0440\u0438\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:unk_x_variant":[
+        "Villa de Cacahuatique"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u5967\u65af\u5e02"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3586983,
+    "qs:gn_pop":8491,
+    "qs:name":"Ciudad Barrios",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Miguel",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1045543,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":77073,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421195555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586983,
+        "gp:id":77073,
+        "qs:id":1045543,
+        "wd:id":"Q1157078",
+        "wk:page":"Ciudad Barrios"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009101,
+    "wof:geomhash":"1efd9fee7a19bc2824d3f68082f5780b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195555,
+            "locality_id":421176211,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":421176211,
+    "wof:lastmodified":1514505763,
+    "wof:name":"Ciudad Barrios",
+    "wof:parent_id":421195555,
+    "wof:placetype":"locality",
+    "wof:population":8491,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.26667,
+    13.76667,
+    -88.26667,
+    13.76667
+],
+  "geometry": {"coordinates":[-88.26667,13.76667],"type":"Point"}
+}

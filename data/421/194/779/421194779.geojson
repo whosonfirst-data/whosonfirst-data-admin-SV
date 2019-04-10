@@ -1,0 +1,121 @@
+{
+  "id": 421194779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.55,13.28333,-88.55,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":-88.55,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u7279\u91cc\u6eab\u798f\u6e2f"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30a8\u30eb\u30fb\u30c8\u30ea\u30a6\u30f3\u30d5\u30a9"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:por_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Del Triunfo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u7279\u91cc\u6eab\u798f\u6e2f"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584003,
+    "qs:gn_pop":19074,
+    "qs:name":"Puerto El Triunfo",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Usulut\u00e1n",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":115,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1340859,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79332,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584003,
+        "gp:id":79332,
+        "qs:id":1340859,
+        "wd:id":"Q164920",
+        "wk:page":"Puerto El Triunfo"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009819,
+    "wof:geomhash":"4b9462891a61b92d8cc0d2f65da42ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694897,
+            "locality_id":421194779,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421194779,
+    "wof:lastmodified":1527716133,
+    "wof:name":"Puerto El Triunfo",
+    "wof:parent_id":1108694897,
+    "wof:placetype":"locality",
+    "wof:population":19074,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.55,
+    13.28333,
+    -88.55,
+    13.28333
+],
+  "geometry": {"coordinates":[-88.55,13.28333],"type":"Point"}
+}

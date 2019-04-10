@@ -1,0 +1,67 @@
+{
+  "id": 1343566115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.5,13.7,-89.5,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-89.5,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Guamo",
+    "gn:country_code":"SV",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586434,
+    "gn:latitude":13.7,
+    "gn:longitude":-89.5,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Guamo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108695081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586434
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ec7fc15ea7f3ce2570635516dd6c8b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695081,
+            "locality_id":1343566115,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1343566115,
+    "wof:lastmodified":1537088055,
+    "wof:name":"El Guamo",
+    "wof:parent_id":1108695081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.5,
+    13.7,
+    -89.5,
+    13.7
+],
+  "geometry": {"coordinates":[-89.5,13.7],"type":"Point"}
+}

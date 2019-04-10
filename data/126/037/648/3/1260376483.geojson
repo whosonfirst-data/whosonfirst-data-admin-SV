@@ -1,0 +1,67 @@
+{
+  "id": 1260376483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.03333,13.83333,-88.03333,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":-88.03333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Leon",
+    "gn:country_code":"SV",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586331,
+    "gn:latitude":13.83333,
+    "gn:longitude":-88.03333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Le\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586331
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b468147c56307d55df534938035f5f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694725,
+            "locality_id":1260376483,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1260376483,
+    "wof:lastmodified":1537081217,
+    "wof:name":"El Leon",
+    "wof:parent_id":1108694725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03333,
+    13.83333,
+    -88.03333,
+    13.83333
+],
+  "geometry": {"coordinates":[-88.03333000000001,13.83333],"type":"Point"}
+}

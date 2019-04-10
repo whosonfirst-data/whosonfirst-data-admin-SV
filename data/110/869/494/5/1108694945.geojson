@@ -1,0 +1,75 @@
+{
+  "id": 1108694945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000643,
+    "geom:area_square_m":7713335.579189,
+    "geom:bbox":"-89.0223864721,13.9571674615,-88.9904060008,13.9897557368",
+    "geom:latitude":13.971526,
+    "geom:longitude":-89.008044,
+    "iso:country":"SV",
+    "lbl:latitude":13.968858,
+    "lbl:longitude":-89.007737,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Chalatenango",
+    "meso:diss_me":"SAN FRANCISCO LEMPACHALATENANGO",
+    "meso:gadm_admin":"San Francisco Lempa",
+    "meso:gadm_hasc2":"SV.CH.SF",
+    "meso:gaul_admin":"San Francisco Lempa",
+    "meso:local_id":"23",
+    "meso:local_id_a":"0423",
+    "meso:mps_x":-89.007737,
+    "meso:mps_y":13.968858,
+    "meso:name_en":"San Francisco Lempa",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.968858,
+    "mps:longitude":-89.007737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "San Francisco Lempa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CH.SF"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493294,
+    "wof:geomhash":"e56f5aff754449e4b2b52626d2b6d5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694945,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1108694945,
+    "wof:lastmodified":1536615367,
+    "wof:name":"San Francisco Lempa",
+    "wof:parent_id":85677193,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.02238647205961,
+    13.95716746152503,
+    -88.99040600081447,
+    13.98975573684783
+],
+  "geometry": {"coordinates":[[[-89.01683477202189,13.98975573684783],[-89.00529936104118,13.98489839009119],[-89.00435480598352,13.98025756203726],[-89.00140355923834,13.97811957433193],[-88.99622442394542,13.97666882022362],[-88.99567416163194,13.97563300345034],[-88.99040600081447,13.96797063316036],[-89.00000005476456,13.95752000240378],[-89.00071253148637,13.95744878591169],[-89.0008266627009,13.9575165751609],[-89.01199105749171,13.95716746152503],[-89.02238647205961,13.96686857089935],[-89.01890340628547,13.97124438836894],[-89.02045134230251,13.97892066746828],[-89.01900990382967,13.98756447665103],[-89.01683477202189,13.98975573684783]]],"type":"Polygon"}
+}

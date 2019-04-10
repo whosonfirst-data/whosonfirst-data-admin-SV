@@ -1,0 +1,61 @@
+{
+  "id": 1209103637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13472,13.43611,-89.13472,13.43611",
+    "geom:latitude":13.43611,
+    "geom:longitude":-89.13472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Amatecampo",
+    "gn:country_code":"SV",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810433,
+    "gn:latitude":13.43611,
+    "gn:longitude":-89.13472,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Amatecampo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810433
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"278a0d2c261d427cd754dd9a97cb4b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209103637
+        }
+    ],
+    "wof:id":1209103637,
+    "wof:lastmodified":1536297650,
+    "wof:name":"Amatecampo",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13472,
+    13.43611,
+    -89.13472,
+    13.43611
+],
+  "geometry": {"coordinates":[-89.13472,13.43611],"type":"Point"}
+}

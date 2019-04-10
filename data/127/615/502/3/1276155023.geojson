@@ -1,0 +1,73 @@
+{
+  "id": 1276155023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.25,13.68333,-89.25,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-89.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Espino",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586467,
+    "gn:latitude":13.68333,
+    "gn:longitude":-89.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Espino",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca El Espino",
+        "Finca y Beneficio el Espino",
+        "El Espino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421195553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586467
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"61b4573bd906f3139b6910159fe07f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195553,
+            "locality_id":1276155023,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1276155023,
+    "wof:lastmodified":1537701502,
+    "wof:name":"El Espino",
+    "wof:parent_id":421195553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.25,
+    13.68333,
+    -89.25,
+    13.68333
+],
+  "geometry": {"coordinates":[-89.25,13.68333],"type":"Point"}
+}

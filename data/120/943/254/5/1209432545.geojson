@@ -1,0 +1,61 @@
+{
+  "id": 1209432545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.80639,13.925,-89.80639,13.925",
+    "geom:latitude":13.925,
+    "geom:longitude":-89.80639,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Santa Rosa Acacalco",
+    "gn:country_code":"SV",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583215,
+    "gn:latitude":13.925,
+    "gn:longitude":-89.80639,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Santa Rosa Acacalco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583215
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f3907ee2cea2cdf69c2269b9ef643b1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209432545
+        }
+    ],
+    "wof:id":1209432545,
+    "wof:lastmodified":1536287197,
+    "wof:name":"Santa Rosa Acacalco",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.80639000000002,
+    13.925,
+    -89.80639000000002,
+    13.925
+],
+  "geometry": {"coordinates":[-89.80639000000002,13.925],"type":"Point"}
+}

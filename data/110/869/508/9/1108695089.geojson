@@ -1,0 +1,76 @@
+{
+  "id": 1108695089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000798,
+    "geom:area_square_m":9580435.334238,
+    "geom:bbox":"-89.7917394224,13.9390655769,-89.7550784897,13.9777385685",
+    "geom:latitude":13.96057,
+    "geom:longitude":-89.772418,
+    "iso:country":"SV",
+    "lbl:latitude":13.962797,
+    "lbl:longitude":-89.772695,
+    "meso:admin1r":"REGION OCCIDENTAL",
+    "meso:admin_1":"Ahuachapan",
+    "meso:diss_me":"TURINAHUACHAPAN",
+    "meso:gadm_admin":"Tur\u00edn",
+    "meso:gadm_hasc2":"SV.AH.TU",
+    "meso:gaul_admin":"Turin",
+    "meso:local_id":"12",
+    "meso:local_id_a":"0112",
+    "meso:mps_x":-89.772695,
+    "meso:mps_y":13.962797,
+    "meso:name_en":"Turin",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.962797,
+    "mps:longitude":-89.772695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Turin",
+        "Tur\u00edn"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.AH.TU"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493429,
+    "wof:geomhash":"8a0ca89f1bc78a1d99757c764a250945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695089,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1108695089,
+    "wof:lastmodified":1536615369,
+    "wof:name":"Turin",
+    "wof:parent_id":85677139,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"TU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.79173942238744,
+    13.93906557685344,
+    -89.75507848970597,
+    13.97773856846318
+],
+  "geometry": {"coordinates":[[[-89.78795432737745,13.97766262322875],[-89.7751693070641,13.9753027168367],[-89.77085534714377,13.97773856846318],[-89.76854214130519,13.97593818481097],[-89.7598510450114,13.96303279474774],[-89.76088573293111,13.95964516348241],[-89.75507848970597,13.95069116038312],[-89.75554039164172,13.94578017520991],[-89.75918997410488,13.93966643733637],[-89.7603508145026,13.93906557685344],[-89.77292332798147,13.9456805168499],[-89.77567931314637,13.95242259694145],[-89.78031278079831,13.9540268177612],[-89.78297970182642,13.95730093912284],[-89.78330551059913,13.9584245721653],[-89.79122919985731,13.96545014223427],[-89.79173942238744,13.96846940779246],[-89.79130796581121,13.97268322867791],[-89.78795432737745,13.97766262322875]]],"type":"Polygon"}
+}

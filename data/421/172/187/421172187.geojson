@@ -1,0 +1,118 @@
+{
+  "id": 421172187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.87361,13.74056,-87.87361,13.74056",
+    "geom:latitude":13.74056,
+    "geom:longitude":-87.87361,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Anamor\u00f3s"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u7d0d\u83ab\u7f85\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Anamor\u00f3s"
+    ],
+    "name:eng_x_preferred":[
+        "Anamor\u00f3s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0645\u0648\u0631\u0627\u0633"
+    ],
+    "name:fre_x_preferred":[
+        "Anamor\u00f3s"
+    ],
+    "name:ita_x_preferred":[
+        "Anamoros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ca\u30e2\u30ed\u30b9"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0646\u0627\u0645\u0648\u0631\u0627\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Anamor\u00f3s"
+    ],
+    "name:spa_x_preferred":[
+        "Anamor\u00f3s"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d0d\u83ab\u7f85\u65af"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3587372,
+    "qs:gn_pop":2655,
+    "qs:name":"Anamor\u00f3s",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Uni\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149100,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":76853,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587372,
+        "gp:id":76853,
+        "qs:id":149100,
+        "wd:id":"Q3615033",
+        "wk:page":"Anamor\u00f3s"
+    },
+    "wof:country":"SV",
+    "wof:created":1459008926,
+    "wof:geomhash":"da1c9673f75ba64148e00740b09fa48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694715,
+            "locality_id":421172187,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":421172187,
+    "wof:lastmodified":1527716303,
+    "wof:name":"Anamor\u00f3s",
+    "wof:parent_id":1108694715,
+    "wof:placetype":"locality",
+    "wof:population":2655,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.87361,
+    13.74056,
+    -87.87361,
+    13.74056
+],
+  "geometry": {"coordinates":[-87.87361,13.74056],"type":"Point"}
+}

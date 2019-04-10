@@ -1,0 +1,73 @@
+{
+  "id": 1309709235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.96667,13.56667,-87.96667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-87.96667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nueva Guadalupe",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584259,
+    "gn:latitude":13.56667,
+    "gn:longitude":-87.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nueva Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bol\u00edvar",
+        "Nueva Cant\u00f3n Guadalupe",
+        "Nueva Guadalupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584259
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c3ba818a56f571f3980109ab15cf1d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694723,
+            "locality_id":1309709235,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1309709235,
+    "wof:lastmodified":1537701453,
+    "wof:name":"Nueva Guadalupe",
+    "wof:parent_id":1108694723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.96667,
+    13.56667,
+    -87.96667,
+    13.56667
+],
+  "geometry": {"coordinates":[-87.96666999999999,13.56667],"type":"Point"}
+}

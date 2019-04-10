@@ -1,0 +1,72 @@
+{
+  "id": 1193125323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41667,14.33333,-89.41667,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":-89.41667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hacienda Vieja",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585528,
+    "gn:latitude":14.33333,
+    "gn:longitude":-89.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Hacienda Viejo",
+        "Hacienda Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585528
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7345a7cd7ab2aa8d78b52fa15656869d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1193125323,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1193125323,
+    "wof:lastmodified":1537701478,
+    "wof:name":"Hacienda Vieja",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41667,
+    14.33333,
+    -89.41667,
+    14.33333
+],
+  "geometry": {"coordinates":[-89.41667,14.33333],"type":"Point"}
+}

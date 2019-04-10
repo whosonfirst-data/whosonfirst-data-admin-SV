@@ -1,0 +1,61 @@
+{
+  "id": 1209193885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.56667,13.7,-89.56667,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-89.56667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Agua Shuca",
+    "gn:country_code":"SV",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587441,
+    "gn:latitude":13.7,
+    "gn:longitude":-89.56667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Agua Shuca",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587441
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"bb99678df831f89bdb057189c878046a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209193885
+        }
+    ],
+    "wof:id":1209193885,
+    "wof:lastmodified":1536294840,
+    "wof:name":"Agua Shuca",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.56667,
+    13.7,
+    -89.56667,
+    13.7
+],
+  "geometry": {"coordinates":[-89.56667,13.7],"type":"Point"}
+}

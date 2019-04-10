@@ -1,0 +1,67 @@
+{
+  "id": 1310698375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.9,13.76667,-87.9,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-87.9,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Uvitas",
+    "gn:country_code":"SV",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582878,
+    "gn:latitude":13.76667,
+    "gn:longitude":-87.9,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Uvitas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582878
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cf7215d1748fddffeacc74e3e0ddcbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694715,
+            "locality_id":1310698375,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1310698375,
+    "wof:lastmodified":1536637557,
+    "wof:name":"Uvitas",
+    "wof:parent_id":1108694715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.9,
+    13.76667,
+    -87.9,
+    13.76667
+],
+  "geometry": {"coordinates":[-87.90000000000001,13.76667],"type":"Point"}
+}

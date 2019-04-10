@@ -1,0 +1,67 @@
+{
+  "id": 1260380695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35,13.6,-88.35,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-88.35,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Las Ventas",
+    "gn:country_code":"SV",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584794,
+    "gn:latitude":13.6,
+    "gn:longitude":-88.35,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Las Ventas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584794
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e83aa9c7e546d766c842391afefce529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694839,
+            "locality_id":1260380695,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1260380695,
+    "wof:lastmodified":1537075657,
+    "wof:name":"Las Ventas",
+    "wof:parent_id":1108694839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35,
+    13.6,
+    -88.35,
+    13.6
+],
+  "geometry": {"coordinates":[-88.34999999999999,13.6],"type":"Point"}
+}

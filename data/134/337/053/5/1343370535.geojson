@@ -1,0 +1,67 @@
+{
+  "id": 1343370535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.85,14.06667,-88.85,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":-88.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Guardado",
+    "gn:country_code":"SV",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584619,
+    "gn:latitude":14.06667,
+    "gn:longitude":-88.85,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Los Guardado",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584619
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5bd110fc88c1fc799297039fd9e93180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694831,
+            "locality_id":1343370535,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1343370535,
+    "wof:lastmodified":1536874959,
+    "wof:name":"Los Guardado",
+    "wof:parent_id":1108694831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.85,
+    14.06667,
+    -88.85,
+    14.06667
+],
+  "geometry": {"coordinates":[-88.84999999999999,14.06667],"type":"Point"}
+}

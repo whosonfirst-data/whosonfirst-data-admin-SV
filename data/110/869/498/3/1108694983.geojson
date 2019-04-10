@@ -1,0 +1,76 @@
+{
+  "id": 1108694983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001689,
+    "geom:area_square_m":20266649.890233,
+    "geom:bbox":"-89.0000000548,13.9395360566,-88.9371112097,13.9917331154",
+    "geom:latitude":13.963023,
+    "geom:longitude":-88.965903,
+    "iso:country":"SV",
+    "lbl:latitude":13.964887,
+    "lbl:longitude":-88.965903,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Chalatenango",
+    "meso:diss_me":"SAN LUIS DEL CARMENCHALATENANGO",
+    "meso:gadm_admin":"San Luis del Carmen",
+    "meso:gadm_hasc2":"SV.CH.SL",
+    "meso:gaul_admin":"San Luis Del Carmen",
+    "meso:local_id":"29",
+    "meso:local_id_a":"0429",
+    "meso:mps_x":-88.965903,
+    "meso:mps_y":13.964887,
+    "meso:name_en":"San Luis Del Carmen",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.964887,
+    "mps:longitude":-88.965903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "San Luis Del Carmen",
+        "San Luis del Carmen"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CH.SL"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493331,
+    "wof:geomhash":"5138bec3c678e51b3cd9b890e2748465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694983,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1108694983,
+    "wof:lastmodified":1536615368,
+    "wof:name":"San Luis Del Carmen",
+    "wof:parent_id":85677193,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.00000005476456,
+    13.93953605657779,
+    -88.93711120967015,
+    13.9917331154128
+],
+  "geometry": {"coordinates":[[[-88.99040600081447,13.96797063316036],[-88.98435678207332,13.9679976713665],[-88.98142842181912,13.96956262942103],[-88.97729634597076,13.97676907556186],[-88.9779021810708,13.97855041011382],[-88.97775776196335,13.97990271256982],[-88.9744183356691,13.98574357719723],[-88.96992324810726,13.99142770062736],[-88.96744221026258,13.9917331154128],[-88.95610654744303,13.97914566101894],[-88.95481989546565,13.97580786066593],[-88.95400398151089,13.97599601848846],[-88.94069457685647,13.97216504851545],[-88.93711120967015,13.96780376434634],[-88.93712731710001,13.9677421648083],[-88.9404612725253,13.95714454338561],[-88.94463862193071,13.95573721833817],[-88.94602712399231,13.9396132495804],[-88.94722170756908,13.93953605657779],[-88.96296864291804,13.94914213311722],[-88.96713447979381,13.94392638707527],[-88.98218152063465,13.94607008170972],[-88.98470889899707,13.94960688735153],[-88.98656953759776,13.94974600064456],[-89.00000005476456,13.95752000240378],[-88.99040600081447,13.96797063316036]]],"type":"Polygon"}
+}

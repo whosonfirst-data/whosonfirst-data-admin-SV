@@ -1,0 +1,72 @@
+{
+  "id": 1327122533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.65,14.0,-89.65,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":-89.65,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Galeano",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585727,
+    "gn:latitude":14.0,
+    "gn:longitude":-89.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Galeano",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Galeano",
+        "Galeano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108695011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585727
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"15bcde813624125d067084c12bc31207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695011,
+            "locality_id":1327122533,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1327122533,
+    "wof:lastmodified":1537701485,
+    "wof:name":"Galeano",
+    "wof:parent_id":1108695011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.65,
+    14.0,
+    -89.65,
+    14.0
+],
+  "geometry": {"coordinates":[-89.65000000000001,14.0],"type":"Point"}
+}

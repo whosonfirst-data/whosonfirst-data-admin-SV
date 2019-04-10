@@ -1,0 +1,61 @@
+{
+  "id": 1209026229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.0,13.66667,-88.0,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":-88.0,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sitio Marriburria",
+    "gn:country_code":"SV",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583116,
+    "gn:latitude":13.66667,
+    "gn:longitude":-88.0,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Sitio Marriburria",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583116
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7d46c288211b448b9dfb7e38f95badd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209026229
+        }
+    ],
+    "wof:id":1209026229,
+    "wof:lastmodified":1536299989,
+    "wof:name":"Sitio Marriburria",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.0,
+    13.666670000000002,
+    -88.0,
+    13.666670000000002
+],
+  "geometry": {"coordinates":[-88.0,13.66667],"type":"Point"}
+}

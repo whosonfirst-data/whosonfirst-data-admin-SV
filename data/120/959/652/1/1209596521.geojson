@@ -1,0 +1,61 @@
+{
+  "id": 1209596521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.4,14.16667,-89.4,14.16667",
+    "geom:latitude":14.16667,
+    "geom:longitude":-89.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Zapotillo",
+    "gn:country_code":"SV",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585783,
+    "gn:latitude":14.16667,
+    "gn:longitude":-89.4,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Zapotillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585783
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a54df11caefc3b2ff70d65e42590366a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209596521
+        }
+    ],
+    "wof:id":1209596521,
+    "wof:lastmodified":1536282307,
+    "wof:name":"El Zapotillo",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.4,
+    14.166670000000002,
+    -89.4,
+    14.166670000000002
+],
+  "geometry": {"coordinates":[-89.40000000000001,14.16667],"type":"Point"}
+}

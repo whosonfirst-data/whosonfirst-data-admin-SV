@@ -1,0 +1,75 @@
+{
+  "id": 1108695107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":14606.335854,
+    "geom:bbox":"-88.7386185954,14.0499710339,-88.7309284434,14.0660086639",
+    "geom:latitude":14.052075,
+    "geom:longitude":-88.733044,
+    "iso:country":"SV",
+    "lbl:latitude":14.050404,
+    "lbl:longitude":-88.73251,
+    "meso:admin1r":"NO DATA",
+    "meso:admin_1":"Chalatenango",
+    "meso:diss_me":"ZONA DE DEMARCACION LIMITROFE",
+    "meso:gadm_admin":"Nombre de Jes\u00fas",
+    "meso:gadm_hasc2":"SV.CH.NJ",
+    "meso:gaul_admin":"NO DATA",
+    "meso:local_id":"NO DATA",
+    "meso:local_id_a":"NO DATA",
+    "meso:mps_x":-88.73251,
+    "meso:mps_y":14.050404,
+    "meso:name_en":"Zona De Demarcacion Limitrofe",
+    "meso:source":"AOTM",
+    "meso:type_local":"ZONA",
+    "mps:latitude":14.050404,
+    "mps:longitude":-88.73251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Nombre de Jes\u00fas"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CH.NJ"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493447,
+    "wof:geomhash":"926dbaa339981b1c6c7b7547325d0e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695107,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1108695107,
+    "wof:lastmodified":1536615370,
+    "wof:name":"Zona De Demarcacion Limitrofe",
+    "wof:parent_id":85677193,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"NJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.73861859542086,
+    14.0499710338952,
+    -88.73092844335659,
+    14.06600866385544
+],
+  "geometry": {"coordinates":[[[[-88.73850218430192,14.06600866385544],[-88.73841756193248,14.06466110392664],[-88.73861859542086,14.06480925484881],[-88.73850218430192,14.06600866385544]]],[[[-88.73092844335659,14.05022886469421],[-88.73275724798459,14.0499710338952],[-88.73322988457825,14.05162342871547],[-88.73215,14.050549],[-88.73092844335659,14.05022886469421]]]],"type":"MultiPolygon"}
+}

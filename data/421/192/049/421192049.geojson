@@ -1,0 +1,102 @@
+{
+  "id": 421192049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.00139,13.97444,-89.00139,13.97444",
+    "geom:latitude":13.97444,
+    "geom:longitude":-89.00139,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u502b\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco Lempa"
+    ],
+    "name:eng_x_preferred":[
+        "San Francisco Lempa"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco Lempa"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco Lempa"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco Lempa"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco Lempa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u502b\u5e15"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583719,
+    "qs:gn_pop":0,
+    "qs:name":"San Francisco Lempa",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Chalatenango",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165080,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79550,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583719,
+        "gp:id":79550,
+        "qs:id":1165080,
+        "wd:id":"Q3947126",
+        "wk:page":"San Francisco Lempa"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009723,
+    "wof:geomhash":"ce43032397da7cb95f4d8f96c3083f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694945,
+            "locality_id":421192049,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":421192049,
+    "wof:lastmodified":1514505784,
+    "wof:name":"San Francisco Lempa",
+    "wof:parent_id":1108694945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.00139,
+    13.97444,
+    -89.00139,
+    13.97444
+],
+  "geometry": {"coordinates":[-89.00139,13.97444],"type":"Point"}
+}

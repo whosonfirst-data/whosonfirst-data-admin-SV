@@ -1,0 +1,67 @@
+{
+  "id": 1259783825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.95,13.7,-88.95,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-88.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Carrizal",
+    "gn:country_code":"SV",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586653,
+    "gn:latitude":13.7,
+    "gn:longitude":-88.95,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Carrizal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421172669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586653
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cbcd1871de17a7a3737a4ba9799eaf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421172669,
+            "locality_id":1259783825,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1259783825,
+    "wof:lastmodified":1536923380,
+    "wof:name":"El Carrizal",
+    "wof:parent_id":421172669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.95,
+    13.7,
+    -88.95,
+    13.7
+],
+  "geometry": {"coordinates":[-88.95,13.7],"type":"Point"}
+}

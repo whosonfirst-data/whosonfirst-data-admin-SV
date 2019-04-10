@@ -1,0 +1,67 @@
+{
+  "id": 1226625549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73611,13.75806,-89.73611,13.75806",
+    "geom:latitude":13.75806,
+    "geom:longitude":-89.73611,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Cerrito",
+    "gn:country_code":"SV",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586621,
+    "gn:latitude":13.75806,
+    "gn:longitude":-89.73611,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"El Cerrito",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421205339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586621
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4be227473cf1a1b13800d96cacca5d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421205339,
+            "locality_id":1226625549,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1226625549,
+    "wof:lastmodified":1536888226,
+    "wof:name":"El Cerrito",
+    "wof:parent_id":421205339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73611,
+    13.75806,
+    -89.73611,
+    13.75806
+],
+  "geometry": {"coordinates":[-89.73611,13.75806],"type":"Point"}
+}

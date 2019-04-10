@@ -1,0 +1,122 @@
+{
+  "id": 85929727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.511434,46.051022,14.511434,46.051022",
+    "geom:latitude":46.051022,
+    "geom:longitude":14.511434,
+    "gn:id":"",
+    "iso:country":"SV",
+    "lbl:latitude":46.051022,
+    "lbl:longitude":14.511434,
+    "mps:latitude":46.041626,
+    "mps:longitude":14.5035,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:nld_x_preferred":[
+        "Center"
+    ],
+    "name:pol_x_preferred":[
+        "Center"
+    ],
+    "name:slv_x_preferred":[
+        "Ljubljana Center"
+    ],
+    "name:slv_x_variant":[
+        "\u010cetrtna skupnost Center"
+    ],
+    "name:und_x_preferred":[
+        "Ljubljana Center"
+    ],
+    "name:unk_x_variant":[
+        "Ljubljana Center"
+    ],
+    "qs:gn_adm0_cc":"SI",
+    "qs:gn_id":0,
+    "qs:gn_local":3196359,
+    "qs:gn_nam_loc":"Ljubljana, Ljubljana, Ljubljana, SI",
+    "qs:gn_namadm1":"61",
+    "qs:local_max":13863,
+    "qs:local_sum":25230,
+    "qs:localhoods":13,
+    "qs:name":"Ljubljana Center",
+    "qs:name_adm0":"Slovenija",
+    "qs:name_adm1":"Ljubljana",
+    "qs:name_adm2":"Ljubljana",
+    "qs:name_local":"Ljubljana",
+    "qs:photo_max":1146,
+    "qs:photo_sum":13863,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":155,
+    "qs:woe_adm0":23424945,
+    "qs:woe_adm1":55848364,
+    "qs:woe_adm2":12591568,
+    "qs:woe_lau":0,
+    "qs:woe_local":530634,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191581,
+        1108959501,
+        85633779,
+        101752073,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55868983,
+        "qs:id":581530,
+        "qs_pg:id":581530,
+        "wd:id":"Q2000244"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3d5a313d59dd3a70c9429afb22dedf2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":101752073,
+            "neighbourhood_id":85929727,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":85929727,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1536864519,
+    "wof:name":"Center",
+    "wof:parent_id":101752073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.511434,
+    46.051022,
+    14.511434,
+    46.051022
+],
+  "geometry": {"coordinates":[14.511434,46.051022],"type":"Point"}
+}

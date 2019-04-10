@@ -1,0 +1,72 @@
+{
+  "id": 1226668969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41667,13.71667,-89.41667,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-89.41667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Transito",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585852,
+    "gn:latitude":13.71667,
+    "gn:longitude":-89.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tr\u00e1nsito",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo El Tr\u00e1nsito",
+        "El Tr\u00e1nsito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585852
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a5518f55fa7935b4106845f4e9c15ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694813,
+            "locality_id":1226668969,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1226668969,
+    "wof:lastmodified":1537701487,
+    "wof:name":"El Transito",
+    "wof:parent_id":1108694813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41667,
+    13.71667,
+    -89.41667,
+    13.71667
+],
+  "geometry": {"coordinates":[-89.41667,13.71667],"type":"Point"}
+}

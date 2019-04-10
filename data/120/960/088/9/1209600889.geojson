@@ -1,0 +1,67 @@
+{
+  "id": 1209600889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06667,13.9,-88.06667,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":-88.06667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Bramadero",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586722,
+    "gn:latitude":13.9,
+    "gn:longitude":-88.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Bramadero",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Agust\u00edn",
+        "Bramadero",
+        "El Bramadero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586722
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"73c1617783d745b8e6f3e1d5a373eb91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209600889
+        }
+    ],
+    "wof:id":1209600889,
+    "wof:lastmodified":1537701507,
+    "wof:name":"El Bramadero",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06667,
+    13.9,
+    -88.06667,
+    13.9
+],
+  "geometry": {"coordinates":[-88.06667,13.9],"type":"Point"}
+}

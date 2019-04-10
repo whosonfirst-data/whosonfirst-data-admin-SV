@@ -1,0 +1,67 @@
+{
+  "id": 1309889559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.215,13.58917,-89.215,13.58917",
+    "geom:latitude":13.58917,
+    "geom:longitude":-89.215,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Loma y Media",
+    "gn:country_code":"SV",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584684,
+    "gn:latitude":13.58917,
+    "gn:longitude":-89.215,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Loma y Media",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584684
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b0082f84dae75ed733026d4519e93d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694885,
+            "locality_id":1309889559,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1309889559,
+    "wof:lastmodified":1536809961,
+    "wof:name":"Loma y Media",
+    "wof:parent_id":1108694885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.215,
+    13.58917,
+    -89.215,
+    13.58917
+],
+  "geometry": {"coordinates":[-89.215,13.58917],"type":"Point"}
+}

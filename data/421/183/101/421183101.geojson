@@ -1,0 +1,111 @@
+{
+  "id": 421183101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.5,14.13333,-89.5,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.5,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7279\u514b\u897f\u65af\u7279\u4f69\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Texistepeque"
+    ],
+    "name:eng_x_preferred":[
+        "Texistepeque"
+    ],
+    "name:fre_x_preferred":[
+        "Texistepeque"
+    ],
+    "name:ita_x_preferred":[
+        "Texistepeque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30d2\u30b9\u30c6\u30da\u30b1"
+    ],
+    "name:nah_x_preferred":[
+        "Tecciztepec"
+    ],
+    "name:por_x_preferred":[
+        "Texistepeque"
+    ],
+    "name:spa_x_preferred":[
+        "Texistepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u514b\u897f\u65af\u7279\u4f69\u514b"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3582954,
+    "qs:gn_pop":2401,
+    "qs:name":"Texistepeque",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Santa Ana",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":962134,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":80083,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421203745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582954,
+        "gp:id":80083,
+        "qs:id":962134,
+        "wd:id":"Q3985393",
+        "wk:page":"Texistepeque"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009358,
+    "wof:geomhash":"85e62f7a847ae6bfe5703e82df1a1ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203745,
+            "locality_id":421183101,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":421183101,
+    "wof:lastmodified":1514505803,
+    "wof:name":"Texistepeque",
+    "wof:parent_id":421203745,
+    "wof:placetype":"locality",
+    "wof:population":2401,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.5,
+    14.13333,
+    -89.5,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.5,14.13333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226334731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.02611,13.51222,-89.02611,13.51222",
+    "geom:latitude":13.51222,
+    "geom:longitude":-89.02611,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Asuncion Amatepe",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587323,
+    "gn:latitude":13.51222,
+    "gn:longitude":-89.02611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Asunci\u00f3n Amatepe",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amatepe",
+        "Asunci\u00f3n Amatepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        1108694789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587323
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"26898f2e0c542e3344daf27dfa202748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694789,
+            "locality_id":1226334731,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1226334731,
+    "wof:lastmodified":1537701516,
+    "wof:name":"Asuncion Amatepe",
+    "wof:parent_id":1108694789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.02611,
+    13.51222,
+    -89.02611,
+    13.51222
+],
+  "geometry": {"coordinates":[-89.02611,13.51222],"type":"Point"}
+}

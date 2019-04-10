@@ -1,0 +1,67 @@
+{
+  "id": 1243044375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.80028,13.68778,-89.80028,13.68778",
+    "geom:latitude":13.68778,
+    "geom:longitude":-89.80028,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Zope",
+    "gn:country_code":"SV",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585776,
+    "gn:latitude":13.68778,
+    "gn:longitude":-89.80028,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"El Zope",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108695055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585776
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9b1c9ed7d7cd769cea0deaa9146cbd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695055,
+            "locality_id":1243044375,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1243044375,
+    "wof:lastmodified":1536887787,
+    "wof:name":"El Zope",
+    "wof:parent_id":1108695055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.80028,
+    13.68778,
+    -89.80028,
+    13.68778
+],
+  "geometry": {"coordinates":[-89.80028,13.68778],"type":"Point"}
+}

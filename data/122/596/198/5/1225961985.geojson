@@ -1,0 +1,72 @@
+{
+  "id": 1225961985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73333,14.01667,-89.73333,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":-89.73333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"San Juan Buenavista",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583548,
+    "gn:latitude":14.01667,
+    "gn:longitude":-89.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan Buenavista",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo San Juan Buena Vista",
+        "San Juan Buenavista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        1108694975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583548
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"509c0de8c3fcd0cf57461e79d7a8c177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694975,
+            "locality_id":1225961985,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1225961985,
+    "wof:lastmodified":1537701438,
+    "wof:name":"San Juan Buenavista",
+    "wof:parent_id":1108694975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73333000000002,
+    14.01667,
+    -89.73333000000002,
+    14.01667
+],
+  "geometry": {"coordinates":[-89.73333000000002,14.01667],"type":"Point"}
+}

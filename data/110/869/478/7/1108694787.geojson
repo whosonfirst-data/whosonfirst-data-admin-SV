@@ -1,0 +1,76 @@
+{
+  "id": 1108694787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00105,
+    "geom:area_square_m":12603614.360717,
+    "geom:bbox":"-89.7315905114,13.9622034728,-89.6940015111,14.0084526587",
+    "geom:latitude":13.985435,
+    "geom:longitude":-89.709916,
+    "iso:country":"SV",
+    "lbl:latitude":13.983559,
+    "lbl:longitude":-89.708396,
+    "meso:admin1r":"REGION OCCIDENTAL",
+    "meso:admin_1":"Ahuachapan",
+    "meso:diss_me":"EL REFUGIOAHUACHAPAN",
+    "meso:gadm_admin":"Atiquizaya",
+    "meso:gadm_hasc2":"SV.AH.AT",
+    "meso:gaul_admin":"El Refugio",
+    "meso:local_id":"05",
+    "meso:local_id_a":"0105",
+    "meso:mps_x":-89.708396,
+    "meso:mps_y":13.983559,
+    "meso:name_en":"El Refugio",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.983559,
+    "mps:longitude":-89.708396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "El Refugio",
+        "Atiquizaya"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.AH.AT"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493138,
+    "wof:geomhash":"4bd735ac44f57600b34e5b6cfb76c30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694787,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1108694787,
+    "wof:lastmodified":1536615365,
+    "wof:name":"El Refugio",
+    "wof:parent_id":85677139,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"AT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73159051142022,
+    13.96220347280949,
+    -89.69400151113913,
+    14.00845265870083
+],
+  "geometry": {"coordinates":[[[-89.7147919938368,14.008275359148],[-89.71442901336222,14.00845265870083],[-89.7029139130161,14.00611044903388],[-89.70194367721999,14.00463997185586],[-89.6968344880046,14.00200999211916],[-89.69400151113913,13.9880923354647],[-89.69406660739179,13.98657494545158],[-89.69471378213009,13.98627702021987],[-89.69888883543888,13.96690264168117],[-89.69882565929244,13.96608565507748],[-89.70161717521472,13.96220347280949],[-89.71138652391745,13.96523160448669],[-89.71890137280131,13.97304715826579],[-89.71893330252668,13.97333405414641],[-89.72105653063804,13.97556705618019],[-89.72934310767143,13.97947936316244],[-89.73155695548776,13.98464890292186],[-89.73159051142022,13.98637701789496],[-89.73080198009842,13.98984735149916],[-89.72906561808293,13.99146791135895],[-89.7267434509067,13.99272261245828],[-89.71790529688639,13.99249790076327],[-89.71499714837167,13.9971208661318],[-89.71590827455847,14.00522201005049],[-89.7147919938368,14.008275359148]]],"type":"Polygon"}
+}

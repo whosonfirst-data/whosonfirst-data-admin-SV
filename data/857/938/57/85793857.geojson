@@ -1,0 +1,141 @@
+{
+  "id": 85793857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14734576.16438,
+    "geom:bbox":"-89.22884,13.680277,-89.22884,13.680277",
+    "geom:latitude":13.680277,
+    "geom:longitude":-89.22884,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":13.68423,
+    "gn:longitude":-89.21504,
+    "iso:country":"SV",
+    "lbl:latitude":13.680277,
+    "lbl:longitude":-89.22884,
+    "mps:latitude":13.673143,
+    "mps:longitude":-89.224707,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:cat_x_preferred":[
+        "Montserrat"
+    ],
+    "name:spa_x_preferred":[
+        "Montserrat"
+    ],
+    "name:spa_x_variant":[
+        "Colonia Monserrate",
+        "Monserrate"
+    ],
+    "name:unk_x_variant":[
+        "Montserrat",
+        "Monserrate"
+    ],
+    "qs:gn_adm0_cc":"SV",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3583361,
+    "qs:gn_nam_loc":"San Salvador, San Salvador, San Salvador, SV",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Montserrat",
+    "qs:local_max":3481,
+    "qs:local_sum":9209,
+    "qs:localhoods":7,
+    "qs:name":"Montserrat",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:name_adm2":"San Salvador",
+    "qs:name_local":"San Salvador",
+    "qs:photo_max":131,
+    "qs:photo_sum":401,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":32,
+    "qs:woe_adm0":23424807,
+    "qs:woe_adm1":2345301,
+    "qs:woe_adm2":26808700,
+    "qs:woe_lau":0,
+    "qs:woe_local":79825,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3584318,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Montserrat",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"San Salvador",
+    "qs_pg:photos":571,
+    "qs_pg:photos_1k":116,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":571,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238568,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":79114,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85677163,
+        102191575,
+        85632545,
+        421180907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584318,
+        "gp:id":79114,
+        "qs:id":238568,
+        "qs_pg:id":238568
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"69de4c0ecce4d07edcd9ec0d1fd4ed71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180907,
+            "locality_id":-1,
+            "neighbourhood_id":85793857,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":85793857,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379462,
+    "wof:name":"Montserrat",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126101633
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.22884,
+    13.680277,
+    -89.22884,
+    13.680277
+],
+  "geometry": {"coordinates":[-89.22884000000001,13.680277],"type":"Point"}
+}

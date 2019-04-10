@@ -1,0 +1,73 @@
+{
+  "id": 1276230877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.61667,13.96667,-88.61667,13.96667",
+    "geom:latitude":13.96667,
+    "geom:longitude":-88.61667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"La Uvilla",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584763,
+    "gn:latitude":13.96667,
+    "gn:longitude":-88.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Uvilla",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo de Las Uvillas",
+        "Las Uvillas",
+        "La Uvilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        421182403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584763
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"aeb5bc3dd2e1608fa6eb02097c2ffe18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421182403,
+            "locality_id":1276230877,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1276230877,
+    "wof:lastmodified":1537701462,
+    "wof:name":"La Uvilla",
+    "wof:parent_id":421182403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.61667,
+    13.96667,
+    -88.61667,
+    13.96667
+],
+  "geometry": {"coordinates":[-88.61667,13.96667],"type":"Point"}
+}

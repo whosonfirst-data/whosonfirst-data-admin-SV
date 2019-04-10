@@ -1,0 +1,74 @@
+{
+  "id": 1193019959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.96083,13.76,-89.96083,13.76",
+    "geom:latitude":13.76,
+    "geom:longitude":-89.96083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Guayapa Arriba",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585643,
+    "gn:latitude":13.76,
+    "gn:longitude":-89.96083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guayapa Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Guayapa Arriba",
+        "Guayapa",
+        "Guayape",
+        "Guayapa Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421204283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585643
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3c8b46ebeab0af339461b440b84a3561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421204283,
+            "locality_id":1193019959,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1193019959,
+    "wof:lastmodified":1537701483,
+    "wof:name":"Guayapa Arriba",
+    "wof:parent_id":421204283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.96083,
+    13.76,
+    -89.96083,
+    13.76
+],
+  "geometry": {"coordinates":[-89.96083,13.76],"type":"Point"}
+}

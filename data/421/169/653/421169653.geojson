@@ -1,0 +1,138 @@
+{
+  "id": 421169653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.67306,13.74472,-89.67306,13.74472",
+    "geom:latitude":13.74472,
+    "geom:longitude":-89.67306,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0406\u0441\u0430\u043b\u044c\u043a\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u85a9\u723e\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Izalco"
+    ],
+    "name:dut_x_preferred":[
+        "Izalco"
+    ],
+    "name:eng_x_preferred":[
+        "Municipality of Izalco"
+    ],
+    "name:est_x_preferred":[
+        "Izalco"
+    ],
+    "name:fra_x_preferred":[
+        "Izalco"
+    ],
+    "name:fre_x_preferred":[
+        "Izalco"
+    ],
+    "name:ger_x_preferred":[
+        "Izalco"
+    ],
+    "name:ita_x_preferred":[
+        "Izalco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b5\u30eb\u30b3"
+    ],
+    "name:pol_x_preferred":[
+        "Izalco"
+    ],
+    "name:por_x_preferred":[
+        "Izalco"
+    ],
+    "name:rum_x_preferred":[
+        "izalco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0430\u043b\u044c\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Izalco"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0437\u0430\u043b\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Yzalco"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u85a9\u723e\u79d1"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3585473,
+    "qs:gn_pop":19197,
+    "qs:name":"Izalco",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":173,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":173,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":228551,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":78247,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421169439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585473,
+        "gp:id":78247,
+        "qs:id":228551,
+        "wd:id":"Q682226",
+        "wk:page":"Izalco"
+    },
+    "wof:country":"SV",
+    "wof:created":1459008819,
+    "wof:geomhash":"098f55da8a9e7ca354734921ef332d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169439,
+            "locality_id":421169653,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421169653,
+    "wof:lastmodified":1514505768,
+    "wof:name":"Izalco",
+    "wof:parent_id":421169439,
+    "wof:placetype":"locality",
+    "wof:population":19197,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.67306,
+    13.74472,
+    -89.67306,
+    13.74472
+],
+  "geometry": {"coordinates":[-89.67306000000001,13.74472],"type":"Point"}
+}

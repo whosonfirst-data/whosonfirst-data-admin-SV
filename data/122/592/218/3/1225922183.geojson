@@ -1,0 +1,72 @@
+{
+  "id": 1225922183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.63333,14.06667,-89.63333,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":-89.63333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Singuil",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583136,
+    "gn:latitude":14.06667,
+    "gn:longitude":-89.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sing\u00fcil",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Sing\u00fcil",
+        "Sing\u00fcil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108694785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583136
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5bd14b7b9ba982a31f24859f952ec559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694785,
+            "locality_id":1225922183,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1225922183,
+    "wof:lastmodified":1537701431,
+    "wof:name":"Singuil",
+    "wof:parent_id":1108694785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.63333,
+    14.06667,
+    -89.63333,
+    14.06667
+],
+  "geometry": {"coordinates":[-89.63333,14.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310099303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.23333,13.71667,-89.23333,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-89.23333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Antonio Abad",
+    "gn:country_code":"SV",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583861,
+    "gn:latitude":13.71667,
+    "gn:longitude":-89.23333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"San Antonio Abad",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421180907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583861
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4261fbd86691c805e04590f2f88872a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180907,
+            "locality_id":1310099303,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1310099303,
+    "wof:lastmodified":1537004698,
+    "wof:name":"San Antonio Abad",
+    "wof:parent_id":421180907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.23333000000002,
+    13.71667,
+    -89.23333000000002,
+    13.71667
+],
+  "geometry": {"coordinates":[-89.23333000000002,13.71667],"type":"Point"}
+}

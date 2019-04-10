@@ -1,0 +1,130 @@
+{
+  "id": 421203377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001297,
+    "geom:area_square_m":15575961.875928,
+    "geom:bbox":"-88.927088414,13.7467202918,-88.8821528597,13.7954213908",
+    "geom:latitude":13.772502,
+    "geom:longitude":-88.90321,
+    "iso:country":"SV",
+    "lbl:latitude":13.773896,
+    "lbl:longitude":-88.903638,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Cuscatlan",
+    "meso:diss_me":"EL ROSARIOCUSCATLAN",
+    "meso:gadm_admin":"El Rosario",
+    "meso:gadm_hasc2":"SV.CU.ER",
+    "meso:gaul_admin":"El Rosario",
+    "meso:local_id":"04",
+    "meso:local_id_a":"0704",
+    "meso:mps_x":-88.903638,
+    "meso:mps_y":13.773896,
+    "meso:name_en":"El Rosario",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.773896,
+    "mps:longitude":-88.903638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "El Rosario"
+    ],
+    "name:ceb_x_preferred":[
+        "El Rosario"
+    ],
+    "name:eng_x_variant":[
+        "El Rosario"
+    ],
+    "name:fra_x_preferred":[
+        "El Rosario"
+    ],
+    "name:hbs_x_preferred":[
+        "El Rosario"
+    ],
+    "name:ita_x_preferred":[
+        "El Rosario"
+    ],
+    "name:por_x_preferred":[
+        "El Rosario"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0420\u043e\u0441\u0430\u0440\u0438\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "El Rosario"
+    ],
+    "name:spa_x_preferred":[
+        "El Rosario"
+    ],
+    "name:vie_x_preferred":[
+        "El Rosario"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Rosario",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":61164,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808615,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808615,
+        "hasc:id":"SV.CU.ER",
+        "qs:id":61164
+    },
+    "wof:country":"SV",
+    "wof:created":1459010149,
+    "wof:geomhash":"f1af34a84371827f8ffe436fa8c3d0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203377,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":421203377,
+    "wof:lastmodified":1536616152,
+    "wof:name":"El Rosario",
+    "wof:parent_id":85677145,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"ER",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.92708841395239,
+    13.74672029179864,
+    -88.88215285971133,
+    13.79542139076658
+],
+  "geometry": {"coordinates":[[[-88.92364038065833,13.79487069516736],[-88.92245687970693,13.79542139076658],[-88.9130342895332,13.79185286676999],[-88.90971843544443,13.79],[-88.90969405818288,13.79],[-88.90902228901551,13.79028661611702],[-88.89824632190617,13.78981049869715],[-88.89623233013835,13.78623233013897],[-88.89168442456159,13.78168442456221],[-88.88499999999935,13.78125098879113],[-88.88215285971133,13.77936953004626],[-88.88301311982407,13.77415431376255],[-88.88240585096737,13.76129707451598],[-88.88295728552528,13.76102135723703],[-88.88685933158683,13.75660008110161],[-88.89030244122797,13.74730297561143],[-88.89203020307021,13.74672029179864],[-88.90471012835472,13.75315128067656],[-88.90513379800285,13.75993432436153],[-88.92034456303399,13.76276577253389],[-88.92100227622406,13.76504594064211],[-88.9203684618935,13.76985088342007],[-88.92149848518594,13.775],[-88.92126807079654,13.7757056543592],[-88.92708841395239,13.78923252991193],[-88.92364038065833,13.79487069516736]]],"type":"Polygon"}
+}

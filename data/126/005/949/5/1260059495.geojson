@@ -1,0 +1,67 @@
+{
+  "id": 1260059495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.66222,13.59222,-89.66222,13.59222",
+    "geom:latitude":13.59222,
+    "geom:longitude":-89.66222,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Lucas",
+    "gn:country_code":"SV",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583503,
+    "gn:latitude":13.59222,
+    "gn:longitude":-89.66222,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"San Lucas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108694759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583503
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"802c50e5ae6aac5b69ae6d30dcc8d787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694759,
+            "locality_id":1260059495,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1260059495,
+    "wof:lastmodified":1537021677,
+    "wof:name":"San Lucas",
+    "wof:parent_id":1108694759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.66221999999998,
+    13.59222,
+    -89.66221999999998,
+    13.59222
+],
+  "geometry": {"coordinates":[-89.66221999999998,13.59222],"type":"Point"}
+}

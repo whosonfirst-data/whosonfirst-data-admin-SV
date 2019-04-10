@@ -1,0 +1,72 @@
+{
+  "id": 1343570115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.81667,13.83333,-88.81667,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":-88.81667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Quesera",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583986,
+    "gn:latitude":13.83333,
+    "gn:longitude":-88.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quesera",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Quesera",
+        "Quesera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        421184405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583986
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2bad88a490dc8c6890ff40ff0ae84b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184405,
+            "locality_id":1343570115,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1343570115,
+    "wof:lastmodified":1537701448,
+    "wof:name":"Quesera",
+    "wof:parent_id":421184405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.81667,
+    13.83333,
+    -88.81667,
+    13.83333
+],
+  "geometry": {"coordinates":[-88.81667,13.83333],"type":"Point"}
+}

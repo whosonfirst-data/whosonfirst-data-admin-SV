@@ -1,0 +1,75 @@
+{
+  "id": 421186587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.542694,13.85008,-89.542694,13.85008",
+    "geom:latitude":13.85008,
+    "geom:longitude":-89.542694,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Largo de Coatepeque",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Santa Ana",
+    "qs:photos":411,
+    "qs:photos_1k":83,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":411,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1074062,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":78611,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108694775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":78611,
+        "qs:id":1074062
+    },
+    "wof:country":"SV",
+    "wof:created":1459009485,
+    "wof:geomhash":"43b7801942e0349c16246b27fce6b5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694775,
+            "locality_id":421186587,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":421186587,
+    "wof:lastmodified":1500037373,
+    "wof:name":"Largo de Coatepeque",
+    "wof:parent_id":1108694775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.542694,
+    13.85008,
+    -89.542694,
+    13.85008
+],
+  "geometry": {"coordinates":[-89.542694,13.85008],"type":"Point"}
+}

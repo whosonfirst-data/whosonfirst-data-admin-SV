@@ -1,0 +1,72 @@
+{
+  "id": 1259881827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.06667,14.18333,-89.06667,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-89.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rio Grande de Alvarado",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583953,
+    "gn:latitude":14.18333,
+    "gn:longitude":-89.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u00edo Grande de Alvarado",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Grande de Los Alvarado",
+        "R\u00edo Grande de Alvarado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583953
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ec1bef5612e057d267d301bb394b688a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694947,
+            "locality_id":1259881827,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1259881827,
+    "wof:lastmodified":1537701447,
+    "wof:name":"Rio Grande de Alvarado",
+    "wof:parent_id":1108694947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.06667,
+    14.18333,
+    -89.06667,
+    14.18333
+],
+  "geometry": {"coordinates":[-89.06667,14.18333],"type":"Point"}
+}

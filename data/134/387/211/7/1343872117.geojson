@@ -1,0 +1,67 @@
+{
+  "id": 1343872117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.99917,13.69056,-89.99917,13.69056",
+    "geom:latitude":13.69056,
+    "geom:longitude":-89.99917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Barra de Santiago",
+    "gn:country_code":"SV",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810529,
+    "gn:latitude":13.69056,
+    "gn:longitude":-89.99917,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Barra de Santiago",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421204283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810529
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cc78dd5a54ec7878e76085b32b8549d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421204283,
+            "locality_id":1343872117,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1343872117,
+    "wof:lastmodified":1536649439,
+    "wof:name":"Barra de Santiago",
+    "wof:parent_id":421204283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.99916999999998,
+    13.69056,
+    -89.99916999999998,
+    13.69056
+],
+  "geometry": {"coordinates":[-89.99916999999998,13.69056],"type":"Point"}
+}

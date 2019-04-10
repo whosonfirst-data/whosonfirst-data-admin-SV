@@ -1,0 +1,67 @@
+{
+  "id": 1293511013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.78333,13.65,-87.78333,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-87.78333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Llano El Azote",
+    "gn:country_code":"SV",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584727,
+    "gn:latitude":13.65,
+    "gn:longitude":-87.78333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Llano El Azote",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584727
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"825a8be42e72511b3d17827f176e26d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694793,
+            "locality_id":1293511013,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293511013,
+    "wof:lastmodified":1536753166,
+    "wof:name":"Llano El Azote",
+    "wof:parent_id":1108694793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.78333,
+    13.65,
+    -87.78333,
+    13.65
+],
+  "geometry": {"coordinates":[-87.78333000000001,13.65],"type":"Point"}
+}

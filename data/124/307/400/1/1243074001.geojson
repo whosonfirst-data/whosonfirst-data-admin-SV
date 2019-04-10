@@ -1,0 +1,67 @@
+{
+  "id": 1243074001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.09833,13.94556,-89.09833,13.94556",
+    "geom:latitude":13.94556,
+    "geom:longitude":-89.09833,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Zapote",
+    "gn:country_code":"SV",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585793,
+    "gn:latitude":13.94556,
+    "gn:longitude":-89.09833,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"El Zapote",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421175391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585793
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"37b67af3ce7eec93cc0fc06d0d872749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421175391,
+            "locality_id":1243074001,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1243074001,
+    "wof:lastmodified":1536844316,
+    "wof:name":"El Zapote",
+    "wof:parent_id":421175391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.09833,
+    13.94556,
+    -89.09833,
+    13.94556
+],
+  "geometry": {"coordinates":[-89.09833,13.94556],"type":"Point"}
+}

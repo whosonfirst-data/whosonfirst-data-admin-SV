@@ -1,0 +1,67 @@
+{
+  "id": 1310100071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.18472,13.43639,-88.18472,13.43639",
+    "geom:latitude":13.43639,
+    "geom:longitude":-88.18472,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Joya",
+    "gn:country_code":"SV",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735253,
+    "gn:latitude":13.43639,
+    "gn:longitude":-88.18472,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"La Joya",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735253
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"bd4be006d997539f1af9b832f19258f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1310100071,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1310100071,
+    "wof:lastmodified":1537003572,
+    "wof:name":"La Joya",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.18472,
+    13.43639,
+    -88.18472,
+    13.43639
+],
+  "geometry": {"coordinates":[-88.18472,13.43639],"type":"Point"}
+}

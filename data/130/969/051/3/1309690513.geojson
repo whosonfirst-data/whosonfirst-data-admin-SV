@@ -1,0 +1,73 @@
+{
+  "id": 1309690513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.6325,14.19056,-89.6325,14.19056",
+    "geom:latitude":14.19056,
+    "geom:longitude":-89.6325,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Caserio El Amatillo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586758,
+    "gn:latitude":14.19056,
+    "gn:longitude":-89.6325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caser\u00edo El Amatillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Amatillo",
+        "Caser\u00edo Amatillo",
+        "Caser\u00edo El Amatillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108695047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586758
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"305f4e54e196e86b8f41adf64322e73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695047,
+            "locality_id":1309690513,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1309690513,
+    "wof:lastmodified":1537701508,
+    "wof:name":"Caserio El Amatillo",
+    "wof:parent_id":1108695047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.6325,
+    14.19056,
+    -89.6325,
+    14.19056
+],
+  "geometry": {"coordinates":[-89.63249999999999,14.19056],"type":"Point"}
+}

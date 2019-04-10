@@ -1,0 +1,73 @@
+{
+  "id": 1277161121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.16694,13.85917,-89.16694,13.85917",
+    "geom:latitude":13.85917,
+    "geom:longitude":-89.16694,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Calle Nueva",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587196,
+    "gn:latitude":13.85917,
+    "gn:longitude":-89.16694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Calle Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa B\u00e1rbara",
+        "Cant\u00f3n Nueva",
+        "Calle Nueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587196
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"913949a85cdf215b9c1043c5a8dc8c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694809,
+            "locality_id":1277161121,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1277161121,
+    "wof:lastmodified":1537701515,
+    "wof:name":"Calle Nueva",
+    "wof:parent_id":1108694809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.16694,
+    13.85917,
+    -89.16694,
+    13.85917
+],
+  "geometry": {"coordinates":[-89.16694,13.85917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310485209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.45,13.63333,-88.45,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-88.45,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Azacualpia de Gualcho",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587294,
+    "gn:latitude":13.63333,
+    "gn:longitude":-88.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Azacualp\u00eda de Gualcho",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azacualpa de Gualcho",
+        "Azacualpa Gualcho",
+        "Azacualp\u00eda de Gualcho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587294
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"8b753adfc6b0f6ae65e098a4103fcd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694863,
+            "locality_id":1310485209,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1310485209,
+    "wof:lastmodified":1537701516,
+    "wof:name":"Azacualpia de Gualcho",
+    "wof:parent_id":1108694863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.45,
+    13.63333,
+    -88.45,
+    13.63333
+],
+  "geometry": {"coordinates":[-88.45,13.63333],"type":"Point"}
+}

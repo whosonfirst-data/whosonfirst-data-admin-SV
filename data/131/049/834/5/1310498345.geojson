@@ -1,0 +1,72 @@
+{
+  "id": 1310498345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.01667,13.55,-88.01667,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-88.01667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Hojas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584933,
+    "gn:latitude":13.55,
+    "gn:longitude":-88.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Hojas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle Las Hojas",
+        "Las Hojas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584933
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0172b4cac4aa9917450d00a814506057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695101,
+            "locality_id":1310498345,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1310498345,
+    "wof:lastmodified":1537701466,
+    "wof:name":"Las Hojas",
+    "wof:parent_id":1108695101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.01666999999998,
+    13.55,
+    -88.01666999999998,
+    13.55
+],
+  "geometry": {"coordinates":[-88.01666999999998,13.55],"type":"Point"}
+}

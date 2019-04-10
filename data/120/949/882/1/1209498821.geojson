@@ -1,0 +1,61 @@
+{
+  "id": 1209498821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.15083,13.5725,-89.15083,13.5725",
+    "geom:latitude":13.5725,
+    "geom:longitude":-89.15083,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Panchimalquito",
+    "gn:country_code":"SV",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584154,
+    "gn:latitude":13.5725,
+    "gn:longitude":-89.15083,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Panchimalquito",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584154
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"bf6e23722341a2a4953e733ab3aab892",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209498821
+        }
+    ],
+    "wof:id":1209498821,
+    "wof:lastmodified":1536285249,
+    "wof:name":"Panchimalquito",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.15083,
+    13.5725,
+    -89.15083,
+    13.5725
+],
+  "geometry": {"coordinates":[-89.15083,13.5725],"type":"Point"}
+}

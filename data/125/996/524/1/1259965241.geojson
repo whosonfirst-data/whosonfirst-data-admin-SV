@@ -1,0 +1,72 @@
+{
+  "id": 1259965241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.05,13.8,-88.05,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-88.05,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Guapinol",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586432,
+    "gn:latitude":13.8,
+    "gn:longitude":-88.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Guapinol",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guapinol",
+        "El Guapinol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586432
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"837c6c20269a07461d13c484dfb95868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694725,
+            "locality_id":1259965241,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1259965241,
+    "wof:lastmodified":1537701501,
+    "wof:name":"El Guapinol",
+    "wof:parent_id":1108694725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.05,
+    13.8,
+    -88.05,
+    13.8
+],
+  "geometry": {"coordinates":[-88.05,13.8],"type":"Point"}
+}

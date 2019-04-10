@@ -1,0 +1,67 @@
+{
+  "id": 1310123569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01222,13.78778,-90.01222,13.78778",
+    "geom:latitude":13.78778,
+    "geom:longitude":-90.01222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Iravol",
+    "gn:country_code":"SV",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764936,
+    "gn:latitude":13.78778,
+    "gn:longitude":-90.01222,
+    "gn:modification_date":"1998-09-25",
+    "gn:name":"Iravol",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764936
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"10c2654c0854ae83867d4a574ba95082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1310123569,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1310123569,
+    "wof:lastmodified":1536970085,
+    "wof:name":"Iravol",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01222,
+    13.78778,
+    -90.01222,
+    13.78778
+],
+  "geometry": {"coordinates":[-90.01222,13.78778],"type":"Point"}
+}

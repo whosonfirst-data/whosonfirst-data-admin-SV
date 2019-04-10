@@ -1,0 +1,67 @@
+{
+  "id": 1326824617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.98333,13.18333,-87.98333,13.18333",
+    "geom:latitude":13.18333,
+    "geom:longitude":-87.98333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Leona",
+    "gn:country_code":"SV",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585161,
+    "gn:latitude":13.18333,
+    "gn:longitude":-87.98333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"La Leona",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        421172531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585161
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"20705157bab548050fc9cce369bd5e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421172531,
+            "locality_id":1326824617,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1326824617,
+    "wof:lastmodified":1537057280,
+    "wof:name":"La Leona",
+    "wof:parent_id":421172531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.98333000000002,
+    13.18333,
+    -87.98333000000002,
+    13.18333
+],
+  "geometry": {"coordinates":[-87.98333000000002,13.18333],"type":"Point"}
+}

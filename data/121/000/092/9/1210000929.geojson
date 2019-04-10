@@ -1,0 +1,67 @@
+{
+  "id": 1210000929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.26667,13.46667,-88.26667,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-88.26667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Volcan",
+    "gn:country_code":"SV",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585827,
+    "gn:latitude":13.46667,
+    "gn:longitude":-88.26667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Volc\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585827
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9ec8cd3d4d7ef8a33d21d4382f22de48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1210000929,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1210000929,
+    "wof:lastmodified":1536378803,
+    "wof:name":"El Volcan",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.26666999999998,
+    13.46667,
+    -88.26666999999998,
+    13.46667
+],
+  "geometry": {"coordinates":[-88.26666999999998,13.46667],"type":"Point"}
+}

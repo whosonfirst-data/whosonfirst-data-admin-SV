@@ -1,0 +1,72 @@
+{
+  "id": 1292997439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.65722,13.33333,-87.65722,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":-87.65722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Punta Novillo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812087,
+    "gn:latitude":13.33333,
+    "gn:longitude":-87.65722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Punta Novillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa Novillo",
+        "Punta Novillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812087
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c07da7351baa59624a4a8ee1a8a9bd2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1292997439,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1292997439,
+    "wof:lastmodified":1537701520,
+    "wof:name":"Punta Novillo",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.65722,
+    13.33333,
+    -87.65722,
+    13.33333
+],
+  "geometry": {"coordinates":[-87.65722,13.33333],"type":"Point"}
+}

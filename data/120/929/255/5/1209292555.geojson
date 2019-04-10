@@ -1,0 +1,61 @@
+{
+  "id": 1209292555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.44222,13.98972,-89.44222,13.98972",
+    "geom:latitude":13.98972,
+    "geom:longitude":-89.44222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"SV",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733585,
+    "gn:latitude":13.98972,
+    "gn:longitude":-89.44222,
+    "gn:modification_date":"1994-05-03",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733585
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cf1396031271d0d312fe0de70bea1a90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209292555
+        }
+    ],
+    "wof:id":1209292555,
+    "wof:lastmodified":1536291642,
+    "wof:name":"San Francisco",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.44221999999998,
+    13.989720000000002,
+    -89.44221999999998,
+    13.989720000000002
+],
+  "geometry": {"coordinates":[-89.44221999999998,13.98972],"type":"Point"}
+}

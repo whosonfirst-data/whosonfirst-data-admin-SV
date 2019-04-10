@@ -1,0 +1,74 @@
+{
+  "id": 1326809219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.41667,13.41667,-88.41667,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":-88.41667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Nisperal",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586227,
+    "gn:latitude":13.41667,
+    "gn:longitude":-88.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Nisperal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n El Nisperal",
+        "El N\u00edspero",
+        "Canton Espinal",
+        "El Nisperal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108695029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586227
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cbde65d44d167da3e0ea6d369a9ed50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695029,
+            "locality_id":1326809219,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1326809219,
+    "wof:lastmodified":1537701496,
+    "wof:name":"El Nisperal",
+    "wof:parent_id":1108695029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.41667,
+    13.41667,
+    -88.41667,
+    13.41667
+],
+  "geometry": {"coordinates":[-88.41667,13.41667],"type":"Point"}
+}

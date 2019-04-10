@@ -1,0 +1,67 @@
+{
+  "id": 1327252463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.04806,13.47806,-88.04806,13.47806",
+    "geom:latitude":13.47806,
+    "geom:longitude":-88.04806,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Zorral",
+    "gn:country_code":"SV",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735305,
+    "gn:latitude":13.47806,
+    "gn:longitude":-88.04806,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Zorral",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108695091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735305
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"01baa803882ad0661d538600d59772ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695091,
+            "locality_id":1327252463,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1327252463,
+    "wof:lastmodified":1536941245,
+    "wof:name":"El Zorral",
+    "wof:parent_id":1108695091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.04805999999998,
+    13.47806,
+    -88.04805999999998,
+    13.47806
+],
+  "geometry": {"coordinates":[-88.04805999999998,13.47806],"type":"Point"}
+}

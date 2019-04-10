@@ -1,0 +1,76 @@
+{
+  "id": 1108694815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000546,
+    "geom:area_square_m":6557302.018277,
+    "geom:bbox":"-88.9291342751,13.6430069324,-88.8944801118,13.6680969371",
+    "geom:latitude":13.65631,
+    "geom:longitude":-88.910349,
+    "iso:country":"SV",
+    "lbl:latitude":13.659128,
+    "lbl:longitude":-88.910349,
+    "meso:admin1r":"REGION CENTRAL III",
+    "meso:admin_1":"La Paz",
+    "meso:diss_me":"JERUSALENLA PAZ",
+    "meso:gadm_admin":"Jerusal\u00e9n",
+    "meso:gadm_hasc2":"SV.PA.JE",
+    "meso:gaul_admin":"Jerusalen",
+    "meso:local_id":"03",
+    "meso:local_id_a":"0803",
+    "meso:mps_x":-88.910349,
+    "meso:mps_y":13.659128,
+    "meso:name_en":"Jerusalen",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.659128,
+    "mps:longitude":-88.910349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Jerusalen",
+        "Jerusal\u00e9n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.PA.JE"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493171,
+    "wof:geomhash":"faf71e2df21732037d1187c1175f1a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694815,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1108694815,
+    "wof:lastmodified":1536615365,
+    "wof:name":"Jerusalen",
+    "wof:parent_id":85677155,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"JE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.92913427506856,
+    13.64300693235952,
+    -88.89448011182249,
+    13.66809693707017
+],
+  "geometry": {"coordinates":[[[-88.92907144212607,13.65870603979238],[-88.92735717025471,13.66026817231922],[-88.91721559323567,13.66371859676711],[-88.91240868660694,13.66805870022933],[-88.91144789109568,13.66791615370608],[-88.91085713454369,13.66809693707017],[-88.89890062699628,13.66688558982991],[-88.8978225320709,13.65785879593894],[-88.89448011182249,13.65216927225967],[-88.89467188322497,13.64941097235442],[-88.89737129111148,13.64465031820875],[-88.9034286220506,13.64300693235952],[-88.90528071210196,13.64493409255544],[-88.91124987780296,13.65114913938528],[-88.91338487699448,13.65156165839511],[-88.92626481019043,13.64862478316232],[-88.92913427506856,13.65138681231382],[-88.92907144212607,13.65870603979238]]],"type":"Polygon"}
+}

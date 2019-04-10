@@ -1,0 +1,74 @@
+{
+  "id": 1260307281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.9625,13.39861,-87.9625,13.39861",
+    "geom:latitude":13.39861,
+    "geom:longitude":-87.9625,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Terrero Blanco",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582960,
+    "gn:latitude":13.39861,
+    "gn:longitude":-87.9625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Terrero Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Terrero",
+        "Terrero",
+        "Cerro Blanco",
+        "Terrero Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582960
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2e8da8ece97f8189490554e6e9dfa8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694911,
+            "locality_id":1260307281,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1260307281,
+    "wof:lastmodified":1537701428,
+    "wof:name":"Terrero Blanco",
+    "wof:parent_id":1108694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.9625,
+    13.39861,
+    -87.9625,
+    13.39861
+],
+  "geometry": {"coordinates":[-87.96250000000001,13.39861],"type":"Point"}
+}

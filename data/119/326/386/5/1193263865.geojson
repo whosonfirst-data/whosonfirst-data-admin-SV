@@ -1,0 +1,73 @@
+{
+  "id": 1193263865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.9875,13.86222,-87.9875,13.86222",
+    "geom:latitude":13.86222,
+    "geom:longitude":-87.9875,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hondable",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585510,
+    "gn:latitude":13.86222,
+    "gn:longitude":-87.9875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hondable",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuquinca",
+        "El Hondable",
+        "Hondable"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421172671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585510
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"744d5d1a1c76594e3ac4c16073c2a5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421172671,
+            "locality_id":1193263865,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1193263865,
+    "wof:lastmodified":1537701478,
+    "wof:name":"Hondable",
+    "wof:parent_id":421172671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.9875,
+    13.86222,
+    -87.9875,
+    13.86222
+],
+  "geometry": {"coordinates":[-87.9875,13.86222],"type":"Point"}
+}

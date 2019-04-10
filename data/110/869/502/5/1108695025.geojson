@@ -1,0 +1,75 @@
+{
+  "id": 1108695025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000949,
+    "geom:area_square_m":11403837.227118,
+    "geom:bbox":"-88.9824227413,13.6406522347,-88.9290714421,13.669993587",
+    "geom:latitude":13.656956,
+    "geom:longitude":-88.955683,
+    "iso:country":"SV",
+    "lbl:latitude":13.657017,
+    "lbl:longitude":-88.955683,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Cuscatlan",
+    "meso:diss_me":"SANTA CRUZ ANALQUITOCUSCATLAN",
+    "meso:gadm_admin":"Santa Cruz Analquito",
+    "meso:gadm_hasc2":"SV.CU.SA",
+    "meso:gaul_admin":"Santa Cruz Analquito",
+    "meso:local_id":"13",
+    "meso:local_id_a":"0713",
+    "meso:mps_x":-88.955683,
+    "meso:mps_y":13.657017,
+    "meso:name_en":"Santa Cruz Analquito",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.657017,
+    "mps:longitude":-88.955683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Santa Cruz Analquito"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CU.SA"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493371,
+    "wof:geomhash":"15b1b4cb76ea5af3cfc90ab9ab314ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695025,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1108695025,
+    "wof:lastmodified":1536615369,
+    "wof:name":"Santa Cruz Analquito",
+    "wof:parent_id":85677145,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.98242274132791,
+    13.64065223465712,
+    -88.92907144212607,
+    13.66999358704942
+],
+  "geometry": {"coordinates":[[[-88.94458572931423,13.66552818770499],[-88.93023205068694,13.65961715677395],[-88.92907144212607,13.65870603979238],[-88.92913427506856,13.65138681231382],[-88.92975101094768,13.65116087050802],[-88.94358454853841,13.64065223465712],[-88.94939572448368,13.64718291596779],[-88.95692591461921,13.64657485196597],[-88.96204151041525,13.64962265954067],[-88.96303384883015,13.6494979202304],[-88.96690275700547,13.64749493296468],[-88.97805419968553,13.65259398798144],[-88.97797815296603,13.65354090068202],[-88.98242274132791,13.66502614106085],[-88.97978870579979,13.66978870580037],[-88.97912846152317,13.66999358704942],[-88.96679871284316,13.66760402415798],[-88.96586444818705,13.66796980697348],[-88.963572916286,13.66955923419417],[-88.95779067727321,13.66893415733858],[-88.95272066783821,13.66514701498135],[-88.951131249402,13.66438787154278],[-88.94480719969887,13.66540074123879],[-88.94458572931423,13.66552818770499]]],"type":"Polygon"}
+}

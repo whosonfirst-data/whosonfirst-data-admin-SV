@@ -1,0 +1,72 @@
+{
+  "id": 1259691467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.38333,14.13333,-89.38333,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.38333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Ranchos",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584502,
+    "gn:latitude":14.13333,
+    "gn:longitude":-89.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Ranchos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Los Ranchos",
+        "Los Ranchos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421177967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584502
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"591d306e77ab6a2df74aae6f9eba9c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421177967,
+            "locality_id":1259691467,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1259691467,
+    "wof:lastmodified":1537701457,
+    "wof:name":"Los Ranchos",
+    "wof:parent_id":421177967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.38333,
+    14.13333,
+    -89.38333,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.38333,14.13333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259778841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.11667,13.56667,-88.11667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-88.11667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Canada",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585344,
+    "gn:latitude":13.56667,
+    "gn:longitude":-88.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Ca\u00f1ada",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Caba\u00f1a",
+        "La Ca\u00f1ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585344
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e82aecd6eaccb5a2bc19e883f796d9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694777,
+            "locality_id":1259778841,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1259778841,
+    "wof:lastmodified":1537701474,
+    "wof:name":"La Canada",
+    "wof:parent_id":1108694777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.11667,
+    13.56667,
+    -88.11667,
+    13.56667
+],
+  "geometry": {"coordinates":[-88.11667,13.56667],"type":"Point"}
+}

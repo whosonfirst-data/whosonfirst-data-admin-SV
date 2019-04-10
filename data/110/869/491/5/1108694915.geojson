@@ -1,0 +1,75 @@
+{
+  "id": 1108694915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001074,
+    "geom:area_square_m":12886118.314309,
+    "geom:bbox":"-88.9154304439,13.9801975234,-88.8693852603,14.0211535701",
+    "geom:latitude":14.000864,
+    "geom:longitude":-88.894063,
+    "iso:country":"SV",
+    "lbl:latitude":14.001166,
+    "lbl:longitude":-88.895623,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Chalatenango",
+    "meso:diss_me":"SAN ANTONIO LOS RANCHOS",
+    "meso:gadm_admin":"San Antonio Los Ranchos",
+    "meso:gadm_hasc2":"SV.CH.SO",
+    "meso:gaul_admin":"San Antonio Los Ranchos",
+    "meso:local_id":"21",
+    "meso:local_id_a":"0421",
+    "meso:mps_x":-88.895623,
+    "meso:mps_y":14.001166,
+    "meso:name_en":"San Antonio Los Ranchos",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":14.001166,
+    "mps:longitude":-88.895623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "San Antonio Los Ranchos"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CH.SO"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493263,
+    "wof:geomhash":"f5712df46b45b122799dd2f3370bcc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694915,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1108694915,
+    "wof:lastmodified":1536615367,
+    "wof:name":"San Antonio Los Ranchos",
+    "wof:parent_id":85677193,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.9154304439114,
+    13.98019752337791,
+    -88.86938526034702,
+    14.02115357012756
+],
+  "geometry": {"coordinates":[[[-88.90834491298006,14.017939307744],[-88.90349833816838,14.02115357012756],[-88.89625590176641,14.02016039973788],[-88.89025623390181,14.0169511161228],[-88.88905191544249,14.0132878648319],[-88.88544687944457,14.01060508929153],[-88.88385593897286,14.0107114816636],[-88.87254455169246,14.00625277734918],[-88.87265283307813,14.00034444507786],[-88.86938526034702,13.99387407068828],[-88.87036341593718,13.99108260407854],[-88.8720056087155,13.98961054530301],[-88.88672872959425,13.99040316497088],[-88.88832240682939,13.99163188061748],[-88.8986005123766,13.98173699711794],[-88.90047231787639,13.98019841733601],[-88.90236977344107,13.98019752337791],[-88.9056922362924,13.98282507734049],[-88.90750052639068,13.991098384911],[-88.91437808068261,13.99457527115931],[-88.91452292689442,13.99477231773166],[-88.9154304439114,14.00285663552168],[-88.90667961278652,14.00722602778165],[-88.90834491298006,14.017939307744]]],"type":"Polygon"}
+}

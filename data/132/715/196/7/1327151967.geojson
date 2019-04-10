@@ -1,0 +1,67 @@
+{
+  "id": 1327151967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.005,13.85639,-90.005,13.85639",
+    "geom:latitude":13.85639,
+    "geom:longitude":-90.005,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tegal",
+    "gn:country_code":"SV",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765247,
+    "gn:latitude":13.85639,
+    "gn:longitude":-90.005,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Tegal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765247
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"622a5b399caffaa11fe79385ef632a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1327151967,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1327151967,
+    "wof:lastmodified":1537082545,
+    "wof:name":"Tegal",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.005,
+    13.85639,
+    -90.005,
+    13.85639
+],
+  "geometry": {"coordinates":[-90.005,13.85639],"type":"Point"}
+}

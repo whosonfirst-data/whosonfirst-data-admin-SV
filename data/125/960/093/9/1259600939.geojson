@@ -1,0 +1,67 @@
+{
+  "id": 1259600939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.02667,13.76472,-90.02667,13.76472",
+    "geom:latitude":13.76472,
+    "geom:longitude":-90.02667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"El Camalote",
+    "gn:country_code":"SV",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764959,
+    "gn:latitude":13.76472,
+    "gn:longitude":-90.02667,
+    "gn:modification_date":"1998-09-25",
+    "gn:name":"El Camalote",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764959
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e38b523f5818abfa76754cfe04297c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1259600939,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1259600939,
+    "wof:lastmodified":1536689753,
+    "wof:name":"El Camalote",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.02667,
+    13.76472,
+    -90.02667,
+    13.76472
+],
+  "geometry": {"coordinates":[-90.02667,13.76472],"type":"Point"}
+}

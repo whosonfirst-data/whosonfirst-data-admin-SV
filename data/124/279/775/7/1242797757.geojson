@@ -1,0 +1,72 @@
+{
+  "id": 1242797757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06667,13.76667,-88.06667,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-88.06667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Achiote",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586791,
+    "gn:latitude":13.76667,
+    "gn:longitude":-88.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Achiote",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Achote",
+        "El Achiote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586791
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a25feacd4d24c55f85a2e85597db8d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694725,
+            "locality_id":1242797757,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1242797757,
+    "wof:lastmodified":1537701509,
+    "wof:name":"El Achiote",
+    "wof:parent_id":1108694725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06667,
+    13.76667,
+    -88.06667,
+    13.76667
+],
+  "geometry": {"coordinates":[-88.06667,13.76667],"type":"Point"}
+}

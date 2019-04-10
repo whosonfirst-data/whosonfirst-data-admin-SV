@@ -1,0 +1,73 @@
+{
+  "id": 1243428179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21083,13.23528,-88.21083,13.23528",
+    "geom:latitude":13.23528,
+    "geom:longitude":-88.21083,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hoja de Sal",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585520,
+    "gn:latitude":13.23528,
+    "gn:longitude":-88.21083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hoja de Sal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Hoja de Sal",
+        "Hojas de Sal",
+        "Hoja de Sal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585520
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f8f8582fb3ee639b576a53f9894d3c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1243428179,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1243428179,
+    "wof:lastmodified":1537701478,
+    "wof:name":"Hoja de Sal",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21083,
+    13.23528,
+    -88.21083,
+    13.23528
+],
+  "geometry": {"coordinates":[-88.21083,13.23528],"type":"Point"}
+}

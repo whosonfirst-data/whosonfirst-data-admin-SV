@@ -1,0 +1,67 @@
+{
+  "id": 1293099239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.98333,13.85,-88.98333,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":-88.98333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Pepeto",
+    "gn:country_code":"SV",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586146,
+    "gn:latitude":13.85,
+    "gn:longitude":-88.98333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Pepeto",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421191471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586146
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a678e7f776b2689127ac2bb5b7df36d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191471,
+            "locality_id":1293099239,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1293099239,
+    "wof:lastmodified":1536848697,
+    "wof:name":"El Pepeto",
+    "wof:parent_id":421191471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.98333000000002,
+    13.85,
+    -88.98333000000002,
+    13.85
+],
+  "geometry": {"coordinates":[-88.98333000000002,13.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226543981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.04278,13.82833,-90.04278,13.82833",
+    "geom:latitude":13.82833,
+    "geom:longitude":-90.04278,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"SV",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585326,
+    "gn:latitude":13.82833,
+    "gn:longitude":-90.04278,
+    "gn:modification_date":"1998-09-25",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585326
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0a2bb7b4c61c00a8bf9b4951b018942e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1226543981,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1226543981,
+    "wof:lastmodified":1536999803,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.04278000000002,
+    13.82833,
+    -90.04278000000002,
+    13.82833
+],
+  "geometry": {"coordinates":[-90.04278000000002,13.82833],"type":"Point"}
+}

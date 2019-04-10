@@ -1,0 +1,126 @@
+{
+  "id": 421174747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01583,13.84306,-90.01583,13.84306",
+    "geom:latitude":13.84306,
+    "geom:longitude":-90.01583,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u6885\u5ae9\u5fb7\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:eng_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:fra_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:glg_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u30fb\u30e1\u30cd\u30f3\u30c7\u30b9"
+    ],
+    "name:nah_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:nob_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:nor_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u6885\u5ae9\u5fb7\u65af"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583716,
+    "qs:gn_pop":1264,
+    "qs:name":"San Francisco Men\u00e9ndez",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Ahuachap\u00e1n",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":898280,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79552,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583716,
+        "gp:id":79552,
+        "qs:id":898280,
+        "wd:id":"Q766174",
+        "wk:page":"San Francisco Men\u00e9ndez"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009042,
+    "wof:geomhash":"27a74619657cc2f755675d40bc3dc9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":421174747,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":421174747,
+    "wof:lastmodified":1514505784,
+    "wof:name":"San Francisco Men\u00e9ndez",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:population":1264,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01583,
+    13.84306,
+    -90.01583,
+    13.84306
+],
+  "geometry": {"coordinates":[-90.01582999999999,13.84306],"type":"Point"}
+}

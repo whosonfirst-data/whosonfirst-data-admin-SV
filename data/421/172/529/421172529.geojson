@@ -1,0 +1,136 @@
+{
+  "id": 421172529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001385,
+    "geom:area_square_m":16637990.423819,
+    "geom:bbox":"-88.928871933,13.7060362429,-88.8843069823,13.7627657725",
+    "geom:latitude":13.732707,
+    "geom:longitude":-88.90659,
+    "iso:country":"SV",
+    "lbl:latitude":13.732178,
+    "lbl:longitude":-88.908447,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Cuscatlan",
+    "meso:diss_me":"EL CARMENCUSCATLAN",
+    "meso:gadm_admin":"El Carmen",
+    "meso:gadm_hasc2":"SV.CU.EC",
+    "meso:gaul_admin":"El Carmen",
+    "meso:local_id":"03",
+    "meso:local_id_a":"0703",
+    "meso:mps_x":-88.908447,
+    "meso:mps_y":13.732178,
+    "meso:name_en":"El Carmen",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.732178,
+    "mps:longitude":-88.908447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "El Carmen"
+    ],
+    "name:deu_x_preferred":[
+        "El Carmen"
+    ],
+    "name:eng_x_variant":[
+        "El Carmen"
+    ],
+    "name:est_x_preferred":[
+        "El Carmen"
+    ],
+    "name:fra_x_preferred":[
+        "El Carmen"
+    ],
+    "name:ita_x_preferred":[
+        "El Carmen"
+    ],
+    "name:nld_x_preferred":[
+        "El Carmen"
+    ],
+    "name:pol_x_preferred":[
+        "El Carmen"
+    ],
+    "name:por_x_preferred":[
+        "El Carmen"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u0440\u043c\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "El Carmen"
+    ],
+    "name:spa_x_preferred":[
+        "El Carmen"
+    ],
+    "name:vie_x_preferred":[
+        "El Carmen"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Carmen",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Uni\u00f3n",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":47,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1313069,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808641,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808641,
+        "hasc:id":"SV.CU.EC",
+        "qs:id":1313069
+    },
+    "wof:country":"SV",
+    "wof:created":1459008946,
+    "wof:geomhash":"21694d81d035eb07c58c3682a16f31b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421172529,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":421172529,
+    "wof:lastmodified":1536615943,
+    "wof:name":"El Carmen",
+    "wof:parent_id":85677145,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"EC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.92887193303731,
+    13.70603624287472,
+    -88.88430698228244,
+    13.76276577253389
+],
+  "geometry": {"coordinates":[[[-88.92274418715455,13.75663590530031],[-88.92034456303399,13.76276577253389],[-88.90513379800285,13.75993432436153],[-88.90471012835472,13.75315128067656],[-88.89203020307021,13.74672029179864],[-88.89784567469815,13.73781431002979],[-88.89305154720822,13.73049230989976],[-88.89291828435145,13.73030242235927],[-88.8910813366892,13.72816961782779],[-88.88958710048681,13.72644026612726],[-88.8893458410478,13.72386687301921],[-88.88789430367882,13.72266514391619],[-88.88430698228244,13.70603624287472],[-88.90529913035658,13.70768605142238],[-88.90568263777013,13.70801949437034],[-88.90765483383322,13.70877640836612],[-88.91016504200303,13.71870670196014],[-88.91737400894858,13.72382883098343],[-88.92202630381304,13.72335145638357],[-88.92757183061033,13.72730155562657],[-88.92887193303731,13.73759174087398],[-88.92752219911524,13.73894866101716],[-88.91597785733539,13.74298612151506],[-88.92274418715455,13.75663590530031]]],"type":"Polygon"}
+}

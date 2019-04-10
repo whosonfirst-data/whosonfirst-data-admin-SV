@@ -1,0 +1,67 @@
+{
+  "id": 1226546157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.96667,13.76667,-88.96667,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-88.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Animas",
+    "gn:country_code":"SV",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587366,
+    "gn:latitude":13.76667,
+    "gn:longitude":-88.96667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"\u00c1nimas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        1108695027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587366
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5079dc9494f1d67a02c0bd6b9d2254cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695027,
+            "locality_id":1226546157,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1226546157,
+    "wof:lastmodified":1536996614,
+    "wof:name":"Animas",
+    "wof:parent_id":1108695027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.96667,
+    13.76667,
+    -88.96667,
+    13.76667
+],
+  "geometry": {"coordinates":[-88.96666999999999,13.76667],"type":"Point"}
+}

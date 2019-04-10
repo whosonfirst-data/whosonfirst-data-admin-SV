@@ -1,0 +1,73 @@
+{
+  "id": 1343345057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.22222,13.25361,-88.22222,13.25361",
+    "geom:latitude":13.25361,
+    "geom:longitude":-88.22222,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Salamo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585986,
+    "gn:latitude":13.25361,
+    "gn:longitude":-88.22222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El S\u00e1lamo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salamo",
+        "Caser\u00edo Salamo",
+        "El S\u00e1lamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421184409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585986
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7f798143bd282cd30ad35eb35b814b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184409,
+            "locality_id":1343345057,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1343345057,
+    "wof:lastmodified":1537701491,
+    "wof:name":"El Salamo",
+    "wof:parent_id":421184409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.22222,
+    13.25361,
+    -88.22222,
+    13.25361
+],
+  "geometry": {"coordinates":[-88.22221999999999,13.25361],"type":"Point"}
+}

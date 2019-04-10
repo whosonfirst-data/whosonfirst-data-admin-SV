@@ -1,0 +1,93 @@
+{
+  "id": 1126090385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.25,13.7,-89.25,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-89.25,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"SV",
+    "lbl:latitude":13.7,
+    "lbl:longitude":-89.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3586964,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colonia San Benito",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"San Salvador",
+    "qs_pg:photos":1132,
+    "qs_pg:photos_1k":229,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1132,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082598,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":77103,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424807,
+    "woe:name_adm0":"El Salvador",
+    "woe:name_adm1":"San Salvador",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85677163,
+        102191575,
+        85632545,
+        421180907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586964,
+        "gp:id":77103,
+        "qs_pg:id":1082598
+    },
+    "wof:country":"SV",
+    "wof:created":1497313627,
+    "wof:geomhash":"56d5e66eb848916b1711e54d2aa5bc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180907,
+            "locality_id":-1,
+            "neighbourhood_id":1126090385,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1126090385,
+    "wof:lastmodified":1534379463,
+    "wof:name":"Colonia San Benito",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[
+        85793849
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.25,
+    13.7,
+    -89.25,
+    13.7
+],
+  "geometry": {"coordinates":[-89.25,13.7],"type":"Point"}
+}

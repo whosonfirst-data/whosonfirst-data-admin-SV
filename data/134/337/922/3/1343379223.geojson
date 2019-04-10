@@ -1,0 +1,67 @@
+{
+  "id": 1343379223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.19861,13.53472,-89.19861,13.53472",
+    "geom:latitude":13.53472,
+    "geom:longitude":-89.19861,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Barrosas",
+    "gn:country_code":"SV",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585018,
+    "gn:latitude":13.53472,
+    "gn:longitude":-89.19861,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Las Barrosas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585018
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"510945c13094e1d8088cabed32a9b667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694901,
+            "locality_id":1343379223,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1343379223,
+    "wof:lastmodified":1536862045,
+    "wof:name":"Las Barrosas",
+    "wof:parent_id":1108694901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.19861,
+    13.53472,
+    -89.19861,
+    13.53472
+],
+  "geometry": {"coordinates":[-89.19861,13.53472],"type":"Point"}
+}

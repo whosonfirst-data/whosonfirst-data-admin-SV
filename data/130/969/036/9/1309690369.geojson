@@ -1,0 +1,72 @@
+{
+  "id": 1309690369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.55,14.35,-89.55,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":-89.55,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Amatal",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586776,
+    "gn:latitude":14.35,
+    "gn:longitude":-89.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Amatal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Puntito",
+        "El Amatal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586776
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"bd4854fffc1b3e466fcde8b304a6b463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1309690369,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1309690369,
+    "wof:lastmodified":1537701508,
+    "wof:name":"El Amatal",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.55,
+    14.35,
+    -89.55,
+    14.35
+],
+  "geometry": {"coordinates":[-89.55,14.35],"type":"Point"}
+}

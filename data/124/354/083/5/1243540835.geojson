@@ -1,0 +1,72 @@
+{
+  "id": 1243540835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.72,13.76722,-89.72,13.76722",
+    "geom:latitude":13.76722,
+    "geom:longitude":-89.72,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pushtan",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583994,
+    "gn:latitude":13.76722,
+    "gn:longitude":-89.72,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pusht\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pucht\u00e1n",
+        "Pusht\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421205339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583994
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"75b7b5f9edca2190bdf5d289e1dd965d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421205339,
+            "locality_id":1243540835,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1243540835,
+    "wof:lastmodified":1537701448,
+    "wof:name":"Pushtan",
+    "wof:parent_id":421205339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.72,
+    13.76722,
+    -89.72,
+    13.76722
+],
+  "geometry": {"coordinates":[-89.72,13.76722],"type":"Point"}
+}

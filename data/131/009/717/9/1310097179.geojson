@@ -1,0 +1,67 @@
+{
+  "id": 1310097179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.95,13.28333,-87.95,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":-87.95,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Portillo",
+    "gn:country_code":"SV",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586097,
+    "gn:latitude":13.28333,
+    "gn:longitude":-87.95,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Portillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586097
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"20fcc4b2bcc78ee4f24a2fc22653bae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694771,
+            "locality_id":1310097179,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1310097179,
+    "wof:lastmodified":1537007797,
+    "wof:name":"El Portillo",
+    "wof:parent_id":1108694771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.95,
+    13.28333,
+    -87.95,
+    13.28333
+],
+  "geometry": {"coordinates":[-87.95,13.28333],"type":"Point"}
+}

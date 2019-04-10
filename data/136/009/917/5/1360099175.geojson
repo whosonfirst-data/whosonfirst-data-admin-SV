@@ -1,0 +1,67 @@
+{
+  "id": 1360099175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01,13.92556,-90.01,13.92556",
+    "geom:latitude":13.92556,
+    "geom:longitude":-90.01,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"La Angostura",
+    "gn:country_code":"SV",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765218,
+    "gn:latitude":13.92556,
+    "gn:longitude":-90.01,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"La Angostura",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421193371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765218
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"afa316383e58b1749bd56c4e8ae9d9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421193371,
+            "locality_id":1360099175,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1360099175,
+    "wof:lastmodified":1536925935,
+    "wof:name":"La Angostura",
+    "wof:parent_id":421193371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01,
+    13.92556,
+    -90.01,
+    13.92556
+],
+  "geometry": {"coordinates":[-90.01000000000001,13.92556],"type":"Point"}
+}

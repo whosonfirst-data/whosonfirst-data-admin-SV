@@ -1,0 +1,72 @@
+{
+  "id": 1226247599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.24278,13.60417,-89.24278,13.60417",
+    "geom:latitude":13.60417,
+    "geom:longitude":-89.24278,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ojos de Agua",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584221,
+    "gn:latitude":13.60417,
+    "gn:longitude":-89.24278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ojos de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ojo de Agua",
+        "Ojos de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584221
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c0aea52f324cfe8037fccb73744f4967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694811,
+            "locality_id":1226247599,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1226247599,
+    "wof:lastmodified":1537701452,
+    "wof:name":"Ojos de Agua",
+    "wof:parent_id":1108694811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.24278000000002,
+    13.60417,
+    -89.24278000000002,
+    13.60417
+],
+  "geometry": {"coordinates":[-89.24278000000002,13.60417],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293210089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.81417,13.84861,-89.81417,13.84861",
+    "geom:latitude":13.84861,
+    "geom:longitude":-89.81417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Quezalapa",
+    "gn:country_code":"SV",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583983,
+    "gn:latitude":13.84861,
+    "gn:longitude":-89.81417,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Quezalapa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421186439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583983,
+        "wk:page":"Quezalapa"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2f876334a02fc00e0570d742e7036b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421186439,
+            "locality_id":1293210089,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1293210089,
+    "wof:lastmodified":1537573772,
+    "wof:name":"Quezalapa",
+    "wof:parent_id":421186439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.81416999999998,
+    13.84861,
+    -89.81416999999998,
+    13.84861
+],
+  "geometry": {"coordinates":[-89.81416999999998,13.84861],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 421172625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.392147,13.493026,-89.392147,13.493026",
+    "geom:latitude":13.493026,
+    "geom:longitude":-89.392147,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Tamanique"
+    ],
+    "name:por_x_preferred":[
+        "Tamanique"
+    ],
+    "name:spa_x_preferred":[
+        "Tamanique"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tamanique",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":638,
+    "qs:photos_1k":129,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":638,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1314860,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808609,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808609,
+        "qs:id":1314860,
+        "wd:id":"Q3980556"
+    },
+    "wof:country":"SV",
+    "wof:created":1459008949,
+    "wof:geomhash":"7b913077f046602df2e03c15c3349a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "county_id":421172625
+        }
+    ],
+    "wof:id":421172625,
+    "wof:lastmodified":1527716306,
+    "wof:name":"Tamanique",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.392147,
+    13.493026,
+    -89.392147,
+    13.493026
+],
+  "geometry": {"coordinates":[-89.39214699999999,13.493026],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327115613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.51667,14.03333,-89.51667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-89.51667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hacienda San Cayetano",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585556,
+    "gn:latitude":14.03333,
+    "gn:longitude":-89.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda San Cayetano",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Cayetano",
+        "Hacienda San Cayetano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421166707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585556
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"56d27ed5b79443c1f1aed7da422e2fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421166707,
+            "locality_id":1327115613,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1327115613,
+    "wof:lastmodified":1537701479,
+    "wof:name":"Hacienda San Cayetano",
+    "wof:parent_id":421166707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.51666999999998,
+    14.03333,
+    -89.51666999999998,
+    14.03333
+],
+  "geometry": {"coordinates":[-89.51666999999998,14.03333],"type":"Point"}
+}

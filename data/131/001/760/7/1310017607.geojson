@@ -1,0 +1,72 @@
+{
+  "id": 1310017607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36667,14.1,-89.36667,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":-89.36667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Potrero Sula",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584018,
+    "gn:latitude":14.1,
+    "gn:longitude":-89.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Potrero Sula",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle el Potrero",
+        "Potrero Sula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421177967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584018
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"93b624da5604f2f50add4b56f3667bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421177967,
+            "locality_id":1310017607,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1310017607,
+    "wof:lastmodified":1537701449,
+    "wof:name":"Potrero Sula",
+    "wof:parent_id":421177967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36667,
+    14.1,
+    -89.36667,
+    14.1
+],
+  "geometry": {"coordinates":[-89.36667,14.1],"type":"Point"}
+}

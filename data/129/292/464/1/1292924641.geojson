@@ -1,0 +1,67 @@
+{
+  "id": 1292924641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23694,13.48972,-88.23694,13.48972",
+    "geom:latitude":13.48972,
+    "geom:longitude":-88.23694,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"SV",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735238,
+    "gn:latitude":13.48972,
+    "gn:longitude":-88.23694,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735238
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"13e0c7d2f1533541f64802926b7ef1bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1292924641,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1292924641,
+    "wof:lastmodified":1536601206,
+    "wof:name":"La Cruz",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23694,
+    13.48972,
+    -88.23694,
+    13.48972
+],
+  "geometry": {"coordinates":[-88.23694,13.48972],"type":"Point"}
+}

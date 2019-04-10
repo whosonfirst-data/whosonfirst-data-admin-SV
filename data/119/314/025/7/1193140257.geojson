@@ -1,0 +1,67 @@
+{
+  "id": 1193140257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83333,13.95,-88.83333,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-88.83333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Limon",
+    "gn:country_code":"SV",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586315,
+    "gn:latitude":13.95,
+    "gn:longitude":-88.83333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108694823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586315
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a370a0111baf961eb7752112f6c42c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694823,
+            "locality_id":1193140257,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1193140257,
+    "wof:lastmodified":1536366498,
+    "wof:name":"El Limon",
+    "wof:parent_id":1108694823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.83333,
+    13.95,
+    -88.83333,
+    13.95
+],
+  "geometry": {"coordinates":[-88.83333,13.95],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 421181033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.66222,13.72361,-89.66222,13.72361",
+    "geom:latitude":13.72361,
+    "geom:longitude":-89.66222,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5361\u76e7\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Caluco"
+    ],
+    "name:dut_x_preferred":[
+        "Caluco"
+    ],
+    "name:eng_x_preferred":[
+        "Caluco"
+    ],
+    "name:fre_x_preferred":[
+        "Caluco"
+    ],
+    "name:ger_x_preferred":[
+        "Caluco"
+    ],
+    "name:ita_x_preferred":[
+        "Caluco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30b3"
+    ],
+    "name:por_x_preferred":[
+        "Caluco"
+    ],
+    "name:spa_x_preferred":[
+        "Caluco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u76e7\u79d1"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3587192,
+    "qs:gn_pop":0,
+    "qs:name":"Caluco",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":474643,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":76955,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421189151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587192,
+        "gp:id":76955,
+        "qs:id":474643,
+        "wd:id":"Q985418",
+        "wk:page":"Caluco"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009282,
+    "wof:geomhash":"d4f676dd8db4dcad1bef3e556f8c8259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189151,
+            "locality_id":421181033,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421181033,
+    "wof:lastmodified":1553816370,
+    "wof:name":"Caluco",
+    "wof:parent_id":421189151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.66222,
+    13.72361,
+    -89.66222,
+    13.72361
+],
+  "geometry": {"coordinates":[-89.66222,13.72361],"type":"Point"}
+}

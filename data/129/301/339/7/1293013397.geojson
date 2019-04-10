@@ -1,0 +1,73 @@
+{
+  "id": 1293013397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83333,13.85,-88.83333,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":-88.83333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Llanitos",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584580,
+    "gn:latitude":13.85,
+    "gn:longitude":-88.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Llanitos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda los Naranjos",
+        "Los Naranjos",
+        "Los Llanitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        421184405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584580
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d00900524e9d6ad0908fa880841c2bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184405,
+            "locality_id":1293013397,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1293013397,
+    "wof:lastmodified":1537701458,
+    "wof:name":"Los Llanitos",
+    "wof:parent_id":421184405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.83333,
+    13.85,
+    -88.83333,
+    13.85
+],
+  "geometry": {"coordinates":[-88.83333,13.85],"type":"Point"}
+}

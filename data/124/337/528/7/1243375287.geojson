@@ -1,0 +1,72 @@
+{
+  "id": 1243375287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.03333,14.26667,-89.03333,14.26667",
+    "geom:latitude":14.26667,
+    "geom:longitude":-89.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Juan de La Cruz",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583544,
+    "gn:latitude":14.26667,
+    "gn:longitude":-89.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan de La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan la Cruz",
+        "San Juan de La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583544
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b8b3bd88f1b61d6c5db2768cc4621368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694937,
+            "locality_id":1243375287,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1243375287,
+    "wof:lastmodified":1537701438,
+    "wof:name":"San Juan de La Cruz",
+    "wof:parent_id":1108694937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.03333,
+    14.26667,
+    -89.03333,
+    14.26667
+],
+  "geometry": {"coordinates":[-89.03333000000001,14.26667],"type":"Point"}
+}

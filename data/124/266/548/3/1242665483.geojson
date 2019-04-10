@@ -1,0 +1,72 @@
+{
+  "id": 1242665483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.53333,13.9,-89.53333,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":-89.53333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Las Aradas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585022,
+    "gn:latitude":13.9,
+    "gn:longitude":-89.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Aradas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Las Aradas",
+        "Las Aradas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421190155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585022
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"04c8e291f5b3ae716656d8f57a111c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421190155,
+            "locality_id":1242665483,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1242665483,
+    "wof:lastmodified":1537701467,
+    "wof:name":"Las Aradas",
+    "wof:parent_id":421190155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.53333,
+    13.9,
+    -89.53333,
+    13.9
+],
+  "geometry": {"coordinates":[-89.53333000000001,13.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260266449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21528,13.26833,-88.21528,13.26833",
+    "geom:latitude":13.26833,
+    "geom:longitude":-88.21528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Zacatoso",
+    "gn:country_code":"SV",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734868,
+    "gn:latitude":13.26833,
+    "gn:longitude":-88.21528,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Zacatoso",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421184409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734868
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ec75f37d7eadc27fe4264b5c71b10b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184409,
+            "locality_id":1260266449,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1260266449,
+    "wof:lastmodified":1536734917,
+    "wof:name":"El Zacatoso",
+    "wof:parent_id":421184409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21528,
+    13.26833,
+    -88.21528,
+    13.26833
+],
+  "geometry": {"coordinates":[-88.21528000000001,13.26833],"type":"Point"}
+}

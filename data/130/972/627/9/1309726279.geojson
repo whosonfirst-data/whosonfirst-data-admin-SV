@@ -1,0 +1,73 @@
+{
+  "id": 1309726279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.96667,13.81667,-89.96667,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-89.96667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"San Benito",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583819,
+    "gn:latitude":13.81667,
+    "gn:longitude":-89.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Benito",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle San Benito",
+        "Valle de San Benito",
+        "San Benito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583819
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"6e37a6211065a27fa09051df630ee428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1309726279,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1309726279,
+    "wof:lastmodified":1537701444,
+    "wof:name":"San Benito",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.96667,
+    13.81667,
+    -89.96667,
+    13.81667
+],
+  "geometry": {"coordinates":[-89.96666999999999,13.81667],"type":"Point"}
+}

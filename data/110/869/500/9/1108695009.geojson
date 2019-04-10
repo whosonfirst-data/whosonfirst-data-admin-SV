@@ -1,0 +1,76 @@
+{
+  "id": 1108695009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000954,
+    "geom:area_square_m":11456871.65132,
+    "geom:bbox":"-88.9445857293,13.6587060398,-88.9124086866,13.7016575666",
+    "geom:latitude":13.680044,
+    "geom:longitude":-88.928657,
+    "iso:country":"SV",
+    "lbl:latitude":13.681077,
+    "lbl:longitude":-88.930266,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Cuscatlan",
+    "meso:diss_me":"SAN RAMONCUSCATLAN",
+    "meso:gadm_admin":"San Ram\u00f3n",
+    "meso:gadm_hasc2":"SV.CU.SR",
+    "meso:gaul_admin":"San Ramon",
+    "meso:local_id":"12",
+    "meso:local_id_a":"0712",
+    "meso:mps_x":-88.930266,
+    "meso:mps_y":13.681077,
+    "meso:name_en":"San Ramon",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.681077,
+    "mps:longitude":-88.930266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "San Ramon",
+        "San Ram\u00f3n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CU.SR"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493358,
+    "wof:geomhash":"dac6ed80d2d2ab13693e3c55828f844a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695009,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1108695009,
+    "wof:lastmodified":1536615368,
+    "wof:name":"San Ramon",
+    "wof:parent_id":85677145,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.94458572931423,
+    13.65870603979238,
+    -88.91240868660694,
+    13.70165756662738
+],
+  "geometry": {"coordinates":[[[-88.94157948841008,13.6974597557003],[-88.9395274922139,13.69966704403794],[-88.93899636400269,13.69991926826001],[-88.92530713164787,13.69823546901851],[-88.91920781214473,13.70165756662738],[-88.91322729681401,13.68639979368451],[-88.91968746657075,13.68034207946026],[-88.91982854965086,13.67926668260326],[-88.91945830408997,13.67816165730149],[-88.91240868660694,13.66805870022933],[-88.91721559323567,13.66371859676711],[-88.92735717025471,13.66026817231922],[-88.92907144212607,13.65870603979238],[-88.93023205068694,13.65961715677395],[-88.94458572931423,13.66552818770499],[-88.94059895930104,13.67701118936374],[-88.94025000339332,13.67745593289318],[-88.9402628285373,13.67807417645252],[-88.94128230540008,13.6806382102225],[-88.94136461585569,13.68121315212082],[-88.93982271381694,13.69217424018922],[-88.94157948841008,13.6974597557003]]],"type":"Polygon"}
+}

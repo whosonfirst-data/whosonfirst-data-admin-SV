@@ -1,0 +1,68 @@
+{
+  "id": 1259461091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.60667,14.18306,-89.60667,14.18306",
+    "geom:latitude":14.18306,
+    "geom:longitude":-89.60667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Santiago de La Frontera",
+    "gn:country_code":"SV",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583201,
+    "gn:latitude":14.18306,
+    "gn:longitude":-89.60667,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Santiago de La Frontera",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108695047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583201,
+        "wk:page":"Santiago_de_la_Frontera"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0521ce996040f07c9844b377a83c77d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695047,
+            "locality_id":1259461091,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1259461091,
+    "wof:lastmodified":1537573769,
+    "wof:name":"Santiago de La Frontera",
+    "wof:parent_id":1108695047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.60667,
+    14.18306,
+    -89.60667,
+    14.18306
+],
+  "geometry": {"coordinates":[-89.60666999999999,14.18306],"type":"Point"}
+}

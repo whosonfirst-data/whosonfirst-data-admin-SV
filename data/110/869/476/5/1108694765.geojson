@@ -1,0 +1,76 @@
+{
+  "id": 1108694765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001033,
+    "geom:area_square_m":12420448.56358,
+    "geom:bbox":"-89.1098775223,13.5150911086,-89.0760943849,13.5671690298",
+    "geom:latitude":13.541952,
+    "geom:longitude":-89.092619,
+    "iso:country":"SV",
+    "lbl:latitude":13.545752,
+    "lbl:longitude":-89.092871,
+    "meso:admin1r":"REGION CENTRAL III",
+    "meso:admin_1":"La Paz",
+    "meso:diss_me":"CUYULTITANLA PAZ",
+    "meso:gadm_admin":"Cuyultit\u00e1n",
+    "meso:gadm_hasc2":"SV.PA.CU",
+    "meso:gaul_admin":"Cuyultitan",
+    "meso:local_id":"01",
+    "meso:local_id_a":"0801",
+    "meso:mps_x":-89.092871,
+    "meso:mps_y":13.545752,
+    "meso:name_en":"Cuyultitan",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.545752,
+    "mps:longitude":-89.092871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Cuyultitan",
+        "Cuyultit\u00e1n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.PA.CU"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493120,
+    "wof:geomhash":"0597a6f2f432e062bb01428aa0ad1ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694765,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1108694765,
+    "wof:lastmodified":1536615365,
+    "wof:name":"Cuyultitan",
+    "wof:parent_id":85677155,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"CU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.10987752231675,
+    13.51509110855176,
+    -89.0760943848829,
+    13.56716902981029
+],
+  "geometry": {"coordinates":[[[-89.09573155378048,13.56716902981029],[-89.087521520031,13.56296301678069],[-89.08599645778982,13.5585748980804],[-89.07999999999946,13.55361302367848],[-89.07999999999946,13.54535382853747],[-89.07984223060899,13.545],[-89.07999999999946,13.54188507934761],[-89.07999999999946,13.54169983213946],[-89.08434608281057,13.53336643626202],[-89.0765576078167,13.52290985157946],[-89.07609438488289,13.5214784755507],[-89.07777624658441,13.51509110855176],[-89.08956920729179,13.51965656407752],[-89.09286882323322,13.52273734787509],[-89.09949578179042,13.52259891011755],[-89.10375883430167,13.53763344325505],[-89.10344384461916,13.53825707428714],[-89.10597337689057,13.5422380939591],[-89.1097922157613,13.54668016417457],[-89.10987752231675,13.54695601273066],[-89.10838839845418,13.55806852547864],[-89.10294535659573,13.55889133978384],[-89.09573155378048,13.56716902981029]]],"type":"Polygon"}
+}

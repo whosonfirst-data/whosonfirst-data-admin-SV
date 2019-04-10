@@ -1,0 +1,126 @@
+{
+  "id": 421186393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.11861,13.78111,-89.11861,13.78111",
+    "geom:latitude":13.78111,
+    "geom:longitude":-89.11861,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_variant":[
+        "\u0422\u0430\u043d\u0430\u043a\u0430\u0442\u044d\u043f\u044d\u043a\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u6258\u7d0d\u5361\u7279\u4f69\u514b"
+    ],
+    "name:deu_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:dut_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:eng_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:fra_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:fre_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:ger_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:ita_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:nld_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:pol_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:por_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:spa_x_preferred":[
+        "Tonacatepeque"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043d\u0430\u043a\u0430\u0442\u0435\u043f\u0435\u043a\u0432\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u7d0d\u5361\u7279\u4f69\u514b"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3582918,
+    "qs:gn_pop":6245,
+    "qs:name":"Tonacatepeque",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1340879,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":80106,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421203743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582918,
+        "gp:id":80106,
+        "qs:id":1340879,
+        "wd:id":"Q1003568",
+        "wk:page":"Tonacatepeque"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009479,
+    "wof:geomhash":"bf40e5305d8dcfbf9527a14b35bfead6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203743,
+            "locality_id":421186393,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421186393,
+    "wof:lastmodified":1514505803,
+    "wof:name":"Tonacatepeque",
+    "wof:parent_id":421203743,
+    "wof:placetype":"locality",
+    "wof:population":6245,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.11861,
+    13.78111,
+    -89.11861,
+    13.78111
+],
+  "geometry": {"coordinates":[-89.11861,13.78111],"type":"Point"}
+}

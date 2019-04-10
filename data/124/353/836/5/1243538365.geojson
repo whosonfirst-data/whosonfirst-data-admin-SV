@@ -1,0 +1,73 @@
+{
+  "id": 1243538365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.23333,14.05,-89.23333,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":-89.23333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Antonio Grande",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583848,
+    "gn:latitude":14.05,
+    "gn:longitude":-89.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio Grande",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n San Antonio Grande",
+        "San Antonio",
+        "San Antonio Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421177967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583848
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a6108cc1d6e61cdeea1f9f6babdfe9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421177967,
+            "locality_id":1243538365,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1243538365,
+    "wof:lastmodified":1537701444,
+    "wof:name":"San Antonio Grande",
+    "wof:parent_id":421177967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.23333000000002,
+    14.05,
+    -89.23333000000002,
+    14.05
+],
+  "geometry": {"coordinates":[-89.23333000000002,14.05],"type":"Point"}
+}

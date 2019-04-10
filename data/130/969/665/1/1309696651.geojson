@@ -1,0 +1,67 @@
+{
+  "id": 1309696651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.31667,13.55,-88.31667,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-88.31667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Valencia",
+    "gn:country_code":"SV",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582875,
+    "gn:latitude":13.55,
+    "gn:longitude":-88.31667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Valencia",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582875
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"39935810c7db393a2a4e9707194e9fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694839,
+            "locality_id":1309696651,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1309696651,
+    "wof:lastmodified":1537085336,
+    "wof:name":"Valencia",
+    "wof:parent_id":1108694839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.31667,
+    13.55,
+    -88.31667,
+    13.55
+],
+  "geometry": {"coordinates":[-88.31667,13.55],"type":"Point"}
+}

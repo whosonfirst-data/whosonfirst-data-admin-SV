@@ -1,0 +1,76 @@
+{
+  "id": 1310211327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.95,13.81667,-88.95,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-88.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rosario Tablon",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583934,
+    "gn:latitude":13.81667,
+    "gn:longitude":-88.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rosario Tabl\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Rosario Tabl\u00f3n",
+        "Prisma",
+        "El Rosario",
+        "Rosario Toblon",
+        "Rosas",
+        "Rosario Tabl\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421191471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583934
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"94d05e1bc33265dac3beb14c017fc70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191471,
+            "locality_id":1310211327,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1310211327,
+    "wof:lastmodified":1537701446,
+    "wof:name":"Rosario Tablon",
+    "wof:parent_id":421191471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.95,
+    13.81667,
+    -88.95,
+    13.81667
+],
+  "geometry": {"coordinates":[-88.95,13.81667],"type":"Point"}
+}

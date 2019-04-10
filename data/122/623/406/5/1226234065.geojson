@@ -1,0 +1,67 @@
+{
+  "id": 1226234065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06556,13.20972,-88.06556,13.20972",
+    "geom:latitude":13.20972,
+    "geom:longitude":-88.06556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Jicarito",
+    "gn:country_code":"SV",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735177,
+    "gn:latitude":13.20972,
+    "gn:longitude":-88.06556,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El J\u00edcarito",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        421172531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735177
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5e27effa9414e1631e3010ca9292a086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421172531,
+            "locality_id":1226234065,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1226234065,
+    "wof:lastmodified":1536950733,
+    "wof:name":"El Jicarito",
+    "wof:parent_id":421172531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06555999999998,
+    13.20972,
+    -88.06555999999998,
+    13.20972
+],
+  "geometry": {"coordinates":[-88.06555999999998,13.20972],"type":"Point"}
+}

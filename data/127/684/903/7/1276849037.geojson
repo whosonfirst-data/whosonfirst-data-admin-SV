@@ -1,0 +1,67 @@
+{
+  "id": 1276849037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.43333,14.41667,-89.43333,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":-89.43333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Paso de La Ceiba",
+    "gn:country_code":"SV",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584135,
+    "gn:latitude":14.41667,
+    "gn:longitude":-89.43333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Paso de La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421185527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584135
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"da362518cc397e83ad72bee7c10e5d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185527,
+            "locality_id":1276849037,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1276849037,
+    "wof:lastmodified":1537079292,
+    "wof:name":"Paso de La Ceiba",
+    "wof:parent_id":421185527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.43333,
+    14.41667,
+    -89.43333,
+    14.41667
+],
+  "geometry": {"coordinates":[-89.43333,14.41667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243368429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.29833,13.81778,-89.29833,13.81778",
+    "geom:latitude":13.81778,
+    "geom:longitude":-89.29833,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Primavera",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584012,
+    "gn:latitude":13.81778,
+    "gn:longitude":-89.29833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Primavera",
+        "Primavera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584012
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"11dec4e979acdad96b02ec1674b0f379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171703,
+            "locality_id":1243368429,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1243368429,
+    "wof:lastmodified":1537701448,
+    "wof:name":"Primavera",
+    "wof:parent_id":421171703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.29833,
+    13.81778,
+    -89.29833,
+    13.81778
+],
+  "geometry": {"coordinates":[-89.29833000000001,13.81778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243359245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.075,13.42583,-88.075,13.42583",
+    "geom:latitude":13.42583,
+    "geom:longitude":-88.075,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guacuco",
+    "gn:country_code":"SV",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735430,
+    "gn:latitude":13.42583,
+    "gn:longitude":-88.075,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Guacuco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735430
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"50cf71dd7f02623459bd607cc5a58c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1243359245,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1243359245,
+    "wof:lastmodified":1536932065,
+    "wof:name":"Guacuco",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.075,
+    13.42583,
+    -88.075,
+    13.42583
+],
+  "geometry": {"coordinates":[-88.075,13.42583],"type":"Point"}
+}

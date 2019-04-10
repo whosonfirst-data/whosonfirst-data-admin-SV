@@ -1,0 +1,67 @@
+{
+  "id": 1225917895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.5,13.58333,-88.5,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-88.5,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Caulote",
+    "gn:country_code":"SV",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586635,
+    "gn:latitude":13.58333,
+    "gn:longitude":-88.5,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Caulote",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586635
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"dab38eabae049f2cdfe82e4744ea87a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694849,
+            "locality_id":1225917895,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1225917895,
+    "wof:lastmodified":1536910039,
+    "wof:name":"El Caulote",
+    "wof:parent_id":1108694849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.5,
+    13.58333,
+    -88.5,
+    13.58333
+],
+  "geometry": {"coordinates":[-88.5,13.58333],"type":"Point"}
+}

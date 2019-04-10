@@ -1,0 +1,68 @@
+{
+  "id": 1277081707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.03333,14.13333,-89.03333,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"SV",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583386,
+    "gn:latitude":14.13333,
+    "gn:longitude":-89.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108695007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583386,
+        "wk:page":"San_Rafael%2C_Chalatenango"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"526fd4fc37a440071bc2f43130cf17fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695007,
+            "locality_id":1277081707,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1277081707,
+    "wof:lastmodified":1537573770,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1108695007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.03333,
+    14.13333,
+    -89.03333,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.03333000000001,14.13333],"type":"Point"}
+}

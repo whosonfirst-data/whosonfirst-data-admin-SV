@@ -1,0 +1,72 @@
+{
+  "id": 1242763259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21667,13.73333,-88.21667,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":-88.21667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Cutal",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586507,
+    "gn:latitude":13.73333,
+    "gn:longitude":-88.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Cutal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Cuyal",
+        "El Cutal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586507
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cd109c985acc7de76c3758a380e3a5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694805,
+            "locality_id":1242763259,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1242763259,
+    "wof:lastmodified":1537701503,
+    "wof:name":"El Cutal",
+    "wof:parent_id":1108694805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21667,
+    13.73333,
+    -88.21667,
+    13.73333
+],
+  "geometry": {"coordinates":[-88.21666999999999,13.73333],"type":"Point"}
+}

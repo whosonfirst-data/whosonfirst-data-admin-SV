@@ -1,0 +1,67 @@
+{
+  "id": 1293474229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.15139,13.44194,-88.15139,13.44194",
+    "geom:latitude":13.44194,
+    "geom:longitude":-88.15139,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Jute",
+    "gn:country_code":"SV",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586343,
+    "gn:latitude":13.44194,
+    "gn:longitude":-88.15139,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Jute",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586343
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"dfc57b07485a5626e4c46fc9b589b7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1293474229,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1293474229,
+    "wof:lastmodified":1536806030,
+    "wof:name":"El Jute",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.15139,
+    13.44194,
+    -88.15139,
+    13.44194
+],
+  "geometry": {"coordinates":[-88.15139000000001,13.44194],"type":"Point"}
+}

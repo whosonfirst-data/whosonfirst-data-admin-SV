@@ -1,0 +1,72 @@
+{
+  "id": 1225940225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.10056,13.76444,-89.10056,13.76444",
+    "geom:latitude":13.76444,
+    "geom:longitude":-89.10056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Malacof",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584447,
+    "gn:latitude":13.76444,
+    "gn:longitude":-89.10056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malacof",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malacoff",
+        "Malacof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421203743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584447
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9f410fef193cd8c5a8b3252fc2165fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203743,
+            "locality_id":1225940225,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1225940225,
+    "wof:lastmodified":1537701456,
+    "wof:name":"Malacof",
+    "wof:parent_id":421203743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.10056,
+    13.76444,
+    -89.10056,
+    13.76444
+],
+  "geometry": {"coordinates":[-89.10056,13.76444],"type":"Point"}
+}

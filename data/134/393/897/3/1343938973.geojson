@@ -1,0 +1,72 @@
+{
+  "id": 1343938973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.31667,14.3,-89.31667,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":-89.31667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Las Piletas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584834,
+    "gn:latitude":14.3,
+    "gn:longitude":-89.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Piletas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piletas",
+        "Las Piletas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584834
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9463d0604265f5ad20dc71252d351c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1343938973,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1343938973,
+    "wof:lastmodified":1537701464,
+    "wof:name":"Las Piletas",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31667,
+    14.3,
+    -89.31667,
+    14.3
+],
+  "geometry": {"coordinates":[-89.31667,14.3],"type":"Point"}
+}

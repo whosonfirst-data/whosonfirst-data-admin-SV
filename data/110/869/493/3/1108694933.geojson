@@ -1,0 +1,75 @@
+{
+  "id": 1108694933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000978,
+    "geom:area_square_m":11752257.095844,
+    "geom:bbox":"-89.0118579653,13.621226153,-88.966902757,13.6650261411",
+    "geom:latitude":13.646415,
+    "geom:longitude":-88.988111,
+    "iso:country":"SV",
+    "lbl:latitude":13.64863,
+    "lbl:longitude":-88.987771,
+    "meso:admin1r":"REGION CENTRAL III",
+    "meso:admin_1":"La Paz",
+    "meso:diss_me":"SAN EMIGDIOLA PAZ",
+    "meso:gadm_admin":"San Emigdio",
+    "meso:gadm_hasc2":"SV.PA.SE",
+    "meso:gaul_admin":"San Emigdio",
+    "meso:local_id":"08",
+    "meso:local_id_a":"0808",
+    "meso:mps_x":-88.987771,
+    "meso:mps_y":13.64863,
+    "meso:name_en":"San Emigdio",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.64863,
+    "mps:longitude":-88.987771,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "San Emigdio"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.PA.SE"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493282,
+    "wof:geomhash":"8ba753cfff7f85be6e37f16a1da92898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694933,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1108694933,
+    "wof:lastmodified":1536615367,
+    "wof:name":"San Emigdio",
+    "wof:parent_id":85677155,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.011857965274,
+    13.62122615300146,
+    -88.96690275700547,
+    13.66502614106085
+],
+  "geometry": {"coordinates":[[[-88.98242274132791,13.66502614106085],[-88.97797815296603,13.65354090068202],[-88.97805419968553,13.65259398798144],[-88.96690275700547,13.64749493296468],[-88.96956835608718,13.6381869446688],[-88.97323711636143,13.63716558788833],[-88.97648531081796,13.63405234864534],[-88.9791267851471,13.62272974674195],[-88.97959904296127,13.62191890700254],[-88.98441080685673,13.62122615300146],[-88.99286153232642,13.63242045360498],[-88.99261327564018,13.63869110059592],[-88.99419797904054,13.64050432333398],[-88.99609687006803,13.64196113518957],[-88.99613720044378,13.64201425556198],[-89.00128944471385,13.64411688908348],[-89.00589906142496,13.65124613390436],[-89.00666109292504,13.65242214866834],[-89.01120560867706,13.65583821387489],[-89.011857965274,13.6636209868726],[-89.00190229357705,13.66295484782917],[-88.99369496719883,13.65974939586081],[-88.99077927657292,13.66250003421652],[-88.98242274132791,13.66502614106085]]],"type":"Polygon"}
+}

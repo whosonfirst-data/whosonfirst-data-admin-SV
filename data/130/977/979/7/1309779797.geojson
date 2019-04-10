@@ -1,0 +1,75 @@
+{
+  "id": 1309779797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.61667,13.4,-88.61667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-88.61667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Jobal Arrozales",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585433,
+    "gn:latitude":13.4,
+    "gn:longitude":-88.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jobal Arrozales",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jobal",
+        "Joval",
+        "Arrozales",
+        "Caser\u00edo El Jobal",
+        "Jobal Arrozales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585433
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4bc0ccce5b688a3361c0531a79393c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694909,
+            "locality_id":1309779797,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1309779797,
+    "wof:lastmodified":1537701476,
+    "wof:name":"Jobal Arrozales",
+    "wof:parent_id":1108694909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.61667,
+    13.4,
+    -88.61667,
+    13.4
+],
+  "geometry": {"coordinates":[-88.61667,13.4],"type":"Point"}
+}

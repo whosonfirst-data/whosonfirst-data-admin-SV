@@ -1,0 +1,65 @@
+{
+  "id": 1209314847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,13.68333,-88.93333,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"SV",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583373,
+    "gn:latitude":13.68333,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Ram\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583373,
+        "wk:page":"San_Ram%C3%B3n%2C_Cuscatl%C3%A1n"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f8053d88c453c9df4cb059ac0958243a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209314847
+        }
+    ],
+    "wof:id":1209314847,
+    "wof:lastmodified":1537701435,
+    "wof:name":"San Ramon",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    13.68333,
+    -88.93333,
+    13.68333
+],
+  "geometry": {"coordinates":[-88.93333,13.68333],"type":"Point"}
+}

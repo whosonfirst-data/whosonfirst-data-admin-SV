@@ -1,0 +1,67 @@
+{
+  "id": 1276867569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06667,13.6,-88.06667,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-88.06667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Loma Larga",
+    "gn:country_code":"SV",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584693,
+    "gn:latitude":13.6,
+    "gn:longitude":-88.06667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Loma Larga",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584693
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"54808a7ed45778c89d94630ed8a64450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694777,
+            "locality_id":1276867569,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1276867569,
+    "wof:lastmodified":1537055274,
+    "wof:name":"Loma Larga",
+    "wof:parent_id":1108694777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06667,
+    13.6,
+    -88.06667,
+    13.6
+],
+  "geometry": {"coordinates":[-88.06667,13.6],"type":"Point"}
+}

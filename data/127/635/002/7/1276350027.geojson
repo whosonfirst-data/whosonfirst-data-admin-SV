@@ -1,0 +1,72 @@
+{
+  "id": 1276350027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.93333,14.0,-89.93333,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":-89.93333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hacienda Santa Rosa Calapa",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585536,
+    "gn:latitude":14.0,
+    "gn:longitude":-89.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda Santa Rosa Calapa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Colapa",
+        "Hacienda Santa Rosa Calapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585536
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"33dd76a1d67b4c6c81b504d8796c9075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695369,
+            "locality_id":1276350027,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1276350027,
+    "wof:lastmodified":1537701478,
+    "wof:name":"Hacienda Santa Rosa Calapa",
+    "wof:parent_id":1108695369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.93333,
+    14.0,
+    -89.93333,
+    14.0
+],
+  "geometry": {"coordinates":[-89.93333,14.0],"type":"Point"}
+}

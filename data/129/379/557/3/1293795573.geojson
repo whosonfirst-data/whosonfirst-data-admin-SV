@@ -1,0 +1,72 @@
+{
+  "id": 1293795573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.21667,14.13333,-89.21667,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.21667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Obrajuelo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584240,
+    "gn:latitude":14.13333,
+    "gn:longitude":-89.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obrajuelo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Obrajuelo",
+        "Obrajuelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584240
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d83343a66e7cfb62dc114982e18d99b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694707,
+            "locality_id":1293795573,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1293795573,
+    "wof:lastmodified":1537701453,
+    "wof:name":"Obrajuelo",
+    "wof:parent_id":1108694707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.21667,
+    14.13333,
+    -89.21667,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.21666999999999,14.13333],"type":"Point"}
+}

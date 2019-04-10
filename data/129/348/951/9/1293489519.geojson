@@ -1,0 +1,73 @@
+{
+  "id": 1293489519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.98333,14.23333,-88.98333,14.23333",
+    "geom:latitude":14.23333,
+    "geom:longitude":-88.98333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Chupadero",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586581,
+    "gn:latitude":14.23333,
+    "gn:longitude":-88.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Chupadero",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chupadero",
+        "El Chupadero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586581,
+        "wk:page":"El_Chupadero"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"dc5f8d683a118ed480d9515e5544e747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694769,
+            "locality_id":1293489519,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1293489519,
+    "wof:lastmodified":1537701504,
+    "wof:name":"El Chupadero",
+    "wof:parent_id":1108694769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.98333000000002,
+    14.23333,
+    -88.98333000000002,
+    14.23333
+],
+  "geometry": {"coordinates":[-88.98333000000002,14.23333],"type":"Point"}
+}

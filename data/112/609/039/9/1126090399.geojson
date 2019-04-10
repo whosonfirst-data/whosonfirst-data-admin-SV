@@ -1,0 +1,92 @@
+{
+  "id": 1126090399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18333,13.66667,-89.18333,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":-89.18333,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"SV",
+    "lbl:latitude":13.66667,
+    "lbl:longitude":-89.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Los Andes"
+    ],
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3586965,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colonia Los Andes",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"San Salvador",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":911110,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":77096,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424807,
+    "woe:name_adm0":"El Salvador",
+    "woe:name_adm1":"San Salvador",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        1108694987,
+        85677163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586965,
+        "gp:id":77096,
+        "qs_pg:id":911110
+    },
+    "wof:country":"SV",
+    "wof:created":1497313630,
+    "wof:geomhash":"07789f99931b6094d7316e15d307010f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694987,
+            "locality_id":-1,
+            "neighbourhood_id":1126090399,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1126090399,
+    "wof:lastmodified":1509411618,
+    "wof:name":"Colonia Los Andes",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18333,
+    13.66667,
+    -89.18333,
+    13.66667
+],
+  "geometry": {"coordinates":[-89.18333,13.66667],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85793833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":9981921.738158,
+    "geom:bbox":"-89.197899,13.69232,-89.197899,13.69232",
+    "geom:latitude":13.69232,
+    "geom:longitude":-89.197899,
+    "gn:latitude":13.68102,
+    "gn:longitude":-89.20688,
+    "iso:country":"SV",
+    "lbl:latitude":13.69232,
+    "lbl:longitude":-89.197899,
+    "mps:latitude":13.687091,
+    "mps:longitude":-89.199362,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Colonia Dolores"
+    ],
+    "name:spa_x_variant":[
+        "Dolores"
+    ],
+    "name:unk_x_variant":[
+        "Dolores",
+        "Colonia Dolores"
+    ],
+    "qs:gn_adm0_cc":"SV",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3583361,
+    "qs:gn_nam_loc":"San Salvador, San Salvador, San Salvador, SV",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Colonia Dolores",
+    "qs:local_max":3481,
+    "qs:local_sum":9209,
+    "qs:localhoods":7,
+    "qs:name":"Colonia Dolores",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:name_adm2":"San Salvador",
+    "qs:name_local":"San Salvador",
+    "qs:photo_max":567,
+    "qs:photo_sum":3074,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":51,
+    "qs:woe_adm0":23424807,
+    "qs:woe_adm1":2345301,
+    "qs:woe_adm2":26808700,
+    "qs:woe_lau":0,
+    "qs:woe_local":79825,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85677163,
+        102191575,
+        85632545,
+        421180907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586969,
+        "gp:id":77085,
+        "qs:id":901611
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"48a37724c3f35a416c4d0b2d43e27625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180907,
+            "locality_id":-1,
+            "neighbourhood_id":85793833,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":85793833,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379463,
+    "wof:name":"Colonia Dolores",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[
+        1126089553
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.197899,
+    13.69232,
+    -89.197899,
+    13.69232
+],
+  "geometry": {"coordinates":[-89.19789900000001,13.69232],"type":"Point"}
+}

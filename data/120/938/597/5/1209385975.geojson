@@ -1,0 +1,61 @@
+{
+  "id": 1209385975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.4,13.41667,-88.4,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":-88.4,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Joya Ancha Arriba",
+    "gn:country_code":"SV",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585422,
+    "gn:latitude":13.41667,
+    "gn:longitude":-88.4,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Joya Ancha Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585422
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"47fe710790e54a2383c6def4f3ddb278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209385975
+        }
+    ],
+    "wof:id":1209385975,
+    "wof:lastmodified":1536288624,
+    "wof:name":"Joya Ancha Arriba",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.4,
+    13.416670000000002,
+    -88.4,
+    13.416670000000002
+],
+  "geometry": {"coordinates":[-88.40000000000001,13.41667],"type":"Point"}
+}

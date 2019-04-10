@@ -1,0 +1,72 @@
+{
+  "id": 1226341511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.44722,13.83111,-89.44722,13.83111",
+    "geom:latitude":13.83111,
+    "geom:longitude":-89.44722,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Joyita",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585179,
+    "gn:latitude":13.83111,
+    "gn:longitude":-89.44722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Joyita",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Andr\u00e9s",
+        "La Joyita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421191211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585179
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"22d7945a5276da5b0344497b35bb3406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191211,
+            "locality_id":1226341511,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1226341511,
+    "wof:lastmodified":1537701471,
+    "wof:name":"La Joyita",
+    "wof:parent_id":421191211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.44722,
+    13.83111,
+    -89.44722,
+    13.83111
+],
+  "geometry": {"coordinates":[-89.44722,13.83111],"type":"Point"}
+}

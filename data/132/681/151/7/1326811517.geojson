@@ -1,0 +1,72 @@
+{
+  "id": 1326811517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.51528,14.30556,-89.51528,14.30556",
+    "geom:latitude":14.30556,
+    "geom:longitude":-89.51528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Caserio Las Conchas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764651,
+    "gn:latitude":14.30556,
+    "gn:longitude":-89.51528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Caser\u00edo Las Conchas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Conchas",
+        "Caser\u00edo Las Conchas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764651
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d5dd46875b2d7c444ad1b4a102dd1c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1326811517,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1326811517,
+    "wof:lastmodified":1537701520,
+    "wof:name":"Caserio Las Conchas",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.51528,
+    14.30556,
+    -89.51528,
+    14.30556
+],
+  "geometry": {"coordinates":[-89.51528,14.30556],"type":"Point"}
+}

@@ -1,0 +1,147 @@
+{
+  "id": 421200849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.21306,13.74028,-89.21306,13.74028",
+    "geom:latitude":13.74028,
+    "geom:longitude":-89.21306,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_variant":[
+        "\u041c\u044d\u0445\u0456\u043a\u0430\u043d\u0430\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043a\u0430\u043d\u043e\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u6885\u5e0c\u5361\u8afe\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:dut_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:eng_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:epo_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:fra_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:fre_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:ger_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:ita_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:lit_x_preferred":[
+        "Mechikanosas"
+    ],
+    "name:nah_x_preferred":[
+        "Neneuhc\u0101y\u014dtl:\u0100ltep\u0113tl \u012bpan San Salvador"
+    ],
+    "name:pol_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:por_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043a\u0430\u043d\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043a\u0430\u043d\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Mexicanos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062e\u06cc\u06a9\u0627\u0646\u0648\u0633"
+    ],
+    "name:war_x_preferred":[
+        "Mejicanos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5e0c\u5361\u8afe\u65af"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584399,
+    "qs:gn_pop":160317,
+    "qs:name":"Mejicanos",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":86,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":898263,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79064,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421180175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584399,
+        "gp:id":79064,
+        "qs:id":898263,
+        "wd:id":"Q723411",
+        "wk:page":"Mejicanos"
+    },
+    "wof:country":"SV",
+    "wof:created":1459010043,
+    "wof:geomhash":"c350ea157d10e1d273ab5a767d2e5206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180175,
+            "locality_id":421200849,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421200849,
+    "wof:lastmodified":1514505777,
+    "wof:name":"Mejicanos",
+    "wof:parent_id":421180175,
+    "wof:placetype":"locality",
+    "wof:population":160317,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.21306,
+    13.74028,
+    -89.21306,
+    13.74028
+],
+  "geometry": {"coordinates":[-89.21306,13.74028],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293610343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.99639,13.49778,-87.99639,13.49778",
+    "geom:latitude":13.49778,
+    "geom:longitude":-87.99639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Marias",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584900,
+    "gn:latitude":13.49778,
+    "gn:longitude":-87.99639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Mar\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Las Mar\u00edas",
+        "Las Mar\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584900
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7f522f5c3dbeb94fb266a3b0e8c738b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695101,
+            "locality_id":1293610343,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293610343,
+    "wof:lastmodified":1537701465,
+    "wof:name":"Las Marias",
+    "wof:parent_id":1108695101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.99639,
+    13.49778,
+    -87.99639,
+    13.49778
+],
+  "geometry": {"coordinates":[-87.99639000000001,13.49778],"type":"Point"}
+}

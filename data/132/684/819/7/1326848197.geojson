@@ -1,0 +1,67 @@
+{
+  "id": 1326848197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.79167,13.81694,-89.79167,13.81694",
+    "geom:latitude":13.81694,
+    "geom:longitude":-89.79167,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Concepcion",
+    "gn:country_code":"SV",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810570,
+    "gn:latitude":13.81694,
+    "gn:longitude":-89.79167,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421186439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810570
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b3c21a64e62562be02dcc6170e777bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421186439,
+            "locality_id":1326848197,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1326848197,
+    "wof:lastmodified":1537024642,
+    "wof:name":"Concepcion",
+    "wof:parent_id":421186439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.79167,
+    13.81694,
+    -89.79167,
+    13.81694
+],
+  "geometry": {"coordinates":[-89.79167,13.81694],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209204277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.225,13.46778,-88.225,13.46778",
+    "geom:latitude":13.46778,
+    "geom:longitude":-88.225,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Guadalupe",
+    "gn:country_code":"SV",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735257,
+    "gn:latitude":13.46778,
+    "gn:longitude":-88.225,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735257
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e8540147cf89f3e52c83fb95710366c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209204277
+        }
+    ],
+    "wof:id":1209204277,
+    "wof:lastmodified":1536294506,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.225,
+    13.46778,
+    -88.225,
+    13.46778
+],
+  "geometry": {"coordinates":[-88.22499999999999,13.46778],"type":"Point"}
+}

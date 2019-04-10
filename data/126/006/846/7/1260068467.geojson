@@ -1,0 +1,67 @@
+{
+  "id": 1260068467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.51667,14.16667,-89.51667,14.16667",
+    "geom:latitude":14.16667,
+    "geom:longitude":-89.51667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Santo Tomas",
+    "gn:country_code":"SV",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583182,
+    "gn:latitude":14.16667,
+    "gn:longitude":-89.51667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Santo Tom\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421203745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583182
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"66e4320c0105320d5cdd2e8fcc876ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203745,
+            "locality_id":1260068467,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1260068467,
+    "wof:lastmodified":1537008989,
+    "wof:name":"Santo Tomas",
+    "wof:parent_id":421203745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.51666999999998,
+    14.16667,
+    -89.51666999999998,
+    14.16667
+],
+  "geometry": {"coordinates":[-89.51666999999998,14.16667],"type":"Point"}
+}

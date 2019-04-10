@@ -1,0 +1,61 @@
+{
+  "id": 1209419809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.33694,13.77194,-89.33694,13.77194",
+    "geom:latitude":13.77194,
+    "geom:longitude":-89.33694,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jabalinon",
+    "gn:country_code":"SV",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733551,
+    "gn:latitude":13.77194,
+    "gn:longitude":-89.33694,
+    "gn:modification_date":"1994-05-04",
+    "gn:name":"Jabalin\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733551
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ce1084542a9e636ada8917fe03243003",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209419809
+        }
+    ],
+    "wof:id":1209419809,
+    "wof:lastmodified":1536287568,
+    "wof:name":"Jabalinon",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.33694,
+    13.77194,
+    -89.33694,
+    13.77194
+],
+  "geometry": {"coordinates":[-89.33694,13.77194],"type":"Point"}
+}

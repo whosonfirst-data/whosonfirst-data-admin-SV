@@ -1,0 +1,61 @@
+{
+  "id": 1209128149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.85,13.43333,-88.85,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":-88.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"San Francisco Los Reyes",
+    "gn:country_code":"SV",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583717,
+    "gn:latitude":13.43333,
+    "gn:longitude":-88.85,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"San Francisco Los Reyes",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583717
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2696c9b529f9c66a74e366ed8a5adce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209128149
+        }
+    ],
+    "wof:id":1209128149,
+    "wof:lastmodified":1536296891,
+    "wof:name":"San Francisco Los Reyes",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.85,
+    13.433329999999998,
+    -88.85,
+    13.433329999999998
+],
+  "geometry": {"coordinates":[-88.84999999999999,13.43333],"type":"Point"}
+}

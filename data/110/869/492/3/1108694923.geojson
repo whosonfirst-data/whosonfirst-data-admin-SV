@@ -1,0 +1,76 @@
+{
+  "id": 1108694923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001035,
+    "geom:area_square_m":12432945.755902,
+    "geom:bbox":"-89.0710563203,13.7521361122,-89.0376859174,13.8094919303",
+    "geom:latitude":13.782655,
+    "geom:longitude":-89.052108,
+    "iso:country":"SV",
+    "lbl:latitude":13.792601,
+    "lbl:longitude":-89.058807,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Cuscatlan",
+    "meso:diss_me":"SAN BARTOLOME PERULAPIACUSCATLAN",
+    "meso:gadm_admin":"San Bartolom\u00e9 Perulap\u00eda",
+    "meso:gadm_hasc2":"SV.CU.SB",
+    "meso:gaul_admin":"San Bartolome Perulapia",
+    "meso:local_id":"07",
+    "meso:local_id_a":"0707",
+    "meso:mps_x":-89.058807,
+    "meso:mps_y":13.792601,
+    "meso:name_en":"San Bartolome Perulapia",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.792601,
+    "mps:longitude":-89.058807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "San Bartolome Perulapia",
+        "San Bartolom\u00e9 Perulap\u00eda"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CU.SB"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493270,
+    "wof:geomhash":"9472c4344bfa5ec3d62a517b7541f083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694923,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1108694923,
+    "wof:lastmodified":1536615367,
+    "wof:name":"San Bartolome Perulapia",
+    "wof:parent_id":85677145,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.07105632026666,
+    13.75213611223793,
+    -89.03768591739633,
+    13.80949193031417
+],
+  "geometry": {"coordinates":[[[-89.06729084530281,13.80098801175855],[-89.06651493149677,13.80161181718795],[-89.06331990553903,13.80175736884442],[-89.05828748822235,13.80653978783833],[-89.04593106712178,13.80949193031417],[-89.04121385084882,13.8087861491506],[-89.04149978878841,13.79847444569933],[-89.04746579554795,13.79468117522958],[-89.04897338050482,13.78933356343411],[-89.04996114166748,13.78294198397601],[-89.04903410236294,13.7806401624749],[-89.04151861332187,13.77986577302419],[-89.03811460197662,13.77061900399552],[-89.03881950724752,13.76716915274529],[-89.03768591739633,13.765],[-89.03864075061475,13.755],[-89.04067731094452,13.75214592507782],[-89.04869061517371,13.75213611223793],[-89.05174016076502,13.75415696969622],[-89.05244436189449,13.755],[-89.0538559990337,13.76762914458806],[-89.0568755582328,13.77086447250184],[-89.05752854453212,13.77095395649076],[-89.06343595994207,13.78081371102802],[-89.06397936637113,13.78408022135307],[-89.07105632026666,13.78849907321718],[-89.06729084530281,13.80098801175855]]],"type":"Polygon"}
+}

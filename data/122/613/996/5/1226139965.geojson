@@ -1,0 +1,67 @@
+{
+  "id": 1226139965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08333,13.56667,-88.08333,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-88.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Las Conchas",
+    "gn:country_code":"SV",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584994,
+    "gn:latitude":13.56667,
+    "gn:longitude":-88.08333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Las Conchas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421189495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584994
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"21f49380fe0687273e654ab24a046778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189495,
+            "locality_id":1226139965,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1226139965,
+    "wof:lastmodified":1537082916,
+    "wof:name":"Las Conchas",
+    "wof:parent_id":421189495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08333,
+    13.56667,
+    -88.08333,
+    13.56667
+],
+  "geometry": {"coordinates":[-88.08333,13.56667],"type":"Point"}
+}

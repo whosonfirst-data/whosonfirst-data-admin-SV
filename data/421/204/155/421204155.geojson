@@ -1,0 +1,76 @@
+{
+  "id": 421204155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.95,13.35,-88.95,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-88.95,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3585212,
+    "qs:gn_pop":0,
+    "qs:name":"La Herradura",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":319,
+    "qs:photos_1k":65,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":319,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238565,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":78445,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        890451505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585212,
+        "gp:id":78445,
+        "qs:id":238565
+    },
+    "wof:country":"SV",
+    "wof:created":1459010175,
+    "wof:geomhash":"ef8c5b374759547402b026d399efc05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":890451505,
+            "locality_id":421204155,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":421204155,
+    "wof:lastmodified":1500036854,
+    "wof:name":"La Herradura",
+    "wof:parent_id":890451505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.95,
+    13.35,
+    -88.95,
+    13.35
+],
+  "geometry": {"coordinates":[-88.95,13.35],"type":"Point"}
+}

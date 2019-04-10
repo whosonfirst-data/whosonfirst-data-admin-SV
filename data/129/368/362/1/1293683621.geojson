@@ -1,0 +1,67 @@
+{
+  "id": 1293683621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.92806,13.68222,-87.92806,13.68222",
+    "geom:latitude":13.68222,
+    "geom:longitude":-87.92806,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Canas",
+    "gn:country_code":"SV",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585014,
+    "gn:latitude":13.68222,
+    "gn:longitude":-87.92806,
+    "gn:modification_date":"2003-06-10",
+    "gn:name":"Las Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585014
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"70c6cecb7367a42b6cf996ef414267d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695041,
+            "locality_id":1293683621,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293683621,
+    "wof:lastmodified":1537000892,
+    "wof:name":"Las Canas",
+    "wof:parent_id":1108695041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.92806,
+    13.68222,
+    -87.92806,
+    13.68222
+],
+  "geometry": {"coordinates":[-87.92806,13.68222],"type":"Point"}
+}

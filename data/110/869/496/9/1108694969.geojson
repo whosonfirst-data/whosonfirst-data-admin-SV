@@ -1,0 +1,75 @@
+{
+  "id": 1108694969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00108,
+    "geom:area_square_m":12983463.08915,
+    "geom:bbox":"-89.1034193156,13.4757254201,-89.0721388582,13.5227373479",
+    "geom:latitude":13.498937,
+    "geom:longitude":-89.089048,
+    "iso:country":"SV",
+    "lbl:latitude":13.4992,
+    "lbl:longitude":-89.087187,
+    "meso:admin1r":"REGION CENTRAL III",
+    "meso:admin_1":"La Paz",
+    "meso:diss_me":"SAN JUAN TALPALA PAZ",
+    "meso:gadm_admin":"San Juan Talpa",
+    "meso:gadm_hasc2":"SV.PA.SU",
+    "meso:gaul_admin":"San Juan Talpa",
+    "meso:local_id":"11",
+    "meso:local_id_a":"0811",
+    "meso:mps_x":-89.087187,
+    "meso:mps_y":13.4992,
+    "meso:name_en":"San Juan Talpa",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.4992,
+    "mps:longitude":-89.087187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "San Juan Talpa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.PA.SU"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493321,
+    "wof:geomhash":"8cee8f98100f12a64ea3b99daeea8de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694969,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1108694969,
+    "wof:lastmodified":1536615368,
+    "wof:name":"San Juan Talpa",
+    "wof:parent_id":85677155,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.10341931564592,
+    13.47572542006894,
+    -89.07213885822837,
+    13.52273734787509
+],
+  "geometry": {"coordinates":[[[-89.09949578179042,13.52259891011755],[-89.09286882323322,13.52273734787509],[-89.08956920729179,13.51965656407752],[-89.07777624658441,13.51509110855176],[-89.07752289851084,13.51405736696515],[-89.07775057617575,13.51324994432451],[-89.07791052986558,13.51208947013389],[-89.07213885822837,13.50092920739221],[-89.07374012142763,13.49701638902238],[-89.07238088595025,13.4844260048404],[-89.0799590915553,13.48373903500034],[-89.08400288509883,13.48211056939698],[-89.09001873871533,13.47749063064205],[-89.09034220070762,13.47732889964591],[-89.09219861133997,13.47572542006894],[-89.09984171974453,13.47686218362999],[-89.10341931564592,13.48551655523949],[-89.10248329704851,13.495],[-89.09999999999947,13.49803744297363],[-89.09999999999947,13.50455562932531],[-89.1000475371556,13.505],[-89.09999999999947,13.50512668304331],[-89.09999999999947,13.50686531529962],[-89.10302169427183,13.515],[-89.10168774200439,13.51989492845863],[-89.09949578179042,13.52259891011755]]],"type":"Polygon"}
+}

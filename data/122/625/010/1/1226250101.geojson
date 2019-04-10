@@ -1,0 +1,72 @@
+{
+  "id": 1226250101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.05,14.13333,-89.05,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.05,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Antonio Buenavista",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583855,
+    "gn:latitude":14.13333,
+    "gn:longitude":-89.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio Buenavista",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buenavista",
+        "San Antonio Buenavista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108695007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583855
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9f77bc9f08389e8264f703575d7f91ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695007,
+            "locality_id":1226250101,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1226250101,
+    "wof:lastmodified":1537701445,
+    "wof:name":"San Antonio Buenavista",
+    "wof:parent_id":1108695007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.05,
+    14.13333,
+    -89.05,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.05,14.13333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260286031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.43333,14.03333,-89.43333,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-89.43333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Guineo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586413,
+    "gn:latitude":14.03333,
+    "gn:longitude":-89.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Guineo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagunetas",
+        "Las Lagunitas",
+        "El Guineo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421166707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586413
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f0ced54f4ed8ce3f1f1b63ee141267d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421166707,
+            "locality_id":1260286031,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1260286031,
+    "wof:lastmodified":1537701501,
+    "wof:name":"El Guineo",
+    "wof:parent_id":421166707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.43333,
+    14.03333,
+    -89.43333,
+    14.03333
+],
+  "geometry": {"coordinates":[-89.43333,14.03333],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1126089553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.2,13.68333,-89.2,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-89.2,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":13.68102,
+    "gn:longitude":-89.20688,
+    "iso:country":"SV",
+    "lbl:latitude":13.68333,
+    "lbl:longitude":-89.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Colonia Dolores"
+    ],
+    "name:spa_x_variant":[
+        "Dolores"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Dolores",
+        "Dolores"
+    ],
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3586969,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colonia Dolores",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"San Salvador",
+    "qs_pg:photos":2672,
+    "qs_pg:photos_1k":541,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2672,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":901611,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":77085,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424807,
+    "woe:name_adm0":"El Salvador",
+    "woe:name_adm1":"San Salvador",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85677163,
+        102191575,
+        85632545,
+        421180907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586969,
+        "gp:id":77085,
+        "qs:id":901611,
+        "qs_pg:id":901611
+    },
+    "wof:country":"SV",
+    "wof:created":1497313460,
+    "wof:geomhash":"cffa7d2db65108902c751132a2a06f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180907,
+            "locality_id":-1,
+            "neighbourhood_id":1126089553,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1126089553,
+    "wof:lastmodified":1534379463,
+    "wof:name":"Colonia Dolores",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793833
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2,
+    13.68333,
+    -89.2,
+    13.68333
+],
+  "geometry": {"coordinates":[-89.2,13.68333],"type":"Point"}
+}

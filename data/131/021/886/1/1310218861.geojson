@@ -1,0 +1,72 @@
+{
+  "id": 1310218861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.05972,13.72306,-90.05972,13.72306",
+    "geom:latitude":13.72306,
+    "geom:longitude":-90.05972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Porvenir",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586082,
+    "gn:latitude":13.72306,
+    "gn:longitude":-90.05972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo El Porvenir",
+        "El Porvenir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586082
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"388a3a9aa3d0776c2d9a9d337978cb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1310218861,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1310218861,
+    "wof:lastmodified":1537701493,
+    "wof:name":"El Porvenir",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.05972,
+    13.72306,
+    -90.05972,
+    13.72306
+],
+  "geometry": {"coordinates":[-90.05972,13.72306],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343251725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.05306,13.49361,-88.05306,13.49361",
+    "geom:latitude":13.49361,
+    "geom:longitude":-88.05306,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Rio Vargas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583948,
+    "gn:latitude":13.49361,
+    "gn:longitude":-88.05306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u00edo Vargas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo de Vargas",
+        "R\u00edo Vargas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108695091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583948
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5c2c57a079d67d08fcd3f59a47fe05bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695091,
+            "locality_id":1343251725,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1343251725,
+    "wof:lastmodified":1537701447,
+    "wof:name":"Rio Vargas",
+    "wof:parent_id":1108695091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.05306,
+    13.49361,
+    -88.05306,
+    13.49361
+],
+  "geometry": {"coordinates":[-88.05306,13.49361],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209191521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.81667,13.58333,-88.81667,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":-88.81667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Volcan Opico",
+    "gn:country_code":"SV",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582825,
+    "gn:latitude":13.58333,
+    "gn:longitude":-88.81667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Volc\u00e1n Opico",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582825
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"aa9d925a19958d3dd0433f9b07dd6186",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209191521
+        }
+    ],
+    "wof:id":1209191521,
+    "wof:lastmodified":1536294917,
+    "wof:name":"Volcan Opico",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.81667,
+    13.583329999999998,
+    -88.81667,
+    13.583329999999998
+],
+  "geometry": {"coordinates":[-88.81667,13.58333],"type":"Point"}
+}

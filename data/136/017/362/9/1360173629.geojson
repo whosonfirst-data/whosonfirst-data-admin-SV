@@ -1,0 +1,67 @@
+{
+  "id": 1360173629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.2,13.73333,-89.2,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":-89.2,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"SV",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584954,
+    "gn:latitude":13.73333,
+    "gn:longitude":-89.2,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421180175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584954
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"21dbd5855dc305f7be2d2ea7b2b3af46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180175,
+            "locality_id":1360173629,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1360173629,
+    "wof:lastmodified":1536817144,
+    "wof:name":"Las Flores",
+    "wof:parent_id":421180175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2,
+    13.73333,
+    -89.2,
+    13.73333
+],
+  "geometry": {"coordinates":[-89.2,13.73333],"type":"Point"}
+}

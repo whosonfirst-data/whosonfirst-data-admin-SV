@@ -1,0 +1,67 @@
+{
+  "id": 1343445365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35,13.75,-88.35,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-88.35,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Charlaca",
+    "gn:country_code":"SV",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587061,
+    "gn:latitude":13.75,
+    "gn:longitude":-88.35,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Charlaca",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421176713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587061
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9ad0dd7a9aa94fbb8be5f4ef99e77293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421176713,
+            "locality_id":1343445365,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1343445365,
+    "wof:lastmodified":1536768520,
+    "wof:name":"Charlaca",
+    "wof:parent_id":421176713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35,
+    13.75,
+    -88.35,
+    13.75
+],
+  "geometry": {"coordinates":[-88.34999999999999,13.75],"type":"Point"}
+}

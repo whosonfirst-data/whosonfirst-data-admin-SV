@@ -1,0 +1,67 @@
+{
+  "id": 1260058389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.38333,14.33333,-89.38333,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":-89.38333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Las Tapias",
+    "gn:country_code":"SV",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584814,
+    "gn:latitude":14.33333,
+    "gn:longitude":-89.38333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Las Tapias",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584814
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"1179c34d89007c36bbee1860284d683d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1260058389,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1260058389,
+    "wof:lastmodified":1537023227,
+    "wof:name":"Las Tapias",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.38333,
+    14.33333,
+    -89.38333,
+    14.33333
+],
+  "geometry": {"coordinates":[-89.38333,14.33333],"type":"Point"}
+}

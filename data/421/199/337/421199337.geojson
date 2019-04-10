@@ -1,0 +1,109 @@
+{
+  "id": 421199337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36667,13.35,-88.36667,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-88.36667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5eb7\u585e\u666e\u897f\u7fc1\u5df4\u7279\u96f7\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Concepci\u00f3n Batres"
+    ],
+    "name:eng_x_preferred":[
+        "Concepci\u00f3n Batres"
+    ],
+    "name:fre_x_preferred":[
+        "Concepci\u00f3n Batres"
+    ],
+    "name:ita_x_preferred":[
+        "Concepci\u00f3n Batres"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30bb\u30d7\u30b7\u30aa\u30f3\u30fb\u30d0\u30c8\u30ec\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Concepci\u00f3n Batres"
+    ],
+    "name:spa_x_preferred":[
+        "Concepci\u00f3n Batres"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u585e\u666e\u897f\u7fc1\u5df4\u7279\u96f7\u65af"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3586930,
+    "qs:gn_pop":3286,
+    "qs:name":"Concepci\u00f3n Batres",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Usulut\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":193182,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":77133,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586930,
+        "gp:id":77133,
+        "qs:id":193182,
+        "wd:id":"Q1154651",
+        "wk:page":"Concepci\u00f3n Batres"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009986,
+    "wof:geomhash":"f488abee2074053dc997e2c124e491b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694753,
+            "locality_id":421199337,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421199337,
+    "wof:lastmodified":1527716409,
+    "wof:name":"Concepci\u00f3n Batres",
+    "wof:parent_id":1108694753,
+    "wof:placetype":"locality",
+    "wof:population":3286,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36667,
+    13.35,
+    -88.36667,
+    13.35
+],
+  "geometry": {"coordinates":[-88.36667,13.35],"type":"Point"}
+}

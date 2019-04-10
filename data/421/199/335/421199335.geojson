@@ -1,0 +1,112 @@
+{
+  "id": 421199335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.26667,13.63333,-88.26667,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-88.26667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u67e5\u4f69\u723e\u8482\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Chapeltique"
+    ],
+    "name:eng_x_preferred":[
+        "Chapeltique"
+    ],
+    "name:fre_x_preferred":[
+        "Chapeltique"
+    ],
+    "name:ita_x_preferred":[
+        "Chapeltique"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30da\u30eb\u30c6\u30a3\u30b1"
+    ],
+    "name:por_x_preferred":[
+        "Chapeltique"
+    ],
+    "name:spa_x_preferred":[
+        "Chapeltique"
+    ],
+    "name:unk_x_variant":[
+        "Chapelpique"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u4f69\u723e\u8482\u514b"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3587064,
+    "qs:gn_pop":3159,
+    "qs:name":"Chapeltique",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Miguel",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":193161,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":77044,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587064,
+        "gp:id":77044,
+        "qs:id":193161,
+        "wd:id":"Q3666268",
+        "wk:page":"Chapeltique"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009986,
+    "wof:geomhash":"a1d96d81a2b570e0586af8e1ffae4f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694739,
+            "locality_id":421199335,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":421199335,
+    "wof:lastmodified":1527716415,
+    "wof:name":"Chapeltique",
+    "wof:parent_id":1108694739,
+    "wof:placetype":"locality",
+    "wof:population":3159,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.26667,
+    13.63333,
+    -88.26667,
+    13.63333
+],
+  "geometry": {"coordinates":[-88.26667,13.63333],"type":"Point"}
+}

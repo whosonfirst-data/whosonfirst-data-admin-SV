@@ -1,0 +1,61 @@
+{
+  "id": 1209008309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.91667,13.78333,-89.91667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-89.91667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hacienda El Salto",
+    "gn:country_code":"SV",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585599,
+    "gn:latitude":13.78333,
+    "gn:longitude":-89.91667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Hacienda El Salto",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585599
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e214948994a323d7fc6d7da068e25921",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209008309
+        }
+    ],
+    "wof:id":1209008309,
+    "wof:lastmodified":1536300530,
+    "wof:name":"Hacienda El Salto",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.91667,
+    13.78333,
+    -89.91667,
+    13.78333
+],
+  "geometry": {"coordinates":[-89.91667,13.78333],"type":"Point"}
+}

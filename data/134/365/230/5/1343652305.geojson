@@ -1,0 +1,67 @@
+{
+  "id": 1343652305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.11667,13.88333,-88.11667,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":-88.11667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Los Gonzalez",
+    "gn:country_code":"SV",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584623,
+    "gn:latitude":13.88333,
+    "gn:longitude":-88.11667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Los Gonz\u00e1lez",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421191475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584623
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"37ed51c771b8f0102ba2333286603185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191475,
+            "locality_id":1343652305,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1343652305,
+    "wof:lastmodified":1536966576,
+    "wof:name":"Los Gonzalez",
+    "wof:parent_id":421191475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.11667,
+    13.88333,
+    -88.11667,
+    13.88333
+],
+  "geometry": {"coordinates":[-88.11667,13.88333],"type":"Point"}
+}

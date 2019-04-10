@@ -1,0 +1,73 @@
+{
+  "id": 1276860461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.22333,13.89389,-89.22333,13.89389",
+    "geom:latitude":13.89389,
+    "geom:longitude":-89.22333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tutultepeque",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582892,
+    "gn:latitude":13.89389,
+    "gn:longitude":-89.22333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tutultepeque",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Tutultepeque",
+        "Tultultepeque",
+        "Tutultepeque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421189135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582892
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3deb5c0fbb35bcac49b0313aeee204eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189135,
+            "locality_id":1276860461,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1276860461,
+    "wof:lastmodified":1537701427,
+    "wof:name":"Tutultepeque",
+    "wof:parent_id":421189135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.22333,
+    13.89389,
+    -89.22333,
+    13.89389
+],
+  "geometry": {"coordinates":[-89.22333,13.89389],"type":"Point"}
+}

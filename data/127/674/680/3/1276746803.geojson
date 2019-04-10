@@ -1,0 +1,72 @@
+{
+  "id": 1276746803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.65,13.38333,-88.65,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-88.65,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tierra Blanca",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582950,
+    "gn:latitude":13.38333,
+    "gn:longitude":-88.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tierra Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nueva Esperanza",
+        "Tierra Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421168319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582950
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7bced4fe1c503feefdfb03cb24095b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421168319,
+            "locality_id":1276746803,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1276746803,
+    "wof:lastmodified":1537701428,
+    "wof:name":"Tierra Blanca",
+    "wof:parent_id":421168319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.65,
+    13.38333,
+    -88.65,
+    13.38333
+],
+  "geometry": {"coordinates":[-88.65000000000001,13.38333],"type":"Point"}
+}

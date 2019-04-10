@@ -1,0 +1,76 @@
+{
+  "id": 1108694761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000684,
+    "geom:area_square_m":8216204.529682,
+    "geom:bbox":"-89.194080033,13.7222674712,-89.1684306745,13.7859985598",
+    "geom:latitude":13.751796,
+    "geom:longitude":-89.180986,
+    "iso:country":"SV",
+    "lbl:latitude":13.732195,
+    "lbl:longitude":-89.181577,
+    "meso:admin1r":"AMSS",
+    "meso:admin_1":"San Salvador",
+    "meso:diss_me":"CUSCATANCINGOSAN SALVADOR",
+    "meso:gadm_admin":"Mejicanos",
+    "meso:gadm_hasc2":"SV.SS.ME",
+    "meso:gaul_admin":"Cuscatancingo",
+    "meso:local_id":"04",
+    "meso:local_id_a":"0604",
+    "meso:mps_x":-89.181577,
+    "meso:mps_y":13.732195,
+    "meso:name_en":"Cuscatancingo",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.732195,
+    "mps:longitude":-89.181577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Cuscatancingo",
+        "Mejicanos"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.SS.ME"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493119,
+    "wof:geomhash":"76327f0da142728e3235161a30d7487e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694761,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1108694761,
+    "wof:lastmodified":1536615365,
+    "wof:name":"Cuscatancingo",
+    "wof:parent_id":85677163,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"ME",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.19408003303099,
+    13.72226747116364,
+    -89.16843067447644,
+    13.7859985597644
+],
+  "geometry": {"coordinates":[[[[-89.1756322175797,13.72226747116364],[-89.190764024507,13.72468745372571],[-89.19364463225254,13.72635536774696],[-89.19408003303099,13.73689321536859],[-89.17978712797238,13.74178530347996],[-89.16902890362856,13.73545052223962],[-89.17001570940825,13.72808206705983],[-89.1756322175797,13.72226747116364]]],[[[-89.17290762446902,13.78211600068162],[-89.16855683160931,13.77569319077963],[-89.16843067447644,13.77550738547333],[-89.16849208638493,13.77339894641785],[-89.17178239498445,13.76995573556319],[-89.1818779715373,13.76344014868295],[-89.18986498569609,13.76487728023212],[-89.18800738473787,13.77569319077963],[-89.18632480721656,13.78558393471068],[-89.18578414585053,13.7859985597644],[-89.17290762446902,13.78211600068162]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277097797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.00556,13.30833,-88.00556,13.30833",
+    "geom:latitude":13.30833,
+    "geom:longitude":-88.00556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Espino",
+    "gn:country_code":"SV",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586470,
+    "gn:latitude":13.30833,
+    "gn:longitude":-88.00556,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Espino",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586470
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0be25111a0463e44b19ff6cd7282d973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694771,
+            "locality_id":1277097797,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1277097797,
+    "wof:lastmodified":1536745689,
+    "wof:name":"El Espino",
+    "wof:parent_id":1108694771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.00556,
+    13.30833,
+    -88.00556,
+    13.30833
+],
+  "geometry": {"coordinates":[-88.00556,13.30833],"type":"Point"}
+}

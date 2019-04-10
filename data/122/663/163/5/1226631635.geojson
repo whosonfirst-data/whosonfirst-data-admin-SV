@@ -1,0 +1,72 @@
+{
+  "id": 1226631635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06667,13.81667,-88.06667,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-88.06667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Llano La Ceiba",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584720,
+    "gn:latitude":13.81667,
+    "gn:longitude":-88.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Llano La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llano Largo",
+        "Llano La Ceiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584720
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"47e05716c052c1b35e630f3c6dec968f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694725,
+            "locality_id":1226631635,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1226631635,
+    "wof:lastmodified":1537701461,
+    "wof:name":"Llano La Ceiba",
+    "wof:parent_id":1108694725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06667,
+    13.81667,
+    -88.06667,
+    13.81667
+],
+  "geometry": {"coordinates":[-88.06667,13.81667],"type":"Point"}
+}

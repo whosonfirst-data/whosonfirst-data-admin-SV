@@ -1,0 +1,176 @@
+{
+  "id": 890429603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.91667,13.78333,-88.91667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-88.91667,
+    "gn:country":"SV",
+    "gn:fcode":"PPL",
+    "gn:pop":39361,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u0646\u060c \u0633\u0627\u0646 \u0633\u0644\u0641\u0627\u062f\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8 \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u4e01"
+    ],
+    "name:dan_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:fin_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039c\u03ac\u03c1\u03c4\u03b9\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8 \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092e\u093e\u0930\u094d\u091f\u093f\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30de\u30eb\u30c6\u30a3\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cae\u0cbe\u0cb0\u0ccd\u0c9f\u0cbf\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub9c8\ub974\ud2f4"
+    ],
+    "name:lav_x_preferred":[
+        "Sanmartina"
+    ],
+    "name:lit_x_preferred":[
+        "San Martinas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u092e\u093e\u0930\u094d\u091f\u093f\u0928"
+    ],
+    "name:may_x_preferred":[
+        "San Martin"
+    ],
+    "name:nob_x_preferred":[
+        "San Martin"
+    ],
+    "name:pol_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dd2\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c2e\u0c3e\u0c30\u0c4d\u0c1f\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e21\u0e32\u0e23\u0e15\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "San Martin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u0679\u0646\u060c \u0633\u0627\u0646 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "San Martin"
+    ],
+    "name:war_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "qs:name":"San Mart\u00edn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":533,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421203377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583471,
+        "qs:id":149073,
+        "wd:id":"Q2302179",
+        "wk:page":"San Mart\u00edn"
+    },
+    "wof:country":"SV",
+    "wof:created":1469051821,
+    "wof:geomhash":"76c4b095fb291a967d0ad295eb84928f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203377,
+            "locality_id":890429603,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":890429603,
+    "wof:lastmodified":1553816394,
+    "wof:name":"San Mart\u00edn",
+    "wof:parent_id":421203377,
+    "wof:placetype":"locality",
+    "wof:population":39361,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.91667,
+    13.78333,
+    -88.91667,
+    13.78333
+],
+  "geometry": {"coordinates":[-88.91667,13.78333],"type":"Point"}
+}

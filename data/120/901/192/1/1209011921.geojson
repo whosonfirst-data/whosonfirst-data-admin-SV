@@ -1,0 +1,66 @@
+{
+  "id": 1209011921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0,14.18333,-89.0,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-89.0,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Plan del Ojo de Agua",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584059,
+    "gn:latitude":14.18333,
+    "gn:longitude":-89.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plan del Ojo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plan de Ojo de Agua",
+        "Plan del Ojo de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584059
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4cf252c6d89358e2dce4bfc3d02de4e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209011921
+        }
+    ],
+    "wof:id":1209011921,
+    "wof:lastmodified":1537701450,
+    "wof:name":"Plan del Ojo de Agua",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0,
+    14.18333,
+    -89.0,
+    14.18333
+],
+  "geometry": {"coordinates":[-89.0,14.18333],"type":"Point"}
+}

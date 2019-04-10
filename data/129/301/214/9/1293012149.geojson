@@ -1,0 +1,72 @@
+{
+  "id": 1293012149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.71667,14.0,-88.71667,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":-88.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Escalante",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585760,
+    "gn:latitude":14.0,
+    "gn:longitude":-88.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Escalante",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Escalante",
+        "Escalante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108695063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585760
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3637ac231f658e64178319aa25cb9a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695063,
+            "locality_id":1293012149,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1293012149,
+    "wof:lastmodified":1537701486,
+    "wof:name":"Escalante",
+    "wof:parent_id":1108695063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.71667,
+    14.0,
+    -88.71667,
+    14.0
+],
+  "geometry": {"coordinates":[-88.71666999999999,14.0],"type":"Point"}
+}

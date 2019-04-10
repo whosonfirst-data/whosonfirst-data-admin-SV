@@ -1,0 +1,73 @@
+{
+  "id": 1226331273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.2375,13.785,-89.2375,13.785",
+    "geom:latitude":13.785,
+    "geom:longitude":-89.2375,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Suchinango",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583092,
+    "gn:latitude":13.785,
+    "gn:longitude":-89.2375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Suchinango",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca Suchinango",
+        "Valle Suchinango",
+        "Suchinango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421183079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583092
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2d4578fe49f015c5f0475bcf7d0b35f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421183079,
+            "locality_id":1226331273,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1226331273,
+    "wof:lastmodified":1537701430,
+    "wof:name":"Suchinango",
+    "wof:parent_id":421183079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2375,
+    13.785,
+    -89.2375,
+    13.785
+],
+  "geometry": {"coordinates":[-89.2375,13.785],"type":"Point"}
+}

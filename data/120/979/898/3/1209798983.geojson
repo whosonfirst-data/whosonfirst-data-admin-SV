@@ -1,0 +1,67 @@
+{
+  "id": 1209798983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.48333,13.6,-88.48333,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-88.48333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"SV",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583296,
+    "gn:latitude":13.6,
+    "gn:longitude":-88.48333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421184407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583296
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"96c7e331dcd88e756361b43d34e96b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184407,
+            "locality_id":1209798983,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1209798983,
+    "wof:lastmodified":1536391583,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":421184407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.48333000000002,
+    13.6,
+    -88.48333000000002,
+    13.6
+],
+  "geometry": {"coordinates":[-88.48333000000002,13.6],"type":"Point"}
+}

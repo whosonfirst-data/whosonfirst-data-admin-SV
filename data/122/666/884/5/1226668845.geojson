@@ -1,0 +1,67 @@
+{
+  "id": 1226668845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.27083,13.58833,-89.27083,13.58833",
+    "geom:latitude":13.58833,
+    "geom:longitude":-89.27083,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Dispensas",
+    "gn:country_code":"SV",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584962,
+    "gn:latitude":13.58833,
+    "gn:longitude":-89.27083,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Las Dispensas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584962
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f8db6c72bee3f6ad7bd67c95fc825fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694963,
+            "locality_id":1226668845,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1226668845,
+    "wof:lastmodified":1536825313,
+    "wof:name":"Las Dispensas",
+    "wof:parent_id":1108694963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.27083,
+    13.58833,
+    -89.27083,
+    13.58833
+],
+  "geometry": {"coordinates":[-89.27083,13.58833],"type":"Point"}
+}

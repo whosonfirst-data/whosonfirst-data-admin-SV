@@ -1,0 +1,73 @@
+{
+  "id": 1259492277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,13.86667,-88.93333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Zapote",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585796,
+    "gn:latitude":13.86667,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Zapote",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Luc\u00eda",
+        "Zapote",
+        "El Zapote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        421190525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585796
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"efcbdac5862b910d04cbe1ccff788397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421190525,
+            "locality_id":1259492277,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1259492277,
+    "wof:lastmodified":1537701487,
+    "wof:name":"El Zapote",
+    "wof:parent_id":421190525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    13.86667,
+    -88.93333,
+    13.86667
+],
+  "geometry": {"coordinates":[-88.93333,13.86667],"type":"Point"}
+}

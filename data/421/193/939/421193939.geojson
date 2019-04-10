@@ -1,0 +1,102 @@
+{
+  "id": 421193939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.50667,13.55278,-89.50667,13.55278",
+    "geom:latitude":13.55278,
+    "geom:longitude":-89.50667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e0c\u5361\u62c9\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "Jicalapa"
+    ],
+    "name:eng_x_preferred":[
+        "Jicalapa"
+    ],
+    "name:fre_x_preferred":[
+        "Jicalapa"
+    ],
+    "name:ita_x_preferred":[
+        "Jicalapa"
+    ],
+    "name:por_x_preferred":[
+        "Jicalapa"
+    ],
+    "name:spa_x_preferred":[
+        "Jicalapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5361\u62c9\u5e15"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3585445,
+    "qs:gn_pop":0,
+    "qs:name":"Jicalapa",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":102,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":295856,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":78260,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585445,
+        "gp:id":78260,
+        "qs:id":295856,
+        "wd:id":"Q3808267",
+        "wk:page":"Jicalapa"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009788,
+    "wof:geomhash":"23bf14a7360e8017a1e08f42e2e133a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171701,
+            "locality_id":421193939,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":421193939,
+    "wof:lastmodified":1514505768,
+    "wof:name":"Jicalapa",
+    "wof:parent_id":421171701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.50667,
+    13.55278,
+    -89.50667,
+    13.55278
+],
+  "geometry": {"coordinates":[-89.50667,13.55278],"type":"Point"}
+}

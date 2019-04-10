@@ -1,0 +1,73 @@
+{
+  "id": 1243052357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.03028,13.39389,-88.03028,13.39389",
+    "geom:latitude":13.39389,
+    "geom:longitude":-88.03028,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"San Antonio Silva",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583834,
+    "gn:latitude":13.39389,
+    "gn:longitude":-88.03028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio Silva",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo San Antonio Silva",
+        "San Antonio de Silva",
+        "San Antonio Silva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583834
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ecc0c49dd5b1acc32bb039c6935b7ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1243052357,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1243052357,
+    "wof:lastmodified":1537701444,
+    "wof:name":"San Antonio Silva",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03028,
+    13.39389,
+    -88.03028,
+    13.39389
+],
+  "geometry": {"coordinates":[-88.03028,13.39389],"type":"Point"}
+}

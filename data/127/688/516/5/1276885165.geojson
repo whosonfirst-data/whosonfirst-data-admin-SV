@@ -1,0 +1,73 @@
+{
+  "id": 1276885165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.06667,14.13333,-89.06667,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ojos de Agua",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584219,
+    "gn:latitude":14.13333,
+    "gn:longitude":-89.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ojos de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ojo de Agua Escondido",
+        "Ojos de Agua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108695007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584219,
+        "wk:page":"Ojos_de_Agua"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0543879d4021985d7ad6032d0187a3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695007,
+            "locality_id":1276885165,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1276885165,
+    "wof:lastmodified":1537701452,
+    "wof:name":"Ojos de Agua",
+    "wof:parent_id":1108695007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.06667,
+    14.13333,
+    -89.06667,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.06667,14.13333],"type":"Point"}
+}

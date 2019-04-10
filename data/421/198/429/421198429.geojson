@@ -1,0 +1,112 @@
+{
+  "id": 421198429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35,13.38333,-88.35,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-88.35,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u6590\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Rafael"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael Oriente"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "San Rafael"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael Oriente"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael Oriente"
+    ],
+    "name:unk_x_variant":[
+        "San Rafael de Oriente"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u6590\u723e"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583379,
+    "qs:gn_pop":19095,
+    "qs:name":"San Rafael Oriente",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Miguel",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1200885,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79810,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108695005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583379,
+        "gp:id":79810,
+        "qs:id":1200885,
+        "wd:id":"Q949719",
+        "wk:page":"San Rafael, San Miguel"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009948,
+    "wof:geomhash":"e3d100eb6d138736f6043933316efd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695005,
+            "locality_id":421198429,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":421198429,
+    "wof:lastmodified":1553816385,
+    "wof:name":"San Rafael Oriente",
+    "wof:parent_id":1108695005,
+    "wof:placetype":"locality",
+    "wof:population":19095,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35,
+    13.38333,
+    -88.35,
+    13.38333
+],
+  "geometry": {"coordinates":[-88.34999999999999,13.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343572741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88333,14.03333,-88.88333,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-88.88333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chiapas",
+    "gn:country_code":"SV",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587058,
+    "gn:latitude":14.03333,
+    "gn:longitude":-88.88333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Chiapas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421191205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587058
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ec2ebe988bde13a0921ca6335a7d357e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191205,
+            "locality_id":1343572741,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1343572741,
+    "wof:lastmodified":1537078576,
+    "wof:name":"Chiapas",
+    "wof:parent_id":421191205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88333,
+    14.03333,
+    -88.88333,
+    14.03333
+],
+  "geometry": {"coordinates":[-88.88333,14.03333],"type":"Point"}
+}

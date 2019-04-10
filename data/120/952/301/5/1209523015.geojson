@@ -1,0 +1,68 @@
+{
+  "id": 1209523015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.85,13.98333,-88.85,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":-88.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Jose Cancasque",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583615,
+    "gn:latitude":13.98333,
+    "gn:longitude":-88.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 Cancasque",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cancasque",
+        "Pueblo de Cancasque",
+        "San Jos\u00e9 Cancasque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583615,
+        "wk:page":"San_Jos%C3%A9_Cancasque"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"6132679d97a399a906b5e9b61a2dd52f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209523015
+        }
+    ],
+    "wof:id":1209523015,
+    "wof:lastmodified":1537701440,
+    "wof:name":"San Jose Cancasque",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.85,
+    13.98333,
+    -88.85,
+    13.98333
+],
+  "geometry": {"coordinates":[-88.84999999999999,13.98333],"type":"Point"}
+}

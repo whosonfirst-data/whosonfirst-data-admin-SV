@@ -1,0 +1,61 @@
+{
+  "id": 1209592105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.7075,13.82306,-89.7075,13.82306",
+    "geom:latitude":13.82306,
+    "geom:longitude":-89.7075,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tajcuilujlan",
+    "gn:country_code":"SV",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583057,
+    "gn:latitude":13.82306,
+    "gn:longitude":-89.7075,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Tajcuilujl\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583057
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"83f68f1d9a871de5c1406680c7e9df81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209592105
+        }
+    ],
+    "wof:id":1209592105,
+    "wof:lastmodified":1536282446,
+    "wof:name":"Tajcuilujlan",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.7075,
+    13.82306,
+    -89.7075,
+    13.82306
+],
+  "geometry": {"coordinates":[-89.7075,13.82306],"type":"Point"}
+}

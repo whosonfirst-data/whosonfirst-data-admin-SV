@@ -1,0 +1,104 @@
+{
+  "id": 1126067987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.31667,13.68333,-89.31667,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-89.31667,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":13.68333,
+    "gn:longitude":-89.31667,
+    "iso:country":"SV",
+    "lbl:latitude":13.68333,
+    "lbl:longitude":-89.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Colonia Las Delicias"
+    ],
+    "name:spa_x_variant":[
+        "Las Delicias"
+    ],
+    "name:unk_x_variant":[
+        "Las Delicias",
+        "Colonia Las Delicias"
+    ],
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3586966,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colonia Las Delicias",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"La Libertad",
+    "qs_pg:photos":110,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":110,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982569,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":77095,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424807,
+    "woe:name_adm0":"El Salvador",
+    "woe:name_adm1":"La Libertad",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85677151,
+        102191575,
+        85632545,
+        1108695045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586966,
+        "gp:id":77095,
+        "qs:id":982569,
+        "qs_pg:id":982569
+    },
+    "wof:country":"SV",
+    "wof:created":1497309235,
+    "wof:geomhash":"30269990c28fe2353a09d7f68e563276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695045,
+            "locality_id":-1,
+            "neighbourhood_id":1126067987,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1126067987,
+    "wof:lastmodified":1534379463,
+    "wof:name":"Colonia Las Delicias",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793845
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31667,
+    13.68333,
+    -89.31667,
+    13.68333
+],
+  "geometry": {"coordinates":[-89.31667,13.68333],"type":"Point"}
+}

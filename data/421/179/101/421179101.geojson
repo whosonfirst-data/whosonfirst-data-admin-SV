@@ -1,0 +1,106 @@
+{
+  "id": 421179101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18306,13.65889,-89.18306,13.65889",
+    "geom:latitude":13.65889,
+    "geom:longitude":-89.18306,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u0430\u0441"
+    ],
+    "name:fra_x_preferred":[
+        "San Marcos"
+    ],
+    "name:ita_x_preferred":[
+        "San Marcos"
+    ],
+    "name:pol_x_preferred":[
+        "San Marcos"
+    ],
+    "name:por_x_preferred":[
+        "San Marcos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "San Marcos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u723e\u79d1\u65af"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583480,
+    "qs:gn_pop":54615,
+    "qs:name":"San Marcos",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":194,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":194,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":149074,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79736,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583480,
+        "gp:id":79736,
+        "qs:id":149074,
+        "wd:id":"Q1157132",
+        "wk:page":"San Marcos, El Salvador"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009204,
+    "wof:geomhash":"974733f588d21d0238906bf8c0a27448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694987,
+            "locality_id":421179101,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421179101,
+    "wof:lastmodified":1527717710,
+    "wof:name":"San Marcos",
+    "wof:parent_id":1108694987,
+    "wof:placetype":"locality",
+    "wof:population":54615,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18306,
+    13.65889,
+    -89.18306,
+    13.65889
+],
+  "geometry": {"coordinates":[-89.18306,13.65889],"type":"Point"}
+}

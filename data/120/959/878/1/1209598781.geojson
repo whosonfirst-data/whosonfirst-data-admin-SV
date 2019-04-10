@@ -1,0 +1,66 @@
+{
+  "id": 1209598781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.61667,13.38333,-88.61667,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-88.61667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Las Champas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584997,
+    "gn:latitude":13.38333,
+    "gn:longitude":-88.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Champas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Las Champas",
+        "Las Champas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584997
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d2496a2cee30d9d95b6151d15bb43744",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209598781
+        }
+    ],
+    "wof:id":1209598781,
+    "wof:lastmodified":1537701467,
+    "wof:name":"Las Champas",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.61667,
+    13.38333,
+    -88.61667,
+    13.38333
+],
+  "geometry": {"coordinates":[-88.61667,13.38333],"type":"Point"}
+}

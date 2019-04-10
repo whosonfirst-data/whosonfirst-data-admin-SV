@@ -1,0 +1,67 @@
+{
+  "id": 1343545543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.31667,13.76667,-88.31667,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-88.31667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Belen",
+    "gn:country_code":"SV",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587273,
+    "gn:latitude":13.76667,
+    "gn:longitude":-88.31667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421195555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587273
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2236a149f6e91d46cfdd62512c649287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195555,
+            "locality_id":1343545543,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1343545543,
+    "wof:lastmodified":1536621427,
+    "wof:name":"Belen",
+    "wof:parent_id":421195555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.31667,
+    13.76667,
+    -88.31667,
+    13.76667
+],
+  "geometry": {"coordinates":[-88.31667,13.76667],"type":"Point"}
+}

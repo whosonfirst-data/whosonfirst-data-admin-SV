@@ -1,0 +1,72 @@
+{
+  "id": 1343784647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.38333,13.98333,-89.38333,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":-89.38333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lima",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584747,
+    "gn:latitude":13.98333,
+    "gn:longitude":-89.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lima",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Lima",
+        "Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584747
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d754faf0debea2a5f4652934191961f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694993,
+            "locality_id":1343784647,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1343784647,
+    "wof:lastmodified":1537701462,
+    "wof:name":"Lima",
+    "wof:parent_id":1108694993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.38333,
+    13.98333,
+    -89.38333,
+    13.98333
+],
+  "geometry": {"coordinates":[-89.38333,13.98333],"type":"Point"}
+}

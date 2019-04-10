@@ -1,0 +1,72 @@
+{
+  "id": 1209803477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.56667,14.36667,-89.56667,14.36667",
+    "geom:latitude":14.36667,
+    "geom:longitude":-89.56667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Santa Ines",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583265,
+    "gn:latitude":14.36667,
+    "gn:longitude":-89.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa In\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Santa In\u00e9s",
+        "Santa In\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583265
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ed8ebcf6ff216efce9232509eae849cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1209803477,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1209803477,
+    "wof:lastmodified":1537701433,
+    "wof:name":"Santa Ines",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.56667,
+    14.36667,
+    -89.56667,
+    14.36667
+],
+  "geometry": {"coordinates":[-89.56667,14.36667],"type":"Point"}
+}

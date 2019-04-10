@@ -1,0 +1,68 @@
+{
+  "id": 1326650109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1,13.65,-88.1,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-88.1,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"SV",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583810,
+    "gn:latitude":13.65,
+    "gn:longitude":-88.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421189495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583810,
+        "wk:page":"San_Carlos%2C_Moraz%C3%A1n"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d95bc2bd72a09cf70a822d91daa90dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189495,
+            "locality_id":1326650109,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1326650109,
+    "wof:lastmodified":1537573771,
+    "wof:name":"San Carlos",
+    "wof:parent_id":421189495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1,
+    13.65,
+    -88.1,
+    13.65
+],
+  "geometry": {"coordinates":[-88.09999999999999,13.65],"type":"Point"}
+}

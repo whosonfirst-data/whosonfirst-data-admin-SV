@@ -1,0 +1,72 @@
+{
+  "id": 1243176917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.46972,13.56167,-89.46972,13.56167",
+    "geom:latitude":13.56167,
+    "geom:longitude":-89.46972,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Termopilas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584812,
+    "gn:latitude":13.56167,
+    "gn:longitude":-89.46972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Term\u00f3pilas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Las Term\u00f3pilas",
+        "Las Term\u00f3pilas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584812
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"73b8585a5c2038141417ce74243d227c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171699,
+            "locality_id":1243176917,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1243176917,
+    "wof:lastmodified":1537701463,
+    "wof:name":"Las Termopilas",
+    "wof:parent_id":421171699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.46972,
+    13.56167,
+    -89.46972,
+    13.56167
+],
+  "geometry": {"coordinates":[-89.46972,13.56167],"type":"Point"}
+}

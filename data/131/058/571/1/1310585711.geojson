@@ -1,0 +1,67 @@
+{
+  "id": 1310585711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.06472,13.46528,-88.06472,13.46528",
+    "geom:latitude":13.46528,
+    "geom:longitude":-88.06472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Los Vasquez",
+    "gn:country_code":"SV",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735493,
+    "gn:latitude":13.46528,
+    "gn:longitude":-88.06472,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Los V\u00e1squez",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108695091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735493
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"920330740e232cde133619923c989897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695091,
+            "locality_id":1310585711,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1310585711,
+    "wof:lastmodified":1536801308,
+    "wof:name":"Los Vasquez",
+    "wof:parent_id":1108695091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.06472,
+    13.46528,
+    -88.06472,
+    13.46528
+],
+  "geometry": {"coordinates":[-88.06471999999999,13.46528],"type":"Point"}
+}

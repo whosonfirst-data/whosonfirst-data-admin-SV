@@ -1,0 +1,67 @@
+{
+  "id": 1309688629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.66667,13.75,-89.66667,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-89.66667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Chorro Abajo",
+    "gn:country_code":"SV",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587014,
+    "gn:latitude":13.75,
+    "gn:longitude":-89.66667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Chorro Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421169439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587014
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"53b74c0ea5fdddd17bc004de319e2346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169439,
+            "locality_id":1309688629,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1309688629,
+    "wof:lastmodified":1537096807,
+    "wof:name":"Chorro Abajo",
+    "wof:parent_id":421169439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.66667,
+    13.75,
+    -89.66667,
+    13.75
+],
+  "geometry": {"coordinates":[-89.66667,13.75],"type":"Point"}
+}

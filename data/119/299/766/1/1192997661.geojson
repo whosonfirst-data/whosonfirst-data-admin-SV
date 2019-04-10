@@ -1,0 +1,73 @@
+{
+  "id": 1192997661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.62333,13.73417,-89.62333,13.73417",
+    "geom:latitude":13.73417,
+    "geom:longitude":-89.62333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Piedras Pachas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584073,
+    "gn:latitude":13.73417,
+    "gn:longitude":-89.62333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Piedras Pachas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Piedra Pacha",
+        "Cant\u00f3n Piedras Pachas",
+        "Piedras Pachas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421189151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584073
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c2ea6a22273f8cd496a1e991ba50d115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189151,
+            "locality_id":1192997661,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1192997661,
+    "wof:lastmodified":1537701450,
+    "wof:name":"Piedras Pachas",
+    "wof:parent_id":421189151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.62333000000002,
+    13.73417,
+    -89.62333000000002,
+    13.73417
+],
+  "geometry": {"coordinates":[-89.62333000000002,13.73417],"type":"Point"}
+}

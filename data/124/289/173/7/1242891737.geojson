@@ -1,0 +1,72 @@
+{
+  "id": 1242891737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.9,13.73333,-89.9,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":-89.9,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hacienda El Chaguite",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585604,
+    "gn:latitude":13.73333,
+    "gn:longitude":-89.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda El Chag\u00fcite",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Chaguite",
+        "Hacienda El Chag\u00fcite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421204283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585604
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"8c6e15af7f293346b9f496f50c51fabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421204283,
+            "locality_id":1242891737,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1242891737,
+    "wof:lastmodified":1537701482,
+    "wof:name":"Hacienda El Chaguite",
+    "wof:parent_id":421204283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.9,
+    13.73333,
+    -89.9,
+    13.73333
+],
+  "geometry": {"coordinates":[-89.90000000000001,13.73333],"type":"Point"}
+}

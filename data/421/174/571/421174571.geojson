@@ -1,0 +1,100 @@
+{
+  "id": 421174571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18333,14.33333,-89.18333,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":-89.18333,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ita_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:por_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583707,
+    "qs:gn_pop":0,
+    "qs:name":"San Ignacio",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Chalatenango",
+    "qs:photos":135,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":135,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887551,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79558,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421191203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583707,
+        "gp:id":79558,
+        "qs:id":887551,
+        "wd:id":"Q3947358",
+        "wk:page":"San Ignacio, Chalatenango"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009036,
+    "wof:geomhash":"e8dc3601a1feb029caa1ab9a9a375868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191203,
+            "locality_id":421174571,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":421174571,
+    "wof:lastmodified":1527716231,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":421191203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18333,
+    14.33333,
+    -89.18333,
+    14.33333
+],
+  "geometry": {"coordinates":[-89.18333,14.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242888197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0825,13.83111,-90.0825,13.83111",
+    "geom:latitude":13.83111,
+    "geom:longitude":-90.0825,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puertas Negras",
+    "gn:country_code":"SV",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764913,
+    "gn:latitude":13.83111,
+    "gn:longitude":-90.0825,
+    "gn:modification_date":"1998-09-25",
+    "gn:name":"Puertas Negras",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764913
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"6102abed875be674bf2252c4ba6db56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1242888197,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1242888197,
+    "wof:lastmodified":1536613837,
+    "wof:name":"Puertas Negras",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0825,
+    13.83111,
+    -90.0825,
+    13.83111
+],
+  "geometry": {"coordinates":[-90.0825,13.83111],"type":"Point"}
+}

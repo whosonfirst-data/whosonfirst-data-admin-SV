@@ -1,0 +1,112 @@
+{
+  "id": 421183805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.03861,13.54361,-89.03861,13.54361",
+    "geom:latitude":13.54361,
+    "geom:longitude":-89.03861,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u99ac\u85a9\u74e6\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro Masahuat"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Masahuat"
+    ],
+    "name:fra_x_preferred":[
+        "San Pedro Masahuat"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro Masahuat"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro Masahuat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u30fb\u30de\u30b5\u30ef\u30c3\u30c8"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro Masahuat"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro Masahuat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u99ac\u85a9\u74e6\u7279"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583407,
+    "qs:gn_pop":2654,
+    "qs:name":"San Pedro Masahuat",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045542,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79792,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        1108694995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583407,
+        "gp:id":79792,
+        "qs:id":1045542,
+        "wd:id":"Q432350",
+        "wk:page":"San Pedro Masahuat"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009383,
+    "wof:geomhash":"f5f90d670d6ba6ebc0679159e1d27090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694995,
+            "locality_id":421183805,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":421183805,
+    "wof:lastmodified":1527716491,
+    "wof:name":"San Pedro Masahuat",
+    "wof:parent_id":1108694995,
+    "wof:placetype":"locality",
+    "wof:population":2654,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.03861,
+    13.54361,
+    -89.03861,
+    13.54361
+],
+  "geometry": {"coordinates":[-89.03861000000001,13.54361],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276992707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0,14.13333,-89.0,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.0,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"SV",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583235,
+    "gn:latitude":14.13333,
+    "gn:longitude":-89.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108695039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583235,
+        "wk:page":"Santa_Rita%2C_Chalatenango"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"93f98d0723cc1d79461129f44ade0868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695039,
+            "locality_id":1276992707,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1276992707,
+    "wof:lastmodified":1537573769,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":1108695039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0,
+    14.13333,
+    -89.0,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.0,14.13333],"type":"Point"}
+}

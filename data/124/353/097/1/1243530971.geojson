@@ -1,0 +1,67 @@
+{
+  "id": 1243530971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.65,13.76667,-89.65,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-89.65,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Chorro Arriba",
+    "gn:country_code":"SV",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587013,
+    "gn:latitude":13.76667,
+    "gn:longitude":-89.65,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Chorro Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421169439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587013
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"562109ebf4fdc9249e1e7ea6f9debf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169439,
+            "locality_id":1243530971,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1243530971,
+    "wof:lastmodified":1536683718,
+    "wof:name":"Chorro Arriba",
+    "wof:parent_id":421169439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.65,
+    13.76667,
+    -89.65,
+    13.76667
+],
+  "geometry": {"coordinates":[-89.65000000000001,13.76667],"type":"Point"}
+}

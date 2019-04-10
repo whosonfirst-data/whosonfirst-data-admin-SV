@@ -1,0 +1,73 @@
+{
+  "id": 1293904859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.87194,13.66917,-87.87194,13.66917",
+    "geom:latitude":13.66917,
+    "geom:longitude":-87.87194,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Mojones",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584557,
+    "gn:latitude":13.66917,
+    "gn:longitude":-87.87194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Mojones",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Mojones",
+        "Mojones",
+        "Los Mojones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584557
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3c2c728033e3d9da2435c7f97b00029e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695041,
+            "locality_id":1293904859,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293904859,
+    "wof:lastmodified":1537701458,
+    "wof:name":"Los Mojones",
+    "wof:parent_id":1108695041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.87194000000002,
+    13.66917,
+    -87.87194000000002,
+    13.66917
+],
+  "geometry": {"coordinates":[-87.87194000000002,13.66917],"type":"Point"}
+}

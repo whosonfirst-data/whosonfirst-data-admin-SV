@@ -1,0 +1,67 @@
+{
+  "id": 1242878723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41222,13.70361,-89.41222,13.70361",
+    "geom:latitude":13.70361,
+    "geom:longitude":-89.41222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Los Laureles",
+    "gn:country_code":"SV",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584592,
+    "gn:latitude":13.70361,
+    "gn:longitude":-89.41222,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Los Laureles",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108695067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584592
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f7b8a898521d4898fccc1452fd8804d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695067,
+            "locality_id":1242878723,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1242878723,
+    "wof:lastmodified":1536628184,
+    "wof:name":"Los Laureles",
+    "wof:parent_id":1108695067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41221999999998,
+    13.70361,
+    -89.41221999999998,
+    13.70361
+],
+  "geometry": {"coordinates":[-89.41221999999998,13.70361],"type":"Point"}
+}

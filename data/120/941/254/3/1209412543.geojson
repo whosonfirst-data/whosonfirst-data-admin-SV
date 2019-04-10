@@ -1,0 +1,67 @@
+{
+  "id": 1209412543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.1,13.45,-89.1,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":-89.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zambombera",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582799,
+    "gn:latitude":13.45,
+    "gn:longitude":-89.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zambombera",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Zambombera",
+        "La Sambombera",
+        "Zambombera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582799
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5b1f16f74088d6e26c887918c6487ed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209412543
+        }
+    ],
+    "wof:id":1209412543,
+    "wof:lastmodified":1537701425,
+    "wof:name":"Zambombera",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.1,
+    13.45,
+    -89.1,
+    13.45
+],
+  "geometry": {"coordinates":[-89.09999999999999,13.45],"type":"Point"}
+}

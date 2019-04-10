@@ -1,0 +1,106 @@
+{
+  "id": 421192045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.75833,13.82861,-89.75833,13.82861",
+    "geom:latitude":13.82861,
+    "geom:longitude":-89.75833,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u85a9\u723e\u79d1\u963f\u8482\u5766"
+    ],
+    "name:dut_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Salcotitan"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u723e\u79d1\u963f\u8482\u5766"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583922,
+    "qs:gn_pop":0,
+    "qs:name":"Salcoatit\u00e1n",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":108,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":108,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165078,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79390,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108694905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583922,
+        "gp:id":79390,
+        "qs:id":1165078,
+        "wd:id":"Q3945376",
+        "wk:page":"Salcoatit\u00e1n"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009723,
+    "wof:geomhash":"1518d1bcdde785cad5a3d9cbf5719119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694905,
+            "locality_id":421192045,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421192045,
+    "wof:lastmodified":1527716113,
+    "wof:name":"Salcoatit\u00e1n",
+    "wof:parent_id":1108694905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.75833,
+    13.82861,
+    -89.75833,
+    13.82861
+],
+  "geometry": {"coordinates":[-89.75833,13.82861],"type":"Point"}
+}

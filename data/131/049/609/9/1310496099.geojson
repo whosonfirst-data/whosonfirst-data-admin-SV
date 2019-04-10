@@ -1,0 +1,67 @@
+{
+  "id": 1310496099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.19472,13.39833,-88.19472,13.39833",
+    "geom:latitude":13.39833,
+    "geom:longitude":-88.19472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Los Portillos",
+    "gn:country_code":"SV",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735331,
+    "gn:latitude":13.39833,
+    "gn:longitude":-88.19472,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Los Portillos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735331
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d7d2ef3007dd8a41f03023bfa2e3db95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1310496099,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1310496099,
+    "wof:lastmodified":1536931227,
+    "wof:name":"Los Portillos",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.19471999999998,
+    13.39833,
+    -88.19471999999998,
+    13.39833
+],
+  "geometry": {"coordinates":[-88.19471999999998,13.39833],"type":"Point"}
+}

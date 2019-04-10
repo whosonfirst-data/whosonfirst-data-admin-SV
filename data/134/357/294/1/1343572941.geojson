@@ -1,0 +1,73 @@
+{
+  "id": 1343572941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.28333,14.05,-89.28333,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":-89.28333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tepeagua",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582977,
+    "gn:latitude":14.05,
+    "gn:longitude":-89.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tepeagua",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Tepiagua",
+        "Tepiagua",
+        "Tepeagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421177967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582977
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e5521e280ded0873e713b055e13efd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421177967,
+            "locality_id":1343572941,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1343572941,
+    "wof:lastmodified":1537701428,
+    "wof:name":"Tepeagua",
+    "wof:parent_id":421177967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.28333,
+    14.05,
+    -89.28333,
+    14.05
+],
+  "geometry": {"coordinates":[-89.28333000000001,14.05],"type":"Point"}
+}

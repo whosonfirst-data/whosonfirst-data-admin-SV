@@ -1,0 +1,67 @@
+{
+  "id": 1193131549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.9,13.78333,-87.9,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-87.9,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Agua Fria",
+    "gn:country_code":"SV",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587460,
+    "gn:latitude":13.78333,
+    "gn:longitude":-87.9,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Agua Fr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587460
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0b1b9aed3075503f19e0b678afa746a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694837,
+            "locality_id":1193131549,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1193131549,
+    "wof:lastmodified":1536375246,
+    "wof:name":"Agua Fria",
+    "wof:parent_id":1108694837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.9,
+    13.78333,
+    -87.9,
+    13.78333
+],
+  "geometry": {"coordinates":[-87.90000000000001,13.78333],"type":"Point"}
+}

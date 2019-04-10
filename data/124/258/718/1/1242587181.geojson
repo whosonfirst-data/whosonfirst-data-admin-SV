@@ -1,0 +1,73 @@
+{
+  "id": 1242587181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0,13.93333,-90.0,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-90.0,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Chaguite",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586608,
+    "gn:latitude":13.93333,
+    "gn:longitude":-90.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Chag\u00fcite",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo El Chag\u00fcite",
+        "El Chahuite",
+        "El Chag\u00fcite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421193371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586608
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cdc87c345a4aa11879a82601ebc0918e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421193371,
+            "locality_id":1242587181,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1242587181,
+    "wof:lastmodified":1537701505,
+    "wof:name":"El Chaguite",
+    "wof:parent_id":421193371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0,
+    13.93333,
+    -90.0,
+    13.93333
+],
+  "geometry": {"coordinates":[-90.0,13.93333],"type":"Point"}
+}

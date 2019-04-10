@@ -1,0 +1,72 @@
+{
+  "id": 1226331997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36667,13.81667,-88.36667,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-88.36667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"San Juan",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583567,
+    "gn:latitude":13.81667,
+    "gn:longitude":-88.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan de Vel\u00e1squez",
+        "San Juan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583567
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"25fdbb31b9a5651be51f6656f4ce2900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694981,
+            "locality_id":1226331997,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1226331997,
+    "wof:lastmodified":1537701438,
+    "wof:name":"San Juan",
+    "wof:parent_id":1108694981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36667,
+    13.81667,
+    -88.36667,
+    13.81667
+],
+  "geometry": {"coordinates":[-88.36667,13.81667],"type":"Point"}
+}

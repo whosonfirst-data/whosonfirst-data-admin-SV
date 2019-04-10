@@ -1,0 +1,72 @@
+{
+  "id": 1260280525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.83333,13.78333,-87.83333,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-87.83333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Rubio",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584492,
+    "gn:latitude":13.78333,
+    "gn:longitude":-87.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Rubio",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Rubios",
+        "Los Rubio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584492
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f1e19f6fd95e735ff9455cf50b0f86ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694861,
+            "locality_id":1260280525,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1260280525,
+    "wof:lastmodified":1537701457,
+    "wof:name":"Los Rubio",
+    "wof:parent_id":1108694861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.83333,
+    13.78333,
+    -87.83333,
+    13.78333
+],
+  "geometry": {"coordinates":[-87.83333,13.78333],"type":"Point"}
+}

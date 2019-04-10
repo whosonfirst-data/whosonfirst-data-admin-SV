@@ -1,0 +1,118 @@
+{
+  "id": 85929721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6721904.130755,
+    "geom:bbox":"14.54875,46.077243,14.54875,46.077243",
+    "geom:latitude":46.077243,
+    "geom:longitude":14.54875,
+    "gn:latitude":46.08333,
+    "gn:longitude":14.55,
+    "iso:country":"SV",
+    "lbl:latitude":46.077243,
+    "lbl:longitude":14.54875,
+    "mps:latitude":46.068729,
+    "mps:longitude":14.560509,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:und_x_colloquial":[
+        "Jarse"
+    ],
+    "name:und_x_preferred":[
+        "Jar\u0161e"
+    ],
+    "name:unk_x_variant":[
+        "Spodnje Jar\u0161e",
+        "Jar\u0161e"
+    ],
+    "qs:gn_adm0_cc":"SI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3196359,
+    "qs:gn_nam_loc":"Ljubljana, Ljubljana, Ljubljana, SI",
+    "qs:gn_namadm1":"61",
+    "qs:gn_name":"Jar\u0161e",
+    "qs:local_max":13863,
+    "qs:local_sum":25230,
+    "qs:localhoods":13,
+    "qs:name":"Jar\u0161e",
+    "qs:name_adm0":"Slovenija",
+    "qs:name_adm1":"Ljubljana",
+    "qs:name_adm2":"Ljubljana",
+    "qs:name_local":"Ljubljana",
+    "qs:photo_max":113,
+    "qs:photo_sum":276,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424945,
+    "qs:woe_adm1":55848364,
+    "qs:woe_adm2":12591568,
+    "qs:woe_lau":0,
+    "qs:woe_local":530634,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":436,
+    "wof:belongsto":[
+        1108959949,
+        102191581,
+        1108959501,
+        85633779,
+        101752073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198851,
+        "gp:id":55868982,
+        "qs:id":222164,
+        "qs_pg:id":222164,
+        "wd:id":"Q18165039",
+        "wk:page":"Jar\u0161e (Ljubljana)"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c49e683bb40d09524e25bba7e9b0d108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":101752073,
+            "neighbourhood_id":85929721,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":85929721,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939156,
+    "wof:name":"Jar\u0161e",
+    "wof:parent_id":101752073,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54875,
+    46.077243,
+    14.54875,
+    46.077243
+],
+  "geometry": {"coordinates":[14.54875,46.077243],"type":"Point"}
+}

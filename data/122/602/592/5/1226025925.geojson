@@ -1,0 +1,72 @@
+{
+  "id": 1226025925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.51667,13.93333,-89.51667,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-89.51667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Bejuco",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586727,
+    "gn:latitude":13.93333,
+    "gn:longitude":-89.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Bejuco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo El Bejuco",
+        "El Bejuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421190155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586727
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e994f5b1d7ca109573cc3c3b25e3fa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421190155,
+            "locality_id":1226025925,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1226025925,
+    "wof:lastmodified":1537701507,
+    "wof:name":"El Bejuco",
+    "wof:parent_id":421190155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.51666999999998,
+    13.93333,
+    -89.51666999999998,
+    13.93333
+],
+  "geometry": {"coordinates":[-89.51666999999998,13.93333],"type":"Point"}
+}

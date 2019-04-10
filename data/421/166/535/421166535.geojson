@@ -1,0 +1,79 @@
+{
+  "id": 421166535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88333,13.5,-88.88333,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-88.88333,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Nonualco"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583533,
+    "qs:gn_pop":0,
+    "qs:name":"San Juan Nonualco",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267354,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79697,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        421191217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583533,
+        "gp:id":79697,
+        "qs:id":267354
+    },
+    "wof:country":"SV",
+    "wof:created":1459008693,
+    "wof:geomhash":"9991a9a6ad5da4341aa3515e7512af92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191217,
+            "locality_id":421166535,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":421166535,
+    "wof:lastmodified":1501267922,
+    "wof:name":"San Juan Nonualco",
+    "wof:parent_id":421191217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88333,
+    13.5,
+    -88.88333,
+    13.5
+],
+  "geometry": {"coordinates":[-88.88333,13.5],"type":"Point"}
+}

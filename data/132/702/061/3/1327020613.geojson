@@ -1,0 +1,72 @@
+{
+  "id": 1327020613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.16667,13.71667,-88.16667,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-88.16667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Angostura",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585383,
+    "gn:latitude":13.71667,
+    "gn:longitude":-88.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Angostura",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Cruces",
+        "La Angostura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585383
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"916fc32d1ef9b9bd8164e24f53333178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694741,
+            "locality_id":1327020613,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1327020613,
+    "wof:lastmodified":1537701475,
+    "wof:name":"La Angostura",
+    "wof:parent_id":1108694741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.16667,
+    13.71667,
+    -88.16667,
+    13.71667
+],
+  "geometry": {"coordinates":[-88.16667,13.71667],"type":"Point"}
+}

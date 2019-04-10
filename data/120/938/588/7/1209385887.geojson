@@ -1,0 +1,61 @@
+{
+  "id": 1209385887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.4,13.36667,-88.4,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":-88.4,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Piedra Ancha",
+    "gn:country_code":"SV",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584096,
+    "gn:latitude":13.36667,
+    "gn:longitude":-88.4,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Piedra Ancha",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584096
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c5b6d88fe662e0f01618cd76cc8d99ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209385887
+        }
+    ],
+    "wof:id":1209385887,
+    "wof:lastmodified":1536288626,
+    "wof:name":"Piedra Ancha",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.4,
+    13.36667,
+    -88.4,
+    13.36667
+],
+  "geometry": {"coordinates":[-88.40000000000001,13.36667],"type":"Point"}
+}

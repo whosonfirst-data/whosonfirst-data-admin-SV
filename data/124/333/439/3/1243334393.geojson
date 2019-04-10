@@ -1,0 +1,66 @@
+{
+  "id": 1243334393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.53333,13.21667,-88.53333,13.21667",
+    "geom:latitude":13.21667,
+    "geom:longitude":-88.53333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hacienda Madresal",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585572,
+    "gn:latitude":13.21667,
+    "gn:longitude":-88.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda Madresal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madresal",
+        "Hacienda Madresal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585572
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f3745718e976aeb801f8ee164be393af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243334393,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243334393,
+    "wof:lastmodified":1537701480,
+    "wof:name":"Hacienda Madresal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.53333,
+    13.21667,
+    -88.53333,
+    13.21667
+],
+  "geometry": {"coordinates":[-88.53333000000001,13.21667],"type":"Point"}
+}

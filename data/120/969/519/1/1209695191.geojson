@@ -1,0 +1,66 @@
+{
+  "id": 1209695191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.49056,13.77306,-89.49056,13.77306",
+    "geom:latitude":13.77306,
+    "geom:longitude":-89.49056,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Rosario",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586011,
+    "gn:latitude":13.77306,
+    "gn:longitude":-89.49056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda El Rosario",
+        "El Rosario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586011
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c24eac8fe2e7bc48afe55a448dde2b9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209695191
+        }
+    ],
+    "wof:id":1209695191,
+    "wof:lastmodified":1537701491,
+    "wof:name":"El Rosario",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.49056,
+    13.77306,
+    -89.49056,
+    13.77306
+],
+  "geometry": {"coordinates":[-89.49056,13.77306],"type":"Point"}
+}

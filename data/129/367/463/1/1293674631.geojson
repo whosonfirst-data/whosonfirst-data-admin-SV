@@ -1,0 +1,67 @@
+{
+  "id": 1293674631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.01667,13.76667,-88.01667,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-88.01667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Varilla Negra",
+    "gn:country_code":"SV",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582852,
+    "gn:latitude":13.76667,
+    "gn:longitude":-88.01667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Varilla Negra",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421172671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582852
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7ddaca5f433cb63558f53d4ad3bfb7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421172671,
+            "locality_id":1293674631,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1293674631,
+    "wof:lastmodified":1537013844,
+    "wof:name":"Varilla Negra",
+    "wof:parent_id":421172671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.01666999999998,
+    13.76667,
+    -88.01666999999998,
+    13.76667
+],
+  "geometry": {"coordinates":[-88.01666999999998,13.76667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209603201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41056,13.98417,-89.41056,13.98417",
+    "geom:latitude":13.98417,
+    "geom:longitude":-89.41056,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Felipe",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583760,
+    "gn:latitude":13.98417,
+    "gn:longitude":-89.41056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Felipe",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle San Felipe",
+        "San Felipe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583760
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ac81ed0ed59d73534893a36631ee7039",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209603201
+        }
+    ],
+    "wof:id":1209603201,
+    "wof:lastmodified":1537701442,
+    "wof:name":"San Felipe",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41056,
+    13.98417,
+    -89.41056,
+    13.98417
+],
+  "geometry": {"coordinates":[-89.41056,13.98417],"type":"Point"}
+}

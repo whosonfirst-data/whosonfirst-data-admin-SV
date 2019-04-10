@@ -1,0 +1,111 @@
+{
+  "id": 421199341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.84111,13.58444,-87.84111,13.58444",
+    "geom:latitude":13.58444,
+    "geom:longitude":-87.84111,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e15\u85a9\u57fa\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Pasaquina"
+    ],
+    "name:eng_x_preferred":[
+        "Pasaquina"
+    ],
+    "name:fre_x_preferred":[
+        "Pasaquina"
+    ],
+    "name:ita_x_preferred":[
+        "Pasaquina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b5\u30ad\u30ca"
+    ],
+    "name:por_x_preferred":[
+        "Pasaquina"
+    ],
+    "name:spa_x_preferred":[
+        "Pasaquina"
+    ],
+    "name:unk_x_variant":[
+        "Pasaguina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u85a9\u57fa\u7d0d"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584140,
+    "qs:gn_pop":2149,
+    "qs:name":"Pasaquina",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Uni\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":193192,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79228,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584140,
+        "gp:id":79228,
+        "qs:id":193192,
+        "wd:id":"Q3896916",
+        "wk:page":"Pasaquina"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009986,
+    "wof:geomhash":"6cc98efec90cb0013267b35e03ce4f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694891,
+            "locality_id":421199341,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":421199341,
+    "wof:lastmodified":1514505782,
+    "wof:name":"Pasaquina",
+    "wof:parent_id":1108694891,
+    "wof:placetype":"locality",
+    "wof:population":2149,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.84111,
+    13.58444,
+    -87.84111,
+    13.58444
+],
+  "geometry": {"coordinates":[-87.84111,13.58444],"type":"Point"}
+}

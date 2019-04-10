@@ -1,0 +1,76 @@
+{
+  "id": 1108694905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00097,
+    "geom:area_square_m":11644940.845441,
+    "geom:bbox":"-89.7795237559,13.8039771011,-89.7398679531,13.8605606974",
+    "geom:latitude":13.831952,
+    "geom:longitude":-89.759709,
+    "iso:country":"SV",
+    "lbl:latitude":13.825542,
+    "lbl:longitude":-89.757756,
+    "meso:admin1r":"REGION OCCIDENTAL",
+    "meso:admin_1":"Sonsonate",
+    "meso:diss_me":"SALCOATITANSONSONATE",
+    "meso:gadm_admin":"Salcoatit\u00e1n",
+    "meso:gadm_hasc2":"SV.SO.SL",
+    "meso:gaul_admin":"Salcoatitan",
+    "meso:local_id":"10",
+    "meso:local_id_a":"0310",
+    "meso:mps_x":-89.757756,
+    "meso:mps_y":13.825542,
+    "meso:name_en":"Salcoatitan",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.825542,
+    "mps:longitude":-89.757756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Salcoatitan",
+        "Salcoatit\u00e1n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.SO.SL"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493256,
+    "wof:geomhash":"de1257b39e95c4d90ea8a5a7d6d005f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694905,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1108694905,
+    "wof:lastmodified":1536615367,
+    "wof:name":"Salcoatitan",
+    "wof:parent_id":85677159,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.77952375588056,
+    13.80397710108671,
+    -89.73986795310914,
+    13.86056069744053
+],
+  "geometry": {"coordinates":[[[-89.76578569034427,13.86056069744053],[-89.76174677263076,13.85989563541871],[-89.75358593944686,13.85108395463832],[-89.76003894071225,13.84187397939557],[-89.76021204619079,13.83874886035184],[-89.74643590303265,13.82827150203792],[-89.74459201403333,13.82687181836968],[-89.74649056556397,13.82344484740169],[-89.73986795310914,13.80782634123059],[-89.74434674022115,13.80422347237991],[-89.75222538966757,13.80397710108671],[-89.75674024603433,13.80938513790907],[-89.7590414361388,13.81621263686611],[-89.75998968112705,13.81645545805191],[-89.76633787107932,13.82048742497222],[-89.76683112355784,13.82827150203792],[-89.76708129795246,13.83213952254627],[-89.77935178136822,13.83623180999516],[-89.77952375588056,13.8375636574807],[-89.77515535702426,13.84770877425122],[-89.77403040149665,13.84897413299196],[-89.77389920921074,13.85335573880271],[-89.76578569034427,13.86056069744053]]],"type":"Polygon"}
+}

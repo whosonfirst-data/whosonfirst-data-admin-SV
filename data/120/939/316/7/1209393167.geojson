@@ -1,0 +1,66 @@
+{
+  "id": 1209393167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36667,14.21667,-89.36667,14.21667",
+    "geom:latitude":14.21667,
+    "geom:longitude":-89.36667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Salitre",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585978,
+    "gn:latitude":14.21667,
+    "gn:longitude":-89.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Salitre",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Salitre",
+        "El Salitre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585978
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"39fa11bddd84527f8552f2c2a4fcfb97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209393167
+        }
+    ],
+    "wof:id":1209393167,
+    "wof:lastmodified":1537701490,
+    "wof:name":"El Salitre",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36667,
+    14.21667,
+    -89.36667,
+    14.21667
+],
+  "geometry": {"coordinates":[-89.36667,14.21667],"type":"Point"}
+}

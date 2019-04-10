@@ -1,0 +1,73 @@
+{
+  "id": 1260287717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.63333,13.86667,-88.63333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-88.63333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Tempisque",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585880,
+    "gn:latitude":13.86667,
+    "gn:longitude":-88.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tempisque",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tempisque",
+        "Cant\u00f3n Tempisque",
+        "El Tempisque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108694797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585880
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"254753b5dbb68ef9c0cf1509b0b8e3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694797,
+            "locality_id":1260287717,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1260287717,
+    "wof:lastmodified":1537701488,
+    "wof:name":"El Tempisque",
+    "wof:parent_id":1108694797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.63333,
+    13.86667,
+    -88.63333,
+    13.86667
+],
+  "geometry": {"coordinates":[-88.63333,13.86667],"type":"Point"}
+}

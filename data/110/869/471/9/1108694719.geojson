@@ -1,0 +1,75 @@
+{
+  "id": 1108694719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001094,
+    "geom:area_square_m":13124317.799878,
+    "geom:bbox":"-89.005299361,13.9679706332,-88.9699232481,14.0154859198",
+    "geom:latitude":13.992247,
+    "geom:longitude":-88.988601,
+    "iso:country":"SV",
+    "lbl:latitude":13.990479,
+    "lbl:longitude":-88.987169,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Chalatenango",
+    "meso:diss_me":"AZACUALPACHALATENANGO",
+    "meso:gadm_admin":"Azacualpa",
+    "meso:gadm_hasc2":"SV.CH.AZ",
+    "meso:gaul_admin":"Azacualpa",
+    "meso:local_id":"03",
+    "meso:local_id_a":"0403",
+    "meso:mps_x":-88.987169,
+    "meso:mps_y":13.990479,
+    "meso:name_en":"Azacualpa",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.990479,
+    "mps:longitude":-88.987169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Azacualpa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CH.AZ"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493072,
+    "wof:geomhash":"cc04dffdfa5140b262259dc72a4e68ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694719,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1108694719,
+    "wof:lastmodified":1536615364,
+    "wof:name":"Azacualpa",
+    "wof:parent_id":85677193,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"AZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.00529936104118,
+    13.96797063316036,
+    -88.96992324810726,
+    14.01548591983274
+],
+  "geometry": {"coordinates":[[[-88.96992324810726,13.99142770062736],[-88.9744183356691,13.98574357719723],[-88.97775776196335,13.97990271256982],[-88.9779021810708,13.97855041011382],[-88.97729634597076,13.97676907556186],[-88.98142842181912,13.96956262942103],[-88.98435678207332,13.9679976713665],[-88.99040600081447,13.96797063316036],[-88.99567416163194,13.97563300345034],[-88.99622442394542,13.97666882022362],[-89.00140355923834,13.97811957433193],[-89.00435480598352,13.98025756203726],[-89.00529936104118,13.98489839009119],[-88.99947336624811,13.99239817327451],[-89.00487398628447,14.00451795762006],[-89.00224934403091,14.01119013371949],[-88.99351961989969,14.01025235231864],[-88.98651206178431,14.01548591983274],[-88.97995227811977,14.01371295138018],[-88.97687451840631,14.01143850215468],[-88.97606959930532,14.00518527082094],[-88.97655981279559,14.00418547774751],[-88.9789474328156,14.0004023329454],[-88.96992324810726,13.99142770062736]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 421202825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.11667,13.16667,-88.11667,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":-88.11667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3586516,
+    "qs:gn_pop":0,
+    "qs:name":"El Cuco",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Miguel",
+    "qs:photos":221,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":221,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228548,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":77456,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586516,
+        "gp:id":77456,
+        "qs:id":228548
+    },
+    "wof:country":"SV",
+    "wof:created":1459010131,
+    "wof:geomhash":"dc5429c37f224c1ffb56c4fdb80e8bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":421202825
+        }
+    ],
+    "wof:id":421202825,
+    "wof:lastmodified":1470255552,
+    "wof:name":"El Cuco",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.11667,
+    13.16667,
+    -88.11667,
+    13.16667
+],
+  "geometry": {"coordinates":[-88.11667,13.16667],"type":"Point"}
+}

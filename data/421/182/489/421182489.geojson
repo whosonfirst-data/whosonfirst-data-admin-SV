@@ -1,0 +1,109 @@
+{
+  "id": 421182489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.50417,13.92861,-89.50417,13.92861",
+    "geom:latitude":13.92861,
+    "geom:longitude":-89.50417,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u79d1\u963f\u7279\u4f69\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:eng_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:ita_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30a2\u30c6\u30da\u30b1"
+    ],
+    "name:nah_x_preferred":[
+        "C\u014d\u0101tep\u0113c"
+    ],
+    "name:por_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:spa_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u963f\u7279\u4f69\u514b"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3586981,
+    "qs:gn_pop":5773,
+    "qs:name":"Coatepeque",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Santa Ana",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":195,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1340825,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":77074,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421190155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586981,
+        "gp:id":77074,
+        "qs:id":1340825,
+        "wd:id":"Q3681838",
+        "wk:page":"Coatepeque, Santa Ana"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009332,
+    "wof:geomhash":"769ba65219717639deb329af383b207f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421190155,
+            "locality_id":421182489,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":421182489,
+    "wof:lastmodified":1553816372,
+    "wof:name":"Coatepeque",
+    "wof:parent_id":421190155,
+    "wof:placetype":"locality",
+    "wof:population":5773,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.50417,
+    13.92861,
+    -89.50417,
+    13.92861
+],
+  "geometry": {"coordinates":[-89.50417,13.92861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343271469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0875,13.85722,-90.0875,13.85722",
+    "geom:latitude":13.85722,
+    "geom:longitude":-90.0875,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Manuel Jose Arce",
+    "gn:country_code":"SV",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765253,
+    "gn:latitude":13.85722,
+    "gn:longitude":-90.0875,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"Manuel Jos\u00e9 Arce",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765253
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"911ec23d83ed4e186841cd9a0308556a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1343271469,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1343271469,
+    "wof:lastmodified":1537018168,
+    "wof:name":"Manuel Jose Arce",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0875,
+    13.85722,
+    -90.0875,
+    13.85722
+],
+  "geometry": {"coordinates":[-90.08750000000001,13.85722],"type":"Point"}
+}

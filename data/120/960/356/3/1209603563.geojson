@@ -1,0 +1,67 @@
+{
+  "id": 1209603563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.66667,14.18333,-89.66667,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-89.66667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Cristobal",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583796,
+    "gn:latitude":14.18333,
+    "gn:longitude":-89.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Crist\u00f3bal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Crist\u00f3bal Frontera",
+        "San Crist\u00f3bal La Frontera",
+        "San Crist\u00f3bal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583796
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"23c526cf8a12438d9c83f6fc6991b888",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209603563
+        }
+    ],
+    "wof:id":1209603563,
+    "wof:lastmodified":1537701443,
+    "wof:name":"San Cristobal",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.66667,
+    14.18333,
+    -89.66667,
+    14.18333
+],
+  "geometry": {"coordinates":[-89.66667,14.18333],"type":"Point"}
+}

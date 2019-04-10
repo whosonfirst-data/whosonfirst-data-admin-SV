@@ -1,0 +1,73 @@
+{
+  "id": 1343738715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.63,13.54611,-89.63,13.54611",
+    "geom:latitude":13.54611,
+    "geom:longitude":-89.63,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Corozal",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586539,
+    "gn:latitude":13.54611,
+    "gn:longitude":-89.63,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Corozal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Corosal",
+        "El Corozal",
+        "Corozal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108695031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586539
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"935c73498596ec69594fd688c38eff63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695031,
+            "locality_id":1343738715,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1343738715,
+    "wof:lastmodified":1537701503,
+    "wof:name":"El Corozal",
+    "wof:parent_id":1108695031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.63,
+    13.54611,
+    -89.63,
+    13.54611
+],
+  "geometry": {"coordinates":[-89.63,13.54611],"type":"Point"}
+}

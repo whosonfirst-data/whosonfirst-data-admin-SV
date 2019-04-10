@@ -1,0 +1,115 @@
+{
+  "id": 421203593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002511,
+    "geom:area_square_m":30212613.386144,
+    "geom:bbox":"-88.4912367642,13.2636365771,-88.4211590143,13.32",
+    "geom:latitude":13.294018,
+    "geom:longitude":-88.456499,
+    "iso:country":"SV",
+    "lbl:latitude":13.294638,
+    "lbl:longitude":-88.457164,
+    "meso:admin1r":"REGION ORIENTAL",
+    "meso:admin_1":"Usulutan",
+    "meso:diss_me":"SAN DIONISIOUSULUTAN",
+    "meso:gadm_admin":"San Dionisio",
+    "meso:gadm_hasc2":"SV.US.SD",
+    "meso:gaul_admin":"San Dionisio",
+    "meso:local_id":"17",
+    "meso:local_id_a":"1117",
+    "meso:mps_x":-88.457164,
+    "meso:mps_y":13.294638,
+    "meso:name_en":"San Dionisio",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.294638,
+    "mps:longitude":-88.457164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_variant":[
+        "San Dionisio"
+    ],
+    "name:fra_x_preferred":[
+        "San Dionisio"
+    ],
+    "name:hbs_x_preferred":[
+        "San Dionisio"
+    ],
+    "name:por_x_preferred":[
+        "San Dionisio"
+    ],
+    "name:spa_x_preferred":[
+        "San Dionisio"
+    ],
+    "name:swe_x_preferred":[
+        "San Dionisio"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Dionisio",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Usulut\u00e1n",
+    "qs:photos":78,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":138,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":233707,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808777,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808777,
+        "hasc:id":"SV.US.SD",
+        "qs:id":233707
+    },
+    "wof:country":"SV",
+    "wof:created":1459010157,
+    "wof:geomhash":"68c0a6e4ca92f91960ed8f0e592b1d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203593,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421203593,
+    "wof:lastmodified":1536616159,
+    "wof:name":"San Dionisio",
+    "wof:parent_id":85677187,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.49123676419434,
+    13.26363657714655,
+    -88.42115901426669,
+    13.32
+],
+  "geometry": {"coordinates":[[[-88.49120535331352,13.30901410053672],[-88.48458712183483,13.31436675378453],[-88.47711773609164,13.3128822639075],[-88.46999999999915,13.32],[-88.4661803017603,13.32],[-88.46499999999915,13.31932529396656],[-88.46127580791816,13.31922420776225],[-88.46038367767123,13.31951561074766],[-88.4507885512605,13.31880049471555],[-88.44810329902376,13.31910208663395],[-88.44610374697017,13.31610374697103],[-88.43915997378768,13.30915997378854],[-88.43863446399986,13.30773107199853],[-88.43518246752147,13.30802802734584],[-88.42646676704672,13.30521745602051],[-88.42483536133138,13.3049612462627],[-88.42355584387839,13.3041603758085],[-88.4218406766671,13.30285802985111],[-88.42115901426669,13.2972340651939],[-88.43479246179631,13.285],[-88.43499999999912,13.28491093039105],[-88.43499999999912,13.28381389947599],[-88.43222633399736,13.27749976460329],[-88.43237613227753,13.27531542860438],[-88.43733434325138,13.26384404509577],[-88.44423203389766,13.26363657714655],[-88.45012714767215,13.26807007112429],[-88.45499999999913,13.26848304877493],[-88.45713772981892,13.27],[-88.45906285594992,13.27],[-88.46499999999915,13.26928359750203],[-88.46676268558662,13.26997530598769],[-88.46709007523934,13.27045070643339],[-88.4728256333341,13.27497903478325],[-88.47905666990572,13.28347183609938],[-88.47930216629396,13.28360433258962],[-88.48221012132899,13.28942024265967],[-88.48428063293028,13.29015485721647],[-88.49013180725358,13.30428212167848],[-88.49072949969154,13.3049237564362],[-88.49123676419434,13.30880209558013],[-88.49120535331352,13.30901410053672]]],"type":"Polygon"}
+}

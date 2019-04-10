@@ -1,0 +1,67 @@
+{
+  "id": 1293575645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73333,13.85,-89.73333,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":-89.73333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Union",
+    "gn:country_code":"SV",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584769,
+    "gn:latitude":13.85,
+    "gn:longitude":-89.73333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"La Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421167823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584769
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"06f3834a956b95c77ae0435d11002ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421167823,
+            "locality_id":1293575645,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1293575645,
+    "wof:lastmodified":1536660098,
+    "wof:name":"La Union",
+    "wof:parent_id":421167823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73333000000002,
+    13.85,
+    -89.73333000000002,
+    13.85
+],
+  "geometry": {"coordinates":[-89.73333000000002,13.85],"type":"Point"}
+}

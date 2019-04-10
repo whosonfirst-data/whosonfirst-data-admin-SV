@@ -1,0 +1,76 @@
+{
+  "id": 421169655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.35833,13.80667,-89.35833,13.80667",
+    "geom:latitude":13.80667,
+    "geom:longitude":-89.35833,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3733519,
+    "qs:gn_pop":0,
+    "qs:name":"Sitio del Ni\u00f1o",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":211,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":211,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228559,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79988,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733519,
+        "gp:id":79988,
+        "qs:id":228559
+    },
+    "wof:country":"SV",
+    "wof:created":1459008819,
+    "wof:geomhash":"d323c75602a6fbbc5337752ccab5e52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694967,
+            "locality_id":421169655,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":421169655,
+    "wof:lastmodified":1500036850,
+    "wof:name":"Sitio del Ni\u00f1o",
+    "wof:parent_id":1108694967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.35833,
+    13.80667,
+    -89.35833,
+    13.80667
+],
+  "geometry": {"coordinates":[-89.35833,13.80667],"type":"Point"}
+}

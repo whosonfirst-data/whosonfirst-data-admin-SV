@@ -1,0 +1,73 @@
+{
+  "id": 1226736021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.58528,13.61,-89.58528,13.61",
+    "geom:latitude":13.61,
+    "geom:longitude":-89.58528,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Santa Isabel Ishuatan",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583263,
+    "gn:latitude":13.61,
+    "gn:longitude":-89.58528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Isabel Ishuat\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ishuat\u00e1n",
+        "Santa Isabel Ishuat\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108695031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583263,
+        "wk:page":"Santa_Isabel_Ishuat%C3%A1n"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"901377b97ff19fda08c755b5852657e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695031,
+            "locality_id":1226736021,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1226736021,
+    "wof:lastmodified":1537701433,
+    "wof:name":"Santa Isabel Ishuatan",
+    "wof:parent_id":1108695031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.58528000000003,
+    13.61,
+    -89.58528000000003,
+    13.61
+],
+  "geometry": {"coordinates":[-89.58528000000003,13.61],"type":"Point"}
+}

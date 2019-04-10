@@ -1,0 +1,67 @@
+{
+  "id": 1193010137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.77917,13.73944,-87.77917,13.73944",
+    "geom:latitude":13.73944,
+    "geom:longitude":-87.77917,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boquin",
+    "gn:country_code":"SV",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587249,
+    "gn:latitude":13.73944,
+    "gn:longitude":-87.77917,
+    "gn:modification_date":"2003-06-10",
+    "gn:name":"Boqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587249
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2973886d40bfee893b2569a7ce7684e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694893,
+            "locality_id":1193010137,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1193010137,
+    "wof:lastmodified":1536384351,
+    "wof:name":"Boquin",
+    "wof:parent_id":1108694893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.77917,
+    13.73944,
+    -87.77917,
+    13.73944
+],
+  "geometry": {"coordinates":[-87.77916999999999,13.73944],"type":"Point"}
+}

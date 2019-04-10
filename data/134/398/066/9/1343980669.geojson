@@ -1,0 +1,75 @@
+{
+  "id": 1343980669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.34639,13.57083,-89.34639,13.57083",
+    "geom:latitude":13.57083,
+    "geom:longitude":-89.34639,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"La Shila",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584935,
+    "gn:latitude":13.57083,
+    "gn:longitude":-89.34639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Shila",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Maria",
+        "La Chila",
+        "Caser\u00edo La Chila",
+        "Cant\u00f3n La Shila",
+        "La Shila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421189131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584935
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"866a72e529bb1a3f54a6430f7ffb2d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189131,
+            "locality_id":1343980669,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1343980669,
+    "wof:lastmodified":1537701466,
+    "wof:name":"La Shila",
+    "wof:parent_id":421189131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.34639,
+    13.57083,
+    -89.34639,
+    13.57083
+],
+  "geometry": {"coordinates":[-89.34639,13.57083],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293672943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18333,13.76667,-89.18333,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-89.18333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Arenal",
+    "gn:country_code":"SV",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586741,
+    "gn:latitude":13.76667,
+    "gn:longitude":-89.18333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Arenal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586741
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a27087e727293e6a0872207064ac029e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694761,
+            "locality_id":1293672943,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1293672943,
+    "wof:lastmodified":1537016245,
+    "wof:name":"El Arenal",
+    "wof:parent_id":1108694761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18333,
+    13.76667,
+    -89.18333,
+    13.76667
+],
+  "geometry": {"coordinates":[-89.18333,13.76667],"type":"Point"}
+}

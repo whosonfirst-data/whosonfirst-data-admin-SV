@@ -1,0 +1,72 @@
+{
+  "id": 1310584889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.08333,13.75,-89.08333,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-89.08333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Rosario",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586015,
+    "gn:latitude":13.75,
+    "gn:longitude":-89.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n El Rosario",
+        "El Rosario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        421203737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586015
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9f413e528ead513ab708af0f60338903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203737,
+            "locality_id":1310584889,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1310584889,
+    "wof:lastmodified":1537701491,
+    "wof:name":"El Rosario",
+    "wof:parent_id":421203737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08333,
+    13.75,
+    -89.08333,
+    13.75
+],
+  "geometry": {"coordinates":[-89.08333,13.75],"type":"Point"}
+}

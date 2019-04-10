@@ -1,0 +1,72 @@
+{
+  "id": 1259569355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.60972,13.58667,-89.60972,13.58667",
+    "geom:latitude":13.58667,
+    "geom:longitude":-89.60972,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Paso de Canoas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584136,
+    "gn:latitude":13.58667,
+    "gn:longitude":-89.60972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paso de Canoas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso de Canoa",
+        "Paso de Canoas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108695031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584136
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"12aa235c9053071d838746b2c289d529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695031,
+            "locality_id":1259569355,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1259569355,
+    "wof:lastmodified":1537701451,
+    "wof:name":"Paso de Canoas",
+    "wof:parent_id":1108695031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.60972,
+    13.58667,
+    -89.60972,
+    13.58667
+],
+  "geometry": {"coordinates":[-89.60972,13.58667],"type":"Point"}
+}

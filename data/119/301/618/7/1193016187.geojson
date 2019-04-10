@@ -1,0 +1,73 @@
+{
+  "id": 1193016187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.03333,13.86667,-89.03333,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-89.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hacienda America",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585618,
+    "gn:latitude":13.86667,
+    "gn:longitude":-89.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda Am\u00e9rica",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La America",
+        "Hacienda Las Americas",
+        "Hacienda Am\u00e9rica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        421175391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585618
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"eb67c46e7b2fda9399b376a11e3bf94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421175391,
+            "locality_id":1193016187,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1193016187,
+    "wof:lastmodified":1537701483,
+    "wof:name":"Hacienda America",
+    "wof:parent_id":421175391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.03333,
+    13.86667,
+    -89.03333,
+    13.86667
+],
+  "geometry": {"coordinates":[-89.03333000000001,13.86667],"type":"Point"}
+}

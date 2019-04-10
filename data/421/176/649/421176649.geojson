@@ -1,0 +1,108 @@
+{
+  "id": 421176649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73833,13.71639,-89.73833,13.71639",
+    "geom:latitude":13.71639,
+    "geom:longitude":-89.73833,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u723e\u8499\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio del Monte"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio del Monte"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio del Monte"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio del Monte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30c7\u30eb\u30fb\u30e2\u30f3\u30c6"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio del Monte"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio del Monte"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u723e\u8499\u7279"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583851,
+    "qs:gn_pop":9135,
+    "qs:name":"San Antonio del Monte",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1062190,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79445,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421195557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583851,
+        "gp:id":79445,
+        "qs:id":1062190,
+        "wd:id":"Q3946809",
+        "wk:page":"San Antonio del Monte"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009115,
+    "wof:geomhash":"230674f8e002eaf99ff81f326f9f189d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195557,
+            "locality_id":421176649,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421176649,
+    "wof:lastmodified":1514505784,
+    "wof:name":"San Antonio del Monte",
+    "wof:parent_id":421195557,
+    "wof:placetype":"locality",
+    "wof:population":9135,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73833,
+    13.71639,
+    -89.73833,
+    13.71639
+],
+  "geometry": {"coordinates":[-89.73833,13.71639],"type":"Point"}
+}

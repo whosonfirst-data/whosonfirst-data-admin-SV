@@ -1,0 +1,72 @@
+{
+  "id": 1226640579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.91667,13.83333,-87.91667,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":-87.91667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Terrero",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585875,
+    "gn:latitude":13.83333,
+    "gn:longitude":-87.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Terrero",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terrero",
+        "El Terrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585875
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"149269aadb8f435a55f07bba009822b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694837,
+            "locality_id":1226640579,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1226640579,
+    "wof:lastmodified":1537701488,
+    "wof:name":"El Terrero",
+    "wof:parent_id":1108694837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91667,
+    13.83333,
+    -87.91667,
+    13.83333
+],
+  "geometry": {"coordinates":[-87.91667,13.83333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276989909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,13.91667,-88.93333,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Huiscoyol",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585502,
+    "gn:latitude":13.91667,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huiscoyol",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Huiscoyol",
+        "Huiscoyo",
+        "Huiscoyol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108694823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585502
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"47e5931fb47a5a87007a56d1b8b46921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694823,
+            "locality_id":1276989909,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1276989909,
+    "wof:lastmodified":1537701477,
+    "wof:name":"Huiscoyol",
+    "wof:parent_id":1108694823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    13.91667,
+    -88.93333,
+    13.91667
+],
+  "geometry": {"coordinates":[-88.93333,13.91667],"type":"Point"}
+}

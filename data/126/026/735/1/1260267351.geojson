@@ -1,0 +1,67 @@
+{
+  "id": 1260267351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1975,13.45611,-88.1975,13.45611",
+    "geom:latitude":13.45611,
+    "geom:longitude":-88.1975,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Las Lomitas",
+    "gn:country_code":"SV",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584903,
+    "gn:latitude":13.45611,
+    "gn:longitude":-88.1975,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Las Lomitas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584903
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"316d562162e50a183492ac929a6a3548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1260267351,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1260267351,
+    "wof:lastmodified":1536733769,
+    "wof:name":"Las Lomitas",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1975,
+    13.45611,
+    -88.1975,
+    13.45611
+],
+  "geometry": {"coordinates":[-88.19750000000001,13.45611],"type":"Point"}
+}

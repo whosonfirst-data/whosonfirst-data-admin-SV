@@ -1,0 +1,67 @@
+{
+  "id": 1209789543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.53333,13.56667,-88.53333,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-88.53333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Jicaro",
+    "gn:country_code":"SV",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586383,
+    "gn:latitude":13.56667,
+    "gn:longitude":-88.53333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El J\u00edcaro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586383
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f71001507e070b5ed613a2a266593108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694849,
+            "locality_id":1209789543,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1209789543,
+    "wof:lastmodified":1536395637,
+    "wof:name":"El Jicaro",
+    "wof:parent_id":1108694849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.53333,
+    13.56667,
+    -88.53333,
+    13.56667
+],
+  "geometry": {"coordinates":[-88.53333000000001,13.56667],"type":"Point"}
+}

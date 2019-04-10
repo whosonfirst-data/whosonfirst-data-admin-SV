@@ -1,0 +1,67 @@
+{
+  "id": 1276975821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.07,13.29333,-88.07,13.29333",
+    "geom:latitude":13.29333,
+    "geom:longitude":-88.07,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Estrechura",
+    "gn:country_code":"SV",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585242,
+    "gn:latitude":13.29333,
+    "gn:longitude":-88.07,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"La Estrechura",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585242
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d086d3484afffc041806162b210169cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1276975821,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1276975821,
+    "wof:lastmodified":1536913072,
+    "wof:name":"La Estrechura",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.07,
+    13.29333,
+    -88.07,
+    13.29333
+],
+  "geometry": {"coordinates":[-88.06999999999999,13.29333],"type":"Point"}
+}

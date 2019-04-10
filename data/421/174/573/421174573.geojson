@@ -1,0 +1,117 @@
+{
+  "id": 421174573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.85722,13.78694,-89.85722,13.78694",
+    "geom:latitude":13.78694,
+    "geom:longitude":-89.85722,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u80e1\u80e1\u7279\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Jujutla"
+    ],
+    "name:eng_x_preferred":[
+        "Jujutla"
+    ],
+    "name:fra_x_preferred":[
+        "Jujutla"
+    ],
+    "name:fre_x_preferred":[
+        "Jujutla"
+    ],
+    "name:ita_x_preferred":[
+        "Jujutla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30d5\u30c8\u30e9"
+    ],
+    "name:nob_x_preferred":[
+        "Jujutla"
+    ],
+    "name:nor_x_preferred":[
+        "Jujutla"
+    ],
+    "name:por_x_preferred":[
+        "Jujutla"
+    ],
+    "name:spa_x_preferred":[
+        "Jujutla"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u80e1\u7279\u62c9"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3585392,
+    "qs:gn_pop":2022,
+    "qs:name":"Jujutla",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Ahuachap\u00e1n",
+    "qs:photos":71,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":71,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":887552,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":78298,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421204283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585392,
+        "gp:id":78298,
+        "qs:id":887552,
+        "wd:id":"Q2779408",
+        "wk:page":"Jujutla"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009037,
+    "wof:geomhash":"6ff017e1e2cd714b92237bae01c6a97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421204283,
+            "locality_id":421174573,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":421174573,
+    "wof:lastmodified":1514505770,
+    "wof:name":"Jujutla",
+    "wof:parent_id":421204283,
+    "wof:placetype":"locality",
+    "wof:population":2022,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.85722,
+    13.78694,
+    -89.85722,
+    13.78694
+],
+  "geometry": {"coordinates":[-89.85722,13.78694],"type":"Point"}
+}

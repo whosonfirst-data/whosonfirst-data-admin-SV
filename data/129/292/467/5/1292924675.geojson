@@ -1,0 +1,72 @@
+{
+  "id": 1292924675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36667,13.4,-88.36667,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-88.36667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Rodeo de Piedron",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583947,
+    "gn:latitude":13.4,
+    "gn:longitude":-88.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rodeo de Piedr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodeo de Pedr\u00f3n",
+        "Rodeo de Piedr\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108695005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583947
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4ad245da7daa1eeeab1648c8e02b878c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695005,
+            "locality_id":1292924675,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1292924675,
+    "wof:lastmodified":1537701447,
+    "wof:name":"Rodeo de Piedron",
+    "wof:parent_id":1108695005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36667,
+    13.4,
+    -88.36667,
+    13.4
+],
+  "geometry": {"coordinates":[-88.36667,13.4],"type":"Point"}
+}

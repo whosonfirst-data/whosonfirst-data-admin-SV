@@ -1,0 +1,67 @@
+{
+  "id": 1360069061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.17278,13.58139,-89.17278,13.58139",
+    "geom:latitude":13.58139,
+    "geom:longitude":-89.17278,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"SV",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583698,
+    "gn:latitude":13.58139,
+    "gn:longitude":-89.17278,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583698
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0e3ebd731ef68521cc28035a553822af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694885,
+            "locality_id":1360069061,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1360069061,
+    "wof:lastmodified":1536968542,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108694885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.17278,
+    13.58139,
+    -89.17278,
+    13.58139
+],
+  "geometry": {"coordinates":[-89.17278,13.58139],"type":"Point"}
+}

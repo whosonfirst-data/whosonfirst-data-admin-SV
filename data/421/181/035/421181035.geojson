@@ -1,0 +1,109 @@
+{
+  "id": 421181035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.96667,13.88333,-88.96667,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":-88.96667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8f9b\u514b\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Cinquera"
+    ],
+    "name:eng_x_preferred":[
+        "Cinquera"
+    ],
+    "name:fra_x_preferred":[
+        "Cinquera"
+    ],
+    "name:fre_x_preferred":[
+        "Cinquera"
+    ],
+    "name:ita_x_preferred":[
+        "Cinquera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30f3\u30b1\u30e9"
+    ],
+    "name:por_x_preferred":[
+        "Cinquera"
+    ],
+    "name:spa_x_preferred":[
+        "Cinquera"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u514b\u62c9"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3586990,
+    "qs:gn_pop":0,
+    "qs:name":"Cinquera",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Caba\u00f1as",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":63,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":474655,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":77069,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":11,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108694747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586990,
+        "gp:id":77069,
+        "qs:id":474655,
+        "wd:id":"Q1154142",
+        "wk:page":"Cinquera"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009283,
+    "wof:geomhash":"d9b48693fd174183f35536125544bbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694747,
+            "locality_id":421181035,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":421181035,
+    "wof:lastmodified":1527716331,
+    "wof:name":"Cinquera",
+    "wof:parent_id":1108694747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.96667,
+    13.88333,
+    -88.96667,
+    13.88333
+],
+  "geometry": {"coordinates":[-88.96666999999999,13.88333],"type":"Point"}
+}

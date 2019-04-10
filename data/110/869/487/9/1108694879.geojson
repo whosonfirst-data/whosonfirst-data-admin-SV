@@ -1,0 +1,76 @@
+{
+  "id": 1108694879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001273,
+    "geom:area_square_m":15283738.652914,
+    "geom:bbox":"-89.0728606735,13.8016118172,-89.0329372126,13.8476371916",
+    "geom:latitude":13.824703,
+    "geom:longitude":-89.054361,
+    "iso:country":"SV",
+    "lbl:latitude":13.824513,
+    "lbl:longitude":-89.053983,
+    "meso:admin1r":"REGION CENTRAL II",
+    "meso:admin_1":"Cuscatlan",
+    "meso:diss_me":"ORATORIO DE CONCEPCIONCUSCATLAN",
+    "meso:gadm_admin":"Oratorio de Concepci\u00f3n",
+    "meso:gadm_hasc2":"SV.CU.OC",
+    "meso:gaul_admin":"Oratorio De Concepcion",
+    "meso:local_id":"06",
+    "meso:local_id_a":"0706",
+    "meso:mps_x":-89.053983,
+    "meso:mps_y":13.824513,
+    "meso:name_en":"Oratorio De Concepcion",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.824513,
+    "mps:longitude":-89.053983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Oratorio De Concepcion",
+        "Oratorio de Concepci\u00f3n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.CU.OC"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493234,
+    "wof:geomhash":"f5b8fb21575c84a384b8f3ea9f0f1191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694879,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1108694879,
+    "wof:lastmodified":1536615366,
+    "wof:name":"Oratorio De Concepcion",
+    "wof:parent_id":85677145,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"OC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.07286067354049,
+    13.80161181718795,
+    -89.03293721255476,
+    13.84763719160452
+],
+  "geometry": {"coordinates":[[[-89.04959227408851,13.84763719160452],[-89.04861439473413,13.84749487110306],[-89.03929196722353,13.83599010161694],[-89.03921627446918,13.835],[-89.03948047570299,13.83440961746115],[-89.03293721255476,13.82387948233034],[-89.03308881304694,13.8192667012144],[-89.03417792672992,13.81225636790808],[-89.04018045005085,13.80981954994857],[-89.04121385084882,13.8087861491506],[-89.04593106712178,13.80949193031417],[-89.05828748822235,13.80653978783833],[-89.06331990553903,13.80175736884442],[-89.06651493149677,13.80161181718795],[-89.07224440252109,13.81551327251296],[-89.07066341547436,13.81878437947444],[-89.07130988585675,13.825],[-89.07093295557459,13.82584752094874],[-89.07286067354049,13.835],[-89.07274400756158,13.83527336889224],[-89.07191227010608,13.83972442778044],[-89.07088610792388,13.84186965453043],[-89.06499999999946,13.84447590444211],[-89.06252287276142,13.84365829123886],[-89.05699622452701,13.84106423101644],[-89.04959227408851,13.84763719160452]]],"type":"Polygon"}
+}

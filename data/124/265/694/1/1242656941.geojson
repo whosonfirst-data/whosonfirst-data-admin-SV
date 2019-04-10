@@ -1,0 +1,74 @@
+{
+  "id": 1242656941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78333,13.63333,-89.78333,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-89.78333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Hacienda El Coyol",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585603,
+    "gn:latitude":13.63333,
+    "gn:longitude":-89.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda El Coyol",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Coyolito",
+        "El Coyol",
+        "Cant\u00f3n El Coyolar",
+        "Hacienda El Coyol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108694705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585603
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e2d521ee0d9a393b6febff4f7459ed5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694705,
+            "locality_id":1242656941,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1242656941,
+    "wof:lastmodified":1537701482,
+    "wof:name":"Hacienda El Coyol",
+    "wof:parent_id":1108694705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78333,
+    13.63333,
+    -89.78333,
+    13.63333
+],
+  "geometry": {"coordinates":[-89.78333000000001,13.63333],"type":"Point"}
+}

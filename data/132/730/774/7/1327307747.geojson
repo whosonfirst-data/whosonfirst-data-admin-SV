@@ -1,0 +1,72 @@
+{
+  "id": 1327307747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.26667,13.28333,-88.26667,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":-88.26667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Cabana",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585358,
+    "gn:latitude":13.28333,
+    "gn:longitude":-88.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Caba\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo La Caba\u00f1a",
+        "La Caba\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421184409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585358
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ade6e2b4e44ec98c91f6c0f07c0c1645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184409,
+            "locality_id":1327307747,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1327307747,
+    "wof:lastmodified":1537701475,
+    "wof:name":"La Cabana",
+    "wof:parent_id":421184409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.26666999999998,
+    13.28333,
+    -88.26666999999998,
+    13.28333
+],
+  "geometry": {"coordinates":[-88.26666999999998,13.28333],"type":"Point"}
+}

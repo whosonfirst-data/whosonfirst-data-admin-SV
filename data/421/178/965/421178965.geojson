@@ -1,0 +1,123 @@
+{
+  "id": 421178965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.58333,13.31667,-88.58333,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":-88.58333,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e0c\u57fa\u5229\u65af\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:dut_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:eng_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:fra_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:fre_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:ger_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:ita_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30ad\u30ea\u30b9\u30b3"
+    ],
+    "name:pol_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:por_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:spa_x_preferred":[
+        "Jiquilisco"
+    ],
+    "name:unk_x_variant":[
+        "Ilquilisco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u57fa\u5229\u65af\u79d1"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3585438,
+    "qs:gn_pop":9129,
+    "qs:name":"Jiquilisco",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Usulut\u00e1n",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":474665,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":78264,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421168319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585438,
+        "gp:id":78264,
+        "qs:id":474665,
+        "wd:id":"Q1154953",
+        "wk:page":"Jiquilisco"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009199,
+    "wof:geomhash":"8772237aca79957d335969a1f8ff3c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421168319,
+            "locality_id":421178965,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421178965,
+    "wof:lastmodified":1514505769,
+    "wof:name":"Jiquilisco",
+    "wof:parent_id":421168319,
+    "wof:placetype":"locality",
+    "wof:population":9129,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.58333,
+    13.31667,
+    -88.58333,
+    13.31667
+],
+  "geometry": {"coordinates":[-88.58333,13.31667],"type":"Point"}
+}

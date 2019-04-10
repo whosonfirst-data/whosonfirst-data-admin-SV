@@ -1,0 +1,72 @@
+{
+  "id": 1193118409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41667,14.3,-89.41667,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":-89.41667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Llano Grande",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584722,
+    "gn:latitude":14.3,
+    "gn:longitude":-89.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Llano Grande",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Llano Grande",
+        "Llano Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584722
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"61b2f33ac24dbe756733ee097d10f36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1193118409,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1193118409,
+    "wof:lastmodified":1537701461,
+    "wof:name":"Llano Grande",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41667,
+    14.3,
+    -89.41667,
+    14.3
+],
+  "geometry": {"coordinates":[-89.41667,14.3],"type":"Point"}
+}

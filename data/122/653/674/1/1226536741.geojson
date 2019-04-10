@@ -1,0 +1,74 @@
+{
+  "id": 1226536741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8775,13.28083,-87.8775,13.28083",
+    "geom:latitude":13.28083,
+    "geom:longitude":-87.8775,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Piedra Blanca",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584094,
+    "gn:latitude":13.28083,
+    "gn:longitude":-87.8775,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Piedra Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Piedra Blanca",
+        "Piedras Blancas",
+        "Cant\u00f3n Piedras Blanca",
+        "Piedra Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        421191221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584094
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"2f71c394c2393c1b51b8a4d59cd5ef85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191221,
+            "locality_id":1226536741,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1226536741,
+    "wof:lastmodified":1537701451,
+    "wof:name":"Piedra Blanca",
+    "wof:parent_id":421191221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.8775,
+    13.28083,
+    -87.8775,
+    13.28083
+],
+  "geometry": {"coordinates":[-87.8775,13.28083],"type":"Point"}
+}

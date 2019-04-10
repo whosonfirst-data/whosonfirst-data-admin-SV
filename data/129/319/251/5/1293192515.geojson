@@ -1,0 +1,72 @@
+{
+  "id": 1293192515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.91667,13.65,-87.91667,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-87.91667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Melgar",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584564,
+    "gn:latitude":13.65,
+    "gn:longitude":-87.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Melgar",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melgar",
+        "Los Melgar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584564
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"65962e0c2e110382f71be46218e1d7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695041,
+            "locality_id":1293192515,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293192515,
+    "wof:lastmodified":1537701458,
+    "wof:name":"Los Melgar",
+    "wof:parent_id":1108695041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91667,
+    13.65,
+    -87.91667,
+    13.65
+],
+  "geometry": {"coordinates":[-87.91667,13.65],"type":"Point"}
+}

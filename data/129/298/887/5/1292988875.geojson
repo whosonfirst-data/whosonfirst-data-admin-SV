@@ -1,0 +1,67 @@
+{
+  "id": 1292988875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.30278,13.89194,-89.30278,13.89194",
+    "geom:latitude":13.89194,
+    "geom:longitude":-89.30278,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Valle El Cerro",
+    "gn:country_code":"SV",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733626,
+    "gn:latitude":13.89194,
+    "gn:longitude":-89.30278,
+    "gn:modification_date":"1994-05-03",
+    "gn:name":"Valle El Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733626
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"614bce5cdc3df21ab6e88dff012e420f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171705,
+            "locality_id":1292988875,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1292988875,
+    "wof:lastmodified":1537008134,
+    "wof:name":"Valle El Cerro",
+    "wof:parent_id":421171705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.30278,
+    13.89194,
+    -89.30278,
+    13.89194
+],
+  "geometry": {"coordinates":[-89.30278,13.89194],"type":"Point"}
+}

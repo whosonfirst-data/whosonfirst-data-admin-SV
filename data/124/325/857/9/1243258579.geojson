@@ -1,0 +1,72 @@
+{
+  "id": 1243258579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.17167,13.30361,-88.17167,13.30361",
+    "geom:latitude":13.30361,
+    "geom:longitude":-88.17167,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chilanguera",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587048,
+    "gn:latitude":13.30361,
+    "gn:longitude":-88.17167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chilanguera",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Chilanguera",
+        "Chilanguera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587048
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a9f18bf207616e2d8e8cd329df19ec3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1243258579,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1243258579,
+    "wof:lastmodified":1537701512,
+    "wof:name":"Chilanguera",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.17166999999998,
+    13.30361,
+    -88.17166999999998,
+    13.30361
+],
+  "geometry": {"coordinates":[-88.17166999999998,13.30361],"type":"Point"}
+}

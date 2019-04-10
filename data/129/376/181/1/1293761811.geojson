@@ -1,0 +1,72 @@
+{
+  "id": 1293761811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.53333,14.38333,-89.53333,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":-89.53333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Jeronimo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583663,
+    "gn:latitude":14.38333,
+    "gn:longitude":-89.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jer\u00f3nimo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo San Jer\u00f3nimo",
+        "San Jer\u00f3nimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583663
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3a1d8999339ad74804a051e2c7a517fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695255,
+            "locality_id":1293761811,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1293761811,
+    "wof:lastmodified":1537701441,
+    "wof:name":"San Jeronimo",
+    "wof:parent_id":1108695255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.53333,
+    14.38333,
+    -89.53333,
+    14.38333
+],
+  "geometry": {"coordinates":[-89.53333000000001,14.38333],"type":"Point"}
+}

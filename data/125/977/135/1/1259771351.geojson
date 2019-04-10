@@ -1,0 +1,67 @@
+{
+  "id": 1259771351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.45,14.38333,-89.45,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":-89.45,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tablon Chaguite",
+    "gn:country_code":"SV",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583072,
+    "gn:latitude":14.38333,
+    "gn:longitude":-89.45,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Tabl\u00f3n Chag\u00fcite",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583072
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c1afebfc0d0d1513e578f96629ea7c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1259771351,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1259771351,
+    "wof:lastmodified":1536941264,
+    "wof:name":"Tablon Chaguite",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.45,
+    14.38333,
+    -89.45,
+    14.38333
+],
+  "geometry": {"coordinates":[-89.45,14.38333],"type":"Point"}
+}

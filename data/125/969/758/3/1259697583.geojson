@@ -1,0 +1,73 @@
+{
+  "id": 1259697583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78333,13.9,-89.78333,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":-89.78333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tacubita",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583062,
+    "gn:latitude":13.9,
+    "gn:longitude":-89.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tacubita",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beneficio Tacubita",
+        "San Juan Tacubita",
+        "Tacubita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421169323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583062
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b23a3b77e63b5a9eba9f19941afe51b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169323,
+            "locality_id":1259697583,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1259697583,
+    "wof:lastmodified":1537701429,
+    "wof:name":"Tacubita",
+    "wof:parent_id":421169323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78333,
+    13.9,
+    -89.78333,
+    13.9
+],
+  "geometry": {"coordinates":[-89.78333000000001,13.9],"type":"Point"}
+}

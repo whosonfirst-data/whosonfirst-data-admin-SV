@@ -1,0 +1,72 @@
+{
+  "id": 1293775791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.88611,13.43528,-87.88611,13.43528",
+    "geom:latitude":13.43528,
+    "geom:longitude":-87.88611,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Mogotillo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584353,
+    "gn:latitude":13.43528,
+    "gn:longitude":-87.88611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Mogotillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogotillo",
+        "El Mogotillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584353
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"11957e53046962ec2da0fb390095e78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694911,
+            "locality_id":1293775791,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293775791,
+    "wof:lastmodified":1537701455,
+    "wof:name":"El Mogotillo",
+    "wof:parent_id":1108694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.88611,
+    13.43528,
+    -87.88611,
+    13.43528
+],
+  "geometry": {"coordinates":[-87.88611,13.43528],"type":"Point"}
+}

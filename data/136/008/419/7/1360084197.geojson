@@ -1,0 +1,73 @@
+{
+  "id": 1360084197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.38333,13.6,-89.38333,13.6",
+    "geom:latitude":13.6,
+    "geom:longitude":-89.38333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Penon",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586153,
+    "gn:latitude":13.6,
+    "gn:longitude":-89.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pe\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canton y Beneficio El Pe\u00f1\u00f3n",
+        "Beneficio El Pe\u00f1\u00f3n",
+        "El Pe\u00f1\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421189131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586153
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"dc4da13123cc3e28adb71f43a38d01a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189131,
+            "locality_id":1360084197,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1360084197,
+    "wof:lastmodified":1537701494,
+    "wof:name":"El Penon",
+    "wof:parent_id":421189131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.38333,
+    13.6,
+    -89.38333,
+    13.6
+],
+  "geometry": {"coordinates":[-89.38333,13.6],"type":"Point"}
+}

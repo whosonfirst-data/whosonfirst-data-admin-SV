@@ -1,0 +1,74 @@
+{
+  "id": 1276861231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.33333,13.61667,-88.33333,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-88.33333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hacienda La Palestina",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585579,
+    "gn:latitude":13.61667,
+    "gn:longitude":-88.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda La Palestina",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palestina",
+        "Hacienda Palestina",
+        "La Palestina",
+        "Hacienda La Palestina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585579
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0d11dd41c887435bd6a98a1e83827cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694839,
+            "locality_id":1276861231,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1276861231,
+    "wof:lastmodified":1537701481,
+    "wof:name":"Hacienda La Palestina",
+    "wof:parent_id":1108694839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.33333,
+    13.61667,
+    -88.33333,
+    13.61667
+],
+  "geometry": {"coordinates":[-88.33333,13.61667],"type":"Point"}
+}

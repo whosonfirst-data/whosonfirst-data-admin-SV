@@ -1,0 +1,72 @@
+{
+  "id": 1327210265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73333,13.71667,-89.73333,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-89.73333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Ramon",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583372,
+    "gn:latitude":13.71667,
+    "gn:longitude":-89.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n San Ram\u00f3n",
+        "San Ram\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421195557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583372
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"1f7bd6ea0c6f93216edf206d3b6d1af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195557,
+            "locality_id":1327210265,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1327210265,
+    "wof:lastmodified":1537701435,
+    "wof:name":"San Ramon",
+    "wof:parent_id":421195557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73333000000002,
+    13.71667,
+    -89.73333000000002,
+    13.71667
+],
+  "geometry": {"coordinates":[-89.73333000000002,13.71667],"type":"Point"}
+}

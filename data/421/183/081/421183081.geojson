@@ -1,0 +1,133 @@
+{
+  "id": 421183081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003012,
+    "geom:area_square_m":36177341.396349,
+    "geom:bbox":"-89.1985545929,13.7081590637,-89.1368644015,13.8009253326",
+    "geom:latitude":13.755686,
+    "geom:longitude":-89.162589,
+    "iso:country":"SV",
+    "lbl:latitude":13.754647,
+    "lbl:longitude":-89.15955,
+    "meso:admin1r":"AMSS",
+    "meso:admin_1":"San Salvador",
+    "meso:diss_me":"DELGADOSAN SALVADOR",
+    "meso:gadm_admin":"Cuscatancingo",
+    "meso:gadm_hasc2":"SV.SS.CU",
+    "meso:gaul_admin":"Delgado",
+    "meso:local_id":"19",
+    "meso:local_id_a":"0619",
+    "meso:mps_x":-89.15955,
+    "meso:mps_y":13.754647,
+    "meso:name_en":"Delgado",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.754647,
+    "mps:longitude":-89.15955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Delgado"
+    ],
+    "name:eng_x_variant":[
+        "Delgado",
+        "Cuscatancingo"
+    ],
+    "name:fra_x_preferred":[
+        "Delgado"
+    ],
+    "name:ita_x_preferred":[
+        "Delgado"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30eb\u30ac\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub378\uac00\ub3c4"
+    ],
+    "name:nld_x_preferred":[
+        "Delgado"
+    ],
+    "name:pol_x_preferred":[
+        "Delgado"
+    ],
+    "name:por_x_preferred":[
+        "Delgado"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043b\u044c\u0433\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Delgado"
+    ],
+    "name:tur_x_preferred":[
+        "Delgado"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Delgado",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":82,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":961141,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808705,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808705,
+        "hasc:id":"SV.SS.CU",
+        "qs:id":961141
+    },
+    "wof:country":"SV",
+    "wof:created":1459009357,
+    "wof:geomhash":"4b095cc4872f02404177618534f89db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421183081,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421183081,
+    "wof:lastmodified":1536616007,
+    "wof:name":"Delgado",
+    "wof:parent_id":85677163,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"CU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.19855459294276,
+    13.70815906370308,
+    -89.13686440154692,
+    13.80092533258473
+],
+  "geometry": {"coordinates":[[[-89.19467258423707,13.76055337628272],[-89.19132161430514,13.7642856484293],[-89.18986498569609,13.76487728023212],[-89.1818779715373,13.76344014868295],[-89.17178239498445,13.76995573556319],[-89.16849208638493,13.77339894641785],[-89.16843067447644,13.77550738547333],[-89.16855683160931,13.77569319077963],[-89.17290762446902,13.78211600068162],[-89.16807372363593,13.79282416486531],[-89.16590810305844,13.79373754864857],[-89.16096759670185,13.80092533258473],[-89.15292261151326,13.7965497015027],[-89.14537967783772,13.79782801077317],[-89.14180174366983,13.785],[-89.13999999999949,13.78331767288254],[-89.13999999999949,13.775],[-89.13999999999949,13.765],[-89.13999999999949,13.76137984406707],[-89.13686440154692,13.7554848053192],[-89.14010955054013,13.74531303420132],[-89.14321096762565,13.74389574998698],[-89.1479246181716,13.73710410585162],[-89.14798075287682,13.73557850148795],[-89.14415249042536,13.73057513403418],[-89.14393923672031,13.72315766982945],[-89.14944597521422,13.71814047644659],[-89.15780138824205,13.71973669168498],[-89.15828586198074,13.71954697020724],[-89.16706645654565,13.70815906370308],[-89.17012387154948,13.71011848205598],[-89.1756322175797,13.72226747116364],[-89.17001570940825,13.72808206705983],[-89.16902890362856,13.73545052223962],[-89.17978712797238,13.74178530347996],[-89.19408003303099,13.73689321536859],[-89.19787187191773,13.74142162094878],[-89.19855459294276,13.74579502631693],[-89.1954621821731,13.7575536176567],[-89.19467258423707,13.76055337628272]]],"type":"Polygon"}
+}

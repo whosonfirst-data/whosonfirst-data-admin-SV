@@ -1,0 +1,72 @@
+{
+  "id": 1293879035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.03333,13.81667,-88.03333,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-88.03333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Tambor",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585894,
+    "gn:latitude":13.81667,
+    "gn:longitude":-88.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tambor",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle El Tambor",
+        "El Tambor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585894
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"486bb093dd96aebb9b234ba7e1693e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694725,
+            "locality_id":1293879035,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1293879035,
+    "wof:lastmodified":1537701488,
+    "wof:name":"El Tambor",
+    "wof:parent_id":1108694725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03333,
+    13.81667,
+    -88.03333,
+    13.81667
+],
+  "geometry": {"coordinates":[-88.03333000000001,13.81667],"type":"Point"}
+}

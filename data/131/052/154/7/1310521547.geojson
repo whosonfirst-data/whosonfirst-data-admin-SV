@@ -1,0 +1,72 @@
+{
+  "id": 1310521547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08333,13.83333,-88.08333,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":-88.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Junquillo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586353,
+    "gn:latitude":13.83333,
+    "gn:longitude":-88.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Junquillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Junquillo",
+        "El Junquillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586353
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a81713d64f5d5bdf7133cd080d1ca45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694725,
+            "locality_id":1310521547,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1310521547,
+    "wof:lastmodified":1537701499,
+    "wof:name":"El Junquillo",
+    "wof:parent_id":1108694725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08333,
+    13.83333,
+    -88.08333,
+    13.83333
+],
+  "geometry": {"coordinates":[-88.08333,13.83333],"type":"Point"}
+}

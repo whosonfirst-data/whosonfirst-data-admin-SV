@@ -1,0 +1,67 @@
+{
+  "id": 1310486041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.10667,13.23972,-88.10667,13.23972",
+    "geom:latitude":13.23972,
+    "geom:longitude":-88.10667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Rucio",
+    "gn:country_code":"SV",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735197,
+    "gn:latitude":13.23972,
+    "gn:longitude":-88.10667,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Rucio",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735197
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0b1fefed50b6abf34fd22677a596357e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1310486041,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1310486041,
+    "wof:lastmodified":1536945442,
+    "wof:name":"El Rucio",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.10667,
+    13.23972,
+    -88.10667,
+    13.23972
+],
+  "geometry": {"coordinates":[-88.10666999999999,13.23972],"type":"Point"}
+}

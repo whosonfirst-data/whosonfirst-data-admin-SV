@@ -1,0 +1,61 @@
+{
+  "id": 1209085207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.58333,13.45,-88.58333,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":-88.58333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"SV",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587227,
+    "gn:latitude":13.45,
+    "gn:longitude":-88.58333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587227
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"02b8aac964f4a2f063c331afa6f86aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209085207
+        }
+    ],
+    "wof:id":1209085207,
+    "wof:lastmodified":1536298209,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.58333,
+    13.45,
+    -88.58333,
+    13.45
+],
+  "geometry": {"coordinates":[-88.58333,13.45],"type":"Point"}
+}

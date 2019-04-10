@@ -1,0 +1,72 @@
+{
+  "id": 1360273421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.43944,13.95,-89.43944,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-89.43944,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Soliman",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583104,
+    "gn:latitude":13.95,
+    "gn:longitude":-89.43944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Solim\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solimar",
+        "Solim\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421190155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583104
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7fa740953e77329e0e75b3b18b35a72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421190155,
+            "locality_id":1360273421,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1360273421,
+    "wof:lastmodified":1537701430,
+    "wof:name":"Soliman",
+    "wof:parent_id":421190155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.43944,
+    13.95,
+    -89.43944,
+    13.95
+],
+  "geometry": {"coordinates":[-89.43944,13.95],"type":"Point"}
+}

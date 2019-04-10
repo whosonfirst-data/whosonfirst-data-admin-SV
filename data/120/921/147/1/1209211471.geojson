@@ -1,0 +1,61 @@
+{
+  "id": 1209211471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.77556,13.58889,-87.77556,13.58889",
+    "geom:latitude":13.58889,
+    "geom:longitude":-87.77556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Santa Clara",
+    "gn:country_code":"SV",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583305,
+    "gn:latitude":13.58889,
+    "gn:longitude":-87.77556,
+    "gn:modification_date":"2003-06-10",
+    "gn:name":"Santa Clara",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583305
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c643bcd586d360e542b9bbd84cef16c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209211471
+        }
+    ],
+    "wof:id":1209211471,
+    "wof:lastmodified":1536294277,
+    "wof:name":"Santa Clara",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.77556,
+    13.58889,
+    -87.77556,
+    13.58889
+],
+  "geometry": {"coordinates":[-87.77556,13.58889],"type":"Point"}
+}

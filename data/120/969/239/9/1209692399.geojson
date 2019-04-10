@@ -1,0 +1,61 @@
+{
+  "id": 1209692399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.7,13.53333,-89.7,13.53333",
+    "geom:latitude":13.53333,
+    "geom:longitude":-89.7,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Barra Salada",
+    "gn:country_code":"SV",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587280,
+    "gn:latitude":13.53333,
+    "gn:longitude":-89.7,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Barra Salada",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587280
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"617244a86384845aaf29dc3d69fedfd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209692399
+        }
+    ],
+    "wof:id":1209692399,
+    "wof:lastmodified":1536279194,
+    "wof:name":"Barra Salada",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.7,
+    13.53333,
+    -89.7,
+    13.53333
+],
+  "geometry": {"coordinates":[-89.7,13.53333],"type":"Point"}
+}

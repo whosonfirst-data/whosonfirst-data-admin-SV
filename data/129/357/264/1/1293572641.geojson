@@ -1,0 +1,67 @@
+{
+  "id": 1293572641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.24722,13.24556,-88.24722,13.24556",
+    "geom:latitude":13.24556,
+    "geom:longitude":-88.24722,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Guazacapan",
+    "gn:country_code":"SV",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734852,
+    "gn:latitude":13.24556,
+    "gn:longitude":-88.24722,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Guazacap\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421184409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734852
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d5486d3d55eeb3b920c3abb495c8844d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184409,
+            "locality_id":1293572641,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1293572641,
+    "wof:lastmodified":1536664373,
+    "wof:name":"Guazacapan",
+    "wof:parent_id":421184409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.24722,
+    13.24556,
+    -88.24722,
+    13.24556
+],
+  "geometry": {"coordinates":[-88.24722,13.24556],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276583999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.4,13.81667,-89.4,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-89.4,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Andres",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583898,
+    "gn:latitude":13.81667,
+    "gn:longitude":-89.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingenio San Andres",
+        "San Andr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421191211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583898,
+        "wk:page":"San_Andr%C3%A9s%2C_El_Salvador"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4ae1c2e0848716e6aba3f2bbaa517975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191211,
+            "locality_id":1276583999,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1276583999,
+    "wof:lastmodified":1537701445,
+    "wof:name":"San Andres",
+    "wof:parent_id":421191211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.4,
+    13.81667,
+    -89.4,
+    13.81667
+],
+  "geometry": {"coordinates":[-89.40000000000001,13.81667],"type":"Point"}
+}

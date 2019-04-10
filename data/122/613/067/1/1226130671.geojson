@@ -1,0 +1,73 @@
+{
+  "id": 1226130671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.6,14.0,-89.6,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":-89.6,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Comecayo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586946,
+    "gn:latitude":14.0,
+    "gn:longitude":-89.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Comecayo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Comecayo",
+        "Comecayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421166707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586946,
+        "wk:page":"Comecayo"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4bb7509bee0e86094a3223c7662e8906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421166707,
+            "locality_id":1226130671,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1226130671,
+    "wof:lastmodified":1537701511,
+    "wof:name":"Comecayo",
+    "wof:parent_id":421166707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.6,
+    14.0,
+    -89.6,
+    14.0
+],
+  "geometry": {"coordinates":[-89.59999999999999,14.0],"type":"Point"}
+}

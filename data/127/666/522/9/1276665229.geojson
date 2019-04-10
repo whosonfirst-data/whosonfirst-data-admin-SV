@@ -1,0 +1,72 @@
+{
+  "id": 1276665229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.11667,14.13333,-89.11667,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aldeita",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587413,
+    "gn:latitude":14.13333,
+    "gn:longitude":-89.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alde\u00edta",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Aldea",
+        "Alde\u00edta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108695079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587413
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9e9c64fc15192f9034c986e93b21a7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695079,
+            "locality_id":1276665229,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1276665229,
+    "wof:lastmodified":1537701518,
+    "wof:name":"Aldeita",
+    "wof:parent_id":1108695079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.11667,
+    14.13333,
+    -89.11667,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.11667,14.13333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243446911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.85,13.46667,-88.85,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-88.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Lucha",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585142,
+    "gn:latitude":13.46667,
+    "gn:longitude":-88.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Lucha",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Lucha",
+        "Cant\u00f3n La Lucha",
+        "La Lucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        421191217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585142
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"79b6f628d5b42138f45b4a7eb998981a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191217,
+            "locality_id":1243446911,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1243446911,
+    "wof:lastmodified":1537701470,
+    "wof:name":"La Lucha",
+    "wof:parent_id":421191217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.85,
+    13.46667,
+    -88.85,
+    13.46667
+],
+  "geometry": {"coordinates":[-88.84999999999999,13.46667],"type":"Point"}
+}

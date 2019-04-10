@@ -1,0 +1,108 @@
+{
+  "id": 421190401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.20889,13.57528,-89.20889,13.57528",
+    "geom:latitude":13.57528,
+    "geom:longitude":-89.20889,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7f85\u85a9\u91cc\u5967\u5fb7\u83ab\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Rosario de Mora"
+    ],
+    "name:eng_x_preferred":[
+        "Rosario de Mora"
+    ],
+    "name:fre_x_preferred":[
+        "Rosario de Mora"
+    ],
+    "name:ita_x_preferred":[
+        "Rosario de Mora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b5\u30ea\u30aa\u30fb\u30c7\u30fb\u30e2\u30e9"
+    ],
+    "name:por_x_preferred":[
+        "Rosario de Mora"
+    ],
+    "name:spa_x_preferred":[
+        "Rosario de Mora"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u85a9\u91cc\u5967\u5fb7\u83ab\u62c9"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583937,
+    "qs:gn_pop":5178,
+    "qs:name":"Rosario de Mora",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":53481,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79379,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583937,
+        "gp:id":79379,
+        "qs:id":53481,
+        "wd:id":"Q3941398",
+        "wk:page":"Rosario de Mora"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009656,
+    "wof:geomhash":"32d651c4bfff3ed3b2113623c2f23305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694901,
+            "locality_id":421190401,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421190401,
+    "wof:lastmodified":1514505783,
+    "wof:name":"Rosario de Mora",
+    "wof:parent_id":1108694901,
+    "wof:placetype":"locality",
+    "wof:population":5178,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.20889,
+    13.57528,
+    -89.20889,
+    13.57528
+],
+  "geometry": {"coordinates":[-89.20889,13.57528],"type":"Point"}
+}

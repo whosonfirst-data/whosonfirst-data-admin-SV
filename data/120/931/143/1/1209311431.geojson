@@ -1,0 +1,67 @@
+{
+  "id": 1209311431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1,13.75,-88.1,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":-88.1,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gualindo Abajo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585670,
+    "gn:latitude":13.75,
+    "gn:longitude":-88.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gualindo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Gualindo",
+        "Gualindo",
+        "Gualindo Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585670
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f3e903037b34d37aa06168a02ec59980",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209311431
+        }
+    ],
+    "wof:id":1209311431,
+    "wof:lastmodified":1537701484,
+    "wof:name":"Gualindo Abajo",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1,
+    13.75,
+    -88.1,
+    13.75
+],
+  "geometry": {"coordinates":[-88.09999999999999,13.75],"type":"Point"}
+}

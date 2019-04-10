@@ -1,0 +1,70 @@
+{
+  "id": 1343256259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.90167,13.56083,-87.90167,13.56083",
+    "geom:latitude":13.56083,
+    "geom:longitude":-87.90167,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"SV",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583644,
+    "gn:latitude":13.56083,
+    "gn:longitude":-87.90167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583644
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d2820d19c5b9c861d59f6e3c9034aadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694965,
+            "locality_id":1343256259,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1343256259,
+    "wof:lastmodified":1537701440,
+    "wof:name":"San Jose",
+    "wof:parent_id":1108694965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.90167,
+    13.56083,
+    -87.90167,
+    13.56083
+],
+  "geometry": {"coordinates":[-87.90167,13.56083],"type":"Point"}
+}

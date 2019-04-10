@@ -1,0 +1,71 @@
+{
+  "id": 1276142239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.15,13.76667,-88.15,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-88.15,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yoloaiquin",
+    "gn:country_code":"SV",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582817,
+    "gn:latitude":13.76667,
+    "gn:longitude":-88.15,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Yoloaiqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yoloaiqu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108695099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582817,
+        "wk:page":"Yoloaiqu%C3%ADn"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"977718b88a00389eac199e293aea551c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695099,
+            "locality_id":1276142239,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1276142239,
+    "wof:lastmodified":1537701425,
+    "wof:name":"Yoloaiquin",
+    "wof:parent_id":1108695099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.15,
+    13.76667,
+    -88.15,
+    13.76667
+],
+  "geometry": {"coordinates":[-88.15000000000001,13.76667],"type":"Point"}
+}

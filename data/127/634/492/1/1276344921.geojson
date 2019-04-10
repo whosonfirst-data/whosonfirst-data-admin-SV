@@ -1,0 +1,73 @@
+{
+  "id": 1276344921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.86667,13.81667,-89.86667,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-89.86667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Las Canoas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585006,
+    "gn:latitude":13.81667,
+    "gn:longitude":-89.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Canoas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca Las Canoas",
+        "Hacienda Las Canoas",
+        "Las Canoas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421204283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585006
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ab8271169758c77751f1542d8bbc7db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421204283,
+            "locality_id":1276344921,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1276344921,
+    "wof:lastmodified":1537701467,
+    "wof:name":"Las Canoas",
+    "wof:parent_id":421204283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.86667,
+    13.81667,
+    -89.86667,
+    13.81667
+],
+  "geometry": {"coordinates":[-89.86667,13.81667],"type":"Point"}
+}

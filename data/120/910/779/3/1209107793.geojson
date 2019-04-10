@@ -1,0 +1,66 @@
+{
+  "id": 1209107793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,14.16667,-88.93333,14.16667",
+    "geom:latitude":14.16667,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Cuchilla",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585284,
+    "gn:latitude":14.16667,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Cuchilla",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Cuchillas",
+        "La Cuchilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585284
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b781e9ef82bbe0aed306fe9bc8926441",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209107793
+        }
+    ],
+    "wof:id":1209107793,
+    "wof:lastmodified":1537701473,
+    "wof:name":"La Cuchilla",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    14.16667,
+    -88.93333,
+    14.16667
+],
+  "geometry": {"coordinates":[-88.93333,14.16667],"type":"Point"}
+}

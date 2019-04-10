@@ -1,0 +1,67 @@
+{
+  "id": 1242567395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08972,13.29028,-88.08972,13.29028",
+    "geom:latitude":13.29028,
+    "geom:longitude":-88.08972,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Los Riitos",
+    "gn:country_code":"SV",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584498,
+    "gn:latitude":13.29028,
+    "gn:longitude":-88.08972,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Los Ri\u00edtos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584498
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"3a329afaddd64036d3f49f6f45368ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1242567395,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1242567395,
+    "wof:lastmodified":1537075267,
+    "wof:name":"Los Riitos",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08972,
+    13.29028,
+    -88.08972,
+    13.29028
+],
+  "geometry": {"coordinates":[-88.08972,13.29028],"type":"Point"}
+}

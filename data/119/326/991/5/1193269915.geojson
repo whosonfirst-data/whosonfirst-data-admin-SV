@@ -1,0 +1,72 @@
+{
+  "id": 1193269915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.79056,13.55694,-87.79056,13.55694",
+    "geom:latitude":13.55694,
+    "geom:longitude":-87.79056,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Horcones",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584612,
+    "gn:latitude":13.55694,
+    "gn:longitude":-87.79056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horcones",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Horcones",
+        "Horcones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584612
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"6be07b1a58b62ade3603d17b380c814c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694891,
+            "locality_id":1193269915,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1193269915,
+    "wof:lastmodified":1537701459,
+    "wof:name":"Horcones",
+    "wof:parent_id":1108694891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.79056,
+    13.55694,
+    -87.79056,
+    13.55694
+],
+  "geometry": {"coordinates":[-87.79056,13.55694],"type":"Point"}
+}

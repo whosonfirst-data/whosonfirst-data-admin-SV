@@ -1,0 +1,67 @@
+{
+  "id": 1344170035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.96667,13.91667,-88.96667,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":-88.96667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Nicolas",
+    "gn:country_code":"SV",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583442,
+    "gn:latitude":13.91667,
+    "gn:longitude":-88.96667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"San Nicol\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108694747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583442
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"97d2310edf38c7d01b0ee9eaae828c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694747,
+            "locality_id":1344170035,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1344170035,
+    "wof:lastmodified":1536717741,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":1108694747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.96667,
+    13.91667,
+    -88.96667,
+    13.91667
+],
+  "geometry": {"coordinates":[-88.96666999999999,13.91667],"type":"Point"}
+}

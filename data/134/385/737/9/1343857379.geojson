@@ -1,0 +1,67 @@
+{
+  "id": 1343857379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.26167,13.83,-89.26167,13.83",
+    "geom:latitude":13.83,
+    "geom:longitude":-89.26167,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"SV",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583224,
+    "gn:latitude":13.83,
+    "gn:longitude":-89.26167,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583224
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d0fa144ce5e7830a782e6af0ed146d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171703,
+            "locality_id":1343857379,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1343857379,
+    "wof:lastmodified":1536671033,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":421171703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.26167,
+    13.83,
+    -89.26167,
+    13.83
+],
+  "geometry": {"coordinates":[-89.26167,13.83],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360202507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78333,13.83333,-89.78333,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":-89.78333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Taltapanca",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583042,
+    "gn:latitude":13.83333,
+    "gn:longitude":-89.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taltapanca",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amate de Taltapanca",
+        "Taltapanka",
+        "Taltapanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421186439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583042
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f1c726ce738dca072189af0b9de72cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421186439,
+            "locality_id":1360202507,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1360202507,
+    "wof:lastmodified":1537701429,
+    "wof:name":"Taltapanca",
+    "wof:parent_id":421186439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78333,
+    13.83333,
+    -89.78333,
+    13.83333
+],
+  "geometry": {"coordinates":[-89.78333000000001,13.83333],"type":"Point"}
+}

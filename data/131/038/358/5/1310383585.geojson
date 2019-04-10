@@ -1,0 +1,67 @@
+{
+  "id": 1310383585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.35,14.25,-89.35,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":-89.35,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lagnetas",
+    "gn:country_code":"SV",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585227,
+    "gn:latitude":14.25,
+    "gn:longitude":-89.35,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Lagnetas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585227
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"abe1a0a58aeb5501b468bc24d5289def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1310383585,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1310383585,
+    "wof:lastmodified":1537089688,
+    "wof:name":"Lagnetas",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.35,
+    14.25,
+    -89.35,
+    14.25
+],
+  "geometry": {"coordinates":[-89.34999999999999,14.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343566013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.3,14.01667,-89.3,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":-89.3,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hacienda Atiocoyo",
+    "gn:country_code":"SV",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585616,
+    "gn:latitude":14.01667,
+    "gn:longitude":-89.3,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Hacienda Atiocoyo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        1108694993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585616
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f2df5f42a8a7132808324eb5562bf263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694993,
+            "locality_id":1343566013,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1343566013,
+    "wof:lastmodified":1537088197,
+    "wof:name":"Hacienda Atiocoyo",
+    "wof:parent_id":1108694993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.3,
+    14.01667,
+    -89.3,
+    14.01667
+],
+  "geometry": {"coordinates":[-89.3,14.01667],"type":"Point"}
+}

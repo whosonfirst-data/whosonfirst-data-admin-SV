@@ -1,0 +1,117 @@
+{
+  "id": 421190403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.3,14.13333,-89.3,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-89.3,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u65b0\u5eb7\u585e\u666e\u897f\u7fc1"
+    ],
+    "name:dut_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30d0\u30fb\u30b3\u30f3\u30bb\u30d7\u30b7\u30aa\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:sco_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Concepci\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Chicunhuexo"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5eb7\u585e\u666e\u897f\u7fc1"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584266,
+    "qs:gn_pop":9990,
+    "qs:name":"Nueva Concepci\u00f3n",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Chalatenango",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":53482,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79145,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421177967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584266,
+        "gp:id":79145,
+        "qs:id":53482,
+        "wd:id":"Q2779443",
+        "wk:page":"Nueva Concepci\u00f3n"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009656,
+    "wof:geomhash":"09cfbc4561f3146f806fb032b0d3c409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421177967,
+            "locality_id":421190403,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":421190403,
+    "wof:lastmodified":1514505780,
+    "wof:name":"Nueva Concepci\u00f3n",
+    "wof:parent_id":421177967,
+    "wof:placetype":"locality",
+    "wof:population":9990,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.3,
+    14.13333,
+    -89.3,
+    14.13333
+],
+  "geometry": {"coordinates":[-89.3,14.13333],"type":"Point"}
+}

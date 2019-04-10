@@ -1,0 +1,67 @@
+{
+  "id": 1293889621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,13.68333,-88.93333,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"SV",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583909,
+    "gn:latitude":13.68333,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"San Agust\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        1108695009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583909
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f8053d88c453c9df4cb059ac0958243a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695009,
+            "locality_id":1293889621,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1293889621,
+    "wof:lastmodified":1536704762,
+    "wof:name":"San Agustin",
+    "wof:parent_id":1108695009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    13.68333,
+    -88.93333,
+    13.68333
+],
+  "geometry": {"coordinates":[-88.93333,13.68333],"type":"Point"}
+}

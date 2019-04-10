@@ -1,0 +1,61 @@
+{
+  "id": 1209524961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.07222,13.72,-90.07222,13.72",
+    "geom:latitude":13.72,
+    "geom:longitude":-90.07222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"La Playa",
+    "gn:country_code":"SV",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764984,
+    "gn:latitude":13.72,
+    "gn:longitude":-90.07222,
+    "gn:modification_date":"1998-09-25",
+    "gn:name":"La Playa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764984
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"fc561f9698b312a848fc94736c68f495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209524961
+        }
+    ],
+    "wof:id":1209524961,
+    "wof:lastmodified":1536284460,
+    "wof:name":"La Playa",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.07222,
+    13.72,
+    -90.07222,
+    13.72
+],
+  "geometry": {"coordinates":[-90.07222,13.72],"type":"Point"}
+}

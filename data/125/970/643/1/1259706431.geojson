@@ -1,0 +1,72 @@
+{
+  "id": 1259706431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36667,14.03333,-89.36667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-89.36667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Isidro",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583689,
+    "gn:latitude":14.03333,
+    "gn:longitude":-89.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda San Isidro",
+        "San Isidro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        421177967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583689
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a4fbab0d5d15e4dfb095b27cebc4c07d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421177967,
+            "locality_id":1259706431,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1259706431,
+    "wof:lastmodified":1537701441,
+    "wof:name":"San Isidro",
+    "wof:parent_id":421177967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36667,
+    14.03333,
+    -89.36667,
+    14.03333
+],
+  "geometry": {"coordinates":[-89.36667,14.03333],"type":"Point"}
+}

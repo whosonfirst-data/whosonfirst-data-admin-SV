@@ -1,0 +1,67 @@
+{
+  "id": 1310426859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.82806,13.49556,-87.82806,13.49556",
+    "geom:latitude":13.49556,
+    "geom:longitude":-87.82806,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Tablon",
+    "gn:country_code":"SV",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585926,
+    "gn:latitude":13.49556,
+    "gn:longitude":-87.82806,
+    "gn:modification_date":"2003-06-10",
+    "gn:name":"El Tabl\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585926
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"db6e2c73732cb9886c48757dab200eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694891,
+            "locality_id":1310426859,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1310426859,
+    "wof:lastmodified":1537029222,
+    "wof:name":"El Tablon",
+    "wof:parent_id":1108694891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.82806,
+    13.49556,
+    -87.82806,
+    13.49556
+],
+  "geometry": {"coordinates":[-87.82805999999999,13.49556],"type":"Point"}
+}

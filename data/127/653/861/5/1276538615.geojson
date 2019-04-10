@@ -1,0 +1,73 @@
+{
+  "id": 1276538615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.18333,13.5,-88.18333,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-88.18333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zamoran",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582796,
+    "gn:latitude":13.5,
+    "gn:longitude":-88.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zamor\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Zamor\u00e1n",
+        "Zamorano",
+        "Zamor\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582796
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"1c25155750454558d7cbc97829e06bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1276538615,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1276538615,
+    "wof:lastmodified":1537701425,
+    "wof:name":"Zamoran",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.18333,
+    13.5,
+    -88.18333,
+    13.5
+],
+  "geometry": {"coordinates":[-88.18333,13.5],"type":"Point"}
+}

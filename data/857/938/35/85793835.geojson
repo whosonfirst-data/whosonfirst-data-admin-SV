@@ -1,0 +1,138 @@
+{
+  "id": 85793835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13432414.512491,
+    "geom:bbox":"-89.185925,13.658959,-89.185925,13.658959",
+    "geom:latitude":13.658959,
+    "geom:longitude":-89.185925,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":13.66667,
+    "gn:longitude":-89.18333,
+    "iso:country":"SV",
+    "lbl:latitude":13.658959,
+    "lbl:longitude":-89.185925,
+    "mps:latitude":13.658358,
+    "mps:longitude":-89.183417,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Colonia El Milagro"
+    ],
+    "name:spa_x_variant":[
+        "El Milagro",
+        "Colonia del Milagro"
+    ],
+    "name:unk_x_variant":[
+        "El Milagro",
+        "Colonia El Milagro"
+    ],
+    "qs:gn_adm0_cc":"SV",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3583361,
+    "qs:gn_nam_loc":"San Salvador, San Salvador, San Salvador, SV",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Colonia El Milagro",
+    "qs:local_max":3481,
+    "qs:local_sum":9209,
+    "qs:localhoods":7,
+    "qs:name":"Colonia El Milagro",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:name_adm2":"San Salvador",
+    "qs:name_local":"San Salvador",
+    "qs:photo_max":15,
+    "qs:photo_sum":43,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424807,
+    "qs:woe_adm1":2345301,
+    "qs:woe_adm2":26808700,
+    "qs:woe_lau":0,
+    "qs:woe_local":79825,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3586968,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colonia El Milagro",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"San Salvador",
+    "qs_pg:photos":39,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165075,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":77087,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85677163,
+        102191575,
+        85632545,
+        1108694987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586968,
+        "gp:id":77087,
+        "qs:id":1165075,
+        "qs_pg:id":1165075
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"54b4c4cd71a50e5f0fe63b4c33e3cac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694987,
+            "locality_id":-1,
+            "neighbourhood_id":85793835,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":85793835,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379462,
+    "wof:name":"Colonia El Milagro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126064289
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.185925,
+    13.658959,
+    -89.185925,
+    13.658959
+],
+  "geometry": {"coordinates":[-89.185925,13.658959],"type":"Point"}
+}

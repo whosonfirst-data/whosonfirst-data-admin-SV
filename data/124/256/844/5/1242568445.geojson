@@ -1,0 +1,67 @@
+{
+  "id": 1242568445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23333,13.88333,-88.23333,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":-88.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Progreso",
+    "gn:country_code":"SV",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586066,
+    "gn:latitude":13.88333,
+    "gn:longitude":-88.23333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Progreso",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108695085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586066
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5b9532e43a8b012174c078bbc7797c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695085,
+            "locality_id":1242568445,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1242568445,
+    "wof:lastmodified":1537073780,
+    "wof:name":"El Progreso",
+    "wof:parent_id":1108695085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23333000000002,
+    13.88333,
+    -88.23333000000002,
+    13.88333
+],
+  "geometry": {"coordinates":[-88.23333000000002,13.88333],"type":"Point"}
+}

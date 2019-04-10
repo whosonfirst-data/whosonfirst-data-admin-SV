@@ -1,0 +1,67 @@
+{
+  "id": 1293862087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.56667,14.01667,-89.56667,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":-89.56667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Granada",
+    "gn:country_code":"SV",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585717,
+    "gn:latitude":14.01667,
+    "gn:longitude":-89.56667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Granada",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421166707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585717
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"891890aa5907fd62d262cd58e2f55ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421166707,
+            "locality_id":1293862087,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1293862087,
+    "wof:lastmodified":1536743932,
+    "wof:name":"Granada",
+    "wof:parent_id":421166707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.56667,
+    14.01667,
+    -89.56667,
+    14.01667
+],
+  "geometry": {"coordinates":[-89.56667,14.01667],"type":"Point"}
+}

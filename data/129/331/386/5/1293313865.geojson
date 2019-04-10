@@ -1,0 +1,67 @@
+{
+  "id": 1293313865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8525,13.23889,-87.8525,13.23889",
+    "geom:latitude":13.23889,
+    "geom:longitude":-87.8525,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Cacao",
+    "gn:country_code":"SV",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586715,
+    "gn:latitude":13.23889,
+    "gn:longitude":-87.8525,
+    "gn:modification_date":"2003-06-10",
+    "gn:name":"El Cacao",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        421191221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586715
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b108739b280d0e64fd06dbcf53b07af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191221,
+            "locality_id":1293313865,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293313865,
+    "wof:lastmodified":1537035859,
+    "wof:name":"El Cacao",
+    "wof:parent_id":421191221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.8525,
+    13.23889,
+    -87.8525,
+    13.23889
+],
+  "geometry": {"coordinates":[-87.85250000000001,13.23889],"type":"Point"}
+}

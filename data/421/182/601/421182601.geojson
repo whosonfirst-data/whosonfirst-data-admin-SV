@@ -1,0 +1,106 @@
+{
+  "id": 421182601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.43333,13.35,-88.43333,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-88.43333,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30de\u30ea\u30a2"
+    ],
+    "name:por_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583248,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Mar\u00eda",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Usulut\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":923574,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79921,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421205341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583248,
+        "gp:id":79921,
+        "qs:id":923574,
+        "wd:id":"Q1154932",
+        "wk:page":"Santa Mar\u00eda, Usulut\u00e1n"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009336,
+    "wof:geomhash":"b3f92ffb2b15723e0ccb701e2e379b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421205341,
+            "locality_id":421182601,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421182601,
+    "wof:lastmodified":1553816372,
+    "wof:name":"Santa Mar\u00eda",
+    "wof:parent_id":421205341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.43333,
+    13.35,
+    -88.43333,
+    13.35
+],
+  "geometry": {"coordinates":[-88.43333,13.35],"type":"Point"}
+}

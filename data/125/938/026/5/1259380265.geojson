@@ -1,0 +1,72 @@
+{
+  "id": 1259380265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.86667,13.48333,-88.86667,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":-88.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Los Platanares",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584518,
+    "gn:latitude":13.48333,
+    "gn:longitude":-88.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Platanares",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Platanares",
+        "Los Platanares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        421191217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584518
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f919a58e8df425fc7a7a86d218a26eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191217,
+            "locality_id":1259380265,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1259380265,
+    "wof:lastmodified":1537701457,
+    "wof:name":"Los Platanares",
+    "wof:parent_id":421191217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.86667,
+    13.48333,
+    -88.86667,
+    13.48333
+],
+  "geometry": {"coordinates":[-88.86667,13.48333],"type":"Point"}
+}

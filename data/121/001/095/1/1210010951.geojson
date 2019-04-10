@@ -1,0 +1,72 @@
+{
+  "id": 1210010951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.14139,13.43833,-88.14139,13.43833",
+    "geom:latitude":13.43833,
+    "geom:longitude":-88.14139,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Tapesco",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585888,
+    "gn:latitude":13.43833,
+    "gn:longitude":-88.14139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tapesco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapesco",
+        "El Tapesco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421201175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585888
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"b72f5654d3839b4570b7fd021c5deac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421201175,
+            "locality_id":1210010951,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1210010951,
+    "wof:lastmodified":1537701488,
+    "wof:name":"El Tapesco",
+    "wof:parent_id":421201175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.14139,
+    13.43833,
+    -88.14139,
+    13.43833
+],
+  "geometry": {"coordinates":[-88.14139,13.43833],"type":"Point"}
+}

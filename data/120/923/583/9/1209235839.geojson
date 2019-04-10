@@ -1,0 +1,61 @@
+{
+  "id": 1209235839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.96667,13.31667,-87.96667,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":-87.96667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Amatillo",
+    "gn:country_code":"SV",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586763,
+    "gn:latitude":13.31667,
+    "gn:longitude":-87.96667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Amatillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586763
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4fbdfce91b41d8866d886ec6edb0112b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209235839
+        }
+    ],
+    "wof:id":1209235839,
+    "wof:lastmodified":1536293485,
+    "wof:name":"El Amatillo",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.96667,
+    13.316670000000002,
+    -87.96667,
+    13.316670000000002
+],
+  "geometry": {"coordinates":[-87.96666999999999,13.31667],"type":"Point"}
+}

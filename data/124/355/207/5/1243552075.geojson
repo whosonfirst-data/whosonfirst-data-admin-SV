@@ -1,0 +1,67 @@
+{
+  "id": 1243552075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.02333,13.45111,-89.02333,13.45111",
+    "geom:latitude":13.45111,
+    "geom:longitude":-89.02333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Pedregal",
+    "gn:country_code":"SV",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586156,
+    "gn:latitude":13.45111,
+    "gn:longitude":-89.02333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"El Pedregal",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        1108694789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586156
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0e33cb3ec15e415f6a4ba11fb8cda3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694789,
+            "locality_id":1243552075,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1243552075,
+    "wof:lastmodified":1536653251,
+    "wof:name":"El Pedregal",
+    "wof:parent_id":1108694789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.02333,
+    13.45111,
+    -89.02333,
+    13.45111
+],
+  "geometry": {"coordinates":[-89.02333,13.45111],"type":"Point"}
+}

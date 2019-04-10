@@ -1,0 +1,100 @@
+{
+  "id": 1126088727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.21667,13.73333,-89.21667,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":-89.21667,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":13.73333,
+    "gn:longitude":-89.21667,
+    "iso:country":"SV",
+    "lbl:latitude":13.73333,
+    "lbl:longitude":-89.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Delicias del Norte"
+    ],
+    "name:unk_x_variant":[
+        "Delicias del Norte"
+    ],
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3586809,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Delicias del Norte",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"San Salvador",
+    "qs_pg:photos":339,
+    "qs_pg:photos_1k":69,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":339,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887549,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":77209,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424807,
+    "woe:name_adm0":"El Salvador",
+    "woe:name_adm1":"San Salvador",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85677163,
+        102191575,
+        85632545,
+        421180175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586809,
+        "gp:id":77209,
+        "qs:id":887549,
+        "qs_pg:id":887549
+    },
+    "wof:country":"SV",
+    "wof:created":1497313242,
+    "wof:geomhash":"0d587de02429ab2f999904084c31fef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180175,
+            "locality_id":-1,
+            "neighbourhood_id":1126088727,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1126088727,
+    "wof:lastmodified":1534379463,
+    "wof:name":"Delicias del Norte",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793853
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.21667,
+    13.73333,
+    -89.21667,
+    13.73333
+],
+  "geometry": {"coordinates":[-89.21666999999999,13.73333],"type":"Point"}
+}

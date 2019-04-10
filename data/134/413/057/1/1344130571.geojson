@@ -1,0 +1,67 @@
+{
+  "id": 1344130571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.38333,13.33333,-88.38333,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":-88.38333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Danta",
+    "gn:country_code":"SV",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585276,
+    "gn:latitude":13.33333,
+    "gn:longitude":-88.38333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"La Danta",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585276
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d22dcb3331da5ca0eeda0760d2253bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694795,
+            "locality_id":1344130571,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1344130571,
+    "wof:lastmodified":1536775148,
+    "wof:name":"La Danta",
+    "wof:parent_id":1108694795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.38333,
+    13.33333,
+    -88.38333,
+    13.33333
+],
+  "geometry": {"coordinates":[-88.38333,13.33333],"type":"Point"}
+}

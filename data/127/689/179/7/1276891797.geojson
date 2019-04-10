@@ -1,0 +1,72 @@
+{
+  "id": 1276891797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.91111,13.98583,-89.91111,13.98583",
+    "geom:latitude":13.98583,
+    "geom:longitude":-89.91111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Tigre",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585869,
+    "gn:latitude":13.98583,
+    "gn:longitude":-89.91111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n El Tigre",
+        "El Tigre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421169323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585869
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d6d40a1ef37f8060df7bb11a12f77f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169323,
+            "locality_id":1276891797,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1276891797,
+    "wof:lastmodified":1537701488,
+    "wof:name":"El Tigre",
+    "wof:parent_id":421169323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.91111,
+    13.98583,
+    -89.91111,
+    13.98583
+],
+  "geometry": {"coordinates":[-89.91110999999999,13.98583],"type":"Point"}
+}

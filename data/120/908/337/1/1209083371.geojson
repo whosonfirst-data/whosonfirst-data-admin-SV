@@ -1,0 +1,61 @@
+{
+  "id": 1209083371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.86667,13.61667,-88.86667,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-88.86667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Emigdio El Tablon",
+    "gn:country_code":"SV",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583775,
+    "gn:latitude":13.61667,
+    "gn:longitude":-88.86667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"San Emigdio El Tabl\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583775
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ea09fe946c61a2cf690d0408b58c367b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209083371
+        }
+    ],
+    "wof:id":1209083371,
+    "wof:lastmodified":1536298265,
+    "wof:name":"San Emigdio El Tablon",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.86667,
+    13.61667,
+    -88.86667,
+    13.61667
+],
+  "geometry": {"coordinates":[-88.86667,13.61667],"type":"Point"}
+}

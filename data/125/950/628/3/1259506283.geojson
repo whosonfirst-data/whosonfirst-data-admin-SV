@@ -1,0 +1,73 @@
+{
+  "id": 1259506283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.40333,13.83333,-89.40333,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":-89.40333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Conacaste",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586556,
+    "gn:latitude":13.83333,
+    "gn:longitude":-89.40333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Conacaste",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n Conacaste",
+        "El Conacaste",
+        "Conacaste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421191211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586556
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"1576072f741b3b01d499a63f150f37df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191211,
+            "locality_id":1259506283,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1259506283,
+    "wof:lastmodified":1537701503,
+    "wof:name":"Conacaste",
+    "wof:parent_id":421191211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.40333000000003,
+    13.83333,
+    -89.40333000000003,
+    13.83333
+],
+  "geometry": {"coordinates":[-89.40333000000003,13.83333],"type":"Point"}
+}

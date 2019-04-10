@@ -1,0 +1,102 @@
+{
+  "id": 421195557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002326,
+    "geom:area_square_m":27943899.046425,
+    "geom:bbox":"-89.7831311723,13.6800298019,-89.724058638,13.7485553196",
+    "geom:latitude":13.716329,
+    "geom:longitude":-89.752409,
+    "iso:country":"SV",
+    "lbl:latitude":13.716277,
+    "lbl:longitude":-89.752414,
+    "meso:admin1r":"REGION OCCIDENTAL",
+    "meso:admin_1":"Sonsonate",
+    "meso:diss_me":"SAN ANTONIO DEL MONTESONSONATE",
+    "meso:gadm_admin":"San Antonio del Monte",
+    "meso:gadm_hasc2":"SV.SO.SA",
+    "meso:gaul_admin":"San Antonio Del Monte",
+    "meso:local_id":"11",
+    "meso:local_id_a":"0311",
+    "meso:mps_x":-89.752414,
+    "meso:mps_y":13.716277,
+    "meso:name_en":"San Antonio Del Monte",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.716277,
+    "mps:longitude":-89.752414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_variant":[
+        "San Antonio Del Monte",
+        "San Antonio del Monte"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Antonio del Monte",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115545,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808755,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":531,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808755,
+        "hasc:id":"SV.SO.SA",
+        "qs:id":115545,
+        "wd:id":"Q3946809"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009852,
+    "wof:geomhash":"364e3b3ebc4b2b6f02d7246c05e4ad3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195557,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421195557,
+    "wof:lastmodified":1536616121,
+    "wof:name":"San Antonio Del Monte",
+    "wof:parent_id":85677159,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"SA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78313117232376,
+    13.68002980194878,
+    -89.72405863801725,
+    13.7485553195682
+],
+  "geometry": {"coordinates":[[[-89.77325755790324,13.7415381849351],[-89.76027770478589,13.73912161170758],[-89.75715979817406,13.741894553381],[-89.74874122487117,13.7415678218315],[-89.74172619143832,13.7485553195682],[-89.73499999999979,13.74850322731427],[-89.72809428912346,13.74543608816641],[-89.72405863801725,13.74046172430391],[-89.72949471390436,13.73459156803682],[-89.73367093594774,13.72570948963676],[-89.7339724165013,13.725],[-89.73132789585125,13.71615984360397],[-89.73269911766454,13.715],[-89.7351567841864,13.70605839173844],[-89.73450541188356,13.70053749857778],[-89.74090874373115,13.69527145916246],[-89.74185755735725,13.69274928039651],[-89.74000728134152,13.68570868402716],[-89.74198861266862,13.68002980194878],[-89.75696477376916,13.68013410646327],[-89.76062157913384,13.68354432834653],[-89.76113859265904,13.68483310329117],[-89.76114619740177,13.68543546235908],[-89.7598763594992,13.69475271899877],[-89.7623835863992,13.69976717279876],[-89.7625800756075,13.69987197352514],[-89.77496952333324,13.6963327740244],[-89.78313117232376,13.70412493770612],[-89.78244536535341,13.70605040097725],[-89.77155271654927,13.71532639859229],[-89.77251206293765,13.71817416160696],[-89.77290684807055,13.72188157177225],[-89.77133322814602,13.72520242262327],[-89.77548153135946,13.73724261607326],[-89.77325755790324,13.7415381849351]]],"type":"Polygon"}
+}

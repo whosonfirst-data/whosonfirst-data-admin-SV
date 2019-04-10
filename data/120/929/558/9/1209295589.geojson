@@ -1,0 +1,66 @@
+{
+  "id": 1209295589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.55028,14.32528,-89.55028,14.32528",
+    "geom:latitude":14.32528,
+    "geom:longitude":-89.55028,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ostua",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584194,
+    "gn:latitude":14.32528,
+    "gn:longitude":-89.55028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ost\u00faa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Ost\u00faa",
+        "Ost\u00faa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584194
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ad4ec740c3f034644c9953f15e771003",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209295589
+        }
+    ],
+    "wof:id":1209295589,
+    "wof:lastmodified":1537701452,
+    "wof:name":"Ostua",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.55028,
+    14.32528,
+    -89.55028,
+    14.32528
+],
+  "geometry": {"coordinates":[-89.55028,14.32528],"type":"Point"}
+}

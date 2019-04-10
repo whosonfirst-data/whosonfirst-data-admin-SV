@@ -1,0 +1,73 @@
+{
+  "id": 1344168579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.03333,14.3,-89.03333,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":-89.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Roblar",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586040,
+    "gn:latitude":14.3,
+    "gn:longitude":-89.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Roblar",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Fernando Viejo",
+        "Antiguo San Fernando",
+        "El Roblar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586040
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7b2a967d5a65425c217352c280708551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694937,
+            "locality_id":1344168579,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1344168579,
+    "wof:lastmodified":1537701492,
+    "wof:name":"El Roblar",
+    "wof:parent_id":1108694937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.03333,
+    14.3,
+    -89.03333,
+    14.3
+],
+  "geometry": {"coordinates":[-89.03333000000001,14.3],"type":"Point"}
+}

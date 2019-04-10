@@ -1,0 +1,75 @@
+{
+  "id": 421195043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.208984,13.565901,-89.208984,13.565901",
+    "geom:latitude":13.565901,
+    "geom:longitude":-89.208984,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rosario de Mora",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1184634,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808712,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808712,
+        "qs:id":1184634,
+        "wd:id":"Q3941398"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009829,
+    "wof:geomhash":"70c958380b5ae82e76a21a2b1edf60fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195043,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":421195043,
+    "wof:lastmodified":1527716124,
+    "wof:name":"Rosario de Mora",
+    "wof:parent_id":85677151,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.208984,
+    13.565901,
+    -89.208984,
+    13.565901
+],
+  "geometry": {"coordinates":[-89.208984,13.565901],"type":"Point"}
+}

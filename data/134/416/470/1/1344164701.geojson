@@ -1,0 +1,72 @@
+{
+  "id": 1344164701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.86667,14.15,-88.86667,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":-88.86667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Sitio",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585942,
+    "gn:latitude":14.15,
+    "gn:longitude":-88.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Sitio",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitio",
+        "El Sitio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585942
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"5affb1598346cbaad79b6bd6d3fd616d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694875,
+            "locality_id":1344164701,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1344164701,
+    "wof:lastmodified":1537701490,
+    "wof:name":"El Sitio",
+    "wof:parent_id":1108694875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.86667,
+    14.15,
+    -88.86667,
+    14.15
+],
+  "geometry": {"coordinates":[-88.86667,14.15],"type":"Point"}
+}

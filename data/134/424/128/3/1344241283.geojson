@@ -1,0 +1,67 @@
+{
+  "id": 1344241283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35,13.88333,-88.35,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":-88.35,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Orilla",
+    "gn:country_code":"SV",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585102,
+    "gn:latitude":13.88333,
+    "gn:longitude":-88.35,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"La Orilla",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585102
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a97343bd0dc7eaa69bc3d2314c7ba828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694735,
+            "locality_id":1344241283,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1344241283,
+    "wof:lastmodified":1536612186,
+    "wof:name":"La Orilla",
+    "wof:parent_id":1108694735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35,
+    13.88333,
+    -88.35,
+    13.88333
+],
+  "geometry": {"coordinates":[-88.34999999999999,13.88333],"type":"Point"}
+}

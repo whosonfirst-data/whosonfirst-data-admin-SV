@@ -1,0 +1,72 @@
+{
+  "id": 1327051263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.91667,13.68333,-87.91667,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-87.91667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Jagua",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585206,
+    "gn:latitude":13.68333,
+    "gn:longitude":-87.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo La Jagua",
+        "La Jagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585206
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4e34fa028dad117f29cbe0cc0a1b1ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695041,
+            "locality_id":1327051263,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1327051263,
+    "wof:lastmodified":1537701471,
+    "wof:name":"La Jagua",
+    "wof:parent_id":1108695041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91667,
+    13.68333,
+    -87.91667,
+    13.68333
+],
+  "geometry": {"coordinates":[-87.91667,13.68333],"type":"Point"}
+}

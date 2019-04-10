@@ -1,0 +1,73 @@
+{
+  "id": 1309711209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.56667,13.56667,-89.56667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":-89.56667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sihuapilapa",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583142,
+    "gn:latitude":13.56667,
+    "gn:longitude":-89.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sihuapilapa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suhuapilapa",
+        "Siguapilapa",
+        "Sihuapilapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421191215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583142
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"452785a343024c58f42496d51236fd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191215,
+            "locality_id":1309711209,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1309711209,
+    "wof:lastmodified":1537701431,
+    "wof:name":"Sihuapilapa",
+    "wof:parent_id":421191215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.56667,
+    13.56667,
+    -89.56667,
+    13.56667
+],
+  "geometry": {"coordinates":[-89.56667,13.56667],"type":"Point"}
+}

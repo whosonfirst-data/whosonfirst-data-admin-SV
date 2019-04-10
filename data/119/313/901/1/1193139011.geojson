@@ -1,0 +1,71 @@
+{
+  "id": 1193139011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.73333,14.0,-88.73333,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":-88.73333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nombre de Jesus",
+    "gn:country_code":"SV",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584272,
+    "gn:latitude":14.0,
+    "gn:longitude":-88.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nombre de Jes\u00fas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nombre de Jes\u00fas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        1108695063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584272,
+        "wk:page":"Nombre_de_Jes%C3%BAs"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"ea0202bc8147e9f2a93b4cb87de25773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695063,
+            "locality_id":1193139011,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1193139011,
+    "wof:lastmodified":1537701453,
+    "wof:name":"Nombre de Jesus",
+    "wof:parent_id":1108695063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.73333000000002,
+    14.0,
+    -88.73333000000002,
+    14.0
+],
+  "geometry": {"coordinates":[-88.73333000000002,14.0],"type":"Point"}
+}

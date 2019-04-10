@@ -1,0 +1,67 @@
+{
+  "id": 1327236271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.30222,13.76611,-89.30222,13.76611",
+    "geom:latitude":13.76611,
+    "geom:longitude":-89.30222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Las Granadillas",
+    "gn:country_code":"SV",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733542,
+    "gn:latitude":13.76611,
+    "gn:longitude":-89.30222,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"Las Granadillas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733542
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"4f1db166ada7d97d32b63163b4e0c1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171703,
+            "locality_id":1327236271,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1327236271,
+    "wof:lastmodified":1536963762,
+    "wof:name":"Las Granadillas",
+    "wof:parent_id":421171703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.30221999999998,
+    13.76611,
+    -89.30221999999998,
+    13.76611
+],
+  "geometry": {"coordinates":[-89.30221999999998,13.76611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193131609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.88972,13.55083,-87.88972,13.55083",
+    "geom:latitude":13.55083,
+    "geom:longitude":-87.88972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chaguitillo",
+    "gn:country_code":"SV",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587094,
+    "gn:latitude":13.55083,
+    "gn:longitude":-87.88972,
+    "gn:modification_date":"2003-06-10",
+    "gn:name":"Chag\u00fcitillo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587094
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"1c26e6a8739b83d43d8eab56232198c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694965,
+            "locality_id":1193131609,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1193131609,
+    "wof:lastmodified":1536375184,
+    "wof:name":"Chaguitillo",
+    "wof:parent_id":1108694965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.88972,
+    13.55083,
+    -87.88972,
+    13.55083
+],
+  "geometry": {"coordinates":[-87.88972,13.55083],"type":"Point"}
+}

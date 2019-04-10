@@ -1,0 +1,109 @@
+{
+  "id": 421181557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.02139,13.6225,-89.02139,13.6225",
+    "geom:latitude":13.6225,
+    "geom:longitude":-89.02139,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u7279\u4f69\u677e\u7279\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
+    "name:fra_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
+    "name:por_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
+    "name:unk_x_variant":[
+        "San Miguel Tapezontes"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u7279\u4f69\u677e\u7279\u65af"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583449,
+    "qs:gn_pop":0,
+    "qs:name":"San Miguel Tepezontes",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":494665,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79754,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        1108694991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583449,
+        "gp:id":79754,
+        "qs:id":494665,
+        "wd:id":"Q1154533",
+        "wk:page":"San Miguel Tepezontes"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009300,
+    "wof:geomhash":"f5f50609836e7639bf5a072835e10bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694991,
+            "locality_id":421181557,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":421181557,
+    "wof:lastmodified":1527716321,
+    "wof:name":"San Miguel Tepezontes",
+    "wof:parent_id":1108694991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.02139,
+    13.6225,
+    -89.02139,
+    13.6225
+],
+  "geometry": {"coordinates":[-89.02139,13.6225],"type":"Point"}
+}

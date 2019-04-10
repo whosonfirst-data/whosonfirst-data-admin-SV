@@ -1,0 +1,73 @@
+{
+  "id": 1226518743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.68333,13.81667,-89.68333,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-89.68333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Chaparron",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586598,
+    "gn:latitude":13.81667,
+    "gn:longitude":-89.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Chaparr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n El Chaparr\u00f3n",
+        "Cant\u00f3n Chaparron",
+        "El Chaparr\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421205339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586598
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"33f114c3db040e6687e39803e73aff67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421205339,
+            "locality_id":1226518743,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1226518743,
+    "wof:lastmodified":1537701504,
+    "wof:name":"El Chaparron",
+    "wof:parent_id":421205339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.68333,
+    13.81667,
+    -89.68333,
+    13.81667
+],
+  "geometry": {"coordinates":[-89.68333,13.81667],"type":"Point"}
+}

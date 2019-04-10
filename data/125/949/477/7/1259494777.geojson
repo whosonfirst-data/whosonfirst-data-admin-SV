@@ -1,0 +1,67 @@
+{
+  "id": 1259494777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.01667,13.98333,-89.01667,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":-89.01667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Los Zepeda",
+    "gn:country_code":"SV",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584474,
+    "gn:latitude":13.98333,
+    "gn:longitude":-89.01667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Los Zepeda",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584474
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"bf02b80b348acc7b871a079145bace83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694945,
+            "locality_id":1259494777,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1259494777,
+    "wof:lastmodified":1536841492,
+    "wof:name":"Los Zepeda",
+    "wof:parent_id":1108694945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.01666999999998,
+    13.98333,
+    -89.01666999999998,
+    13.98333
+],
+  "geometry": {"coordinates":[-89.01666999999998,13.98333],"type":"Point"}
+}

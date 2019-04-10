@@ -1,0 +1,67 @@
+{
+  "id": 1293672729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.38333,13.36667,-88.38333,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":-88.38333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Analco",
+    "gn:country_code":"SV",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587373,
+    "gn:latitude":13.36667,
+    "gn:longitude":-88.38333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Analco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587373
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d236da3a894bd0139aea74e4c8e41eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694795,
+            "locality_id":1293672729,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1293672729,
+    "wof:lastmodified":1537016551,
+    "wof:name":"Analco",
+    "wof:parent_id":1108694795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.38333,
+    13.36667,
+    -88.38333,
+    13.36667
+],
+  "geometry": {"coordinates":[-88.38333,13.36667],"type":"Point"}
+}

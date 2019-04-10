@@ -1,0 +1,72 @@
+{
+  "id": 1360106067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.01694,13.47417,-88.01694,13.47417",
+    "geom:latitude":13.47417,
+    "geom:longitude":-88.01694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Socorro",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583109,
+    "gn:latitude":13.47417,
+    "gn:longitude":-88.01694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Socorro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Socorro",
+        "Socorro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583109
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"960aa9accee9fa05b00aea735c249d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695097,
+            "locality_id":1360106067,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1360106067,
+    "wof:lastmodified":1537701430,
+    "wof:name":"Socorro",
+    "wof:parent_id":1108695097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.01694,
+    13.47417,
+    -88.01694,
+    13.47417
+],
+  "geometry": {"coordinates":[-88.01694000000001,13.47417],"type":"Point"}
+}

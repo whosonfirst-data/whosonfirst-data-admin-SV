@@ -1,0 +1,72 @@
+{
+  "id": 1243344709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.4,14.23333,-89.4,14.23333",
+    "geom:latitude":14.23333,
+    "geom:longitude":-89.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Antonio La Junta",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583846,
+    "gn:latitude":14.23333,
+    "gn:longitude":-89.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio La Junta",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n La Junta",
+        "San Antonio La Junta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583846
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"691ebdc2242151bc80d95d3b441dfcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1243344709,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1243344709,
+    "wof:lastmodified":1537701444,
+    "wof:name":"San Antonio La Junta",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.4,
+    14.23333,
+    -89.4,
+    14.23333
+],
+  "geometry": {"coordinates":[-89.40000000000001,14.23333],"type":"Point"}
+}

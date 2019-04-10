@@ -1,0 +1,67 @@
+{
+  "id": 1343857371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.48667,13.77972,-89.48667,13.77972",
+    "geom:latitude":13.77972,
+    "geom:longitude":-89.48667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Puerto Arturo",
+    "gn:country_code":"SV",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733525,
+    "gn:latitude":13.77972,
+    "gn:longitude":-89.48667,
+    "gn:modification_date":"1994-05-04",
+    "gn:name":"Puerto Arturo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421203739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733525
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"0f8ece5723e84969af3650dea1002212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203739,
+            "locality_id":1343857371,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1343857371,
+    "wof:lastmodified":1536671046,
+    "wof:name":"Puerto Arturo",
+    "wof:parent_id":421203739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.48666999999998,
+    13.77972,
+    -89.48666999999998,
+    13.77972
+],
+  "geometry": {"coordinates":[-89.48666999999998,13.77972],"type":"Point"}
+}

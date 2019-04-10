@@ -1,0 +1,105 @@
+{
+  "id": 421187237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.16667,13.95,-88.16667,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-88.16667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u4f69\u723e\u91d1"
+    ],
+    "name:dut_x_preferred":[
+        "Perqu\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Perqu\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Perqu\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Perqu\u00edn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30eb\u30ad\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Perqu\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Perqu\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u723e\u91d1"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584105,
+    "qs:gn_pop":0,
+    "qs:name":"Perqu\u00edn",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Moraz\u00e1n",
+    "qs:photos":241,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":241,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082600,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79245,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421191479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584105,
+        "gp:id":79245,
+        "qs:id":1082600,
+        "wd:id":"Q3900071",
+        "wk:page":"Perqu\u00edn"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009506,
+    "wof:geomhash":"b4c77bbda8289c5367c28dca25ac02f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191479,
+            "locality_id":421187237,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":421187237,
+    "wof:lastmodified":1514505782,
+    "wof:name":"Perqu\u00edn",
+    "wof:parent_id":421191479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.16667,
+    13.95,
+    -88.16667,
+    13.95
+],
+  "geometry": {"coordinates":[-88.16667,13.95],"type":"Point"}
+}

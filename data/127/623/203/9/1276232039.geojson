@@ -1,0 +1,72 @@
+{
+  "id": 1276232039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.86861,13.84861,-89.86861,13.84861",
+    "geom:latitude":13.84861,
+    "geom:longitude":-89.86861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Naranjito",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586235,
+    "gn:latitude":13.84861,
+    "gn:longitude":-89.86861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Naranjito",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Naranjitos",
+        "El Naranjito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421188901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586235
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c8bd52361180ea225cb2a3b29ecd89b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421188901,
+            "locality_id":1276232039,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1276232039,
+    "wof:lastmodified":1537701497,
+    "wof:name":"El Naranjito",
+    "wof:parent_id":421188901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.86861,
+    13.84861,
+    -89.86861,
+    13.84861
+],
+  "geometry": {"coordinates":[-89.86861,13.84861],"type":"Point"}
+}

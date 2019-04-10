@@ -1,0 +1,67 @@
+{
+  "id": 1276866403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.12861,13.29,-88.12861,13.29",
+    "geom:latitude":13.29,
+    "geom:longitude":-88.12861,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Mostacillar",
+    "gn:country_code":"SV",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735023,
+    "gn:latitude":13.29,
+    "gn:longitude":-88.12861,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Mostacillar",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735023
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"6811a32c454ab3e60c5bfd603483eaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1276866403,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1276866403,
+    "wof:lastmodified":1537056736,
+    "wof:name":"El Mostacillar",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.12861,
+    13.29,
+    -88.12861,
+    13.29
+],
+  "geometry": {"coordinates":[-88.12860999999999,13.29],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310710831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88333,13.78333,-88.88333,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":-88.88333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cerro Colorado",
+    "gn:country_code":"SV",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587113,
+    "gn:latitude":13.78333,
+    "gn:longitude":-88.88333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Cerro Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677141,
+        421184405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587113
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7f785a6e30e3472262e421d663010b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421184405,
+            "locality_id":1310710831,
+            "region_id":85677141
+        }
+    ],
+    "wof:id":1310710831,
+    "wof:lastmodified":1536618440,
+    "wof:name":"Cerro Colorado",
+    "wof:parent_id":421184405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88333,
+    13.78333,
+    -88.88333,
+    13.78333
+],
+  "geometry": {"coordinates":[-88.88333,13.78333],"type":"Point"}
+}

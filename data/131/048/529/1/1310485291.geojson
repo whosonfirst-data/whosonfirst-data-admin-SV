@@ -1,0 +1,73 @@
+{
+  "id": 1310485291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.61667,13.35,-88.61667,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-88.61667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Paraiso",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586176,
+    "gn:latitude":13.35,
+    "gn:longitude":-88.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cant\u00f3n El Para\u00edso",
+        "Cant\u00f3n Para\u00edso",
+        "El Para\u00edso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        421168319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586176
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"7dd5636a56a209cb710eeae376d768dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421168319,
+            "locality_id":1310485291,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1310485291,
+    "wof:lastmodified":1537701495,
+    "wof:name":"El Paraiso",
+    "wof:parent_id":421168319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.61667,
+    13.35,
+    -88.61667,
+    13.35
+],
+  "geometry": {"coordinates":[-88.61667,13.35],"type":"Point"}
+}

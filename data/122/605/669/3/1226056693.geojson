@@ -1,0 +1,67 @@
+{
+  "id": 1226056693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.09111,13.78194,-90.09111,13.78194",
+    "geom:latitude":13.78194,
+    "geom:longitude":-90.09111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"SV",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764943,
+    "gn:latitude":13.78194,
+    "gn:longitude":-90.09111,
+    "gn:modification_date":"1998-09-25",
+    "gn:name":"Los Cerritos",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764943
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"1a609b5b2af88d48761e505c4e08d986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1226056693,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1226056693,
+    "wof:lastmodified":1536709602,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.09111,
+    13.78194,
+    -90.09111,
+    13.78194
+],
+  "geometry": {"coordinates":[-90.09111,13.78194],"type":"Point"}
+}

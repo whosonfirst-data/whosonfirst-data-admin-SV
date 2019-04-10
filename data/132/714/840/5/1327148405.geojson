@@ -1,0 +1,72 @@
+{
+  "id": 1327148405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.10111,13.77167,-90.10111,13.77167",
+    "geom:latitude":13.77167,
+    "geom:longitude":-90.10111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Naranjo",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586233,
+    "gn:latitude":13.77167,
+    "gn:longitude":-90.10111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Capulin",
+        "El Naranjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        421203589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586233
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"739999337f9c6ecf5d639bc83413f7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203589,
+            "locality_id":1327148405,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1327148405,
+    "wof:lastmodified":1537701496,
+    "wof:name":"El Naranjo",
+    "wof:parent_id":421203589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.10111,
+    13.77167,
+    -90.10111,
+    13.77167
+],
+  "geometry": {"coordinates":[-90.10111000000001,13.77167],"type":"Point"}
+}

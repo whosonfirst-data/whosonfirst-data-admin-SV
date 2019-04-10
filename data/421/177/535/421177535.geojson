@@ -1,0 +1,106 @@
+{
+  "id": 421177535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.5,13.38333,-88.5,13.38333",
+    "geom:latitude":13.38333,
+    "geom:longitude":-88.5,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5967\u85a9\u7279\u862d"
+    ],
+    "name:dut_x_preferred":[
+        "Ozatl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Ozatl\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Ozatl\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b5\u30c8\u30e9\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Ozatl\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Ozatl\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u85a9\u7279\u862d"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584190,
+    "qs:gn_pop":4171,
+    "qs:name":"Ozatl\u00e1n",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Usulut\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1200839,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79195,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108694883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584190,
+        "gp:id":79195,
+        "qs:id":1200839,
+        "wd:id":"Q2842672",
+        "wk:page":"Ozatl\u00e1n"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009148,
+    "wof:geomhash":"4a39dc8ac8ffa7bc93c64ea8fd980205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694883,
+            "locality_id":421177535,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421177535,
+    "wof:lastmodified":1527716477,
+    "wof:name":"Ozatl\u00e1n",
+    "wof:parent_id":1108694883,
+    "wof:placetype":"locality",
+    "wof:population":4171,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.5,
+    13.38333,
+    -88.5,
+    13.38333
+],
+  "geometry": {"coordinates":[-88.5,13.38333],"type":"Point"}
+}

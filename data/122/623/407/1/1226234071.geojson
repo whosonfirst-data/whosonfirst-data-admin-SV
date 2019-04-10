@@ -1,0 +1,72 @@
+{
+  "id": 1226234071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.89139,13.25194,-87.89139,13.25194",
+    "geom:latitude":13.25194,
+    "geom:longitude":-87.89139,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Piedra Rallada",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584080,
+    "gn:latitude":13.25194,
+    "gn:longitude":-87.89139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Piedra Rallada",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piedra Rayada",
+        "Piedra Rallada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        421191221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584080
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"bd9be435dec654e25e7b43c9dd587997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191221,
+            "locality_id":1226234071,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1226234071,
+    "wof:lastmodified":1537701450,
+    "wof:name":"Piedra Rallada",
+    "wof:parent_id":421191221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.89139,
+    13.25194,
+    -87.89139,
+    13.25194
+],
+  "geometry": {"coordinates":[-87.89139,13.25194],"type":"Point"}
+}

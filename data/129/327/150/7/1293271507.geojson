@@ -1,0 +1,67 @@
+{
+  "id": 1293271507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.63745,13.87308,-89.63745,13.87308",
+    "geom:latitude":13.87308,
+    "geom:longitude":-89.63745,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Finca Mauritania",
+    "gn:country_code":"SV",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6545043,
+    "gn:latitude":13.87308,
+    "gn:longitude":-89.63745,
+    "gn:modification_date":"2007-06-14",
+    "gn:name":"Finca Mauritania",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        1108694737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545043
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cd1631435770ff0420d45766287e2795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694737,
+            "locality_id":1293271507,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1293271507,
+    "wof:lastmodified":1537095210,
+    "wof:name":"Finca Mauritania",
+    "wof:parent_id":1108694737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.63745,
+    13.87308,
+    -89.63745,
+    13.87308
+],
+  "geometry": {"coordinates":[-89.63745,13.87308],"type":"Point"}
+}

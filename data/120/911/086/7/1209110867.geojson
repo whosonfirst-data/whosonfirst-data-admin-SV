@@ -1,0 +1,68 @@
+{
+  "id": 1209110867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.27278,13.89194,-89.27278,13.89194",
+    "geom:latitude":13.89194,
+    "geom:longitude":-89.27278,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sitio de Los Nejapa",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583127,
+    "gn:latitude":13.89194,
+    "gn:longitude":-89.27278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sitio de Los Nejapa",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nejapa",
+        "El Sitio de los Nejapas",
+        "Sitio del Ni\u00f1o de los Nejapas",
+        "Sitio de Los Nejapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583127
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"56d50d4bf57f5acedfec2e8adb40b267",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209110867
+        }
+    ],
+    "wof:id":1209110867,
+    "wof:lastmodified":1537701431,
+    "wof:name":"Sitio de Los Nejapa",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.27278000000003,
+    13.89194,
+    -89.27278000000003,
+    13.89194
+],
+  "geometry": {"coordinates":[-89.27278000000003,13.89194],"type":"Point"}
+}

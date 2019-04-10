@@ -1,0 +1,71 @@
+{
+  "id": 1293023365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.46889,13.59056,-89.46889,13.59056",
+    "geom:latitude":13.59056,
+    "geom:longitude":-89.46889,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chiltiupan",
+    "gn:country_code":"SV",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587042,
+    "gn:latitude":13.59056,
+    "gn:longitude":-89.46889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiltiup\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiltiup\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421171699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587042,
+        "wk:page":"Chiltiup%C3%A1n"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"98fd25261cc4230be83ddbfaa99970dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171699,
+            "locality_id":1293023365,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1293023365,
+    "wof:lastmodified":1537701512,
+    "wof:name":"Chiltiupan",
+    "wof:parent_id":421171699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.46889,
+    13.59056,
+    -89.46889,
+    13.59056
+],
+  "geometry": {"coordinates":[-89.46889,13.59056],"type":"Point"}
+}

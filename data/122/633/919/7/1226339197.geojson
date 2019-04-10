@@ -1,0 +1,67 @@
+{
+  "id": 1226339197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08333,13.76667,-88.08333,13.76667",
+    "geom:latitude":13.76667,
+    "geom:longitude":-88.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sunsulaca",
+    "gn:country_code":"SV",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583080,
+    "gn:latitude":13.76667,
+    "gn:longitude":-88.08333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Sunsulaca",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583080
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"f0a7305f744888815caeeeaf95d2c299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694725,
+            "locality_id":1226339197,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1226339197,
+    "wof:lastmodified":1536799032,
+    "wof:name":"Sunsulaca",
+    "wof:parent_id":1108694725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08333,
+    13.76667,
+    -88.08333,
+    13.76667
+],
+  "geometry": {"coordinates":[-88.08333,13.76667],"type":"Point"}
+}

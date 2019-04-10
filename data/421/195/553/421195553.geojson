@@ -1,0 +1,102 @@
+{
+  "id": 421195553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001869,
+    "geom:area_square_m":22459244.244087,
+    "geom:bbox":"-89.2790857299,13.6376083576,-89.2228539345,13.7110199559",
+    "geom:latitude":13.673942,
+    "geom:longitude":-89.251247,
+    "iso:country":"SV",
+    "lbl:latitude":13.66624,
+    "lbl:longitude":-89.244642,
+    "meso:admin1r":"AMSS",
+    "meso:admin_1":"La Libertad",
+    "meso:diss_me":"ANTIGUO CUSCATLANLA LIBERTAD",
+    "meso:gadm_admin":"Antiguo Cuscatl\u00e1n",
+    "meso:gadm_hasc2":"SV.LI.AC",
+    "meso:gaul_admin":"Antiguo Cuscatlan",
+    "meso:local_id":"01",
+    "meso:local_id_a":"0501",
+    "meso:mps_x":-89.244642,
+    "meso:mps_y":13.66624,
+    "meso:name_en":"Antiguo Cuscatlan",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.66624,
+    "mps:longitude":-89.244642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_variant":[
+        "Antiguo Cuscatlan",
+        "Antiguo Cuscatl\u00e1n"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Antiguo Cuscatl\u00e1n",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1871,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115474,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808592,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1900,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808592,
+        "hasc:id":"SV.LI.AC",
+        "qs:id":115474,
+        "wd:id":"Q575756"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009852,
+    "wof:geomhash":"603699573518a0beea89080bb8da0760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195553,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":421195553,
+    "wof:lastmodified":1536616121,
+    "wof:name":"Antiguo Cuscatlan",
+    "wof:parent_id":85677151,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"AC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.27908572987721,
+    13.63760835758002,
+    -89.22285393449701,
+    13.71101995590988
+],
+  "geometry": {"coordinates":[[[-89.27676141371317,13.71101995590988],[-89.26966163855751,13.70882998085309],[-89.26337613295397,13.71032532312376],[-89.25734947669275,13.70525121162596],[-89.25694013132673,13.70482538977079],[-89.25341021227182,13.69658978772771],[-89.25348218952715,13.69604536715816],[-89.25305746682335,13.69564387485911],[-89.24822904586043,13.68440290090363],[-89.24386584788996,13.68160498011805],[-89.2350644382127,13.68453659914339],[-89.2318461762342,13.68275287114095],[-89.22846099465923,13.67838049856934],[-89.22833510420374,13.6775733703689],[-89.23041168566191,13.67205488781176],[-89.22559165784529,13.66546721650082],[-89.22285393449701,13.65981898119517],[-89.23127783334593,13.65157742363964],[-89.23349361039729,13.6509486712844],[-89.24095571163843,13.63763752348908],[-89.24171378991906,13.63760835758002],[-89.25410136044337,13.64837299332275],[-89.25427204747385,13.65327446947973],[-89.25571048945774,13.65526752393585],[-89.25853425116992,13.65796490498545],[-89.26584622107615,13.65714261346982],[-89.27337158298484,13.66243223163561],[-89.27229201594726,13.66525931936366],[-89.26164858596756,13.67208501317216],[-89.26137301946096,13.67501922199951],[-89.26335630741973,13.67819657443128],[-89.26736453224078,13.6878429701766],[-89.26722740927949,13.68956853324012],[-89.26695487927317,13.69040088805404],[-89.26748366174655,13.69097550588396],[-89.27874841163596,13.69780033911058],[-89.27908572987721,13.71001117030465],[-89.27676141371317,13.71101995590988]]],"type":"Polygon"}
+}

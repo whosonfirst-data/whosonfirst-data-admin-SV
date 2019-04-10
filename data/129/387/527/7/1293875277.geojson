@@ -1,0 +1,67 @@
+{
+  "id": 1293875277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.01583,13.46472,-88.01583,13.46472",
+    "geom:latitude":13.46472,
+    "geom:longitude":-88.01583,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Las Cuevitas",
+    "gn:country_code":"SV",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735477,
+    "gn:latitude":13.46472,
+    "gn:longitude":-88.01583,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"Las Cuevitas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108695097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735477
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"e45933b5c5f8cb28ec1ef896a4483a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695097,
+            "locality_id":1293875277,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1293875277,
+    "wof:lastmodified":1536725591,
+    "wof:name":"Las Cuevitas",
+    "wof:parent_id":1108695097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.01583000000002,
+    13.46472,
+    -88.01583000000002,
+    13.46472
+],
+  "geometry": {"coordinates":[-88.01583000000002,13.46472],"type":"Point"}
+}

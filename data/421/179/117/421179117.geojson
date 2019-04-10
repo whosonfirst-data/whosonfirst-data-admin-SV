@@ -1,0 +1,114 @@
+{
+  "id": 421179117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.01667,13.61667,-88.01667,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-88.01667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u970d\u79d1\u7f85"
+    ],
+    "name:deu_x_preferred":[
+        "Jocoro"
+    ],
+    "name:dut_x_preferred":[
+        "Jocoro"
+    ],
+    "name:eng_x_preferred":[
+        "Jocoro"
+    ],
+    "name:fre_x_preferred":[
+        "Jocoro"
+    ],
+    "name:ger_x_preferred":[
+        "Jocoro"
+    ],
+    "name:ita_x_preferred":[
+        "Jocoro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30b3\u30ed"
+    ],
+    "name:por_x_preferred":[
+        "Jocoro"
+    ],
+    "name:spa_x_preferred":[
+        "Jocoro"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u79d1\u7f85"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3585427,
+    "qs:gn_pop":4298,
+    "qs:name":"Jocoro",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Moraz\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149083,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":78271,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421185175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585427,
+        "gp:id":78271,
+        "qs:id":149083,
+        "wd:id":"Q3808621",
+        "wk:page":"Jocoro"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009205,
+    "wof:geomhash":"38b00c33160fda9482943b55dc71c763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421185175,
+            "locality_id":421179117,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":421179117,
+    "wof:lastmodified":1514505769,
+    "wof:name":"Jocoro",
+    "wof:parent_id":421185175,
+    "wof:placetype":"locality",
+    "wof:population":4298,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.01667,
+    13.61667,
+    -88.01667,
+    13.61667
+],
+  "geometry": {"coordinates":[-88.01667,13.61667],"type":"Point"}
+}

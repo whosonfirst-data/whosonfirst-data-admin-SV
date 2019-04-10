@@ -1,0 +1,126 @@
+{
+  "id": 421182491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.45,14.33333,-89.45,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":-89.45,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6885\u5854\u6f58"
+    ],
+    "name:dut_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30bf\u30d1\u30f3"
+    ],
+    "name:nah_x_preferred":[
+        "Metlapan"
+    ],
+    "name:pol_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0442\u0430\u043f\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Metap\u00e1n"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0442\u0430\u043f\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062a\u0627\u067e\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5854\u6f58"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584384,
+    "qs:gn_pop":19143,
+    "qs:name":"Metap\u00e1n",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Santa Ana",
+    "qs:photos":71,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":71,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1340851,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79072,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584384,
+        "gp:id":79072,
+        "qs:id":1340851,
+        "wd:id":"Q2537220",
+        "wk:page":"Metap\u00e1n"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009332,
+    "wof:geomhash":"4aca5f010f4514fd55a05eb91c3600f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":421182491,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":421182491,
+    "wof:lastmodified":1514505777,
+    "wof:name":"Metap\u00e1n",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:population":19143,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.45,
+    14.33333,
+    -89.45,
+    14.33333
+],
+  "geometry": {"coordinates":[-89.45,14.33333],"type":"Point"}
+}

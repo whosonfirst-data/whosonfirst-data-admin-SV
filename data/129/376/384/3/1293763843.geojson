@@ -1,0 +1,72 @@
+{
+  "id": 1293763843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.8,13.63333,-88.8,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-88.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Antonio Tras El Cerro",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583833,
+    "gn:latitude":13.63333,
+    "gn:longitude":-88.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio Tras El Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio El Cerro",
+        "San Antonio Tras El Cerro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677185,
+        1108695019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583833
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"963b5f8afac817e09288002ab66cddbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695019,
+            "locality_id":1293763843,
+            "region_id":85677185
+        }
+    ],
+    "wof:id":1293763843,
+    "wof:lastmodified":1537701444,
+    "wof:name":"San Antonio Tras El Cerro",
+    "wof:parent_id":1108695019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.8,
+    13.63333,
+    -88.8,
+    13.63333
+],
+  "geometry": {"coordinates":[-88.8,13.63333],"type":"Point"}
+}

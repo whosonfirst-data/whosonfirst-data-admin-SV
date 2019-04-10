@@ -1,0 +1,75 @@
+{
+  "id": 1293482481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.85,13.41667,-88.85,13.41667",
+    "geom:latitude":13.41667,
+    "geom:longitude":-88.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hatos de Los Reyes",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585524,
+    "gn:latitude":13.41667,
+    "gn:longitude":-88.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hatos de Los Reyes",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Hatos de los Reyes",
+        "Hato de Los Reyes",
+        "Reyes Abajo",
+        "Hatos de Reyes",
+        "Hatos de Los Reyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        421191217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585524
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a3a29fe12c001bbf1ab8123fb5dda411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421191217,
+            "locality_id":1293482481,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1293482481,
+    "wof:lastmodified":1537701478,
+    "wof:name":"Hatos de Los Reyes",
+    "wof:parent_id":421191217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.85,
+    13.41667,
+    -88.85,
+    13.41667
+],
+  "geometry": {"coordinates":[-88.84999999999999,13.41667],"type":"Point"}
+}

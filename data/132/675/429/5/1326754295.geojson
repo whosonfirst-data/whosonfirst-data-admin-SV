@@ -1,0 +1,73 @@
+{
+  "id": 1326754295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.07944,13.87139,-89.07944,13.87139",
+    "geom:latitude":13.87139,
+    "geom:longitude":-89.07944,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Montepeque",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584327,
+    "gn:latitude":13.87139,
+    "gn:longitude":-89.07944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Montepeque",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Montepeque",
+        "Hacienda Montepeque",
+        "Montepeque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677145,
+        1108694959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584327
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d578c97f9c7deeef7f3e52f3e69d468f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694959,
+            "locality_id":1326754295,
+            "region_id":85677145
+        }
+    ],
+    "wof:id":1326754295,
+    "wof:lastmodified":1537701454,
+    "wof:name":"Montepeque",
+    "wof:parent_id":1108694959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.07944,
+    13.87139,
+    -89.07944,
+    13.87139
+],
+  "geometry": {"coordinates":[-89.07944000000001,13.87139],"type":"Point"}
+}

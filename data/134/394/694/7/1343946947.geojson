@@ -1,0 +1,67 @@
+{
+  "id": 1343946947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13333,13.63333,-89.13333,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-89.13333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"SV",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586673,
+    "gn:latitude":13.63333,
+    "gn:longitude":-89.13333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108695059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586673
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"d898bfccdaab4181101131f310071306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695059,
+            "locality_id":1343946947,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1343946947,
+    "wof:lastmodified":1537037897,
+    "wof:name":"El Carmen",
+    "wof:parent_id":1108695059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13333,
+    13.63333,
+    -89.13333,
+    13.63333
+],
+  "geometry": {"coordinates":[-89.13333,13.63333],"type":"Point"}
+}

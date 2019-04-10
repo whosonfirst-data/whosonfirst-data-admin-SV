@@ -1,0 +1,67 @@
+{
+  "id": 1276971055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.91667,13.43333,-87.91667,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":-87.91667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Alto",
+    "gn:country_code":"SV",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586780,
+    "gn:latitude":13.43333,
+    "gn:longitude":-87.91667,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"El Alto",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586780
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cdf4de68ce104772f8369e097fc44151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694911,
+            "locality_id":1276971055,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1276971055,
+    "wof:lastmodified":1536919703,
+    "wof:name":"El Alto",
+    "wof:parent_id":1108694911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91667,
+    13.43333,
+    -87.91667,
+    13.43333
+],
+  "geometry": {"coordinates":[-87.91667,13.43333],"type":"Point"}
+}

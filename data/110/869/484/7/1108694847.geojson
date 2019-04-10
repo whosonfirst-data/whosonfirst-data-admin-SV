@@ -1,0 +1,75 @@
+{
+  "id": 1108694847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000284,
+    "geom:area_square_m":3418414.284597,
+    "geom:bbox":"-88.9262648102,13.6319650774,-88.9034286221,13.6515616584",
+    "geom:latitude":13.642483,
+    "geom:longitude":-88.915118,
+    "iso:country":"SV",
+    "lbl:latitude":13.642253,
+    "lbl:longitude":-88.914901,
+    "meso:admin1r":"REGION CENTRAL III",
+    "meso:admin_1":"La Paz",
+    "meso:diss_me":"MERCEDES LA CEIBALA PAZ",
+    "meso:gadm_admin":"Mercedes La Ceiba",
+    "meso:gadm_hasc2":"SV.PA.MC",
+    "meso:gaul_admin":"Mercedes La Ceiba",
+    "meso:local_id":"04",
+    "meso:local_id_a":"0804",
+    "meso:mps_x":-88.914901,
+    "meso:mps_y":13.642253,
+    "meso:name_en":"Mercedes La Ceiba",
+    "meso:source":"AOTM",
+    "meso:type_local":"MUNICIPIO",
+    "mps:latitude":13.642253,
+    "mps:longitude":-88.914901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Mercedes La Ceiba"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SV.PA.MC"
+    },
+    "wof:country":"SV",
+    "wof:created":1474493206,
+    "wof:geomhash":"7f4883328716d564791653163136f92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694847,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":1108694847,
+    "wof:lastmodified":1536615366,
+    "wof:name":"Mercedes La Ceiba",
+    "wof:parent_id":85677155,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:shortcode":"MC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.92626481019043,
+    13.63196507739449,
+    -88.9034286220506,
+    13.65156165839511
+],
+  "geometry": {"coordinates":[[[-88.9034286220506,13.64300693235952],[-88.91146151594674,13.63270624902234],[-88.91499999999937,13.63196507739449],[-88.91535772769478,13.63203363508236],[-88.91862305377209,13.63401226142171],[-88.92001046221009,13.63536588886562],[-88.92434998245203,13.64136376610251],[-88.925290919136,13.64493409255544],[-88.92626481019043,13.64862478316232],[-88.91338487699448,13.65156165839511],[-88.91124987780296,13.65114913938528],[-88.90528071210196,13.64493409255544],[-88.9034286220506,13.64300693235952]]],"type":"Polygon"}
+}

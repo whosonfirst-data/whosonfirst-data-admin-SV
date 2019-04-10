@@ -1,0 +1,67 @@
+{
+  "id": 1259403967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.88333,13.7,-87.88333,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-87.88333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Zetino",
+    "gn:country_code":"SV",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584473,
+    "gn:latitude":13.7,
+    "gn:longitude":-87.88333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Los Zetino",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584473
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"6fb9b839fd945df7f0a01c365649d343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694715,
+            "locality_id":1259403967,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1259403967,
+    "wof:lastmodified":1536972581,
+    "wof:name":"Los Zetino",
+    "wof:parent_id":1108694715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.88333,
+    13.7,
+    -87.88333,
+    13.7
+],
+  "geometry": {"coordinates":[-87.88333,13.7],"type":"Point"}
+}

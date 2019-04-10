@@ -1,0 +1,108 @@
+{
+  "id": 1126089557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.23333,13.7,-89.23333,13.7",
+    "geom:latitude":13.7,
+    "geom:longitude":-89.23333,
+    "gn:gn_country":"SV",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":13.7,
+    "gn:longitude":-89.23333,
+    "iso:country":"SV",
+    "lbl:latitude":13.7,
+    "lbl:longitude":-89.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_colloquial":[
+        "Colonia Escalon",
+        "Escalon"
+    ],
+    "name:spa_x_preferred":[
+        "Colonia Escal\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Escal\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Escal\u00f3n",
+        "Colonia Escal\u00f3n"
+    ],
+    "qs_pg:aaroncc":"SV",
+    "qs_pg:gn_country":"SV",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3586967,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Colonia Escal\u00f3n",
+    "qs_pg:name_adm0":"El Salvador",
+    "qs_pg:name_adm1":"San Salvador",
+    "qs_pg:photos":3605,
+    "qs_pg:photos_1k":730,
+    "qs_pg:photos_9k":16,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3605,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":901612,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424807,
+    "qs_pg:woe_id":77089,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424807,
+    "woe:name_adm0":"El Salvador",
+    "woe:name_adm1":"San Salvador",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85677163,
+        102191575,
+        85632545,
+        421180907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586967,
+        "gp:id":77089,
+        "qs:id":901612,
+        "qs_pg:id":901612
+    },
+    "wof:country":"SV",
+    "wof:created":1497313460,
+    "wof:geomhash":"fb0c48ef1fc279ca5558a2d2627c4c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421180907,
+            "locality_id":-1,
+            "neighbourhood_id":1126089557,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":1126089557,
+    "wof:lastmodified":1534379463,
+    "wof:name":"Colonia Escal\u00f3n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793839
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.23333,
+    13.7,
+    -89.23333,
+    13.7
+],
+  "geometry": {"coordinates":[-89.23333,13.7],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421169969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.640012,13.565067,-88.640012,13.565067",
+    "geom:latitude":13.565067,
+    "geom:longitude":-88.640012,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Vicente",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Vicente",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":514,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":772729,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808733,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808733,
+        "qs:id":772729,
+        "wd:id":"Q241544"
+    },
+    "wof:country":"SV",
+    "wof:created":1459008831,
+    "wof:geomhash":"daca1b3ba03bdf952ee21dc0e667be3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421169969,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":421169969,
+    "wof:lastmodified":1527716171,
+    "wof:name":"San Vicente",
+    "wof:parent_id":85677187,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.640012,
+    13.565067,
+    -88.640012,
+    13.565067
+],
+  "geometry": {"coordinates":[-88.640012,13.565067],"type":"Point"}
+}

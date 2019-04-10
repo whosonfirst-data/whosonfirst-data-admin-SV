@@ -1,0 +1,67 @@
+{
+  "id": 1243177025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.35694,13.59167,-89.35694,13.59167",
+    "geom:latitude":13.59167,
+    "geom:longitude":-89.35694,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Faro",
+    "gn:country_code":"SV",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586456,
+    "gn:latitude":13.59167,
+    "gn:longitude":-89.35694,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"El Faro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151,
+        421189131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586456
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"80adf2d09c2b0751eef4bd8856eb8cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421189131,
+            "locality_id":1243177025,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":1243177025,
+    "wof:lastmodified":1536697173,
+    "wof:name":"El Faro",
+    "wof:parent_id":421189131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.35694000000002,
+    13.59167,
+    -89.35694000000002,
+    13.59167
+],
+  "geometry": {"coordinates":[-89.35694000000002,13.59167],"type":"Point"}
+}

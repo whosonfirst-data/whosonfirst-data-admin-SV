@@ -1,0 +1,71 @@
+{
+  "id": 1343852719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.81917,13.81028,-87.81917,13.81028",
+    "geom:latitude":13.81028,
+    "geom:longitude":-87.81917,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Poloros",
+    "gn:country_code":"SV",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584042,
+    "gn:latitude":13.81028,
+    "gn:longitude":-87.81917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Polor\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polor\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584042,
+        "wk:page":"Polor%C3%B3s"
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"673826c86dde1fd0299ff2666c079a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694893,
+            "locality_id":1343852719,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1343852719,
+    "wof:lastmodified":1537701449,
+    "wof:name":"Poloros",
+    "wof:parent_id":1108694893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.81917,
+    13.81028,
+    -87.81917,
+    13.81028
+],
+  "geometry": {"coordinates":[-87.81917,13.81028],"type":"Point"}
+}

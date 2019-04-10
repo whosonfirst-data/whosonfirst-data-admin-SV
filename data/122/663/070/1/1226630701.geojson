@@ -1,0 +1,67 @@
+{
+  "id": 1226630701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.13028,13.30444,-88.13028,13.30444",
+    "geom:latitude":13.30444,
+    "geom:longitude":-88.13028,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Castano",
+    "gn:country_code":"SV",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735004,
+    "gn:latitude":13.30444,
+    "gn:longitude":-88.13028,
+    "gn:modification_date":"1994-06-13",
+    "gn:name":"El Casta\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421203731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735004
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"38e6058b1d26822549f60f9b3f671ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203731,
+            "locality_id":1226630701,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1226630701,
+    "wof:lastmodified":1536880439,
+    "wof:name":"El Castano",
+    "wof:parent_id":421203731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.13028,
+    13.30444,
+    -88.13028,
+    13.30444
+],
+  "geometry": {"coordinates":[-88.13028,13.30444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226819999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.4,13.31667,-88.4,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":-88.4,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Obrajuelo",
+    "gn:country_code":"SV",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584241,
+    "gn:latitude":13.31667,
+    "gn:longitude":-88.4,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Obrajuelo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677187,
+        1108695037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584241
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"629c388d9cdd5f899f161fedba10f46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695037,
+            "locality_id":1226819999,
+            "region_id":85677187
+        }
+    ],
+    "wof:id":1226819999,
+    "wof:lastmodified":1536605733,
+    "wof:name":"Obrajuelo",
+    "wof:parent_id":1108695037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.4,
+    13.31667,
+    -88.4,
+    13.31667
+],
+  "geometry": {"coordinates":[-88.40000000000001,13.31667],"type":"Point"}
+}

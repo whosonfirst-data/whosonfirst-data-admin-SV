@@ -1,0 +1,118 @@
+{
+  "id": 421179749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18,13.61278,-89.18,13.61278",
+    "geom:latitude":13.61278,
+    "geom:longitude":-89.18,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6f58\u5947\u99ac\u723e\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:dut_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:eng_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:fre_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:ger_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:ita_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30c1\u30de\u30eb\u30b3"
+    ],
+    "name:nah_x_preferred":[
+        "P\u0101nch\u012bmalco"
+    ],
+    "name:por_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:spa_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5947\u99ac\u723e\u79d1"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3584156,
+    "qs:gn_pop":6764,
+    "qs:name":"Panchimalco",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":311,
+    "qs:photos_1k":63,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":311,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":489107,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79219,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":652,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677163,
+        1108694885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584156,
+        "gp:id":79219,
+        "qs:id":489107,
+        "wd:id":"Q927563",
+        "wk:page":"Panchimalco"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009232,
+    "wof:geomhash":"b9c3f05b03c7e51a56f800b66ee1c053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694885,
+            "locality_id":421179749,
+            "region_id":85677163
+        }
+    ],
+    "wof:id":421179749,
+    "wof:lastmodified":1527717707,
+    "wof:name":"Panchimalco",
+    "wof:parent_id":1108694885,
+    "wof:placetype":"locality",
+    "wof:population":6764,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18,
+    13.61278,
+    -89.18,
+    13.61278
+],
+  "geometry": {"coordinates":[-89.18000000000001,13.61278],"type":"Point"}
+}

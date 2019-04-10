@@ -1,0 +1,72 @@
+{
+  "id": 1242865969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.01694,13.35667,-88.01694,13.35667",
+    "geom:latitude":13.35667,
+    "geom:longitude":-88.01694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"La Mona",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735461,
+    "gn:latitude":13.35667,
+    "gn:longitude":-88.01694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Mona",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Puerta Quemada",
+        "La Mona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735461
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"9a7320826893700427c5a2bebfea79cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694771,
+            "locality_id":1242865969,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1242865969,
+    "wof:lastmodified":1537701519,
+    "wof:name":"La Mona",
+    "wof:parent_id":1108694771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.01694,
+    13.35667,
+    -88.01694,
+    13.35667
+],
+  "geometry": {"coordinates":[-88.01694000000001,13.35667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343348561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.66667,13.66667,-88.66667,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":-88.66667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Pedro",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3583419,
+    "gn:latitude":13.66667,
+    "gn:longitude":-88.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo San Pedro",
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677185,
+        421203747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583419
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"8a516a88c835885757a422c5a28fa4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203747,
+            "locality_id":1343348561,
+            "region_id":85677185
+        }
+    ],
+    "wof:id":1343348561,
+    "wof:lastmodified":1537701436,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421203747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.66667,
+    13.66667,
+    -88.66667,
+    13.66667
+],
+  "geometry": {"coordinates":[-88.66667,13.66667],"type":"Point"}
+}

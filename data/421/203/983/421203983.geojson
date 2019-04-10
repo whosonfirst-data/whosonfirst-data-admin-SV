@@ -1,0 +1,111 @@
+{
+  "id": 421203983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36667,13.71667,-88.36667,13.71667",
+    "geom:latitude":13.71667,
+    "geom:longitude":-88.36667,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0441\u043e\u0440\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u7d22\u91cc"
+    ],
+    "name:dut_x_preferred":[
+        "Sesori"
+    ],
+    "name:eng_x_preferred":[
+        "Sesori"
+    ],
+    "name:fre_x_preferred":[
+        "Sesori"
+    ],
+    "name:ita_x_preferred":[
+        "Sesori"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30bd\u30ea"
+    ],
+    "name:por_x_preferred":[
+        "Sesori"
+    ],
+    "name:spa_x_preferred":[
+        "Sesori"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u7d22\u91cc"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3583155,
+    "qs:gn_pop":1390,
+    "qs:name":"Sesori",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"San Miguel",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":169306,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":79970,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        421176713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3583155,
+        "gp:id":79970,
+        "qs:id":169306,
+        "wd:id":"Q3958151",
+        "wk:page":"Sesori"
+    },
+    "wof:country":"SV",
+    "wof:created":1459010170,
+    "wof:geomhash":"b3199aaf1adacbd1b95d4ce84639babc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421176713,
+            "locality_id":421203983,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":421203983,
+    "wof:lastmodified":1514505801,
+    "wof:name":"Sesori",
+    "wof:parent_id":421176713,
+    "wof:placetype":"locality",
+    "wof:population":1390,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36667,
+    13.71667,
+    -88.36667,
+    13.71667
+],
+  "geometry": {"coordinates":[-88.36667,13.71667],"type":"Point"}
+}

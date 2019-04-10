@@ -1,0 +1,72 @@
+{
+  "id": 1343546601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23333,13.68333,-88.23333,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":-88.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Plan del Carbon",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584063,
+    "gn:latitude":13.68333,
+    "gn:longitude":-88.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plan del Carb\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Carb\u00f3n",
+        "Plan del Carb\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108694805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584063
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"c88ab98332a02d7deb98910385398fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694805,
+            "locality_id":1343546601,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1343546601,
+    "wof:lastmodified":1537701450,
+    "wof:name":"Plan del Carbon",
+    "wof:parent_id":1108694805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23333000000002,
+    13.68333,
+    -88.23333000000002,
+    13.68333
+],
+  "geometry": {"coordinates":[-88.23333000000002,13.68333],"type":"Point"}
+}

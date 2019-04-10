@@ -1,0 +1,67 @@
+{
+  "id": 1209810949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.0,13.61667,-88.0,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-88.0,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Flamenco",
+    "gn:country_code":"SV",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3585731,
+    "gn:latitude":13.61667,
+    "gn:longitude":-88.0,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Flamenco",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        421185175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3585731
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"cbc5ea06c02469fac441ff8e34870922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421185175,
+            "locality_id":1209810949,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1209810949,
+    "wof:lastmodified":1536386469,
+    "wof:name":"Flamenco",
+    "wof:parent_id":421185175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.0,
+    13.61667,
+    -88.0,
+    13.61667
+],
+  "geometry": {"coordinates":[-88.0,13.61667],"type":"Point"}
+}

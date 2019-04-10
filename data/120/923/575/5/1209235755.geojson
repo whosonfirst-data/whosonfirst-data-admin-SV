@@ -1,0 +1,66 @@
+{
+  "id": 1209235755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.85,13.63333,-87.85,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-87.85,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Placitas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584066,
+    "gn:latitude":13.63333,
+    "gn:longitude":-87.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Placitas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Placita",
+        "Placitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584066
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a8af731c19eb2f793638e90b08f919c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209235755
+        }
+    ],
+    "wof:id":1209235755,
+    "wof:lastmodified":1537701450,
+    "wof:name":"Placitas",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.85,
+    13.63333,
+    -87.85,
+    13.63333
+],
+  "geometry": {"coordinates":[-87.84999999999999,13.63333],"type":"Point"}
+}

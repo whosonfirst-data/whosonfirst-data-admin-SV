@@ -1,0 +1,72 @@
+{
+  "id": 1310384771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73333,13.66667,-89.73333,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":-89.73333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Conacaste Herrado",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3586941,
+    "gn:latitude":13.66667,
+    "gn:longitude":-89.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Conacaste Herrado",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Herrado",
+        "Conacaste Herrado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        1108694857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3586941
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"a4f62e5b9464f0f0a671046222b53a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694857,
+            "locality_id":1310384771,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":1310384771,
+    "wof:lastmodified":1537701511,
+    "wof:name":"Conacaste Herrado",
+    "wof:parent_id":1108694857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73333000000002,
+    13.66667,
+    -89.73333000000002,
+    13.66667
+],
+  "geometry": {"coordinates":[-89.73333000000002,13.66667],"type":"Point"}
+}

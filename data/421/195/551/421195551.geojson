@@ -1,0 +1,73 @@
+{
+  "id": 421195551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.280395,13.691356,-89.280395,13.691356",
+    "geom:latitude":13.691356,
+    "geom:longitude":-89.280395,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nueva San Salvador",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2441,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115473,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":26808591,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808591,
+        "qs:id":115473
+    },
+    "wof:country":"SV",
+    "wof:created":1459009852,
+    "wof:geomhash":"bb28e915da6a5a16cc447af04ec8fd2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421195551,
+            "region_id":85677151
+        }
+    ],
+    "wof:id":421195551,
+    "wof:lastmodified":1474500842,
+    "wof:name":"Nueva San Salvador",
+    "wof:parent_id":85677151,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.280395,
+    13.691356,
+    -89.280395,
+    13.691356
+],
+  "geometry": {"coordinates":[-89.280395,13.691356],"type":"Point"}
+}

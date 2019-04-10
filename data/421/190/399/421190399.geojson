@@ -1,0 +1,130 @@
+{
+  "id": 421190399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.49889,13.74361,-89.49889,13.74361",
+    "geom:latitude":13.74361,
+    "geom:longitude":-89.49889,
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u6885\u5c3c\u4e9e"
+    ],
+    "name:deu_x_preferred":[
+        "Armenia"
+    ],
+    "name:dut_x_preferred":[
+        "Armenia"
+    ],
+    "name:eng_x_preferred":[
+        "Armenia"
+    ],
+    "name:fra_x_preferred":[
+        "Armenia"
+    ],
+    "name:fre_x_preferred":[
+        "Armenia"
+    ],
+    "name:ger_x_preferred":[
+        "Armenia"
+    ],
+    "name:ita_x_preferred":[
+        "Armenia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30e1\u30cb\u30a2"
+    ],
+    "name:pol_x_preferred":[
+        "Armenia"
+    ],
+    "name:por_x_preferred":[
+        "Armenia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Armenia"
+    ],
+    "name:unk_x_variant":[
+        "Guaymoco"
+    ],
+    "name:wel_x_preferred":[
+        "Armenia"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u6885\u5c3c\u4e9e"
+    ],
+    "qs:gn_country":"SV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3587333,
+    "qs:gn_pop":14997,
+    "qs:name":"Armenia",
+    "qs:name_adm0":"El Salvador",
+    "qs:name_adm1":"Sonsonate",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":53469,
+    "qs:woe_adm0":23424807,
+    "qs:woe_id":76873,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677159,
+        421203739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587333,
+        "gp:id":76873,
+        "qs:id":53469,
+        "wd:id":"Q682015",
+        "wk:page":"Armenia, Sonsonate"
+    },
+    "wof:country":"SV",
+    "wof:created":1459009656,
+    "wof:geomhash":"76f11531113ddf132bee1b0c4254c567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421203739,
+            "locality_id":421190399,
+            "region_id":85677159
+        }
+    ],
+    "wof:id":421190399,
+    "wof:lastmodified":1553816379,
+    "wof:name":"Armenia",
+    "wof:parent_id":421203739,
+    "wof:placetype":"locality",
+    "wof:population":14997,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.49889,
+    13.74361,
+    -89.49889,
+    13.74361
+],
+  "geometry": {"coordinates":[-89.49889,13.74361],"type":"Point"}
+}

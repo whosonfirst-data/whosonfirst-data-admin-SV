@@ -1,0 +1,61 @@
+{
+  "id": 1209526925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.08333,14.11667,-89.08333,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-89.08333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Valle Nuevo",
+    "gn:country_code":"SV",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582853,
+    "gn:latitude":14.11667,
+    "gn:longitude":-89.08333,
+    "gn:modification_date":"1993-12-19",
+    "gn:name":"Valle Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582853
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"6fa80f2ca07a25582e007bd4d1e3781e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209526925
+        }
+    ],
+    "wof:id":1209526925,
+    "wof:lastmodified":1536284406,
+    "wof:name":"Valle Nuevo",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08333,
+    14.11667,
+    -89.08333,
+    14.11667
+],
+  "geometry": {"coordinates":[-89.08333,14.11667],"type":"Point"}
+}

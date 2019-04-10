@@ -1,0 +1,66 @@
+{
+  "id": 1209434935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.16667,13.93333,-88.16667,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-88.16667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Las Quebradas",
+    "gn:cc2":"SV",
+    "gn:country_code":"SV",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3584824,
+    "gn:latitude":13.93333,
+    "gn:longitude":-88.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Quebradas",
+    "gn:population":0,
+    "gn:timezone":"America/El_Salvador",
+    "iso:country":"SV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Quebrados",
+        "Las Quebradas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3584824
+    },
+    "wof:country":"SV",
+    "wof:geomhash":"42b7ae2802a10ceabcff1d9e0d69a244",
+    "wof:hierarchy":[
+        {
+            "country_id":85632545,
+            "locality_id":1209434935
+        }
+    ],
+    "wof:id":1209434935,
+    "wof:lastmodified":1537701464,
+    "wof:name":"Las Quebradas",
+    "wof:parent_id":85632545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.16667,
+    13.93333,
+    -88.16667,
+    13.93333
+],
+  "geometry": {"coordinates":[-88.16667,13.93333],"type":"Point"}
+}
