@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004714,
-    "geom:area_square_m":56469588.094867,
+    "geom:area_square_m":56469588.094859,
     "geom:bbox":"-89.2292741922,14.3143507955,-89.080078,14.404496",
     "geom:latitude":14.354852,
     "geom:longitude":-89.151185,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Ignacio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.341065,
     "lbl:longitude":-89.157373,
     "meso:admin1r":"REGION CENTRAL II",
@@ -133,10 +139,11 @@
         }
     ],
     "wof:id":421191203,
-    "wof:lastmodified":1527716377,
+    "wof:lastmodified":1554488992,
     "wof:name":"San Ignacio",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

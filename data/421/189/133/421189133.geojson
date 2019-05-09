@@ -10,6 +10,12 @@
     "geom:latitude":13.692211,
     "geom:longitude":-89.095604,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Ilopango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.698101,
     "lbl:longitude":-89.104495,
     "meso:admin1r":"AMSS",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421189133,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1554488984,
     "wof:name":"Ilopango",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"IL",
     "wof:superseded_by":[],

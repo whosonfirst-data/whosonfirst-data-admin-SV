@@ -10,6 +10,12 @@
     "geom:latitude":13.408205,
     "geom:longitude":-88.571336,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Javier Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.403738,
     "lbl:longitude":-88.567172,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694941,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489248,
     "wof:name":"San Francisco Javier",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SF",
     "wof:superseded_by":[],

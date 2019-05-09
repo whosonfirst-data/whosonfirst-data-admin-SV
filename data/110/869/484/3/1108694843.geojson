@@ -10,6 +10,12 @@
     "geom:latitude":14.165772,
     "geom:longitude":-89.415065,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Masahuat Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.163519,
     "lbl:longitude":-89.422779,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694843,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489247,
     "wof:name":"Masahuat",
     "wof:parent_id":85677195,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"MA",
     "wof:superseded_by":[],

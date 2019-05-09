@@ -10,6 +10,12 @@
     "geom:latitude":13.708836,
     "geom:longitude":-88.389401,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Sesori Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.712251,
     "lbl:longitude":-88.380655,
     "meso:admin1r":"REGION ORIENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421176713,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1554488779,
     "wof:name":"Sesori",
     "wof:parent_id":85677177,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SE",
     "wof:superseded_by":[],

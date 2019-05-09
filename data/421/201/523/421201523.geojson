@@ -10,6 +10,12 @@
     "geom:latitude":13.746824,
     "geom:longitude":-89.709251,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Sonzacate Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.745692,
     "lbl:longitude":-89.708448,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421201523,
-    "wof:lastmodified":1536616139,
+    "wof:lastmodified":1554489032,
     "wof:name":"Sonzacate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SZ",
     "wof:superseded_by":[],

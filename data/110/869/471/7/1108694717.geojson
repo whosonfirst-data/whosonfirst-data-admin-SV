@@ -10,6 +10,12 @@
     "geom:latitude":14.081884,
     "geom:longitude":-88.752768,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Arcatao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.09137,
     "lbl:longitude":-88.750866,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694717,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489244,
     "wof:name":"Arcatao",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

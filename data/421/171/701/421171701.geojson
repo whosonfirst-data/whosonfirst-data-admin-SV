@@ -10,6 +10,12 @@
     "geom:latitude":13.532197,
     "geom:longitude":-89.5144,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Jicalapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.535337,
     "lbl:longitude":-89.515064,
     "meso:admin1r":"REGION CENTRAL II",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421171701,
-    "wof:lastmodified":1536615932,
+    "wof:lastmodified":1554488764,
     "wof:name":"Jicalapa",
     "wof:parent_id":85677151,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"JI",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":13.491161,
     "geom:longitude":-88.060128,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Uluazapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.487419,
     "lbl:longitude":-88.064404,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695091,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Uluazapa",
     "wof:parent_id":85677177,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"UL",
     "wof:superseded_by":[],

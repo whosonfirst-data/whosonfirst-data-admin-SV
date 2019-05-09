@@ -10,6 +10,12 @@
     "geom:latitude":13.760731,
     "geom:longitude":-89.502147,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Armenia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.765791,
     "lbl:longitude":-89.503045,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421203739,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489046,
     "wof:name":"Armenia",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

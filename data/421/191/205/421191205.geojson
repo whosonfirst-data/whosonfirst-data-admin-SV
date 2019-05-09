@@ -10,6 +10,12 @@
     "geom:latitude":14.040191,
     "geom:longitude":-88.953178,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Chalatenango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.043576,
     "lbl:longitude":-88.983816,
     "meso:admin1r":"REGION CENTRAL II",
@@ -89,10 +95,11 @@
         }
     ],
     "wof:id":421191205,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1554488992,
     "wof:name":"Chalatenango",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CH",
     "wof:superseded_by":[],

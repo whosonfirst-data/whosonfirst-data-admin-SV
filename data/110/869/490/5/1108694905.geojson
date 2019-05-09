@@ -10,6 +10,12 @@
     "geom:latitude":13.831952,
     "geom:longitude":-89.759709,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Salcoatitan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.825542,
     "lbl:longitude":-89.757756,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694905,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489248,
     "wof:name":"Salcoatitan",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SL",
     "wof:superseded_by":[],

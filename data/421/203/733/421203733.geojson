@@ -10,6 +10,12 @@
     "geom:latitude":13.703771,
     "geom:longitude":-89.143344,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Soyapango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.70071,
     "lbl:longitude":-89.148528,
     "meso:admin1r":"AMSS",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421203733,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489046,
     "wof:name":"Soyapango",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SO",
     "wof:superseded_by":[],

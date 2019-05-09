@@ -10,6 +10,12 @@
     "geom:latitude":13.467347,
     "geom:longitude":-88.958125,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Santiago Nonualco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.506061,
     "lbl:longitude":-88.957291,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695053,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489250,
     "wof:name":"Santiago Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"ST",
     "wof:superseded_by":[],

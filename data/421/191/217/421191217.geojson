@@ -10,6 +10,12 @@
     "geom:latitude":13.433205,
     "geom:longitude":-88.849393,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Zacatecoluca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.411979,
     "lbl:longitude":-88.855485,
     "meso:admin1r":"REGION CENTRAL III",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421191217,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1554488992,
     "wof:name":"Zacatecoluca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"ZA",
     "wof:superseded_by":[],

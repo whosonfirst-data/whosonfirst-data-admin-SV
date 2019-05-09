@@ -10,6 +10,12 @@
     "geom:latitude":13.635999,
     "geom:longitude":-89.021508,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Tepezontes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.63521,
     "lbl:longitude":-89.017431,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694991,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489249,
     "wof:name":"San Miguel Tepezontes",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SZ",
     "wof:superseded_by":[],

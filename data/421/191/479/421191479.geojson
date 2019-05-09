@@ -10,6 +10,12 @@
     "geom:latitude":13.969726,
     "geom:longitude":-88.152393,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Perquin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.967191,
     "lbl:longitude":-88.157215,
     "meso:admin1r":"REGION ORIENTAL",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":421191479,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1554489001,
     "wof:name":"Perquin",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"PE",
     "wof:superseded_by":[],

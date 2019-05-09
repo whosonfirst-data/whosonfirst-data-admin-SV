@@ -10,6 +10,12 @@
     "geom:latitude":14.134368,
     "geom:longitude":-88.866956,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Ojos De Agua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.135725,
     "lbl:longitude":-88.866965,
     "meso:admin1r":"REGION CENTRAL II",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694875,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489247,
     "wof:name":"Ojos De Agua",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"OA",
     "wof:superseded_by":[],

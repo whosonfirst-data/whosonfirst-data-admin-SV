@@ -10,6 +10,12 @@
     "geom:latitude":13.218968,
     "geom:longitude":-88.248699,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Jucuaran Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.215511,
     "lbl:longitude":-88.257343,
     "meso:admin1r":"REGION ORIENTAL",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":421184409,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1554488947,
     "wof:name":"Jucuaran",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"JR",
     "wof:superseded_by":[],

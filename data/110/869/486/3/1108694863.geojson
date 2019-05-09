@@ -10,6 +10,12 @@
     "geom:latitude":13.638139,
     "geom:longitude":-88.452595,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Nueva Granada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.644089,
     "lbl:longitude":-88.449359,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694863,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489247,
     "wof:name":"Nueva Granada",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"NG",
     "wof:superseded_by":[],

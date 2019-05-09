@@ -10,6 +10,12 @@
     "geom:latitude":13.337031,
     "geom:longitude":-88.295606,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "El Transito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.350422,
     "lbl:longitude":-88.282235,
     "meso:admin1r":"REGION ORIENTAL",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":421184721,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1554488950,
     "wof:name":"El Transito",
     "wof:parent_id":85677177,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"ET",
     "wof:superseded_by":[],

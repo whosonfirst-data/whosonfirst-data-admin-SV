@@ -10,6 +10,12 @@
     "geom:latitude":13.448823,
     "geom:longitude":-88.620073,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Agustin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.409424,
     "lbl:longitude":-88.631574,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694909,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489248,
     "wof:name":"San Agustin",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

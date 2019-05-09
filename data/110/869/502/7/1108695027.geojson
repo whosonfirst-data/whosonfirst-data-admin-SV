@@ -10,6 +10,12 @@
     "geom:latitude":13.740921,
     "geom:longitude":-88.971275,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Santa Cruz Michapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.744565,
     "lbl:longitude":-88.969784,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695027,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489250,
     "wof:name":"Santa Cruz Michapa",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SM",
     "wof:superseded_by":[],

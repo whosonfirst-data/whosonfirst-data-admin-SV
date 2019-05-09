@@ -10,6 +10,12 @@
     "geom:latitude":13.690869,
     "geom:longitude":-89.489252,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Tepecoyo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.690789,
     "lbl:longitude":-89.489264,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695081,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Tepecoyo",
     "wof:parent_id":85677151,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TP",
     "wof:superseded_by":[],

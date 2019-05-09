@@ -10,6 +10,12 @@
     "geom:latitude":13.423662,
     "geom:longitude":-88.765497,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Tecoluca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.455878,
     "lbl:longitude":-88.75665,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695077,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Tecoluca",
     "wof:parent_id":85677185,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TC",
     "wof:superseded_by":[],

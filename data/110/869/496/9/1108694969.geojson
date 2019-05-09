@@ -10,6 +10,12 @@
     "geom:latitude":13.498937,
     "geom:longitude":-89.089048,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Juan Talpa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.4992,
     "lbl:longitude":-89.087187,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694969,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489249,
     "wof:name":"San Juan Talpa",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SU",
     "wof:superseded_by":[],

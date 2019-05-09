@@ -10,6 +10,12 @@
     "geom:latitude":14.117636,
     "geom:longitude":-89.493234,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Texistepeque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.120717,
     "lbl:longitude":-89.491757,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421203745,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489046,
     "wof:name":"Texistepeque",
     "wof:parent_id":85677195,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TE",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":13.820344,
     "geom:longitude":-87.976179,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Corinto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.814781,
     "lbl:longitude":-87.962654,
     "meso:admin1r":"REGION ORIENTAL",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421172671,
-    "wof:lastmodified":1536615944,
+    "wof:lastmodified":1554488772,
     "wof:name":"Corinto",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CO",
     "wof:superseded_by":[],

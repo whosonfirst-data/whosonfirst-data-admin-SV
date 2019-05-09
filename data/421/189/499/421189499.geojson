@@ -10,6 +10,12 @@
     "geom:latitude":13.769465,
     "geom:longitude":-89.014696,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Perulapan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.767983,
     "lbl:longitude":-89.008956,
     "meso:admin1r":"REGION CENTRAL II",
@@ -97,10 +103,11 @@
         }
     ],
     "wof:id":421189499,
-    "wof:lastmodified":1536616076,
+    "wof:lastmodified":1554488985,
     "wof:name":"San Pedro Perulapan",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SP",
     "wof:superseded_by":[],

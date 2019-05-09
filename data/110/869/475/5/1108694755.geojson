@@ -10,6 +10,12 @@
     "geom:latitude":13.786454,
     "geom:longitude":-87.745418,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Concepcion De Oriente Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.790162,
     "lbl:longitude":-87.739932,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694755,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489245,
     "wof:name":"Concepcion De Oriente",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CO",
     "wof:superseded_by":[],

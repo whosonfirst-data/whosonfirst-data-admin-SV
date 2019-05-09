@@ -10,6 +10,12 @@
     "geom:latitude":14.113914,
     "geom:longitude":-89.637458,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Candelaria De La Frontera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.118657,
     "lbl:longitude":-89.643888,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":421190511,
-    "wof:lastmodified":1536616080,
+    "wof:lastmodified":1554488988,
     "wof:name":"Candelaria De La Frontera",
     "wof:parent_id":85677195,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CF",
     "wof:superseded_by":[],

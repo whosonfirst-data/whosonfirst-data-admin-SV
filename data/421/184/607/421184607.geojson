@@ -10,6 +10,12 @@
     "geom:latitude":13.959346,
     "geom:longitude":-89.741883,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Atiquizaya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.956792,
     "lbl:longitude":-89.733711,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421184607,
-    "wof:lastmodified":1536616022,
+    "wof:lastmodified":1554488948,
     "wof:name":"Atiquizaya",
     "wof:parent_id":85677139,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"AT",
     "wof:superseded_by":[],

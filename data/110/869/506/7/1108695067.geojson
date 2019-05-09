@@ -10,6 +10,12 @@
     "geom:latitude":13.673943,
     "geom:longitude":-89.393811,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Talnique Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.669231,
     "lbl:longitude":-89.393216,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695067,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Talnique",
     "wof:parent_id":85677151,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TL",
     "wof:superseded_by":[],

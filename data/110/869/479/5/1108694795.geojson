@@ -10,6 +10,12 @@
     "geom:latitude":13.350402,
     "geom:longitude":-88.379679,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Ereguayquin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.356823,
     "lbl:longitude":-88.381415,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694795,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"Ereguayquin",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"ER",
     "wof:superseded_by":[],

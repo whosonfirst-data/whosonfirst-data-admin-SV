@@ -10,6 +10,12 @@
     "geom:latitude":13.275365,
     "geom:longitude":-88.44037,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Usulutan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.348706,
     "lbl:longitude":-88.455243,
     "meso:admin1r":"REGION ORIENTAL",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421205341,
-    "wof:lastmodified":1536616171,
+    "wof:lastmodified":1554489053,
     "wof:name":"Usulutan",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"US",
     "wof:superseded_by":[],

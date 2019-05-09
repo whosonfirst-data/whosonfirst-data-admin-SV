@@ -10,6 +10,12 @@
     "geom:latitude":13.85296,
     "geom:longitude":-89.80037,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Apaneca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.856184,
     "lbl:longitude":-89.798042,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421186439,
-    "wof:lastmodified":1536616036,
+    "wof:lastmodified":1554488961,
     "wof:name":"Apaneca",
     "wof:parent_id":85677139,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"AP",
     "wof:superseded_by":[],

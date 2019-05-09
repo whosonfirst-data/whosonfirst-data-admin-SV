@@ -10,6 +10,12 @@
     "geom:latitude":13.695273,
     "geom:longitude":-87.995732,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Sociedad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.695475,
     "lbl:longitude":-87.994569,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695065,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Sociedad",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SO",
     "wof:superseded_by":[],

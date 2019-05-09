@@ -10,6 +10,12 @@
     "geom:latitude":13.897422,
     "geom:longitude":-89.166518,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Guazapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.896517,
     "lbl:longitude":-89.16721,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694809,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"Guazapa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"GU",
     "wof:superseded_by":[],

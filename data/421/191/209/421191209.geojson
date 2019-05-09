@@ -10,6 +10,12 @@
     "geom:latitude":14.37225,
     "geom:longitude":-89.259725,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Citala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.36619,
     "lbl:longitude":-89.258498,
     "meso:admin1r":"REGION CENTRAL II",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":421191209,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1554488992,
     "wof:name":"Citala",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CI",
     "wof:superseded_by":[],

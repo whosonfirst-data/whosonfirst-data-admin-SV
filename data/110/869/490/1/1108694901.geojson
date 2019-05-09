@@ -10,6 +10,12 @@
     "geom:latitude":13.538857,
     "geom:longitude":-89.204852,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Rosario De Mora Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.539311,
     "lbl:longitude":-89.206571,
     "meso:admin1r":"REGION CENTRAL II",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694901,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489248,
     "wof:name":"Rosario De Mora",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"RM",
     "wof:superseded_by":[],

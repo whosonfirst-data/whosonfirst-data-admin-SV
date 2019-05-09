@@ -10,6 +10,12 @@
     "geom:latitude":13.903064,
     "geom:longitude":-88.162854,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Jocoaitique Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.902933,
     "lbl:longitude":-88.162183,
     "meso:admin1r":"REGION ORIENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421191473,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1554489000,
     "wof:name":"Jocoaitique",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"JQ",
     "wof:superseded_by":[],

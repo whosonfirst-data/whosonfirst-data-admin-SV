@@ -10,6 +10,12 @@
     "geom:latitude":13.589773,
     "geom:longitude":-88.932881,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Nonualco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.588045,
     "lbl:longitude":-88.932871,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694999,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489249,
     "wof:name":"San Pedro Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SP",
     "wof:superseded_by":[],

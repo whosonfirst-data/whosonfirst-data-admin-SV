@@ -10,6 +10,12 @@
     "geom:latitude":13.798837,
     "geom:longitude":-89.707805,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Nahuizalco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.782052,
     "lbl:longitude":-89.724634,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421205339,
-    "wof:lastmodified":1536616171,
+    "wof:lastmodified":1554489053,
     "wof:name":"Nahuizalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"NZ",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":14.053097,
     "geom:longitude":-88.836264,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Las Flores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.052856,
     "lbl:longitude":-88.836261,
     "meso:admin1r":"REGION CENTRAL II",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694831,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489246,
     "wof:name":"Las Flores",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SJ",
     "wof:superseded_by":[],

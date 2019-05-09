@@ -10,6 +10,12 @@
     "geom:latitude":13.203889,
     "geom:longitude":-88.035345,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Intipuca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.205185,
     "lbl:longitude":-88.035347,
     "meso:admin1r":"REGION ORIENTAL",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":421172531,
-    "wof:lastmodified":1536615943,
+    "wof:lastmodified":1554488772,
     "wof:name":"Intipuca",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"IN",
     "wof:superseded_by":[],

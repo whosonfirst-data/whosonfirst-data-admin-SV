@@ -10,6 +10,12 @@
     "geom:latitude":13.448659,
     "geom:longitude":-89.0287,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Masahuat Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.376803,
     "lbl:longitude":-89.032169,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694995,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489249,
     "wof:name":"San Pedro Masahuat",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SM",
     "wof:superseded_by":[],

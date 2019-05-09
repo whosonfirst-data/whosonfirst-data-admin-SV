@@ -10,6 +10,12 @@
     "geom:latitude":13.814003,
     "geom:longitude":-89.423796,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Ciudad Arce Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.818033,
     "lbl:longitude":-89.420724,
     "meso:admin1r":"REGION CENTRAL II",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421191211,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1554488992,
     "wof:name":"Ciudad Arce",
     "wof:parent_id":85677151,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CA",
     "wof:superseded_by":[],

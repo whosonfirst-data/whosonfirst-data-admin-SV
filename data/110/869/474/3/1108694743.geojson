@@ -10,6 +10,12 @@
     "geom:latitude":13.479105,
     "geom:longitude":-88.338947,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Chinameca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.481732,
     "lbl:longitude":-88.327329,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694743,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489245,
     "wof:name":"Chinameca",
     "wof:parent_id":85677177,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CM",
     "wof:superseded_by":[],

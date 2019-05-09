@@ -10,6 +10,12 @@
     "geom:latitude":14.165127,
     "geom:longitude":-88.939022,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "La Laguna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.18991,
     "lbl:longitude":-88.946733,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694825,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"La Laguna",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"LL",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":13.642256,
     "geom:longitude":-87.903544,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa De Lima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.63729,
     "lbl:longitude":-87.898421,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108695041,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489250,
     "wof:name":"Santa Rosa De Lima",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SR",
     "wof:superseded_by":[],

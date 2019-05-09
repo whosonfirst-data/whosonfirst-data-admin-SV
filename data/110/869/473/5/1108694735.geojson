@@ -10,6 +10,12 @@
     "geom:latitude":13.858652,
     "geom:longitude":-88.311279,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Carolina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.867449,
     "lbl:longitude":-88.311908,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694735,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489245,
     "wof:name":"Carolina",
     "wof:parent_id":85677177,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CA",
     "wof:superseded_by":[],

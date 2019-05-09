@@ -10,6 +10,12 @@
     "geom:latitude":13.557747,
     "geom:longitude":-87.949815,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Bolivar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.568865,
     "lbl:longitude":-87.953316,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694723,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489244,
     "wof:name":"Bolivar",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"BO",
     "wof:superseded_by":[],

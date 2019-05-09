@@ -10,6 +10,12 @@
     "geom:latitude":13.612864,
     "geom:longitude":-89.0718,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Chinameca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.616802,
     "lbl:longitude":-89.075699,
     "meso:admin1r":"REGION CENTRAL III",
@@ -99,10 +105,11 @@
         }
     ],
     "wof:id":421191219,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1554488992,
     "wof:name":"San Francisco Chinameca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SF",
     "wof:superseded_by":[],

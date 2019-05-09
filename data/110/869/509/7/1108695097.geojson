@@ -10,6 +10,12 @@
     "geom:latitude":13.446499,
     "geom:longitude":-88.019768,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Yayantique Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.445509,
     "lbl:longitude":-88.019765,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695097,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1554489251,
     "wof:name":"Yayantique",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"YA",
     "wof:superseded_by":[],

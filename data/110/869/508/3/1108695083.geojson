@@ -10,6 +10,12 @@
     "geom:latitude":13.648857,
     "geom:longitude":-88.840142,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Tepetitan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.647181,
     "lbl:longitude":-88.841496,
     "meso:admin1r":"REGION CENTRAL III",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108695083,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Tepetitan",
     "wof:parent_id":85677185,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TP",
     "wof:superseded_by":[],

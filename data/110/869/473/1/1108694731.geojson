@@ -10,6 +10,12 @@
     "geom:latitude":13.977963,
     "geom:longitude":-88.837942,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Cancasque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.977458,
     "lbl:longitude":-88.845341,
     "meso:admin1r":"REGION CENTRAL II",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694731,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489244,
     "wof:name":"Cancasque",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

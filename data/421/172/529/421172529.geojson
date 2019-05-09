@@ -10,6 +10,12 @@
     "geom:latitude":13.732707,
     "geom:longitude":-88.90659,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "El Carmen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.732178,
     "lbl:longitude":-88.908447,
     "meso:admin1r":"REGION CENTRAL II",
@@ -116,10 +122,11 @@
         }
     ],
     "wof:id":421172529,
-    "wof:lastmodified":1536615943,
+    "wof:lastmodified":1554488772,
     "wof:name":"El Carmen",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"EC",
     "wof:superseded_by":[],

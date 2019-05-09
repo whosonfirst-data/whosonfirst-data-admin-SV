@@ -10,6 +10,12 @@
     "geom:latitude":13.649665,
     "geom:longitude":-89.093991,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Santiago Texacuangos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.655911,
     "lbl:longitude":-89.094011,
     "meso:admin1r":"REGION CENTRAL II",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421203741,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489046,
     "wof:name":"Santiago Texacuangos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SG",
     "wof:superseded_by":[],

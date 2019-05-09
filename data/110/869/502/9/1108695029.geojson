@@ -10,6 +10,12 @@
     "geom:latitude":13.412024,
     "geom:longitude":-88.415812,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Santa Elena Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.409566,
     "lbl:longitude":-88.41507,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695029,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489250,
     "wof:name":"Santa Elena",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SE",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":13.732157,
     "geom:longitude":-88.157316,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Chilanga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.724768,
     "lbl:longitude":-88.142158,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694741,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489245,
     "wof:name":"Chilanga",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CH",
     "wof:superseded_by":[],

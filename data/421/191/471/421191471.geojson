@@ -10,6 +10,12 @@
     "geom:latitude":13.824918,
     "geom:longitude":-88.97178,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Tenancingo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.823232,
     "lbl:longitude":-88.972612,
     "meso:admin1r":"REGION CENTRAL II",
@@ -92,10 +98,11 @@
         }
     ],
     "wof:id":421191471,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1554489002,
     "wof:name":"Tenancingo",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TE",
     "wof:superseded_by":[],

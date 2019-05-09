@@ -10,6 +10,12 @@
     "geom:latitude":13.73238,
     "geom:longitude":-87.888856,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Anamoros Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.735364,
     "lbl:longitude":-87.887195,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694715,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489244,
     "wof:name":"Anamoros",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"AN",
     "wof:superseded_by":[],

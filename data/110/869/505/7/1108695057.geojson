@@ -10,6 +10,12 @@
     "geom:latitude":13.706731,
     "geom:longitude":-88.854819,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.707087,
     "lbl:longitude":-88.854517,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695057,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489250,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85677185,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SD",
     "wof:superseded_by":[],

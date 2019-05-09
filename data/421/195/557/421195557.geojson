@@ -10,6 +10,12 @@
     "geom:latitude":13.716329,
     "geom:longitude":-89.752409,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Antonio Del Monte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.716277,
     "lbl:longitude":-89.752414,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":421195557,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1554489019,
     "wof:name":"San Antonio Del Monte",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

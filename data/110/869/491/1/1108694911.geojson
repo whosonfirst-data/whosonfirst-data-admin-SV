@@ -10,6 +10,12 @@
     "geom:latitude":13.442784,
     "geom:longitude":-87.913085,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Alejo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.439455,
     "lbl:longitude":-87.922019,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694911,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489248,
     "wof:name":"San Alejo",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

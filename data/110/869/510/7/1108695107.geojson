@@ -10,6 +10,12 @@
     "geom:latitude":14.052075,
     "geom:longitude":-88.733044,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Zona De Demarcacion Limitrofe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.050404,
     "lbl:longitude":-88.73251,
     "meso:admin1r":"NO DATA",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695107,
-    "wof:lastmodified":1536615370,
+    "wof:lastmodified":1554489251,
     "wof:name":"Zona De Demarcacion Limitrofe",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"NJ",
     "wof:superseded_by":[],

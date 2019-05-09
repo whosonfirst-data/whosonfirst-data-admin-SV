@@ -10,6 +10,12 @@
     "geom:latitude":13.774445,
     "geom:longitude":-88.941587,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Monte San Juan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.77526,
     "lbl:longitude":-88.941145,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694855,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489247,
     "wof:name":"Monte San Juan",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"MS",
     "wof:superseded_by":[],

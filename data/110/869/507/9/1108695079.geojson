@@ -10,6 +10,12 @@
     "geom:latitude":14.152877,
     "geom:longitude":-89.121758,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Tejutla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.167243,
     "lbl:longitude":-89.114421,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695079,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Tejutla",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TE",
     "wof:superseded_by":[],

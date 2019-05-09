@@ -10,6 +10,12 @@
     "geom:latitude":13.204458,
     "geom:longitude":-87.728822,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Meanguera Del Golfo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.190098,
     "lbl:longitude":-87.710719,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694845,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489247,
     "wof:name":"Meanguera Del Golfo",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"MG",
     "wof:superseded_by":[],

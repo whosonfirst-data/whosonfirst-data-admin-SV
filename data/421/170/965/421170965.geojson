@@ -10,6 +10,12 @@
     "geom:latitude":13.497086,
     "geom:longitude":-88.906596,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Juan Nonualco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.440166,
     "lbl:longitude":-88.924619,
     "meso:admin1r":"REGION CENTRAL III",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421170965,
-    "wof:lastmodified":1536615923,
+    "wof:lastmodified":1554488759,
     "wof:name":"San Juan Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SN",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":13.696305,
     "geom:longitude":-88.170605,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Sensembra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.688828,
     "lbl:longitude":-88.168012,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695061,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Sensembra",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SE",
     "wof:superseded_by":[],

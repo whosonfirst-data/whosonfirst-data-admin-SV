@@ -10,6 +10,12 @@
     "geom:latitude":13.547479,
     "geom:longitude":-89.066902,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Tapalhuaca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.552,
     "lbl:longitude":-89.065361,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695073,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489251,
     "wof:name":"Tapalhuaca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"TA",
     "wof:superseded_by":[],

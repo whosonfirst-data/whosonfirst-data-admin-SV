@@ -10,6 +10,12 @@
     "geom:latitude":13.623161,
     "geom:longitude":-89.635693,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Cuisnahuat Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.618222,
     "lbl:longitude":-89.64502,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694759,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489245,
     "wof:name":"Cuisnahuat",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CU",
     "wof:superseded_by":[],

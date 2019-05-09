@@ -10,6 +10,12 @@
     "geom:latitude":13.970673,
     "geom:longitude":-89.636443,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Sebastian Salitrillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.968965,
     "lbl:longitude":-89.634799,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108695011,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489250,
     "wof:name":"San Sebastian Salitrillo",
     "wof:parent_id":85677195,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SS",
     "wof:superseded_by":[],

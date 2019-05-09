@@ -10,6 +10,12 @@
     "geom:latitude":13.808038,
     "geom:longitude":-88.555311,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Dolores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.787379,
     "lbl:longitude":-88.556531,
     "meso:admin1r":"REGION CENTRAL III",
@@ -134,10 +140,11 @@
         }
     ],
     "wof:id":421197065,
-    "wof:lastmodified":1536616123,
+    "wof:lastmodified":1554489021,
     "wof:name":"Dolores",
     "wof:parent_id":85677141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"DO",
     "wof:superseded_by":[],

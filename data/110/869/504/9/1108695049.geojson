@@ -10,6 +10,12 @@
     "geom:latitude":13.489061,
     "geom:longitude":-88.449089,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Santiago De Maria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.484527,
     "lbl:longitude":-88.444955,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108695049,
-    "wof:lastmodified":1536615369,
+    "wof:lastmodified":1554489250,
     "wof:name":"Santiago De Maria",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SG",
     "wof:superseded_by":[],

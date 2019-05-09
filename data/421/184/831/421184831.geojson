@@ -10,6 +10,12 @@
     "geom:latitude":13.607633,
     "geom:longitude":-89.730335,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Sonsonate Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.572179,
     "lbl:longitude":-89.743937,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421184831,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1554488950,
     "wof:name":"Sonsonate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SO",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":13.580178,
     "geom:longitude":-88.716418,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Vicente Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.575275,
     "lbl:longitude":-88.716402,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695019,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489250,
     "wof:name":"San Vicente",
     "wof:parent_id":85677185,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SV",
     "wof:superseded_by":[],

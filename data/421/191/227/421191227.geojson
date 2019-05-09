@@ -10,6 +10,12 @@
     "geom:latitude":13.266113,
     "geom:longitude":-87.908703,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "La Union Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.216463,
     "lbl:longitude":-87.961012,
     "meso:admin1r":"REGION ORIENTAL",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":421191227,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1554488992,
     "wof:name":"La Union",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"LU",
     "wof:superseded_by":[],

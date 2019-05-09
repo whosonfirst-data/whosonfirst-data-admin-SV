@@ -10,6 +10,12 @@
     "geom:latitude":14.039871,
     "geom:longitude":-89.645817,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "El Porvenir Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.036323,
     "lbl:longitude":-89.648564,
     "meso:admin1r":"REGION OCCIDENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694785,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"El Porvenir",
     "wof:parent_id":85677195,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"EL",
     "wof:superseded_by":[],

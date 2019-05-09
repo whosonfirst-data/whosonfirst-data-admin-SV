@@ -10,6 +10,12 @@
     "geom:latitude":14.303016,
     "geom:longitude":-89.167982,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "La Palma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.290929,
     "lbl:longitude":-89.177993,
     "meso:admin1r":"REGION CENTRAL II",
@@ -202,10 +208,11 @@
         }
     ],
     "wof:id":421175389,
-    "wof:lastmodified":1536615951,
+    "wof:lastmodified":1554488777,
     "wof:name":"La Palma",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"LP",
     "wof:superseded_by":[],

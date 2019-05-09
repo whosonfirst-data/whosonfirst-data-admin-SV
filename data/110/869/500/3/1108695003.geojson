@@ -10,6 +10,12 @@
     "geom:latitude":13.741645,
     "geom:longitude":-88.876492,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Cedros Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.73746,
     "lbl:longitude":-88.877848,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108695003,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489250,
     "wof:name":"San Rafael Cedros",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SF",
     "wof:superseded_by":[],

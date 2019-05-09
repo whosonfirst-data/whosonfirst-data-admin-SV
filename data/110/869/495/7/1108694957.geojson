@@ -10,6 +10,12 @@
     "geom:latitude":13.862144,
     "geom:longitude":-88.239499,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Isidro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.862542,
     "lbl:longitude":-88.241608,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694957,
-    "wof:lastmodified":1536615368,
+    "wof:lastmodified":1554489249,
     "wof:name":"San Isidro",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SI",
     "wof:superseded_by":[],

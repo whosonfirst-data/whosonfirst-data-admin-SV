@@ -10,6 +10,12 @@
     "geom:latitude":13.577603,
     "geom:longitude":-89.24249,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Huizucar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.611797,
     "lbl:longitude":-89.25069,
     "meso:admin1r":"REGION CENTRAL II",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694811,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"Huizucar",
     "wof:parent_id":85677151,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"HU",
     "wof:superseded_by":[],

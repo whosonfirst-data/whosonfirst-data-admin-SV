@@ -10,6 +10,12 @@
     "geom:latitude":13.68169,
     "geom:longitude":-88.985141,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Candelaria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.684934,
     "lbl:longitude":-88.990761,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694733,
-    "wof:lastmodified":1536615364,
+    "wof:lastmodified":1554489245,
     "wof:name":"Candelaria",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"CA",
     "wof:superseded_by":[],

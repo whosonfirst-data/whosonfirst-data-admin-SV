@@ -10,6 +10,12 @@
     "geom:latitude":13.964914,
     "geom:longitude":-88.201737,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Fernando Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.965826,
     "lbl:longitude":-88.202239,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694939,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489248,
     "wof:name":"San Fernando",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"PE",
     "wof:superseded_by":[],

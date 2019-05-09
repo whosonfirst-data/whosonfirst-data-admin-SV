@@ -10,6 +10,12 @@
     "geom:latitude":13.628423,
     "geom:longitude":-88.11319,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.627911,
     "lbl:longitude":-88.116536,
     "meso:admin1r":"REGION ORIENTAL",
@@ -143,10 +149,11 @@
         }
     ],
     "wof:id":421203751,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489046,
     "wof:name":"San Carlos",
     "wof:parent_id":85677173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

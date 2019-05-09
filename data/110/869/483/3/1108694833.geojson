@@ -10,6 +10,12 @@
     "geom:latitude":14.094886,
     "geom:longitude":-88.884359,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Las Vueltas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.095519,
     "lbl:longitude":-88.884892,
     "meso:admin1r":"REGION CENTRAL II",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694833,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489246,
     "wof:name":"Las Vueltas",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"LV",
     "wof:superseded_by":[],

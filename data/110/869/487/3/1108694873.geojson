@@ -10,6 +10,12 @@
     "geom:latitude":13.794187,
     "geom:longitude":-88.476267,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Nuevo Eden De San Juan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.793312,
     "lbl:longitude":-88.475288,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694873,
-    "wof:lastmodified":1536615366,
+    "wof:lastmodified":1554489247,
     "wof:name":"Nuevo Eden De San Juan",
     "wof:parent_id":85677177,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"NE",
     "wof:superseded_by":[],

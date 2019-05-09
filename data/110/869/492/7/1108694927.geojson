@@ -10,6 +10,12 @@
     "geom:latitude":13.570104,
     "geom:longitude":-88.39652,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Buena Ventura Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.570499,
     "lbl:longitude":-88.403236,
     "meso:admin1r":"REGION ORIENTAL",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694927,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489248,
     "wof:name":"San Buena Ventura",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SB",
     "wof:superseded_by":[],

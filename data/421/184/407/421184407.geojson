@@ -10,6 +10,12 @@
     "geom:latitude":13.623984,
     "geom:longitude":-88.514437,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Estanzuelas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.625719,
     "lbl:longitude":-88.517999,
     "meso:admin1r":"REGION ORIENTAL",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421184407,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1554488947,
     "wof:name":"Estanzuelas",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"ES",
     "wof:superseded_by":[],

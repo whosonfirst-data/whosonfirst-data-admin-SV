@@ -10,6 +10,12 @@
     "geom:latitude":14.202478,
     "geom:longitude":-89.000708,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Dulce Nombre De Maria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.20204,
     "lbl:longitude":-88.993715,
     "meso:admin1r":"REGION CENTRAL II",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694769,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"Dulce Nombre De Maria",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"DN",
     "wof:superseded_by":[],

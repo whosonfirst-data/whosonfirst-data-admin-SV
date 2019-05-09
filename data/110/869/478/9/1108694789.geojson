@@ -10,6 +10,12 @@
     "geom:latitude":13.470549,
     "geom:longitude":-89.005198,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "El Rosario Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.464395,
     "lbl:longitude":-89.00455,
     "meso:admin1r":"REGION CENTRAL III",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694789,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"El Rosario",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"EL",
     "wof:superseded_by":[],

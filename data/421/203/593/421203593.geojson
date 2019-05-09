@@ -10,6 +10,12 @@
     "geom:latitude":13.294018,
     "geom:longitude":-88.456499,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Dionisio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.294638,
     "lbl:longitude":-88.457164,
     "meso:admin1r":"REGION ORIENTAL",
@@ -95,10 +101,11 @@
         }
     ],
     "wof:id":421203593,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489043,
     "wof:name":"San Dionisio",
     "wof:parent_id":85677187,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SD",
     "wof:superseded_by":[],

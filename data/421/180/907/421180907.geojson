@@ -10,6 +10,12 @@
     "geom:latitude":13.69368,
     "geom:longitude":-89.214651,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Salvador Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.691478,
     "lbl:longitude":-89.205086,
     "meso:admin1r":"AMSS",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421180907,
-    "wof:lastmodified":1536615967,
+    "wof:lastmodified":1554488792,
     "wof:name":"San Salvador",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SS",
     "wof:superseded_by":[],

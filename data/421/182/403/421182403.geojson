@@ -10,6 +10,12 @@
     "geom:latitude":13.96697,
     "geom:longitude":-88.642768,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "Victoria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.970788,
     "lbl:longitude":-88.641332,
     "meso:admin1r":"REGION CENTRAL III",
@@ -79,10 +85,11 @@
         }
     ],
     "wof:id":421182403,
-    "wof:lastmodified":1536615985,
+    "wof:lastmodified":1554488820,
     "wof:name":"Victoria",
     "wof:parent_id":85677141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"VI",
     "wof:superseded_by":[],

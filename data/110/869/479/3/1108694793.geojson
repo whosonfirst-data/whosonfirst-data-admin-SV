@@ -10,6 +10,12 @@
     "geom:latitude":13.670578,
     "geom:longitude":-87.796686,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "El Sauce Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.661154,
     "lbl:longitude":-87.795491,
     "meso:admin1r":"REGION ORIENTAL",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108694793,
-    "wof:lastmodified":1536615365,
+    "wof:lastmodified":1554489246,
     "wof:name":"El Sauce",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"ES",
     "wof:superseded_by":[],

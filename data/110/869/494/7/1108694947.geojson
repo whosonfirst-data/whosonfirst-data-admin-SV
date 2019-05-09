@@ -10,6 +10,12 @@
     "geom:latitude":14.218786,
     "geom:longitude":-89.055922,
     "iso:country":"SV",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Morazan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.231095,
     "lbl:longitude":-89.051675,
     "meso:admin1r":"REGION CENTRAL II",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108694947,
-    "wof:lastmodified":1536615367,
+    "wof:lastmodified":1554489249,
     "wof:name":"San Francisco Morazan",
     "wof:parent_id":85677193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SZ",
     "wof:superseded_by":[],
