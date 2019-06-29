@@ -158,9 +158,6 @@
     "name:cym_x_preferred":[
         "El Salfador"
     ],
-    "name:cze_x_preferred":[
-        "Salvador"
-    ],
     "name:dan_x_preferred":[
         "El Salvador"
     ],
@@ -763,7 +760,6 @@
         "\u8428\u5c14\u74e6\u591a"
     ],
     "name:zho_x_variant":[
-        "\u8428\u5c14\u74e6\u591a",
         "\u85a9\u723e\u74e6\u591a"
     ],
     "name:zho_yue_x_preferred":[
@@ -922,7 +918,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1544059314,
+    "wof:lastmodified":1561845032,
     "wof:name":"El Salvador",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

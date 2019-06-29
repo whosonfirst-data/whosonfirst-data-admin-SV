@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169126,
-    "geom:area_square_m":2034506306.872782,
+    "geom:area_square_m":2034506306.872792,
     "geom:bbox":"-88.8132175915,13.157444,-88.1246369844,13.7003063734",
     "geom:latitude":13.38041,
     "geom:longitude":-88.494735,
@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u0648\u0633\u0648\u0644\u0648\u062a\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Usulut\u00e1n departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u0989\u09b8\u09c1\u09b2\u09c1\u099f\u09be\u09a8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -41,16 +38,13 @@
     "name:cat_x_preferred":[
         "Departament d'Usulut\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u82cf\u5362\u5766\u7701"
-    ],
     "name:dan_x_preferred":[
         "Usulut\u00e1n Department"
     ],
     "name:deu_x_preferred":[
         "Departamento Usulut\u00e1n"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Usulut\u00e1n"
     ],
     "name:ell_x_preferred":[
@@ -62,6 +56,9 @@
     "name:epo_x_preferred":[
         "Departemento Usulut\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Usulut\u00e1n departamendua"
+    ],
     "name:fin_x_preferred":[
         "Usulut\u00e1nin departmentti"
     ],
@@ -69,19 +66,8 @@
         "D\u00e9partement d'Usulut\u00e1n"
     ],
     "name:fra_x_variant":[
-        "Usulut\u00e1n"
-    ],
-    "name:fre_x_preferred":[
+        "Usulut\u00e1n",
         "d\u00e9partement d'Usulut\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e1\u10e3\u10da\u10e3\u10e2\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Usulut\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039f\u03c5\u03c3\u03bf\u03c5\u03bb\u03bf\u03c5\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab8\u0ac1\u0ab2\u0ac1\u0a9f\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -104,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0caf\u0cc1\u0cb8\u0cc1\u0cb2\u0ccd\u0caf\u0cc1\u0c9f\u0cbe\u0ca8\u0ccd \u0ca1\u0cbf\u0caa\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e1\u10e3\u10da\u10e3\u10e2\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\uc220\ub8e8\ud0c4 \uc8fc"
     ],
@@ -116,11 +105,14 @@
     "name:mar_x_preferred":[
         "\u0909\u0938\u0941\u0932\u0941\u091f\u0928 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Usulutan Department"
     ],
     "name:nah_x_preferred":[
         "Oc\u0113l\u014dtl\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Usulut\u00e1n"
     ],
     "name:nob_x_preferred":[
         "Usulutan department"
@@ -134,7 +126,7 @@
     "name:que_x_preferred":[
         "Usulut\u00e1n suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Usulut\u00e1n"
     ],
     "name:rus_x_preferred":[
@@ -179,6 +171,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Usulut\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u82cf\u5362\u5766\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SLV",
@@ -304,7 +299,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814826,
+    "wof:lastmodified":1561845031,
     "wof:name":"Usulut\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

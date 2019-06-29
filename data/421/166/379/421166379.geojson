@@ -20,16 +20,10 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u099c\u09c1\u09a4\u09c7\u09aa\u09c7\u0995"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u80e1\u7279\u4f69\u514b"
-    ],
     "name:dan_x_preferred":[
         "Cojutepeque"
     ],
     "name:deu_x_preferred":[
-        "Cojutepeque"
-    ],
-    "name:dut_x_preferred":[
         "Cojutepeque"
     ],
     "name:ell_x_preferred":[
@@ -43,15 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Cojutepeque"
-    ],
-    "name:fre_x_preferred":[
-        "Cojutepeque"
-    ],
-    "name:ger_x_preferred":[
-        "Cojutepeque"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c7\u03bf\u03c5\u03c4\u03b5\u03c0\u03ad\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9c\u0acd\u0aaf\u0ac1\u0aa4\u0ac7\u0aaa\u0ac7\u0a95\u0acd\u0aaf\u0ac2"
@@ -83,7 +68,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u091c\u094d\u092f\u0942\u0924\u0947\u092a\u0947\u0915\u094d\u092f\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cojutepeque"
     ],
     "name:nah_x_preferred":[
@@ -276,7 +261,7 @@
         }
     ],
     "wof:id":421166379,
-    "wof:lastmodified":1514505763,
+    "wof:lastmodified":1561845038,
     "wof:name":"Cojutepeque",
     "wof:parent_id":421172669,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:cat_x_preferred":[
         "El Refugio"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u96f7\u5e0c\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "El Refugio"
-    ],
     "name:eng_x_preferred":[
         "El Refugio"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "El Refugio"
     ],
     "name:glg_x_preferred":[
@@ -37,6 +31,9 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30fb\u30ec\u30d5\u30fc\u30d2"
     ],
+    "name:nld_x_preferred":[
+        "El Refugio"
+    ],
     "name:nob_x_preferred":[
         "El Refugio"
     ],
@@ -45,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "El Refugio"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u96f7\u5e0c\u5967"
     ],
     "qs:gn_country":"SV",
     "qs:gn_fcode":"PPL",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":421192729,
-    "wof:lastmodified":1527716116,
+    "wof:lastmodified":1561845039,
     "wof:name":"El Refugio",
     "wof:parent_id":1108694787,
     "wof:placetype":"locality",

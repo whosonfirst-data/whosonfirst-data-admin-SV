@@ -13,19 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8f9b\u514b\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Cinquera"
-    ],
     "name:eng_x_preferred":[
         "Cinquera"
     ],
     "name:fra_x_preferred":[
-        "Cinquera"
-    ],
-    "name:fre_x_preferred":[
         "Cinquera"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +24,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30b1\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Cinquera"
     ],
     "name:por_x_preferred":[
         "Cinquera"
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":421181035,
-    "wof:lastmodified":1527716331,
+    "wof:lastmodified":1561845040,
     "wof:name":"Cinquera",
     "wof:parent_id":1108694747,
     "wof:placetype":"locality",

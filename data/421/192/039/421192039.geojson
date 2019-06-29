@@ -19,16 +19,13 @@
     "name:cat_x_preferred":[
         "Alegr\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u840a\u683c\u91cc\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Alegr\u00eda"
     ],
     "name:eng_x_preferred":[
         "Alegr\u00eda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Alegr\u00eda"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ec\u30b0\u30ea\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Alegr\u00eda"
     ],
     "name:nno_x_preferred":[
         "Alegr\u00eda"
@@ -53,9 +53,6 @@
         "\u0410\u043b\u0435\u0433\u0440\u0438\u044f"
     ],
     "name:spa_x_preferred":[
-        "Alegr\u00eda"
-    ],
-    "name:wel_x_preferred":[
         "Alegr\u00eda"
     ],
     "name:zho_x_preferred":[
@@ -108,7 +105,7 @@
         }
     ],
     "wof:id":421192039,
-    "wof:lastmodified":1553816380,
+    "wof:lastmodified":1561845039,
     "wof:name":"Alegr\u00eda",
     "wof:parent_id":1108694713,
     "wof:placetype":"locality",

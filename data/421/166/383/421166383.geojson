@@ -19,14 +19,14 @@
     "name:ben_x_preferred":[
         "\u0987\u09b2\u09cb\u09ac\u09be\u09b8\u0995\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6d1b\u74e6\u65af\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Ilobasco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ilobasco"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bb\u03bf\u03bc\u03c0\u03ac\u03c3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ilobasco"
@@ -36,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Ilobasco"
-    ],
-    "name:fre_x_preferred":[
-        "Ilobasco"
-    ],
-    "name:ger_x_preferred":[
-        "Ilobasco"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03bb\u03bf\u03bc\u03c0\u03ac\u03c3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab2\u0acb\u0aac\u0abe\u0ab8\u0acd\u0a95\u0acb"
@@ -76,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u0907\u0932\u094b\u092c\u0945\u0938\u094d\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ilobasco"
+    ],
+    "name:nld_x_preferred":[
         "Ilobasco"
     ],
     "name:nob_x_preferred":[
@@ -173,7 +167,7 @@
         }
     ],
     "wof:id":421166383,
-    "wof:lastmodified":1514505767,
+    "wof:lastmodified":1561845038,
     "wof:name":"Ilobasco",
     "wof:parent_id":421184405,
     "wof:placetype":"locality",

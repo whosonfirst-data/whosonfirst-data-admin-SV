@@ -13,16 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7f85\u85a9\u91cc\u5967\u5fb7\u83ab\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Rosario de Mora"
-    ],
     "name:eng_x_preferred":[
         "Rosario de Mora"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rosario de Mora"
     ],
     "name:ita_x_preferred":[
@@ -30,6 +24,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30b5\u30ea\u30aa\u30fb\u30c7\u30fb\u30e2\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Rosario de Mora"
     ],
     "name:por_x_preferred":[
         "Rosario de Mora"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421190401,
-    "wof:lastmodified":1514505783,
+    "wof:lastmodified":1561845041,
     "wof:name":"Rosario de Mora",
     "wof:parent_id":1108694901,
     "wof:placetype":"locality",

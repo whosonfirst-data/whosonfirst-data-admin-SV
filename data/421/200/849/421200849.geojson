@@ -19,13 +19,7 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u0430\u043d\u043e\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u5e0c\u5361\u8afe\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Mejicanos"
-    ],
-    "name:dut_x_preferred":[
         "Mejicanos"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +31,6 @@
     "name:fra_x_preferred":[
         "Mejicanos"
     ],
-    "name:fre_x_preferred":[
-        "Mejicanos"
-    ],
-    "name:ger_x_preferred":[
-        "Mejicanos"
-    ],
     "name:ita_x_preferred":[
         "Mejicanos"
     ],
@@ -51,6 +39,9 @@
     ],
     "name:nah_x_preferred":[
         "Neneuhc\u0101y\u014dtl:\u0100ltep\u0113tl \u012bpan San Salvador"
+    ],
+    "name:nld_x_preferred":[
+        "Mejicanos"
     ],
     "name:pol_x_preferred":[
         "Mejicanos"
@@ -126,7 +117,7 @@
         }
     ],
     "wof:id":421200849,
-    "wof:lastmodified":1514505777,
+    "wof:lastmodified":1561845041,
     "wof:name":"Mejicanos",
     "wof:parent_id":421180175,
     "wof:placetype":"locality",

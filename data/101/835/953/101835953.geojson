@@ -26,12 +26,6 @@
     "name:arg_x_preferred":[
         "Piran"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u056b\u0580\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Piran"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u09a8"
     ],
@@ -47,20 +41,14 @@
     "name:ces_x_preferred":[
         "Piran"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5170"
-    ],
-    "name:cze_x_preferred":[
-        "Piran"
-    ],
     "name:dan_x_preferred":[
         "Piran"
     ],
     "name:deu_x_preferred":[
         "Piran"
     ],
-    "name:dut_x_preferred":[
-        "Piran"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Piran"
@@ -83,23 +71,11 @@
     "name:fra_x_preferred":[
         "Piran"
     ],
-    "name:fre_x_preferred":[
-        "Piran"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Piran"
-    ],
     "name:gle_x_preferred":[
         "Piran"
     ],
     "name:glg_x_preferred":[
         "Piran"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b9\u03c1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abf\u0ab0\u0abe\u0aa8"
@@ -116,8 +92,8 @@
     "name:hun_x_preferred":[
         "Piran"
     ],
-    "name:ice_x_preferred":[
-        "P\u00edran"
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0580\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Piran"
@@ -149,14 +125,8 @@
     "name:lit_x_preferred":[
         "Piranas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0438\u0440\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093f\u0930\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Piran"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0438\u0440\u0430\u043d"
@@ -179,9 +149,6 @@
     "name:oci_x_preferred":[
         "Piran"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0631\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Piran"
     ],
@@ -189,9 +156,6 @@
         "Piran"
     ],
     "name:ron_x_preferred":[
-        "Piran"
-    ],
-    "name:rum_x_preferred":[
         "Piran"
     ],
     "name:rus_x_preferred":[
@@ -204,9 +168,6 @@
         "\u0db4\u0dd2\u0dbb\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Piran"
-    ],
-    "name:slo_x_preferred":[
         "Piran"
     ],
     "name:slv_x_preferred":[
@@ -309,7 +270,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531170306,
+    "wof:lastmodified":1561845038,
     "wof:name":"Piran",
     "wof:parent_id":1108959613,
     "wof:placetype":"locality",

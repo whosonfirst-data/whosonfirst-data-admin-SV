@@ -22,14 +22,11 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0440\u0438\u043b\u0430\u0433\u0443\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u91cc\u62c9\u74dc"
-    ],
     "name:dan_x_preferred":[
         "Chirilagua"
     ],
-    "name:dut_x_preferred":[
-        "Chirilagua"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c1\u03b9\u03bb\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Chirilagua"
@@ -37,11 +34,8 @@
     "name:fin_x_preferred":[
         "Chirilagua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chirilagua"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03c1\u03b9\u03bb\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0ab0\u0ac0\u0ab2\u0a97\u0ac1\u0a86"
@@ -73,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u091a\u093f\u0932\u0940\u0917\u093e\u0917\u0941\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:nld_x_preferred":[
         "Chirilagua"
     ],
     "name:nob_x_preferred":[
@@ -168,7 +165,7 @@
         }
     ],
     "wof:id":421173669,
-    "wof:lastmodified":1514505762,
+    "wof:lastmodified":1561845040,
     "wof:name":"Chirilagua",
     "wof:parent_id":421203731,
     "wof:placetype":"locality",

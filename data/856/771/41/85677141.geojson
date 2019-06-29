@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0627\u0628\u0627\u0646\u0627\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Caba\u00f1as departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ac\u09be\u09a8\u09be\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,17 +37,11 @@
     "name:cat_x_preferred":[
         "Departament de Caba\u00f1as"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u74e6\u5c3c\u4e9a\u65af\u7701"
-    ],
     "name:dan_x_preferred":[
         "Caba\u00f1as Department"
     ],
     "name:deu_x_preferred":[
         "Departamento Caba\u00f1as"
-    ],
-    "name:dut_x_preferred":[
-        "Caba\u00f1as"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03b1\u03bc\u03c0\u03ac\u03bd\u03b9\u03b1\u03c2"
@@ -61,6 +52,9 @@
     "name:epo_x_preferred":[
         "Departemento Caba\u00f1as"
     ],
+    "name:eus_x_preferred":[
+        "Caba\u00f1as departamendua"
+    ],
     "name:fin_x_preferred":[
         "Caba\u00f1asn departmentti"
     ],
@@ -68,19 +62,8 @@
         "D\u00e9partement de Caba\u00f1as"
     ],
     "name:fra_x_variant":[
-        "Caba\u00f1as"
-    ],
-    "name:fre_x_preferred":[
+        "Caba\u00f1as",
         "d\u00e9partement de Caba\u00f1as"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d1\u10d0\u10dc\u10d8\u10d0\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Caba\u00f1as"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03b1\u03bc\u03c0\u03ac\u03bd\u03b9\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aac\u0abe\u0aa8\u0abe\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -103,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cac\u0cbe\u0ca8\u0cbe\u0cb8\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d1\u10d0\u10dc\u10d8\u10d0\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ubc14\ub0d0\uc2a4 \uc8fc"
     ],
@@ -115,10 +101,13 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u092c\u093e\u0928\u093e\u0938 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Caba\u00f1as Department"
     ],
     "name:nah_x_preferred":[
+        "Caba\u00f1as"
+    ],
+    "name:nld_x_preferred":[
         "Caba\u00f1as"
     ],
     "name:nob_x_preferred":[
@@ -136,7 +125,7 @@
     "name:que_x_preferred":[
         "Caba\u00f1as suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Caba\u00f1as"
     ],
     "name:rus_x_preferred":[
@@ -182,6 +171,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Cabanas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u74e6\u5c3c\u4e9a\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SLV",
@@ -306,7 +298,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550496,
+    "wof:lastmodified":1561845032,
     "wof:name":"Caba\u00f1as",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

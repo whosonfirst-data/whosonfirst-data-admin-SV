@@ -16,16 +16,10 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0441\u043e\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u7d22\u91cc"
-    ],
-    "name:dut_x_preferred":[
-        "Sesori"
-    ],
     "name:eng_x_preferred":[
         "Sesori"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sesori"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +27,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30bd\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Sesori"
     ],
     "name:por_x_preferred":[
         "Sesori"
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421203983,
-    "wof:lastmodified":1514505801,
+    "wof:lastmodified":1561845039,
     "wof:name":"Sesori",
     "wof:parent_id":421176713,
     "wof:placetype":"locality",

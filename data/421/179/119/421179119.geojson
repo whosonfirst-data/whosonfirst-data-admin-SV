@@ -19,14 +19,11 @@
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u099f\u09cd\u09b0\u09be\u09a8\u099c\u09bf\u099f\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u7279\u862d\u897f\u6258"
-    ],
     "name:dan_x_preferred":[
         "El Transito"
     ],
-    "name:dut_x_preferred":[
-        "El Tr\u00e1nsito"
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u03a4\u03c1\u03ac\u03bd\u03b6\u03b9\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "El Tr\u00e1nsito"
@@ -36,12 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "El Tr\u00e1nsito"
-    ],
-    "name:fre_x_preferred":[
-        "El Tr\u00e1nsito"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u03a4\u03c1\u03ac\u03bd\u03b6\u03b9\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2 \u0a9f\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0ac0\u0a9f\u0acb"
@@ -73,8 +64,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0932 \u091f\u094d\u0930\u0945\u0928\u0938\u093f\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "El Transito"
+    ],
+    "name:nld_x_preferred":[
+        "El Tr\u00e1nsito"
     ],
     "name:nob_x_preferred":[
         "El Transito"
@@ -168,7 +162,7 @@
         }
     ],
     "wof:id":421179119,
-    "wof:lastmodified":1514505766,
+    "wof:lastmodified":1561845042,
     "wof:name":"El Tr\u00e1nsito",
     "wof:parent_id":421184721,
     "wof:placetype":"locality",

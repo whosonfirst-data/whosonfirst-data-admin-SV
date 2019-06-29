@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u0647\u0648\u0627\u0634\u0627\u0628\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Ahuachap\u00e1n departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b9\u09cb\u09af\u09bc\u09be\u099a\u09be\u09aa\u09be\u09a8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,10 +37,7 @@
     "name:cat_x_preferred":[
         "Departament d'Ahuachap\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u74e6\u67e5\u6f58\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sonsonate"
     ],
     "name:dan_x_preferred":[
@@ -51,9 +45,6 @@
     ],
     "name:deu_x_preferred":[
         "Departamento Ahuachap\u00e1n"
-    ],
-    "name:dut_x_preferred":[
-        "Ahuachap\u00e1n"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u0391\u03bf\u03c5\u03b1\u03c4\u03c3\u03b1\u03c0\u03ac\u03bd"
@@ -63,6 +54,9 @@
     ],
     "name:epo_x_preferred":[
         "Departemento Ahuachap\u00e1n"
+    ],
+    "name:eus_x_preferred":[
+        "Ahuachap\u00e1n departamendua"
     ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u0627\u0647\u0648\u0627\u0686\u0648\u067e\u0627\u0646"
@@ -74,19 +68,8 @@
         "D\u00e9partement d'Ahuachap\u00e1n"
     ],
     "name:fra_x_variant":[
-        "Ahuachap\u00e1n"
-    ],
-    "name:fre_x_preferred":[
+        "Ahuachap\u00e1n",
         "d\u00e9partement d'Ahuachap\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e3\u10d0\u10e9\u10d0\u10de\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Ahuachap\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u0391\u03bf\u03c5\u03b1\u03c4\u03c3\u03b1\u03c0\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab9\u0ac1\u0a9a\u0aaa\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -109,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb9\u0cc1\u0c9a\u0caa\u0cbe\u0ca8\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e3\u10d0\u10e9\u10d0\u10de\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc6b0\uc544\ucc28\ud310 \uc8fc"
     ],
@@ -121,17 +107,17 @@
     "name:mar_x_preferred":[
         "\u0905\u0939\u0941\u091a\u093e\u092a\u093e\u0928 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ahuachapan Department"
     ],
     "name:nah_x_preferred":[
         "\u0100huach\u0101mpan"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ahuachap\u00e1n"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u0627\u0647\u0648\u0627\u0686\u0648\u067e\u0627\u0646"
+    "name:nob_x_preferred":[
+        "Ahuachap\u00e1n"
     ],
     "name:pol_x_preferred":[
         "Ahuachap\u00e1n"
@@ -142,7 +128,7 @@
     "name:que_x_preferred":[
         "Ahuachap\u00e1n suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Ahuachap\u00e1n"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +173,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Ahuachap\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74e6\u67e5\u6f58\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SLV",
@@ -311,7 +300,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550496,
+    "wof:lastmodified":1561845032,
     "wof:name":"Ahuachap\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

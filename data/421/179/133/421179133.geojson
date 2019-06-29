@@ -19,14 +19,11 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09a8\u09c7\u09a1\u09c7\u09b2\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u5fb7\u62c9\u91cc\u4e9e\u5fb7\u62c9\u5f17\u9f8d\u7279\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Candelaria de la Frontera"
     ],
-    "name:dut_x_preferred":[
-        "Candelaria de la Frontera"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03b4\u03b5\u03bb\u03ac\u03c1\u03b9\u03b1 \u03bd\u03c4\u03b5 \u03bb\u03b1 \u03a6\u03c1\u03bf\u03bd\u03c4\u03ad\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Candelaria de la Frontera"
@@ -34,11 +31,8 @@
     "name:fin_x_preferred":[
         "Candelaria de la Frontera"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Candelaria de la Frontera"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bd\u03b4\u03b5\u03bb\u03ac\u03c1\u03b9\u03b1 \u03bd\u03c4\u03b5 \u03bb\u03b1 \u03a6\u03c1\u03bf\u03bd\u03c4\u03ad\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac8\u0a82\u0aa1\u0ab2\u0abe\u0ab0\u0ac7 \u0aa1\u0ac7 \u0ab2\u0abe \u0aab\u0acd\u0ab0\u0ac9\u0aa8\u0acd\u0a9f\u0ac7\u0ab0\u0abe"
@@ -70,10 +64,13 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0928\u094d\u0921\u0947\u0932\u0947\u0930\u093f\u092f\u093e \u0926\u0947 \u0932\u093e \u092b\u094d\u0930\u094b\u0902\u091f\u0947\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Candelaria de la Frontera"
     ],
     "name:nah_x_preferred":[
+        "Candelaria de la Frontera"
+    ],
+    "name:nld_x_preferred":[
         "Candelaria de la Frontera"
     ],
     "name:nob_x_preferred":[
@@ -171,7 +168,7 @@
         }
     ],
     "wof:id":421179133,
-    "wof:lastmodified":1514505757,
+    "wof:lastmodified":1561845042,
     "wof:name":"Candelaria de La Frontera",
     "wof:parent_id":421190511,
     "wof:placetype":"locality",

@@ -19,14 +19,11 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u0995\u09cb\u09af\u09bc\u09be\u09b0\u09be\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5938\u862d"
-    ],
     "name:dan_x_preferred":[
         "Jucuar\u00e1n"
     ],
-    "name:dut_x_preferred":[
-        "Jucuar\u00e1n"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c5\u03ba\u03bf\u03c5\u03b1\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Jucuar\u00e1n"
@@ -34,11 +31,8 @@
     "name:fin_x_preferred":[
         "Jucuar\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jucuar\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03bf\u03c5\u03ba\u03bf\u03c5\u03b1\u03c1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac1\u0a95\u0ac1\u0a86\u0ab0\u0acd\u0aa8"
@@ -70,8 +64,11 @@
     "name:mar_x_preferred":[
         "\u091c\u0941\u0915\u0941\u0906\u0930\u0923"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jucuaran"
+    ],
+    "name:nld_x_preferred":[
+        "Jucuar\u00e1n"
     ],
     "name:nob_x_preferred":[
         "Jucuaran"
@@ -165,7 +162,7 @@
         }
     ],
     "wof:id":421179113,
-    "wof:lastmodified":1514505769,
+    "wof:lastmodified":1561845043,
     "wof:name":"Jucuar\u00e1n",
     "wof:parent_id":421184409,
     "wof:placetype":"locality",

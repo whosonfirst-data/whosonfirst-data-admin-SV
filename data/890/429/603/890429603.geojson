@@ -21,14 +21,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u99ac\u4e01"
-    ],
     "name:dan_x_preferred":[
         "San Mart\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "San Mart\u00edn"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039c\u03ac\u03c1\u03c4\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "San Mart\u00edn"
@@ -36,11 +33,8 @@
     "name:fin_x_preferred":[
         "San Mart\u00edn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Mart\u00edn"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u039c\u03ac\u03c1\u03c4\u03b9\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
@@ -72,8 +66,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u092e\u093e\u0930\u094d\u091f\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Martin"
+    ],
+    "name:nld_x_preferred":[
+        "San Mart\u00edn"
     ],
     "name:nob_x_preferred":[
         "San Martin"
@@ -123,6 +120,9 @@
     "name:war_x_preferred":[
         "San Mart\u00edn"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u4e01"
+    ],
     "qs:name":"San Mart\u00edn",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":890429603,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561845043,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":421203377,
     "wof:placetype":"locality",
