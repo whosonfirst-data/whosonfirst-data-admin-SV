@@ -13,16 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u62c9\u5229\u4f2f\u5854\u5fb7"
-    ],
-    "name:dut_x_preferred":[
-        "La Libertad"
-    ],
     "name:eng_x_preferred":[
         "La Libertad"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Libertad"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +30,9 @@
     ],
     "name:lit_x_preferred":[
         "La Libertadas"
+    ],
+    "name:nld_x_preferred":[
+        "La Libertad"
     ],
     "name:pol_x_preferred":[
         "La Libertad"
@@ -54,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688\u060c \u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5229\u4f2f\u5854\u5fb7"
     ],
     "qs:gn_country":"SV",
     "qs:gn_fcode":"PPL",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421179109,
-    "wof:lastmodified":1514505770,
+    "wof:lastmodified":1561845042,
     "wof:name":"La Libertad",
     "wof:parent_id":1108694827,
     "wof:placetype":"locality",

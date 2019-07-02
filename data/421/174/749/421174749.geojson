@@ -20,17 +20,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ad\u09bf\u09b8\u09c7\u09a8\u09cd\u09a4\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u7dad\u68ee\u7279"
-    ],
     "name:dan_x_preferred":[
         "San Vicente"
     ],
     "name:deu_x_preferred":[
         "Ciudad San Vicente"
-    ],
-    "name:dut_x_preferred":[
-        "San Vicente"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u0392\u03b9\u03c3\u03ad\u03bd\u03c4\u03b5"
@@ -43,15 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "San Vicente"
-    ],
-    "name:fre_x_preferred":[
-        "San Vicente"
-    ],
-    "name:ger_x_preferred":[
-        "Ciudad San Vicente"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u0392\u03b9\u03c3\u03ad\u03bd\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0ab5\u0abf\u0ab8\u0ac7\u0aa8\u0acd\u0a9f"
@@ -83,7 +68,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0935\u094d\u0939\u093f\u0938\u0947\u0902\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Vicente"
     ],
     "name:nah_x_preferred":[
@@ -280,7 +265,7 @@
         }
     ],
     "wof:id":421174749,
-    "wof:lastmodified":1527716227,
+    "wof:lastmodified":1561845040,
     "wof:name":"San Vicente",
     "wof:parent_id":1108695019,
     "wof:placetype":"locality",

@@ -16,25 +16,13 @@
     "name:bel_x_variant":[
         "\u0422\u0430\u043d\u0430\u043a\u0430\u0442\u044d\u043f\u044d\u043a\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u7d0d\u5361\u7279\u4f69\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Tonacatepeque"
-    ],
-    "name:dut_x_preferred":[
         "Tonacatepeque"
     ],
     "name:eng_x_preferred":[
         "Tonacatepeque"
     ],
     "name:fra_x_preferred":[
-        "Tonacatepeque"
-    ],
-    "name:fre_x_preferred":[
-        "Tonacatepeque"
-    ],
-    "name:ger_x_preferred":[
         "Tonacatepeque"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +93,7 @@
         }
     ],
     "wof:id":421186393,
-    "wof:lastmodified":1514505803,
+    "wof:lastmodified":1561845040,
     "wof:name":"Tonacatepeque",
     "wof:parent_id":421203743,
     "wof:placetype":"locality",

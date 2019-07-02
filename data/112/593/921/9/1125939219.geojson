@@ -19,12 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u5947\u7eb3\u6885\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Chinameca"
-    ],
     "name:eng_x_preferred":[
         "Chinameca"
     ],
@@ -34,11 +28,17 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30ca\u30e1\u30ab"
     ],
+    "name:nld_x_preferred":[
+        "Chinameca"
+    ],
     "name:por_x_preferred":[
         "Chinameca"
     ],
     "name:spa_x_preferred":[
         "Chinameca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u7eb3\u6885\u5361"
     ],
     "qs_pg:aaroncc":"SV",
     "qs_pg:gn_country":"SV",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125939219,
-    "wof:lastmodified":1553816645,
+    "wof:lastmodified":1561845043,
     "wof:name":"Chinameca",
     "wof:parent_id":1108694743,
     "wof:placetype":"locality",

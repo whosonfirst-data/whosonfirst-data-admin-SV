@@ -20,32 +20,20 @@
     "name:cat_x_preferred":[
         "Zacatecoluca"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u5361\u7279\u79d1\u76e7\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Zacatecoluca"
-    ],
-    "name:dut_x_preferred":[
         "Zacatecoluca"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03ba\u03bf\u03bb\u03bf\u03cd\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03ba\u03b1\u03c4\u03b5\u03ba\u03bf\u03bb\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zacatecoluca"
     ],
     "name:fra_x_preferred":[
         "Zacatecoluca"
-    ],
-    "name:fre_x_preferred":[
-        "Zacatecoluca"
-    ],
-    "name:ger_x_preferred":[
-        "Zacatecoluca"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03ba\u03b1\u03c4\u03b5\u03ba\u03bf\u03bb\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:ita_x_preferred":[
         "Zacatecoluca"
@@ -231,7 +219,7 @@
         }
     ],
     "wof:id":421169073,
-    "wof:lastmodified":1514505808,
+    "wof:lastmodified":1561845039,
     "wof:name":"Zacatecoluca",
     "wof:parent_id":421191217,
     "wof:placetype":"locality",

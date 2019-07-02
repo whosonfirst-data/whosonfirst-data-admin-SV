@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0627\u0646\u062a\u0627 \u0622\u0646\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Santa Ana departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be \u0986\u09a8\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,14 +37,14 @@
     "name:cat_x_preferred":[
         "Departament de Santa Ana"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u5b89\u5a1c\u7701"
-    ],
     "name:dan_x_preferred":[
         "Santa Ana Department"
     ],
-    "name:dut_x_preferred":[
-        "Santa Ana"
+    "name:deu_x_preferred":[
+        "Departamento Santa Ana"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03ac\u03bd\u03c4\u03b1 \u0386\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Ana"
@@ -55,23 +52,17 @@
     "name:epo_x_preferred":[
         "Departemento Santa Ana"
     ],
+    "name:eus_x_preferred":[
+        "Santa Ana departamendua"
+    ],
     "name:fin_x_preferred":[
         "Santa Anan departmentti"
     ],
     "name:fra_x_preferred":[
         "Santa Ana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "d\u00e9partement de Santa Ana"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d0\u10dc\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Santa Ana"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03ac\u03bd\u03c4\u03b1 \u0386\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a82\u0aa4\u0abe \u0a8f\u0aa8\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -94,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0c82\u0c9f\u0cbe \u0c85\u0ca8\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d0\u10dc\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\uc544\ub098 \uc8fc"
     ],
@@ -106,10 +100,13 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093e \u0906\u0928\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Santa Ana Department"
     ],
     "name:nah_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:nld_x_preferred":[
         "Santa Ana"
     ],
     "name:nob_x_preferred":[
@@ -124,7 +121,7 @@
     "name:que_x_preferred":[
         "Santa Ana suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Santa Ana"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Santa Ana"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5b89\u5a1c\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SLV",
@@ -294,7 +294,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550492,
+    "wof:lastmodified":1561845031,
     "wof:name":"Santa Ana",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

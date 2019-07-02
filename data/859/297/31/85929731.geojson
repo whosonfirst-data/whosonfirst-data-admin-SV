@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10472974.226877,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.513827,46.071225,14.513827,46.071225",
     "geom:latitude":46.071225,
     "geom:longitude":14.513827,
@@ -26,13 +26,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u8d1d\u65e5\u683c\u52d2\u533a"
-    ],
-    "name:cze_x_preferred":[
-        "Be\u017eigrad"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Be\u017eigrad"
     ],
     "name:eng_x_preferred":[
@@ -98,11 +92,11 @@
     "wd:longitude":14.510833,
     "wd:wordcount":336,
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939158,
+    "wof:lastmodified":1561845031,
     "wof:name":"Be\u017eigrad",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

@@ -28,17 +28,14 @@
     "name:cat_x_preferred":[
         "Apopa"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u6ce2\u5e15"
-    ],
     "name:dan_x_preferred":[
         "Apopa"
     ],
     "name:deu_x_preferred":[
         "Apopa"
     ],
-    "name:dut_x_preferred":[
-        "Apopa"
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03cc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Apopa"
@@ -52,17 +49,8 @@
     "name:fra_x_preferred":[
         "Apopa"
     ],
-    "name:fre_x_preferred":[
-        "Apopa"
-    ],
-    "name:ger_x_preferred":[
-        "Apopa"
-    ],
     "name:glg_x_preferred":[
         "Apopa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c0\u03cc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aaa\u0acb\u0aaa\u0abe"
@@ -97,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0905\u092a\u094b\u092a\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Apopa"
+    ],
+    "name:nld_x_preferred":[
         "Apopa"
     ],
     "name:nob_x_preferred":[
@@ -198,7 +189,7 @@
         }
     ],
     "wof:id":421193559,
-    "wof:lastmodified":1514505754,
+    "wof:lastmodified":1561845039,
     "wof:name":"Apopa",
     "wof:parent_id":421183079,
     "wof:placetype":"locality",

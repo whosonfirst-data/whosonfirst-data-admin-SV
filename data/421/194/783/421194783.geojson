@@ -22,13 +22,7 @@
     "name:cat_x_preferred":[
         "Soyapango"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u4e9e\u6f58\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Soyapango"
-    ],
-    "name:dut_x_preferred":[
         "Soyapango"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Soyapango"
     ],
     "name:fra_x_preferred":[
-        "Soyapango"
-    ],
-    "name:fre_x_preferred":[
-        "Soyapango"
-    ],
-    "name:ger_x_preferred":[
         "Soyapango"
     ],
     "name:ita_x_preferred":[
@@ -141,7 +129,7 @@
         }
     ],
     "wof:id":421194783,
-    "wof:lastmodified":1514505803,
+    "wof:lastmodified":1561845039,
     "wof:name":"Soyapango",
     "wof:parent_id":421183081,
     "wof:placetype":"locality",

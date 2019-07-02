@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0648\u0633\u0643\u0627\u062a\u0644\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Cuscatl\u00e1n departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b8\u0995\u09be\u09a4\u09b2\u09be\u09a8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,17 +37,11 @@
     "name:cat_x_preferred":[
         "Departament de Cuscatl\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u65af\u5361\u7279\u5170\u7701"
-    ],
     "name:dan_x_preferred":[
         "Cuscatl\u00e1n Department"
     ],
     "name:deu_x_preferred":[
         "Departamento Cuscatl\u00e1n"
-    ],
-    "name:dut_x_preferred":[
-        "Cuscatl\u00e1n"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03bf\u03c5\u03c3\u03ba\u03b1\u03c4\u03bb\u03ac\u03bd"
@@ -61,6 +52,9 @@
     "name:epo_x_preferred":[
         "Departemento Cuscatl\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Cuscatl\u00e1n departamendua"
+    ],
     "name:fin_x_preferred":[
         "Cuscatl\u00e1nin departmentti"
     ],
@@ -68,19 +62,8 @@
         "D\u00e9partement de Cuscatl\u00e1n"
     ],
     "name:fra_x_variant":[
-        "Cuscatl\u00e1n"
-    ],
-    "name:fre_x_preferred":[
+        "Cuscatl\u00e1n",
         "d\u00e9partement de Cuscatl\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e1\u10d9\u10d0\u10e2\u10da\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Cuscatl\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03bf\u03c5\u03c3\u03ba\u03b1\u03c4\u03bb\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab8\u0acd\u0a95\u0abe\u0a9f\u0ab2\u0abe\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -103,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cb8\u0ccd\u0c95\u0c9f\u0cbe\u0ca8\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e1\u10d9\u10d0\u10e2\u10da\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc2a4\uce74\ud2c0\ub780 \uc8fc"
     ],
@@ -115,11 +101,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0938\u094d\u0915\u0945\u091f\u093e\u0928 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cuscatlan Department"
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl C\u014dzcatl\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Cuscatl\u00e1n"
     ],
     "name:nob_x_preferred":[
         "Cuscatlan"
@@ -136,7 +125,7 @@
     "name:que_x_preferred":[
         "Cuscatl\u00e1n suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Cuscatl\u00e1n"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +170,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Cuscatl\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u65af\u5361\u7279\u5170\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SLV",
@@ -305,7 +297,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550496,
+    "wof:lastmodified":1561845031,
     "wof:name":"Cuscatl\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

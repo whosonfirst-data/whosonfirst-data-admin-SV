@@ -16,22 +16,13 @@
     "name:bul_x_preferred":[
         "\u0410\u044e\u0442\u0443\u0441\u0442\u0435\u043f\u0435\u043a\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c24\u5716\u65af\u7279\u4f69\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Ayutuxtepeque"
-    ],
-    "name:dut_x_preferred":[
         "Ayutuxtepeque"
     ],
     "name:eng_x_preferred":[
         "Ayutuxtepeque"
     ],
-    "name:fre_x_preferred":[
-        "Ayutuxtepeque"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ayutuxtepeque"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +33,9 @@
     ],
     "name:nah_x_preferred":[
         "\u0100y\u014dt\u014dchtep\u0113c"
+    ],
+    "name:nld_x_preferred":[
+        "Ayutuxtepeque"
     ],
     "name:pol_x_preferred":[
         "Ayutuxtepeque"
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421199357,
-    "wof:lastmodified":1514505754,
+    "wof:lastmodified":1561845041,
     "wof:name":"Ayutuxtepeque",
     "wof:parent_id":421180175,
     "wof:placetype":"locality",

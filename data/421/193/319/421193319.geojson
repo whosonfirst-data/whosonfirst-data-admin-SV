@@ -19,14 +19,11 @@
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b0\u09be\u0997\u09cb\u099c\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u6208\u85a9"
-    ],
     "name:dan_x_preferred":[
         "Zaragoza"
     ],
-    "name:dut_x_preferred":[
-        "Zaragoza"
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03c1\u03b1\u03b3\u03ba\u03cc\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zaragoza"
@@ -34,11 +31,8 @@
     "name:fin_x_preferred":[
         "Zaragoza"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zaragoza"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03c1\u03b1\u03b3\u03ba\u03cc\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0ab0\u0abe\u0a97\u0acb\u0a9d\u0abe"
@@ -70,7 +64,10 @@
     "name:mar_x_preferred":[
         "\u091d\u093e\u0930\u0917\u094b\u091c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Zaragoza"
+    ],
+    "name:nld_x_preferred":[
         "Zaragoza"
     ],
     "name:nob_x_preferred":[
@@ -168,7 +165,7 @@
         }
     ],
     "wof:id":421193319,
-    "wof:lastmodified":1527716152,
+    "wof:lastmodified":1561845039,
     "wof:name":"Zaragoza",
     "wof:parent_id":1108695103,
     "wof:placetype":"locality",
