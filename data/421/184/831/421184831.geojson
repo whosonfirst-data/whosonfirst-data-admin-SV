@@ -36,8 +36,131 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_variant":[
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0646\u0633\u0648\u0646\u0627\u062a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09a8\u09b8\u09cb\u09a8\u09be\u09a4\u09c7"
+    ],
+    "name:cat_x_preferred":[
         "Sonsonate"
+    ],
+    "name:ceb_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:dan_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:deu_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bd\u03c3\u03bf\u03bd\u03ac\u03c4\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0633\u0646\u0627\u062a\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:fra_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0aa8\u0acd\u0ab8\u0acb\u0aa8\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e0\u05e1\u05d5\u05e0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0928\u0938\u094b\u0928\u093e\u0924\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:ita_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30f3\u30bd\u30ca\u30fc\u30c6\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ca8\u0ccd\u0cb8\u0cca\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc190\uc18c\ub098\ud14c"
+    ],
+    "name:lad_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:lav_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:lit_x_preferred":[
+        "Sonsonat\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0928\u094d\u0938\u094b\u0928\u0947\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:nah_x_preferred":[
+        "Centzon\u0101tl"
+    ],
+    "name:nld_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:nob_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:pol_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:por_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043d\u0441\u043e\u043d\u0430\u0442\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0ddc\u0db1\u0dca\u0dc3\u0ddc\u0db1\u0dcf\u0da7\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043d\u0441\u043e\u043d\u0430\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd\u0b9a\u0bcb\u0ba9\u0bc6\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c28\u0c4d \u0c38\u0c4b\u0c28\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e2d\u0e19\u0e42\u0e0b\u0e19\u0e32\u0e40\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043d\u0441\u043e\u043d\u0430\u0442\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0646\u0633\u0648\u0646\u0627\u062a\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u7d22\u7d0d\u7279"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -87,7 +210,7 @@
         }
     ],
     "wof:id":421184831,
-    "wof:lastmodified":1554488950,
+    "wof:lastmodified":1563298856,
     "wof:name":"Sonsonate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

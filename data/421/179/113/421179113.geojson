@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u0995\u09cb\u09af\u09bc\u09be\u09b0\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Jucuar\u00e1n"
+    ],
     "name:dan_x_preferred":[
         "Jucuar\u00e1n"
     ],
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421179113,
-    "wof:lastmodified":1561845043,
+    "wof:lastmodified":1563298871,
     "wof:name":"Jucuar\u00e1n",
     "wof:parent_id":421184409,
     "wof:placetype":"locality",

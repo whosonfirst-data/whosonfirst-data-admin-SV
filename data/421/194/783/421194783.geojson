@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Soyapango"
     ],
+    "name:ceb_x_preferred":[
+        "Soyapango"
+    ],
     "name:deu_x_preferred":[
         "Soyapango"
     ],
@@ -31,17 +34,26 @@
     "name:epo_x_preferred":[
         "Soyapango"
     ],
+    "name:eus_x_preferred":[
+        "Soyapango"
+    ],
     "name:fra_x_preferred":[
         "Soyapango"
     ],
     "name:ita_x_preferred":[
         "Soyapango"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30e4\u30d1\u30f3\u30b4"
+    ],
     "name:lit_x_preferred":[
         "Sojapangas"
     ],
     "name:nah_x_preferred":[
         "Zoyapanco"
+    ],
+    "name:nah_x_variant":[
+        "Z\u014dyapanco"
     ],
     "name:nld_x_preferred":[
         "Soyapango"
@@ -66,6 +78,9 @@
     ],
     "name:swe_x_preferred":[
         "Soyapango"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u044f\u043f\u0430\u043d\u0433\u043e"
     ],
     "name:unk_x_variant":[
         "Soyopango"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":421194783,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298801,
     "wof:name":"Soyapango",
     "wof:parent_id":421183081,
     "wof:placetype":"locality",

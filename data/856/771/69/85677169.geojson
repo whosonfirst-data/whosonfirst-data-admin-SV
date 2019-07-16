@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "La Uni\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "La Uni\u00f3n Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento La Uni\u00f3n"
     ],
@@ -52,6 +55,9 @@
     "name:fra_x_variant":[
         "La Uni\u00f3n",
         "d\u00e9partement de La Uni\u00f3n"
+    ],
+    "name:frr_x_preferred":[
+        "La Uni\u00f3n"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e-\u0909\u0928\u093f\u0913\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -73,6 +79,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\uc6b0\ub2c8\uc628 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\uc6b0\ub2c8\uc628\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "La Uni\u00f3n"
     ],
     "name:lit_x_preferred":[
         "La Uniono departamentas"
@@ -110,6 +122,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e32\u0e2d\u0e39\u0e19\u0e35\u0e2d\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e32\u0e2d\u0e39\u0e19\u0e34\u0e2d\u0e2d\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0423\u043d\u0456\u043e\u043d"
     ],
     "name:unk_x_variant":[
         "Union"
@@ -243,7 +261,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561845031,
+    "wof:lastmodified":1563298338,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

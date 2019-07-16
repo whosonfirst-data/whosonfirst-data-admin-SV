@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Agust\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "San Agust\u00edn"
+    ],
     "name:eng_x_preferred":[
         "San Agust\u00edn"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421178015,
-    "wof:lastmodified":1561845043,
+    "wof:lastmodified":1563298872,
     "wof:name":"San Agust\u00edn",
     "wof:parent_id":1108694909,
     "wof:placetype":"locality",

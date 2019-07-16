@@ -26,7 +26,13 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Op\u010dina Ljubljana-Be\u017eigrad"
+    ],
     "name:ces_x_preferred":[
+        "Be\u017eigrad"
+    ],
+    "name:deu_x_preferred":[
         "Be\u017eigrad"
     ],
     "name:eng_x_preferred":[
@@ -121,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561845031,
+    "wof:lastmodified":1563298334,
     "wof:name":"Be\u017eigrad",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

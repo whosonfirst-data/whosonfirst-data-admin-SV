@@ -14,35 +14,122 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u063a\u0648\u062a\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb \u0997\u09cb\u09a4\u09c7\u09b0\u09be "
+    ],
+    "name:ceb_x_preferred":[
+        "San Francisco"
+    ],
+    "name:dan_x_preferred":[
+        "San Francisco Gotera"
+    ],
     "name:deu_x_preferred":[
         "San Francisco Gotera"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf \u0393\u03ba\u03cc\u03c4\u03b5\u03c1\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "San Francisco Gotera"
+    ],
+    "name:fin_x_preferred":[
+        "San Francisco Gotera"
+    ],
     "name:fra_x_preferred":[
+        "San Francisco Gotera"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0aab\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0abf\u0ab8\u0acd\u0a95\u0acb "
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092b\u094d\u0930\u093e\u0902\u0938\u093f\u0938\u094d\u0915\u094b \u0917\u094b\u091f\u0947\u0930\u093e"
+    ],
+    "name:ind_x_preferred":[
         "San Francisco Gotera"
     ],
     "name:ita_x_preferred":[
         "San Francisco Gotera"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u30fb\u30b4\u30c6\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cab\u0ccd\u0cb0\u0cbe\u0ca8\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd\u0c95\u0cca \u0c97\u0cca\u0c9f\u0cc6\u0cb0\u0cbe"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud504\ub780\uc2dc\uc2a4\ucf54\uace0\ud14c\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Sanfransisko Gotera"
     ],
     "name:lit_x_preferred":[
         "San Fransisko Gotera"
     ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u092b\u094d\u0930\u093e\u0928\u094d\u0938\u093f\u0938\u094d\u0915\u094b \u0917\u094b\u091f\u0947\u0930\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "San Francisco Gotera"
+    ],
+    "name:nah_x_preferred":[
+        "San Francisco Gotera"
+    ],
     "name:nld_x_preferred":[
         "San Francisco Gotera"
+    ],
+    "name:nob_x_preferred":[
+        "San Francisco"
     ],
     "name:pol_x_preferred":[
         "San Francisco Gotera"
     ],
+    "name:por_x_preferred":[
+        "San Francisco Gotera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e \u0413\u043e\u0442\u0435\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0dc6\u0dca\u0dbb\u0dd0\u0db1\u0dca\u0dc3\u0dd2\u0dc3\u0dca\u0d9a\u0ddd \u0d9c\u0ddc\u0da7\u0dd9\u0dbb\u0dcf \u0db8\u0ddc\u0dbb\u0dc3\u0dcf\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "San Francisco"
     ],
+    "name:spa_x_variant":[
+        "San Francisco Gotera"
+    ],
+    "name:swe_x_preferred":[
+        "San Fransisco"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b95\u0bcb \u0b95\u0bcb\u0b9f\u0bc7\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c37\u0c3e\u0c28\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c3f\u0c38\u0c4d\u0c15\u0c4b \u0c17\u0c4a\u0c1f\u0c47\u0c30\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e1f\u0e23\u0e31\u0e19\u0e0b\u0e34\u0e2a\u0e42\u0e01\u0e42\u0e01\u0e40\u0e15\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "San Francisco Gotera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e-\u0413\u043e\u0442\u0435\u0440\u0430"
+    ],
     "name:unk_x_variant":[
         "Gotera"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648 \u06af\u0648\u062a\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "San Francisco Gotera"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u6208\u7279\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"El Salvador",
@@ -184,7 +271,7 @@
         }
     ],
     "wof:id":421190405,
-    "wof:lastmodified":1527716396,
+    "wof:lastmodified":1563298848,
     "wof:name":"San Francisco",
     "wof:parent_id":421189495,
     "wof:placetype":"locality",

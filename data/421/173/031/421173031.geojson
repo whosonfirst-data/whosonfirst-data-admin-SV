@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Ahuachap\u00e1n"
     ],
+    "name:ceb_x_preferred":[
+        "Ahuachap\u00e1n"
+    ],
     "name:dan_x_preferred":[
         "Ahuachap\u00e1n"
     ],
@@ -74,6 +77,9 @@
     "name:kor_x_preferred":[
         "\uc544\uc6b0\uc544\ucc28\ud310"
     ],
+    "name:lad_x_preferred":[
+        "Ahuachap\u00e1n"
+    ],
     "name:lav_x_preferred":[
         "Aua\u010dapana"
     ],
@@ -104,6 +110,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0447\u0443\u0430\u0447\u0430\u043f\u0430\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u0443\u0430\u0447\u0430\u043f\u0430\u043d"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dc4\u0dd4\u0da0\u0db4\u0dcf\u0db1\u0dca"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e27\u0e32\u0e0a\u0e32\u0e1b\u0e31\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e2d\u0e31\u0e27\u0e0a\u0e32\u0e1b\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Ahuachapan"
@@ -284,7 +296,7 @@
         }
     ],
     "wof:id":421173031,
-    "wof:lastmodified":1561845040,
+    "wof:lastmodified":1563298827,
     "wof:name":"Ahuachap\u00e1n",
     "wof:parent_id":421169323,
     "wof:placetype":"locality",

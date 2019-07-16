@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Juay\u00faa"
+    ],
     "name:deu_x_preferred":[
         "Juay\u00faa"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421181337,
-    "wof:lastmodified":1561845040,
+    "wof:lastmodified":1563298835,
     "wof:name":"Juay\u00faa",
     "wof:parent_id":421167823,
     "wof:placetype":"locality",

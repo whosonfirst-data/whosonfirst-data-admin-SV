@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Comasagua"
+    ],
     "name:deu_x_preferred":[
         "Comasagua"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421193937,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298804,
     "wof:name":"Comasagua",
     "wof:parent_id":421189131,
     "wof:placetype":"locality",

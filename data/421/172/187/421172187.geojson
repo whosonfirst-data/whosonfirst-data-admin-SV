@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Anamor\u00f3s"
     ],
+    "name:ceb_x_preferred":[
+        "Anamor\u00f3s"
+    ],
     "name:eng_x_preferred":[
         "Anamor\u00f3s"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421172187,
-    "wof:lastmodified":1561845040,
+    "wof:lastmodified":1563298832,
     "wof:name":"Anamor\u00f3s",
     "wof:parent_id":1108694715,
     "wof:placetype":"locality",

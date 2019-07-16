@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nuevo Cuscatl\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Nuevo Cuscatl\u00e1n"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421194781,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298802,
     "wof:name":"Nuevo Cuscatl\u00e1n",
     "wof:parent_id":1108694869,
     "wof:placetype":"locality",

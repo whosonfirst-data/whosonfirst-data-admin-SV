@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0987\u099f\u09bf\u09aa\u09c1\u0995\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Intipuc\u00e1"
+    ],
     "name:dan_x_preferred":[
         "Intipuc\u00e1"
     ],
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421166377,
-    "wof:lastmodified":1561845038,
+    "wof:lastmodified":1563298795,
     "wof:name":"Intipuc\u00e1",
     "wof:parent_id":421172531,
     "wof:placetype":"locality",

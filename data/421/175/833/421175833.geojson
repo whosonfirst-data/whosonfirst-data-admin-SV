@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nejapa"
+    ],
     "name:deu_x_preferred":[
         "Nejapa"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421175833,
-    "wof:lastmodified":1561845041,
+    "wof:lastmodified":1563298838,
     "wof:name":"Nejapa",
     "wof:parent_id":421189135,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11200831.458102,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.484496,46.074136,14.484496,46.074136",
     "geom:latitude":46.074136,
     "geom:longitude":14.484496,
@@ -25,13 +25,208 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:afr_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:arg_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ast_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:bam_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:bar_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:bre_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:cat_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:cos_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:cym_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:dan_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
     "name:eng_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:est_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:frc_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:frp_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:fur_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:gla_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:gle_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:glg_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:gsw_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ido_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ile_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ina_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ind_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:jam_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:kab_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:kon_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:lij_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:lim_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ltz_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:min_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:mlg_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:msa_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:nap_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:nds_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:nno_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:nob_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:nrm_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:oci_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:pap_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:pcd_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:pms_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:por_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:prg_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:rgn_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:roh_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:scn_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:sco_x_preferred":[
         "\u0160i\u0161ka"
     ],
     "name:slk_x_preferred":[
         "\u0160i\u0161ka"
     ],
     "name:slv_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:srd_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:swa_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:tur_x_preferred":[
         "\u0160i\u0161ka"
     ],
     "name:und_x_colloquial":[
@@ -41,6 +236,30 @@
         "\u0160i\u0161ka"
     ],
     "name:unk_x_variant":[
+        "\u0160i\u0161ka"
+    ],
+    "name:vec_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:vie_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:vls_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:vmf_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:vol_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:wln_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:wol_x_preferred":[
+        "\u0160i\u0161ka"
+    ],
+    "name:zul_x_preferred":[
         "\u0160i\u0161ka"
     ],
     "qs:gn_adm0_cc":"SI",
@@ -74,11 +293,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":51,
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +322,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939158,
+    "wof:lastmodified":1563298332,
     "wof:name":"Siska",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

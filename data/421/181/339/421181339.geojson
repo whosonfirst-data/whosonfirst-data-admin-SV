@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0418\u043b\u043e\u043f\u0430\u043d\u0433\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ilopango"
+    ],
     "name:deu_x_preferred":[
         "Ilopango"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Ilopango"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ed\u30d1\u30f3\u30b4"
     ],
     "name:nah_x_preferred":[
         "X\u012bl\u014dpanco"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421181339,
-    "wof:lastmodified":1561845040,
+    "wof:lastmodified":1563298836,
     "wof:name":"Ilopango",
     "wof:parent_id":421189133,
     "wof:placetype":"locality",

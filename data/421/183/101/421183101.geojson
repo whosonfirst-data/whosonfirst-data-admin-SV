@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Texistepeque"
+    ],
     "name:eng_x_preferred":[
         "Texistepeque"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421183101,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1563298862,
     "wof:name":"Texistepeque",
     "wof:parent_id":421203745,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0441\u043e\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Sesori"
+    ],
     "name:eng_x_preferred":[
         "Sesori"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421203983,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298815,
     "wof:name":"Sesori",
     "wof:parent_id":421176713,
     "wof:placetype":"locality",

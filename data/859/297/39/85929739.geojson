@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11104807.574122,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.468733,46.049267,14.468733,46.049267",
     "geom:latitude":46.049267,
     "geom:longitude":14.468733,
@@ -27,10 +27,19 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Ro\u017enik"
+    ],
     "name:eng_x_preferred":[
         "Ro\u017enik"
     ],
+    "name:fra_x_preferred":[
+        "Ro\u017enik"
+    ],
     "name:nld_x_preferred":[
+        "Ro\u017enik"
+    ],
+    "name:pol_x_preferred":[
         "Ro\u017enik"
     ],
     "name:ron_x_preferred":[
@@ -88,11 +97,11 @@
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
-        1108959949,
         102191581,
         1108959501,
         85633779,
-        101752073
+        101752073,
+        1108959949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939159,
+    "wof:lastmodified":1563298334,
     "wof:name":"Roznik",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

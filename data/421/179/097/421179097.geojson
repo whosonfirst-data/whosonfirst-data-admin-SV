@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santiago Nonualco"
+    ],
     "name:deu_x_preferred":[
         "Santiago Nonualco"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421179097,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1563298865,
     "wof:name":"Santiago Nonualco",
     "wof:parent_id":1108695053,
     "wof:placetype":"locality",

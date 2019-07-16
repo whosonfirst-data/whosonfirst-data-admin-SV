@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "San Miguel"
     ],
+    "name:eng_x_variant":[
+        "San Miguel Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento San Miguel"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:fra_x_variant":[
         "d\u00e9partement de San Miguel"
+    ],
+    "name:frr_x_preferred":[
+        "San Miguel"
     ],
     "name:glg_x_preferred":[
         "San Miguel"
@@ -93,6 +99,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ubbf8\uac94 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ubbf8\uac94\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Miguel"
     ],
     "name:lav_x_preferred":[
         "Sanmigelas departaments"
@@ -154,6 +166,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e21\u0e35\u0e40\u0e01\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e21\u0e34\u0e40\u0e01\u0e25"
     ],
     "name:tur_x_preferred":[
         "San Miguel Departman\u0131"
@@ -296,7 +311,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561845032,
+    "wof:lastmodified":1563298346,
     "wof:name":"San Miguel",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

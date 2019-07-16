@@ -25,6 +25,21 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Ljubljana-Center"
+    ],
+    "name:deu_x_preferred":[
+        "Center"
+    ],
+    "name:eng_x_preferred":[
+        "Center"
+    ],
+    "name:fra_x_preferred":[
+        "Center"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto Centro"
+    ],
     "name:nld_x_preferred":[
         "Center"
     ],
@@ -103,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864519,
+    "wof:lastmodified":1563298333,
     "wof:name":"Center",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

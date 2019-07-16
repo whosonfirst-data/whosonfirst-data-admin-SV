@@ -15,6 +15,9 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tecoluca"
+    ],
     "name:eng_x_preferred":[
         "Tecoluca"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890434955,
-    "wof:lastmodified":1561845043,
+    "wof:lastmodified":1563298884,
     "wof:name":"Tecoluca",
     "wof:parent_id":421189499,
     "wof:placetype":"locality",

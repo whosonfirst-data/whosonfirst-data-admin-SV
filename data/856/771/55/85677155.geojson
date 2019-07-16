@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "La Paz"
     ],
+    "name:eng_x_variant":[
+        "La Paz Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento La Paz"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:fra_x_variant":[
         "d\u00e9partement de La Paz"
+    ],
+    "name:frr_x_preferred":[
+        "La Paz"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0aaa\u0abe\u0a9d \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -93,6 +99,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\ud30c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\ud30c\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "La Paz"
     ],
     "name:lav_x_preferred":[
         "Lapaso departaments"
@@ -153,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e32\u0e1b\u0e32\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e32\u0e1b\u0e31\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Le Paz Departman\u0131"
@@ -295,7 +310,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561845032,
+    "wof:lastmodified":1563298344,
     "wof:name":"La Paz",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

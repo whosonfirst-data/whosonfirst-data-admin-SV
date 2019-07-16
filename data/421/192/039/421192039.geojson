@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Alegr\u00eda"
     ],
+    "name:ceb_x_preferred":[
+        "Alegr\u00eda"
+    ],
     "name:cym_x_preferred":[
         "Alegr\u00eda"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421192039,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298798,
     "wof:name":"Alegr\u00eda",
     "wof:parent_id":1108694713,
     "wof:placetype":"locality",
