@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Chalatenango"
     ],
+    "name:eng_x_variant":[
+        "Chalatenango Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Chalatenango"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:fra_x_variant":[
         "d\u00e9partement de Chalatenango"
+    ],
+    "name:frr_x_preferred":[
+        "Chalatenango"
     ],
     "name:glg_x_preferred":[
         "Chalatenango"
@@ -75,6 +81,12 @@
     ],
     "name:kor_x_preferred":[
         "\ucc30\ub77c\ud14c\ub0ad\uace0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucc30\ub77c\ud14c\ub0ad\uace0\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Chalatenango"
     ],
     "name:lit_x_preferred":[
         "\u010calatenango departamentas"
@@ -111,6 +123,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e32\u0e25\u0e32\u0e40\u0e15\u0e19\u0e31\u0e07\u0e42\u0e01"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043b\u0430\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
     "name:unk_x_variant":[
         "Departamento de Chalatenango"
@@ -244,7 +259,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561845031,
+    "wof:lastmodified":1563298340,
     "wof:name":"Chalatenango",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

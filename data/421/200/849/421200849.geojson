@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u0430\u043d\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Mejicanos"
+    ],
     "name:deu_x_preferred":[
         "Mejicanos"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Mejicanos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30d2\u30ab\u30ce\u30b9"
     ],
     "name:lit_x_preferred":[
         "Mechikanosas"
@@ -57,6 +63,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u0445\u0438\u043a\u0430\u043d\u043e\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0445\u0456\u043a\u0430\u043d\u043e\u0441"
     ],
     "name:unk_x_variant":[
         "Mexicanos"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421200849,
-    "wof:lastmodified":1561845041,
+    "wof:lastmodified":1563298852,
     "wof:name":"Mejicanos",
     "wof:parent_id":421180175,
     "wof:placetype":"locality",

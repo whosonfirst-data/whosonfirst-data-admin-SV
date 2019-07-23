@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0410\u044e\u0442\u0443\u0441\u0442\u0435\u043f\u0435\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Ayutuxtepeque"
+    ],
     "name:deu_x_preferred":[
         "Ayutuxtepeque"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421199357,
-    "wof:lastmodified":1561845041,
+    "wof:lastmodified":1563298851,
     "wof:name":"Ayutuxtepeque",
     "wof:parent_id":421180175,
     "wof:placetype":"locality",

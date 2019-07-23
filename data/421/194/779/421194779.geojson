@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto El Triunfo"
+    ],
     "name:deu_x_preferred":[
         "Puerto El Triunfo"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421194779,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298802,
     "wof:name":"Puerto El Triunfo",
     "wof:parent_id":1108694897,
     "wof:placetype":"locality",

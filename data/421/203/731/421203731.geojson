@@ -36,8 +36,110 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_variant":[
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0631\u064a\u0644\u0627\u063a\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09b0\u09bf\u09b2\u09be\u0997\u09cb\u09af\u09bc\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u0440\u0438\u043b\u0430\u0433\u0443\u0430"
+    ],
+    "name:ceb_x_preferred":[
         "Chirilagua"
+    ],
+    "name:dan_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c1\u03b9\u03bb\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:fin_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:fra_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0abf\u0ab0\u0ac0\u0ab2\u0a97\u0ac1\u0a86"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0930\u0940\u0932\u093e\u0917\u0942\u0906"
+    ],
+    "name:ind_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:ita_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30ea\u30e9\u30b0\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cbf\u0cb0\u0cbf\u0cb2\u0c97\u0cc1\u0cb5\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ub9ac\ub77c\uad6c\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cirilagva"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cirilagva"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u093f\u0932\u0940\u0917\u093e\u0917\u0941\u0906"
+    ],
+    "name:msa_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:nld_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:nob_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:pol_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:por_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0438\u043b\u0430\u0433\u0443\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dd2\u0dbb\u0dd2\u0dbd\u0d9c\u0dd4\u0dc0\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:swe_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c3f\u0c30\u0c3f\u0c32\u0c3e\u0c17\u0c4d\u0c35\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e34\u0e23\u0e34\u0e23\u0e32\u0e01\u0e31\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Chiralagua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0456\u0440\u0456\u043b\u0430\u0443\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0631\u06cc\u0644\u0627\u062c\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u91cc\u62c9\u74dc"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -87,7 +189,7 @@
         }
     ],
     "wof:id":421203731,
-    "wof:lastmodified":1554489046,
+    "wof:lastmodified":1563298815,
     "wof:name":"Chirilagua",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

@@ -19,6 +19,12 @@
     "name:ben_x_preferred":[
         "\u0986\u09a4\u09bf\u0995\u09cb\u0987\u09af\u09be\u09af\u09bc\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Atiquizaya"
+    ],
+    "name:ceb_x_preferred":[
+        "Atiquizaya"
+    ],
     "name:dan_x_preferred":[
         "Atiquizaya"
     ],
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421183601,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1563298862,
     "wof:name":"Atiquizaya",
     "wof:parent_id":421184607,
     "wof:placetype":"locality",

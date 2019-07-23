@@ -16,6 +16,12 @@
     "name:cat_x_preferred":[
         "San Francisco Men\u00e9ndez"
     ],
+    "name:ceb_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
+    "name:dan_x_preferred":[
+        "San Francisco Men\u00e9ndez"
+    ],
     "name:eng_x_preferred":[
         "San Francisco Men\u00e9ndez"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421174747,
-    "wof:lastmodified":1561845040,
+    "wof:lastmodified":1563298821,
     "wof:name":"San Francisco Men\u00e9ndez",
     "wof:parent_id":421203589,
     "wof:placetype":"locality",

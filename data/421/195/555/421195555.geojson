@@ -36,8 +36,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_variant":[
+    "name:bel_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434 \u0411\u0430\u0440\u044b\u044f\u0441"
+    ],
+    "name:cat_x_preferred":[
         "Ciudad Barrios"
+    ],
+    "name:ceb_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:deu_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:fra_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:ita_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30aa\u30b9\u5e02"
+    ],
+    "name:nld_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:por_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434 \u0411\u0430\u0440\u0440\u0438\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Barrios"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u5967\u65af\u5e02"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -87,7 +123,7 @@
         }
     ],
     "wof:id":421195555,
-    "wof:lastmodified":1554489019,
+    "wof:lastmodified":1563298800,
     "wof:name":"Ciudad Barrios",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

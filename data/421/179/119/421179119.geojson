@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u099f\u09cd\u09b0\u09be\u09a8\u099c\u09bf\u099f\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "El Tr\u00e1nsito"
+    ],
     "name:dan_x_preferred":[
         "El Transito"
     ],
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421179119,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1563298867,
     "wof:name":"El Tr\u00e1nsito",
     "wof:parent_id":421184721,
     "wof:placetype":"locality",

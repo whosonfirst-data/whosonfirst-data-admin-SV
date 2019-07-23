@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Moncagua"
+    ],
     "name:eng_x_preferred":[
         "Moncagua"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421179105,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1563298864,
     "wof:name":"Moncagua",
     "wof:parent_id":1108694851,
     "wof:placetype":"locality",

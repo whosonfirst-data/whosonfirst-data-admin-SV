@@ -36,8 +36,71 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_variant":[
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0633\u0627\u0643\u0627\u062a\u064a\u0643\u0648\u0644\u0648\u0643\u0627"
+    ],
+    "name:cat_x_preferred":[
         "Zacatecoluca"
+    ],
+    "name:ceb_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:deu_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03ba\u03b1\u03c4\u03b5\u03ba\u03bf\u03bb\u03bf\u03cd\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:fra_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:ita_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ab\u30c6\u30b3\u30eb\u30fc\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uce74\ud14c\ucf5c\ub8e8\uce74"
+    ],
+    "name:lit_x_preferred":[
+        "Sakatekoluka"
+    ],
+    "name:nah_x_preferred":[
+        "Zacatecol\u014dc\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:oci_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:pol_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:por_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u0442\u0435\u043a\u043e\u043b\u0443\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:tur_x_preferred":[
+        "Zacatecoluca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u0442\u0435\u043a\u043e\u043b\u0443\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u06a9\u0627\u062a\u06cc\u06a9\u0648\u0644\u0648\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5361\u7279\u79d1\u76e7\u5361"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -87,7 +150,7 @@
         }
     ],
     "wof:id":421191217,
-    "wof:lastmodified":1554488992,
+    "wof:lastmodified":1563298842,
     "wof:name":"Zacatecoluca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

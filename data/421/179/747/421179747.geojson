@@ -22,8 +22,17 @@
     "name:cat_x_preferred":[
         "Suchitoto"
     ],
+    "name:ceb_x_preferred":[
+        "Suchitoto"
+    ],
+    "name:deu_x_preferred":[
+        "Suchitoto"
+    ],
     "name:eng_x_preferred":[
         "Suchitoto"
+    ],
+    "name:eng_x_variant":[
+        "Suchitoto Municipality"
     ],
     "name:epo_x_preferred":[
         "Suchitoto"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421179747,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1563298866,
     "wof:name":"Suchitoto",
     "wof:parent_id":421175391,
     "wof:placetype":"locality",

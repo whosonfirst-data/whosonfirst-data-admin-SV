@@ -36,8 +36,41 @@
     "mps:longitude":-88.398601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto El Triunfo"
+    ],
     "name:eng_x_variant":[
         "El Triunfo"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30a8\u30eb\u30fb\u30c8\u30ea\u30a6\u30f3\u30d5\u30a9"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:por_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto El Triunfo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u7279\u91cc\u6eab\u798f\u6e2f"
     ],
     "qs:name":"Puerto El Triunfo",
     "qs:name_adm0":"El Salvador",
@@ -81,7 +114,7 @@
         }
     ],
     "wof:id":890452037,
-    "wof:lastmodified":1554489062,
+    "wof:lastmodified":1563298883,
     "wof:name":"El Triunfo",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

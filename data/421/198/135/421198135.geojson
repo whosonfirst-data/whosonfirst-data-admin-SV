@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u0439\u043c\u0430\u043d\u0433\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Guaymango"
+    ],
     "name:eng_x_preferred":[
         "Guaymango"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:por_x_preferred":[
         "Guaymango"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u0439\u043c\u0430\u043d\u0433\u043e"
     ],
     "name:spa_x_preferred":[
         "Guaymango"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421198135,
-    "wof:lastmodified":1561845041,
+    "wof:lastmodified":1563298840,
     "wof:name":"Guaymango",
     "wof:parent_id":1108694807,
     "wof:placetype":"locality",

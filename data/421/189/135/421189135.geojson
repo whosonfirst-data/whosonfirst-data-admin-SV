@@ -36,8 +36,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_variant":[
+    "name:ceb_x_preferred":[
         "Nejapa"
+    ],
+    "name:deu_x_preferred":[
+        "Nejapa"
+    ],
+    "name:eng_x_preferred":[
+        "Nejapa"
+    ],
+    "name:fra_x_preferred":[
+        "Nejapa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05d0\u05e4\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Nejapa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30cf\u30d1"
+    ],
+    "name:nah_x_preferred":[
+        "Nex\u0101pan"
+    ],
+    "name:nld_x_preferred":[
+        "Nejapa"
+    ],
+    "name:pol_x_preferred":[
+        "Nejapa"
+    ],
+    "name:por_x_preferred":[
+        "Nejapa"
+    ],
+    "name:spa_x_preferred":[
+        "Nejapa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043d\u0435\u0439\u044f\u043f\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u062e\u0627\u067e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u54c8\u5e15"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -87,7 +129,7 @@
         }
     ],
     "wof:id":421189135,
-    "wof:lastmodified":1554488984,
+    "wof:lastmodified":1563298828,
     "wof:name":"Nejapa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

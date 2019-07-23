@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0987\u09b2\u09cb\u09ac\u09be\u09b8\u0995\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Ilobasco"
+    ],
     "name:dan_x_preferred":[
         "Ilobasco"
     ],
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421166383,
-    "wof:lastmodified":1561845038,
+    "wof:lastmodified":1563298795,
     "wof:name":"Ilobasco",
     "wof:parent_id":421184405,
     "wof:placetype":"locality",

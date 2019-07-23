@@ -36,8 +36,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santiago Nonualco"
+    ],
+    "name:deu_x_preferred":[
+        "Santiago Nonualco"
+    ],
+    "name:eng_x_preferred":[
+        "Santiago Nonualco"
+    ],
     "name:eng_x_variant":[
         "San Juan Nonualco"
+    ],
+    "name:fra_x_preferred":[
+        "Santiago Nonualco"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago Nonualco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c6\u30a3\u30a2\u30b4\u30fb\u30ce\u30cc\u30a2\u30eb\u30b3"
+    ],
+    "name:nld_x_preferred":[
+        "Santiago Nonualco"
+    ],
+    "name:por_x_preferred":[
+        "Santiago Nonualco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u041d\u043e\u043d\u0443\u0430\u043b\u044c\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago Nonualco"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5730\u7259\u54e5\u8afe\u52aa\u963f\u723e\u79d1"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -87,7 +120,7 @@
         }
     ],
     "wof:id":421170965,
-    "wof:lastmodified":1554488759,
+    "wof:lastmodified":1563298858,
     "wof:name":"San Juan Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

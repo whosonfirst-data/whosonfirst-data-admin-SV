@@ -89,14 +89,14 @@
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
-    ],
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u09b8\u09be\u09b2\u09ad\u09be\u09a6\u09cb\u09b0"
     ],
     "name:ben_x_variant":[
         "\u09b8\u09be\u09b2\u09ad\u09c7\u09a1\u09b0"
+    ],
+    "name:bho_x_preferred":[
+        "\u090f\u0932 \u0938\u0932\u094d\u0935\u093e\u0921\u094b\u0930"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f72\u0f63\u0f0b\u0f66\u0f63\u0f0b\u0f5d\u0f0b\u0f4c\u0f7c\u0f62\u0f0d"
@@ -158,6 +158,9 @@
     "name:cym_x_preferred":[
         "El Salfador"
     ],
+    "name:cym_x_variant":[
+        "El Salvador"
+    ],
     "name:dan_x_preferred":[
         "El Salvador"
     ],
@@ -172,6 +175,9 @@
     ],
     "name:dsb_x_preferred":[
         "El Salvador"
+    ],
+    "name:dty_x_preferred":[
+        "\u090f\u0932 \u0938\u093e\u0932\u094d\u092d\u093e\u0926\u094b\u0930"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bb \u03a3\u03b1\u03bb\u03b2\u03b1\u03b4\u03cc\u03c1"
@@ -261,8 +267,14 @@
     "name:grn_x_preferred":[
         "Salvador"
     ],
+    "name:gsw_x_preferred":[
+        "El Salvador"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2 \u0ab8\u0ac7\u0ab2\u0acd\u0ab5\u0abe\u0aa1\u0acb\u0ab0"
+    ],
+    "name:guj_x_variant":[
+        "\u0a85\u0ab2 \u0ab8\u0abe\u0ab2\u0acd\u0ab5\u0abe\u0aa1\u0acb\u0ab0"
     ],
     "name:hak_x_preferred":[
         "El Salvador"
@@ -343,6 +355,9 @@
     "name:jav_x_preferred":[
         "\u00c8l Salvador"
     ],
+    "name:jav_x_variant":[
+        "El Salvador"
+    ],
     "name:jbo_x_preferred":[
         "salbador"
     ],
@@ -371,8 +386,14 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
+    "name:kaz_x_variant":[
+        "\u042d\u043b\u044c-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
+    ],
     "name:kbd_x_preferred":[
         "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
+    ],
+    "name:kbp_x_preferred":[
+        "Sal\u0269vaad\u0254\u0254r\u0269"
     ],
     "name:khm_x_preferred":[
         "\u17a2\u17c2\u179b\u179f\u17b6\u179b\u17cb\u179c\u17c9\u17b6\u178c\u17d0\u179a"
@@ -382,6 +403,9 @@
     ],
     "name:kin_x_preferred":[
         "Saluvadoro"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
     "name:kom_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
@@ -398,6 +422,9 @@
     "name:kur_x_variant":[
         "\u0626\u06ce\u0644\u0633\u0627\u0644\u06a4\u0627\u062f\u06c6\u0631"
     ],
+    "name:lad_x_preferred":[
+        "El Salvador"
+    ],
     "name:lao_x_preferred":[
         "\u0ec0\u0ead\u0e8a\u0eb2\u0ea7\u0eb2\u0e94\u0ecd"
     ],
@@ -406,6 +433,9 @@
     ],
     "name:lav_x_preferred":[
         "Salvadora"
+    ],
+    "name:lfn_x_preferred":[
+        "Salvador"
     ],
     "name:lij_x_preferred":[
         "El Salvador"
@@ -428,6 +458,9 @@
     "name:lrc_x_preferred":[
         "\u0626\u0644\u0633\u0627\u0644\u06a4\u0627\u062f\u0648\u0631"
     ],
+    "name:lrc_x_variant":[
+        "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+    ],
     "name:ltz_x_preferred":[
         "El Salvador"
     ],
@@ -436,6 +469,9 @@
     ],
     "name:lug_x_preferred":[
         "El salivado"
+    ],
+    "name:lzh_x_preferred":[
+        "\u85a9\u723e\u74e6\u591a"
     ],
     "name:mal_x_preferred":[
         "\u0d0e\u0d7d \u0d38\u0d3e\u0d7d\u0d35\u0d26\u0d4b\u0d7c"
@@ -464,6 +500,9 @@
     "name:mlt_x_preferred":[
         "El Salvador"
     ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+    ],
     "name:mrj_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
@@ -476,8 +515,20 @@
     "name:mya_x_variant":[
         "\u1021\u101a\u103a\u101c\u103a\u1006\u102c\u1017\u1031\u1038\u1012\u102d\u102f\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0624\u0631"
+    ],
+    "name:nah_x_preferred":[
+        "C\u014dzcatl\u0101n"
+    ],
+    "name:nan_x_preferred":[
+        "El Salvador"
     ],
     "name:nau_x_preferred":[
         "Ersarbador"
@@ -518,6 +569,9 @@
     "name:oci_x_variant":[
         "El Salvador"
     ],
+    "name:olo_x_preferred":[
+        "Sal\u2019vador"
+    ],
     "name:ori_x_preferred":[
         "\u0b0f\u0b32 \u0b38\u0b3e\u0b32\u0b2d\u0b3e\u0b21\u0b4b\u0b30"
     ],
@@ -535,6 +589,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3e\u0a32\u0a35\u0a3e\u0a26\u0a4b\u0a30"
+    ],
+    "name:pan_x_variant":[
+        "\u0a0f\u0a32 \u0a38\u0a3e\u0a32\u0a35\u0a3e\u0a21\u0a4b\u0a30"
     ],
     "name:pap_x_preferred":[
         "El Salvador"
@@ -575,8 +632,14 @@
     "name:ron_x_preferred":[
         "El Salvador"
     ],
+    "name:rue_x_preferred":[
+        "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
+    ],
     "name:run_x_preferred":[
         "Eli Saluvatori"
+    ],
+    "name:rup_x_preferred":[
+        "El Salvador"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
@@ -596,8 +659,14 @@
     "name:sco_x_preferred":[
         "El Salvador"
     ],
+    "name:sgs_x_preferred":[
+        "Salvaduors"
+    ],
     "name:sin_x_preferred":[
         "\u0d91\u0dbd\u0dca \u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dba"
+    ],
+    "name:sin_x_variant":[
+        "\u0d91\u0dbd\u0dca \u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u200d\u0da9\u0ddd"
     ],
     "name:slk_x_preferred":[
         "Salv\u00e1dor"
@@ -614,6 +683,9 @@
     "name:sna_x_preferred":[
         "El Salvador"
     ],
+    "name:snd_x_preferred":[
+        "\u0627\u064a\u0644 \u0633\u064a\u0644\u0648\u064a\u068a\u0648\u0631"
+    ],
     "name:som_x_preferred":[
         "El Salfador"
     ],
@@ -628,6 +700,9 @@
     ],
     "name:sqi_x_preferred":[
         "Salvadori"
+    ],
+    "name:srd_x_preferred":[
+        "El Salvador"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
@@ -665,6 +740,9 @@
     "name:tel_x_preferred":[
         "\u0c0e\u0c32\u0c4d \u0c38\u0c3e\u0c32\u0c4d\u0c35\u0c21\u0c4b\u0c30\u0c4d"
     ],
+    "name:tel_x_variant":[
+        "\u0c0e\u0c32\u0c4d \u0c38\u0c3e\u0c32\u0c4d\u0c35\u0c21\u0c3e\u0c30\u0c4d"
+    ],
     "name:tet_x_preferred":[
         "Salvad\u00f3r"
     ],
@@ -686,6 +764,9 @@
     ],
     "name:ton_x_preferred":[
         "\u02bbEle Salavatoa"
+    ],
+    "name:tuk_x_preferred":[
+        "Salwador"
     ],
     "name:tur_x_preferred":[
         "El Salvador"
@@ -711,6 +792,9 @@
     "name:uzb_x_preferred":[
         "El Salvador"
     ],
+    "name:vec_x_preferred":[
+        "El Salvador"
+    ],
     "name:vep_x_preferred":[
         "Sal'vador"
     ],
@@ -722,6 +806,9 @@
     ],
     "name:vol_x_preferred":[
         "Salvador\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "El Salvador"
     ],
     "name:war_x_preferred":[
         "El Salvador"
@@ -746,6 +833,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de \u1eb8\u1eb9s\u00e1f\u00e1d\u00f2"
+    ],
+    "name:yue_x_preferred":[
+        "\u85a9\u723e\u74e6\u591a"
     ],
     "name:zea_x_preferred":[
         "El Salvador"
@@ -918,7 +1008,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561845032,
+    "wof:lastmodified":1563298351,
     "wof:name":"El Salvador",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

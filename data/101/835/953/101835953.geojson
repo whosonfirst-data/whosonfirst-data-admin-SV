@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Piran"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0440\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b0\u09be\u09a8"
     ],
@@ -36,6 +39,9 @@
         "\u041f\u0438\u0440\u0430\u043d"
     ],
     "name:cat_x_preferred":[
+        "Piran"
+    ],
+    "name:ceb_x_preferred":[
         "Piran"
     ],
     "name:ces_x_preferred":[
@@ -83,6 +89,9 @@
     "name:hbs_x_preferred":[
         "Piran"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e8\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u093f\u0930\u093e\u0928"
     ],
@@ -118,6 +127,9 @@
     ],
     "name:lat_x_preferred":[
         "Pyrrhanum"
+    ],
+    "name:lat_x_variant":[
+        "Piranum"
     ],
     "name:lav_x_preferred":[
         "Pirana"
@@ -177,6 +189,9 @@
         "Ob\u010dina Piran"
     ],
     "name:spa_x_preferred":[
+        "Piran"
+    ],
+    "name:sqi_x_preferred":[
         "Piran"
     ],
     "name:srp_x_preferred":[
@@ -270,7 +285,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561845038,
+    "wof:lastmodified":1563298767,
     "wof:name":"Piran",
     "wof:parent_id":1108959613,
     "wof:placetype":"locality",

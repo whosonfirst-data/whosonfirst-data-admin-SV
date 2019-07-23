@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Portoro\u017e"
     ],
+    "name:ceb_x_preferred":[
+        "Portoro\u017e"
+    ],
     "name:ces_x_preferred":[
         "Portoro\u017e"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:epo_x_preferred":[
         "Portoro\u017e"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648\u0631\u0648\u0698"
     ],
     "name:fin_x_preferred":[
         "Portoro\u017e"
@@ -75,6 +81,9 @@
         "Portoro\u017e"
     ],
     "name:pol_x_preferred":[
+        "Portoro\u017e"
+    ],
+    "name:por_x_preferred":[
         "Portoro\u017e"
     ],
     "name:ron_x_preferred":[
@@ -160,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561845038,
+    "wof:lastmodified":1563298768,
     "wof:name":"Portoro\u017e",
     "wof:parent_id":1108959613,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Caba\u00f1as"
     ],
+    "name:eng_x_variant":[
+        "Caba\u00f1as Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Caba\u00f1as"
     ],
@@ -65,11 +68,17 @@
         "Caba\u00f1as",
         "d\u00e9partement de Caba\u00f1as"
     ],
+    "name:frr_x_preferred":[
+        "Caba\u00f1as"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aac\u0abe\u0aa8\u0abe\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
     ],
     "name:hin_x_preferred":[
         "\u0915\u092d\u093e\u0928\u094d\u092f\u093e\u0938 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:hin_x_variant":[
+        "\u0915\u092d\u093e\u0928\u094d\u092f\u093e\u0938"
     ],
     "name:hun_x_preferred":[
         "Caba\u00f1as megye"
@@ -91,6 +100,12 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ubc14\ub0d0\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ubc14\ub0d0\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Caba\u00f1as"
     ],
     "name:lav_x_preferred":[
         "Kabanjasas departaments"
@@ -156,6 +171,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e1a\u0e32\u0e0d\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e1a\u0e31\u0e0d\u0e0d\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Cabanas Departman\u0131"
@@ -298,7 +316,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561845032,
+    "wof:lastmodified":1563298346,
     "wof:name":"Caba\u00f1as",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

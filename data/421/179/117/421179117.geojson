@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Jocoro"
+    ],
     "name:deu_x_preferred":[
         "Jocoro"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421179117,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1563298867,
     "wof:name":"Jocoro",
     "wof:parent_id":421185175,
     "wof:placetype":"locality",

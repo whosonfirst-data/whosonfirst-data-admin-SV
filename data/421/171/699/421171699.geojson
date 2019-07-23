@@ -36,11 +36,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chiltiup\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Chiltiup\u00e1n"
+    ],
     "name:eng_x_variant":[
-        "Chiltiupan",
+        "Chiltiupan"
+    ],
+    "name:fra_x_preferred":[
         "Chiltiup\u00e1n"
     ],
     "name:ita_x_preferred":[
+        "Chiltiup\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30eb\u30c6\u30a3\u30a6\u30d1\u30f3"
+    ],
+    "name:nld_x_preferred":[
         "Chiltiup\u00e1n"
     ],
     "name:por_x_preferred":[
@@ -100,7 +114,7 @@
         }
     ],
     "wof:id":421171699,
-    "wof:lastmodified":1554488764,
+    "wof:lastmodified":1563298879,
     "wof:name":"Chiltiupan",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

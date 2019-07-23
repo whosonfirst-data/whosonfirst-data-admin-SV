@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Caluco"
+    ],
     "name:deu_x_preferred":[
         "Caluco"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421181033,
-    "wof:lastmodified":1561845041,
+    "wof:lastmodified":1563298838,
     "wof:name":"Caluco",
     "wof:parent_id":421189151,
     "wof:placetype":"locality",

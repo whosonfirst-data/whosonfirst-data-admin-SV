@@ -23,7 +23,13 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ae\u09bf\u0997\u09cb\u09af\u09bc\u09c7\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09ae\u09bf\u0997\u09c7\u09b2"
+    ],
     "name:cat_x_preferred":[
+        "San Miguel"
+    ],
+    "name:ceb_x_preferred":[
         "San Miguel"
     ],
     "name:dan_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:eus_x_preferred":[
         "San Miguel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u0644"
     ],
     "name:fin_x_preferred":[
         "San Miguel"
@@ -143,6 +152,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19 \u0e21\u0e34\u0e40\u0e01\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e21\u0e34\u0e40\u0e01\u0e25"
+    ],
     "name:tur_x_preferred":[
         "San Miguel"
     ],
@@ -154,6 +166,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u0644\u060c \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u0644"
     ],
     "name:vie_x_preferred":[
         "San Miguel"
@@ -306,7 +321,7 @@
         }
     ],
     "wof:id":421169077,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298807,
     "wof:name":"San Miquel",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

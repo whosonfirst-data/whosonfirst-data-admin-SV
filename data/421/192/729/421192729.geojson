@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "El Refugio"
     ],
+    "name:ceb_x_preferred":[
+        "El Refugio"
+    ],
     "name:eng_x_preferred":[
         "El Refugio"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421192729,
-    "wof:lastmodified":1561845039,
+    "wof:lastmodified":1563298799,
     "wof:name":"El Refugio",
     "wof:parent_id":1108694787,
     "wof:placetype":"locality",

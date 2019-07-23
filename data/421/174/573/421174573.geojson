@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Jujutla"
+    ],
     "name:eng_x_preferred":[
         "Jujutla"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421174573,
-    "wof:lastmodified":1561845040,
+    "wof:lastmodified":1563298822,
     "wof:name":"Jujutla",
     "wof:parent_id":421204283,
     "wof:placetype":"locality",
