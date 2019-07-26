@@ -35,8 +35,23 @@
     "mps:longitude":-88.262358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Moncagua"
+    ],
     "name:eng_x_variant":[
         "Moncagua"
+    ],
+    "name:ita_x_preferred":[
+        "Moncagua"
+    ],
+    "name:por_x_preferred":[
+        "Moncagua"
+    ],
+    "name:spa_x_preferred":[
+        "Moncagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u5361\u74dc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694851,
-    "wof:lastmodified":1554489247,
+    "wof:lastmodified":1564161012,
     "wof:name":"Moncagua",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

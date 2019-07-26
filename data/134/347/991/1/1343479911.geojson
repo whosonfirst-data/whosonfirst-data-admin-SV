@@ -26,10 +26,25 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Jorge"
+    ],
+    "name:ita_x_preferred":[
+        "San Jorge"
+    ],
+    "name:por_x_preferred":[
+        "San Jorge"
+    ],
+    "name:spa_x_preferred":[
+        "San Jorge"
+    ],
     "name:und_x_variant":[
         "Caser\u00edo San Jorge",
         "Caser\u00edo San Jorge y Mazatepeque",
         "San Jorge"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u970d\u723e\u8d6b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343479911,
-    "wof:lastmodified":1537701441,
+    "wof:lastmodified":1564160654,
     "wof:name":"San Jorge",
     "wof:parent_id":421176713,
     "wof:placetype":"locality",

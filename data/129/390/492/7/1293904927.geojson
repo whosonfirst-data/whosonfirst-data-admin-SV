@@ -26,9 +26,15 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nacascolo"
+    ],
     "name:und_x_variant":[
         "Nacascol",
         "Nacascolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5361\u65af\u79d1\u6d1b\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293904927,
-    "wof:lastmodified":1537701454,
+    "wof:lastmodified":1564160712,
     "wof:name":"Nacascolo",
     "wof:parent_id":421172671,
     "wof:placetype":"locality",

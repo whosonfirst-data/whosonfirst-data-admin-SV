@@ -35,8 +35,59 @@
     "mps:longitude":-88.588093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:ceb_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:dan_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c3\u03bf\u03c5\u03bd\u03c4\u03b5\u03c0\u03ad\u03ba\u03b5"
+    ],
     "name:eng_x_variant":[
         "Sensuntepeque"
+    ],
+    "name:fra_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:ita_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:kor_x_preferred":[
+        "\uc13c\uc21c\ud14c\ud398\ucf00"
+    ],
+    "name:lit_x_preferred":[
+        "Sensuntepek\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:pol_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:por_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0441\u0443\u043d\u0442\u0435\u043f\u0435\u043a\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Sensuntepeque"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e0b\u0e38\u0e19\u0e40\u0e15\u0e40\u0e1b\u0e40\u0e01"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0441\u0443\u043d\u0442\u0435\u043f\u0435\u043a\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0633\u0648\u0646\u062a\u06cc\u067e\u06cc\u06a9\u0648\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u5b6b\u7279\u4f69\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +112,7 @@
         }
     ],
     "wof:id":1108695063,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1564161030,
     "wof:name":"Sensuntepeque",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

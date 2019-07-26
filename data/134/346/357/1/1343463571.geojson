@@ -26,9 +26,24 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moncagua"
+    ],
+    "name:ita_x_preferred":[
+        "Moncagua"
+    ],
+    "name:por_x_preferred":[
+        "Moncagua"
+    ],
+    "name:spa_x_preferred":[
+        "Moncagua"
+    ],
     "name:und_x_variant":[
         "Caser\u00edo Moncagua",
         "Moncagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u5361\u74dc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343463571,
-    "wof:lastmodified":1537701455,
+    "wof:lastmodified":1564160645,
     "wof:name":"Moncagua",
     "wof:parent_id":1108694993,
     "wof:placetype":"locality",

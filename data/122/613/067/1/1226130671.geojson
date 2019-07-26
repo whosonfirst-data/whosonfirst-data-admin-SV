@@ -26,6 +26,9 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Comecayo"
+    ],
     "name:und_x_variant":[
         "Caser\u00edo Comecayo",
         "Comecayo"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226130671,
-    "wof:lastmodified":1537701511,
+    "wof:lastmodified":1564161377,
     "wof:name":"Comecayo",
     "wof:parent_id":421166707,
     "wof:placetype":"locality",

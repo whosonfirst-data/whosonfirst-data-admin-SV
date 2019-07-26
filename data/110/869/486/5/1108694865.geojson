@@ -35,9 +35,24 @@
     "mps:longitude":-88.328051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nueva Guadalupe"
+    ],
     "name:eng_x_variant":[
         "Nueva Guadalupe",
         "Lolotique"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Guadalupe"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Guadalupe"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Guadalupe"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u74dc\u9054\u76e7\u4f69"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1108694865,
-    "wof:lastmodified":1554489247,
+    "wof:lastmodified":1564161045,
     "wof:name":"Nueva Guadalupe",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

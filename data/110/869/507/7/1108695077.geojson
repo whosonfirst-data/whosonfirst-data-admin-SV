@@ -38,6 +38,18 @@
     "name:eng_x_variant":[
         "Tecoluca"
     ],
+    "name:ita_x_preferred":[
+        "Tecoluca"
+    ],
+    "name:por_x_preferred":[
+        "Tecoluca"
+    ],
+    "name:spa_x_preferred":[
+        "Tecoluca"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u79d1\u76e7\u5361"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1108695077,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1564161033,
     "wof:name":"Tecoluca",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

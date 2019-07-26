@@ -35,8 +35,23 @@
     "mps:longitude":-89.489264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tepecoyo"
+    ],
     "name:eng_x_variant":[
         "Tepecoyo"
+    ],
+    "name:ita_x_preferred":[
+        "Tepecoyo"
+    ],
+    "name:por_x_preferred":[
+        "Tepecoyo"
+    ],
+    "name:spa_x_preferred":[
+        "Tepecoyo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u4f69\u79d1\u7d04"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108695081,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1564161029,
     "wof:name":"Tepecoyo",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

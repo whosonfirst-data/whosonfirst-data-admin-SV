@@ -35,8 +35,23 @@
     "mps:longitude":-89.525688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "El Congo"
+    ],
     "name:eng_x_variant":[
         "El Congo"
+    ],
+    "name:ita_x_preferred":[
+        "El Congo"
+    ],
+    "name:por_x_preferred":[
+        "El Congo"
+    ],
+    "name:spa_x_preferred":[
+        "El Congo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5b54\u6208"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694775,
-    "wof:lastmodified":1554489246,
+    "wof:lastmodified":1564161016,
     "wof:name":"El Congo",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

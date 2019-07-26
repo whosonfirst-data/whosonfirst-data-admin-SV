@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Delicias de Concepci\u00f3n"
     ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5229\u897f\u4e9e\u65af\u5fb7\u5eb7\u585e\u666e\u897f\u7fc1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293674757,
-    "wof:lastmodified":1537701509,
+    "wof:lastmodified":1564160745,
     "wof:name":"Delicias de Concepcion",
     "wof:parent_id":1108694767,
     "wof:placetype":"locality",

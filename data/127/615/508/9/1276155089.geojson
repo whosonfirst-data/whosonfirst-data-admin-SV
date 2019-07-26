@@ -25,6 +25,18 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Cuervo"
+    ],
+    "name:deu_x_preferred":[
+        "El Cuervo"
+    ],
+    "name:spa_x_preferred":[
+        "El cuervo"
+    ],
+    "name:swe_x_preferred":[
+        "El Cuervo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276155089,
-    "wof:lastmodified":1537016895,
+    "wof:lastmodified":1564160845,
     "wof:name":"El Cuervo",
     "wof:parent_id":1108695071,
     "wof:placetype":"locality",

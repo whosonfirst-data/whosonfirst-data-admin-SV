@@ -35,8 +35,23 @@
     "mps:longitude":-89.441612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jayaque"
+    ],
     "name:eng_x_variant":[
         "Jayaque"
+    ],
+    "name:ita_x_preferred":[
+        "Jayaque"
+    ],
+    "name:por_x_preferred":[
+        "Jayaque"
+    ],
+    "name:spa_x_preferred":[
+        "Jayaque"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u4e9e\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694813,
-    "wof:lastmodified":1554489245,
+    "wof:lastmodified":1564161035,
     "wof:name":"Jayaque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

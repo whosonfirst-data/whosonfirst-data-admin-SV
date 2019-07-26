@@ -26,9 +26,24 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Santa Isabel Ishuat\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Isabel Ishuat\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Santa Isabel Ishuat\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Isabel Ishuat\u00e1n"
+    ],
     "name:und_x_variant":[
         "Ishuat\u00e1n",
         "Santa Isabel Ishuat\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u85a9\u8c9d\u723e\u4f0a\u65af\u74e6\u5766"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1226736021,
-    "wof:lastmodified":1537701433,
+    "wof:lastmodified":1564161354,
     "wof:name":"Santa Isabel Ishuatan",
     "wof:parent_id":1108695031,
     "wof:placetype":"locality",

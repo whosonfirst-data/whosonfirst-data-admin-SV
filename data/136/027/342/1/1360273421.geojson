@@ -26,6 +26,30 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Soliman"
+    ],
+    "name:deu_x_preferred":[
+        "Soliman"
+    ],
+    "name:fra_x_preferred":[
+        "Soliman"
+    ],
+    "name:ita_x_preferred":[
+        "Soliman"
+    ],
+    "name:ron_x_preferred":[
+        "Soliman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0438\u043c\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Solim\u00e1n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u0456\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Solimar",
         "Solim\u00e1n"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1360273421,
-    "wof:lastmodified":1537701430,
+    "wof:lastmodified":1564161130,
     "wof:name":"Soliman",
     "wof:parent_id":421190155,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Sim\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "San Sim\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "San Sim\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "San Sim\u00f3n"
+    ],
     "name:und_x_variant":[
         "San Sim\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u897f\u8499"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309826017,
-    "wof:lastmodified":1537701434,
+    "wof:lastmodified":1564161159,
     "wof:name":"San Simon",
     "wof:parent_id":1108695017,
     "wof:placetype":"locality",

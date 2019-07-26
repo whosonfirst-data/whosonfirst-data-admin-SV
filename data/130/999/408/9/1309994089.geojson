@@ -25,8 +25,23 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Sebasti\u00e1n Salitrillo"
+    ],
+    "name:ita_x_preferred":[
+        "San Sebasti\u00e1n Salitrillo"
+    ],
+    "name:por_x_preferred":[
+        "San Sebasti\u00e1n Salitrillo"
+    ],
+    "name:spa_x_preferred":[
+        "San Sebasti\u00e1n Salitrillo"
+    ],
     "name:und_x_variant":[
         "San Sebasti\u00e1n Salitrillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u585e\u74e6\u65af\u8482\u5b89\u85a9\u5229\u7279\u91cc\u7d04"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309994089,
-    "wof:lastmodified":1537701434,
+    "wof:lastmodified":1564161149,
     "wof:name":"San Sebastian Salitrillo",
     "wof:parent_id":1108695011,
     "wof:placetype":"locality",

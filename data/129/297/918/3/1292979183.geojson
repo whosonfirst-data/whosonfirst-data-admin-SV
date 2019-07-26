@@ -25,6 +25,24 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:fra_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u99ac\u85a9\u74e6\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1292979183,
-    "wof:lastmodified":1537021858,
+    "wof:lastmodified":1564160756,
     "wof:name":"San Antonio Masahuat",
     "wof:parent_id":421203745,
     "wof:placetype":"locality",

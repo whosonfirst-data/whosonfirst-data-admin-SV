@@ -25,6 +25,21 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Candelaria"
+    ],
+    "name:ita_x_preferred":[
+        "Candelaria"
+    ],
+    "name:por_x_preferred":[
+        "Candelaria"
+    ],
+    "name:spa_x_preferred":[
+        "Candelaria"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5fb7\u62c9\u91cc\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293001009,
-    "wof:lastmodified":1537573779,
+    "wof:lastmodified":1564160703,
     "wof:name":"Candelaria",
     "wof:parent_id":1108694855,
     "wof:placetype":"locality",

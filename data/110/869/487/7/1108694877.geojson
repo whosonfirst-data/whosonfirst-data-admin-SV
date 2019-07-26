@@ -35,8 +35,26 @@
     "mps:longitude":-89.12407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Olocuilta"
+    ],
     "name:eng_x_variant":[
         "Olocuilta"
+    ],
+    "name:fra_x_preferred":[
+        "Olocuilta"
+    ],
+    "name:ita_x_preferred":[
+        "Olocuilta"
+    ],
+    "name:por_x_preferred":[
+        "Olocuilta"
+    ],
+    "name:spa_x_preferred":[
+        "Olocuilta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6d1b\u594e\u723e\u5854"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694877,
-    "wof:lastmodified":1554489247,
+    "wof:lastmodified":1564161045,
     "wof:name":"Olocuilta",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

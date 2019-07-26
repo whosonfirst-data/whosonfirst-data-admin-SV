@@ -25,6 +25,24 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Carlos"
+    ],
+    "name:est_x_preferred":[
+        "San Carlose vald"
+    ],
+    "name:ita_x_preferred":[
+        "San Carlos"
+    ],
+    "name:por_x_preferred":[
+        "San Carlos"
+    ],
+    "name:spa_x_preferred":[
+        "San Carlos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1326650109,
-    "wof:lastmodified":1537573771,
+    "wof:lastmodified":1564160605,
     "wof:name":"San Carlos",
     "wof:parent_id":421189495,
     "wof:placetype":"locality",

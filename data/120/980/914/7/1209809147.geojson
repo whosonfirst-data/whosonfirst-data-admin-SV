@@ -26,6 +26,12 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guapa"
+    ],
+    "name:spa_x_preferred":[
+        "Guapa"
+    ],
     "name:und_x_variant":[
         "Cuapa",
         "Guapa"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209809147,
-    "wof:lastmodified":1537701510,
+    "wof:lastmodified":1564160935,
     "wof:name":"Guapa",
     "wof:parent_id":421203733,
     "wof:placetype":"locality",

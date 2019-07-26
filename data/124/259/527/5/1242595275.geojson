@@ -26,6 +26,15 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Agua Fria"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Fria"
+    ],
+    "name:swe_x_preferred":[
+        "Agua Fria"
+    ],
     "name:und_x_variant":[
         "Cant\u00f3n Agua Fr\u00eda",
         "Agua Fr\u00eda"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1242595275,
-    "wof:lastmodified":1537701519,
+    "wof:lastmodified":1564161218,
     "wof:name":"Agua Fria",
     "wof:parent_id":421193371,
     "wof:placetype":"locality",

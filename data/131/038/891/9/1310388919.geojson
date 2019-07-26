@@ -25,8 +25,23 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ereguayqu\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Ereguayqu\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Ereguayqu\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Ereguayqu\u00edn"
+    ],
     "name:und_x_variant":[
         "Ereguayqu\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u96f7\u74dc\u4f0a\u91d1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310388919,
-    "wof:lastmodified":1537701486,
+    "wof:lastmodified":1564161073,
     "wof:name":"Ereguayquin",
     "wof:parent_id":1108694795,
     "wof:placetype":"locality",

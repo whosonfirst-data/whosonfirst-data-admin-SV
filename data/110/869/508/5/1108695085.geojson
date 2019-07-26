@@ -35,8 +35,23 @@
     "mps:longitude":-88.229056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Torola"
+    ],
     "name:eng_x_variant":[
         "Torola"
+    ],
+    "name:ita_x_preferred":[
+        "Torola"
+    ],
+    "name:por_x_preferred":[
+        "Torola"
+    ],
+    "name:spa_x_preferred":[
+        "Torola"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u7f85\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108695085,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1564161029,
     "wof:name":"Torola",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

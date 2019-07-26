@@ -39,6 +39,18 @@
     "name:eng_x_variant":[
         "San Luis La Herradura"
     ],
+    "name:fra_x_preferred":[
+        "San Luis La Herradura"
+    ],
+    "name:ita_x_preferred":[
+        "San Luis La Herradura"
+    ],
+    "name:por_x_preferred":[
+        "San Luis La Herradura"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis La Herradura"
+    ],
     "qs:name":"San Luis de la Herradura",
     "qs:name_adm0":"El Salvador",
     "qs:name_adm1":"La Paz",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":890451505,
-    "wof:lastmodified":1554489062,
+    "wof:lastmodified":1564161190,
     "wof:name":"San Luis La Herradura",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

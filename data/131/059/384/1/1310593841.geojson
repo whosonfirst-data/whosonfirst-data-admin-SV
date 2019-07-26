@@ -25,8 +25,26 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jerusal\u00e9n"
+    ],
+    "name:ita_x_preferred":[
+        "Jerusal\u00e9n"
+    ],
+    "name:por_x_preferred":[
+        "Jerusal\u00e9n"
+    ],
+    "name:sco_x_preferred":[
+        "Jerusal\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "Jerusal\u00e9n"
+    ],
     "name:und_x_variant":[
         "Jerusal\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u9b6f\u85a9\u502b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310593841,
-    "wof:lastmodified":1537701476,
+    "wof:lastmodified":1564161106,
     "wof:name":"Jerusalen",
     "wof:parent_id":1108694815,
     "wof:placetype":"locality",

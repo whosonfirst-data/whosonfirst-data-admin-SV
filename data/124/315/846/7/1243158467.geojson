@@ -26,6 +26,18 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:deu_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:spa_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:swe_x_preferred":[
+        "Las Mercedes"
+    ],
     "name:und_x_variant":[
         "Finca Las Mercedes",
         "Mercedes",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243158467,
-    "wof:lastmodified":1537701465,
+    "wof:lastmodified":1564161240,
     "wof:name":"Las Mercedes",
     "wof:parent_id":1108694973,
     "wof:placetype":"locality",

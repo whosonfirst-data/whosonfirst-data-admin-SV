@@ -38,6 +38,24 @@
     "name:eng_x_variant":[
         "Azacualpa"
     ],
+    "name:fra_x_preferred":[
+        "Azacualpa"
+    ],
+    "name:ita_x_preferred":[
+        "Azacualpa"
+    ],
+    "name:nld_x_preferred":[
+        "Azacualpa"
+    ],
+    "name:por_x_preferred":[
+        "Azacualpa"
+    ],
+    "name:spa_x_preferred":[
+        "Azacualpa"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u85a9\u5eab\u963f\u723e\u5e15"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694719,
-    "wof:lastmodified":1554489244,
+    "wof:lastmodified":1564161011,
     "wof:name":"Azacualpa",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

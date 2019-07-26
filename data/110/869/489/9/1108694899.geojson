@@ -38,6 +38,18 @@
     "name:eng_x_variant":[
         "Quelepa"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u067e\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Quelepa"
+    ],
+    "name:spa_x_preferred":[
+        "Quelepa"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u840a\u5e15"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1108694899,
-    "wof:lastmodified":1554489248,
+    "wof:lastmodified":1564161050,
     "wof:name":"Quelepa",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

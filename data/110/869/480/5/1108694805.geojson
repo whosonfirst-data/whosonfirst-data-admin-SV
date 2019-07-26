@@ -35,8 +35,23 @@
     "mps:longitude":-88.222459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Guatajiagua"
+    ],
     "name:eng_x_variant":[
         "Guatajiagua"
+    ],
+    "name:ita_x_preferred":[
+        "Guatajiagua"
+    ],
+    "name:por_x_preferred":[
+        "Guatajiagua"
+    ],
+    "name:spa_x_preferred":[
+        "Guatajiagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u5854\u5e0c\u4e9e\u74dc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694805,
-    "wof:lastmodified":1554489245,
+    "wof:lastmodified":1564161049,
     "wof:name":"Guatajiagua",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

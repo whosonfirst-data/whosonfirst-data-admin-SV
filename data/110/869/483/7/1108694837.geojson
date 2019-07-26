@@ -35,8 +35,23 @@
     "mps:longitude":-87.907462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lislique"
+    ],
     "name:eng_x_variant":[
         "Lislique"
+    ],
+    "name:ita_x_preferred":[
+        "Lislique"
+    ],
+    "name:por_x_preferred":[
+        "Lislique"
+    ],
+    "name:spa_x_preferred":[
+        "Lislique"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u65af\u5229\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694837,
-    "wof:lastmodified":1554489247,
+    "wof:lastmodified":1564161016,
     "wof:name":"Lislique",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

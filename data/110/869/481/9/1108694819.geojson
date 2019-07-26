@@ -35,8 +35,23 @@
     "mps:longitude":-88.063497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Joateca"
+    ],
     "name:eng_x_variant":[
         "Joateca"
+    ],
+    "name:ita_x_preferred":[
+        "Joateca"
+    ],
+    "name:por_x_preferred":[
+        "Joateca"
+    ],
+    "name:spa_x_preferred":[
+        "Joateca"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u963f\u7279\u5361"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694819,
-    "wof:lastmodified":1554489246,
+    "wof:lastmodified":1564161035,
     "wof:name":"Joateca",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

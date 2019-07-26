@@ -35,8 +35,23 @@
     "mps:longitude":-88.877848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Rafael Cedros"
+    ],
     "name:eng_x_variant":[
         "San Rafael Cedros"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael Cedros"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael Cedros"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael Cedros"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u585e\u5fb7\u7f85\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108695003,
-    "wof:lastmodified":1554489250,
+    "wof:lastmodified":1564161032,
     "wof:name":"San Rafael Cedros",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

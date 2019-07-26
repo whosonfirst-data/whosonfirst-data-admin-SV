@@ -35,8 +35,32 @@
     "mps:longitude":-89.852747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Guaymango"
+    ],
     "name:eng_x_variant":[
         "Guaymango"
+    ],
+    "name:fra_x_preferred":[
+        "Guaymango"
+    ],
+    "name:ita_x_preferred":[
+        "Guaymango"
+    ],
+    "name:nor_x_preferred":[
+        "Guaymango"
+    ],
+    "name:por_x_preferred":[
+        "Guaymango"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u0439\u043c\u0430\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Guaymango"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4f0a\u66fc\u6208"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1108694807,
-    "wof:lastmodified":1554489246,
+    "wof:lastmodified":1564161048,
     "wof:name":"Guaymango",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

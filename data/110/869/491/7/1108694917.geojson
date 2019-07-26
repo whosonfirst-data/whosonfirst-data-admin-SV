@@ -35,8 +35,26 @@
     "mps:longitude":-89.021553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Antonio Masahuat"
+    ],
     "name:eng_x_variant":[
         "San Antonio Masahuat"
+    ],
+    "name:fra_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio Masahuat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u99ac\u85a9\u74e6\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694917,
-    "wof:lastmodified":1554489248,
+    "wof:lastmodified":1564161024,
     "wof:name":"San Antonio Masahuat",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

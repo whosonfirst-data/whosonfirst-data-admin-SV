@@ -35,8 +35,23 @@
     "mps:longitude":-88.064404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Uluazapa"
+    ],
     "name:eng_x_variant":[
         "Uluazapa"
+    ],
+    "name:ita_x_preferred":[
+        "Uluazapa"
+    ],
+    "name:por_x_preferred":[
+        "Uluazapa"
+    ],
+    "name:spa_x_preferred":[
+        "Uluazapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u76e7\u963f\u85a9\u5e15"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108695091,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1564161034,
     "wof:name":"Uluazapa",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

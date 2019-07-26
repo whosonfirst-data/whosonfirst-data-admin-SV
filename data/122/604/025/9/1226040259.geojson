@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Para\u00edso de Osorio"
     ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u4f0a\u7d22\u5fb7\u5967\u7d22\u91cc\u5967"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226040259,
-    "wof:lastmodified":1537701451,
+    "wof:lastmodified":1564161368,
     "wof:name":"Paraiso de Osorio",
     "wof:parent_id":1108694887,
     "wof:placetype":"locality",

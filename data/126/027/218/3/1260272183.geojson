@@ -26,6 +26,12 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Las Victorias"
+    ],
+    "name:spa_x_preferred":[
+        "Parque nacional Las Victorias"
+    ],
     "name:und_x_variant":[
         "Colonia Las Victorias",
         "Barrio Victorias",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1260272183,
-    "wof:lastmodified":1537701463,
+    "wof:lastmodified":1564160990,
     "wof:name":"Las Victorias",
     "wof:parent_id":421183081,
     "wof:placetype":"locality",

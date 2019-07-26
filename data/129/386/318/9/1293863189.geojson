@@ -26,6 +26,9 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda San Pedro"
+    ],
     "name:und_x_variant":[
         "San Pedro",
         "Hacienda San Pedro"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293863189,
-    "wof:lastmodified":1537701479,
+    "wof:lastmodified":1564160779,
     "wof:name":"Hacienda San Pedro",
     "wof:parent_id":1108694705,
     "wof:placetype":"locality",

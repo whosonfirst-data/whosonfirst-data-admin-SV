@@ -35,8 +35,26 @@
     "mps:longitude":-89.64502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cuisnahuat"
+    ],
+    "name:deu_x_preferred":[
+        "Cuisnahuat"
+    ],
     "name:eng_x_variant":[
         "Cuisnahuat"
+    ],
+    "name:ita_x_preferred":[
+        "Cuisnahuat"
+    ],
+    "name:por_x_preferred":[
+        "Cuisnahuat"
+    ],
+    "name:spa_x_preferred":[
+        "Cuisnahuat"
+    ],
+    "name:zho_x_preferred":[
+        "\u594e\u65af\u7d0d\u74e6\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694759,
-    "wof:lastmodified":1554489245,
+    "wof:lastmodified":1564161036,
     "wof:name":"Cuisnahuat",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quezaltepeque"
+    ],
     "name:deu_x_preferred":[
         "Quezaltepeque"
     ],
@@ -45,6 +48,9 @@
     "name:ita_x_preferred":[
         "Quezaltepeque"
     ],
+    "name:nds_x_preferred":[
+        "Quezaltepeque"
+    ],
     "name:nld_x_preferred":[
         "Quezaltepeque"
     ],
@@ -52,6 +58,9 @@
         "Quezaltepeque"
     ],
     "name:spa_x_preferred":[
+        "Quezaltepeque"
+    ],
+    "name:swe_x_preferred":[
         "Quezaltepeque"
     ],
     "qs:gn_country":null,
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421171703,
-    "wof:lastmodified":1554488764,
+    "wof:lastmodified":1564161189,
     "wof:name":"Quezaltepeque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

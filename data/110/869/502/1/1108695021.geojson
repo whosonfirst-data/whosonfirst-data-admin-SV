@@ -35,8 +35,23 @@
     "mps:longitude":-89.772412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Santa Catarina Masahuat"
+    ],
     "name:eng_x_variant":[
         "Santa Catarina Masahuat"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catarina Masahuat"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina Masahuat"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina Masahuat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u7d0d\u99ac\u85a9\u74e6\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108695021,
-    "wof:lastmodified":1554489250,
+    "wof:lastmodified":1564161005,
     "wof:name":"Santa Catarina Masahuat",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

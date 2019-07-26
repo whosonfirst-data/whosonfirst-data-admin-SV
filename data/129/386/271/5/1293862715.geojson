@@ -26,10 +26,19 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Campanero"
+    ],
+    "name:spa_x_preferred":[
+        "Campanero"
+    ],
     "name:und_x_variant":[
         "Campanera",
         "Caser\u00edo Campanera",
         "Campanero"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5e15\u5167\u7f85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293862715,
-    "wof:lastmodified":1537701515,
+    "wof:lastmodified":1564160777,
     "wof:name":"Campanero",
     "wof:parent_id":1108694713,
     "wof:placetype":"locality",

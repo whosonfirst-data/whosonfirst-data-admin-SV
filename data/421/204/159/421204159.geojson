@@ -16,10 +16,19 @@
     "name:bre_x_preferred":[
         "Los Naranjos"
     ],
+    "name:ceb_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:deu_x_preferred":[
+        "Los Naranjos"
+    ],
     "name:hbs_x_preferred":[
         "Los Naranjos"
     ],
     "name:spa_x_preferred":[
+        "Los Naranjos"
+    ],
+    "name:swe_x_preferred":[
         "Los Naranjos"
     ],
     "qs:gn_country":"SV",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":421204159,
-    "wof:lastmodified":1527716178,
+    "wof:lastmodified":1564161171,
     "wof:name":"Los Naranjos",
     "wof:parent_id":421167823,
     "wof:placetype":"locality",

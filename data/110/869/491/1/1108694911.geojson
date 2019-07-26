@@ -35,8 +35,26 @@
     "mps:longitude":-87.922019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Alejo"
+    ],
     "name:eng_x_variant":[
         "San Alejo"
+    ],
+    "name:fra_x_preferred":[
+        "San Alejo"
+    ],
+    "name:ita_x_preferred":[
+        "San Alejo"
+    ],
+    "name:por_x_preferred":[
+        "San Alejo"
+    ],
+    "name:spa_x_preferred":[
+        "San Alejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u963f\u840a\u970d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694911,
-    "wof:lastmodified":1554489248,
+    "wof:lastmodified":1564161024,
     "wof:name":"San Alejo",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

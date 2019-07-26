@@ -35,8 +35,26 @@
     "mps:longitude":-88.964378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cinquera"
+    ],
     "name:eng_x_variant":[
         "Cinquera"
+    ],
+    "name:fra_x_preferred":[
+        "Cinquera"
+    ],
+    "name:ita_x_preferred":[
+        "Cinquera"
+    ],
+    "name:por_x_preferred":[
+        "Cinquera"
+    ],
+    "name:spa_x_preferred":[
+        "Cinquera"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u514b\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694747,
-    "wof:lastmodified":1554489245,
+    "wof:lastmodified":1564161048,
     "wof:name":"Cinquera",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

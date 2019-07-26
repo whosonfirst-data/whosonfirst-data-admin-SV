@@ -26,6 +26,15 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cucurutxo"
+    ],
+    "name:eus_x_preferred":[
+        "Kukurutxo"
+    ],
+    "name:spa_x_preferred":[
+        "Cucurucho"
+    ],
     "name:und_x_variant":[
         "El Cucurucho",
         "Cucurucho"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326614653,
-    "wof:lastmodified":1537701510,
+    "wof:lastmodified":1564160560,
     "wof:name":"Cucurucho",
     "wof:parent_id":1108701721,
     "wof:placetype":"locality",
