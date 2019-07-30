@@ -25,6 +25,18 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:por_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:spa_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u9054\u76e7\u4f69"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276535609,
-    "wof:lastmodified":1537573776,
+    "wof:lastmodified":1564160867,
     "wof:name":"Guadalupe",
     "wof:parent_id":1108694801,
     "wof:placetype":"locality",

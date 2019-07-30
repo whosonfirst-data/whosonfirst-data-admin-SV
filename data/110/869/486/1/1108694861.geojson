@@ -35,9 +35,153 @@
     "mps:longitude":-87.85423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0641\u0627 \u0625\u0633\u0628\u0627\u0631\u062a\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Estato Nueva Esparta"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u0627\u0633\u067e\u0627\u0631\u062a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u042d\u0441\u043f\u0430\u0440\u0442\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430 \u0415\u0441\u043f\u0430\u0440\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:ceb_x_preferred":[
+        "Estado Nueva Esparta"
+    ],
+    "name:ces_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:cor_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:dan_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:deu_x_preferred":[
+        "Nueva Esparta"
+    ],
     "name:eng_x_variant":[
         "Nueva Esparta",
         "Polor\u00f3s"
+    ],
+    "name:est_x_preferred":[
+        "Nueva Esparta osariik"
+    ],
+    "name:eus_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0626\u0648\u0627 \u0627\u0633\u067e\u0627\u0631\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05d1\u05d4 \u05d0\u05e1\u05e4\u05e8\u05d8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Nuova Sparta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30d0\u30fb\u30a8\u30b9\u30d1\u30eb\u30bf\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d4\u10d5\u10d0-\u10d4\u10e1\u10de\u10d0\u10e0\u10e2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\uc5d0\ubc14\uc5d0\uc2a4\ud30c\ub974\ud0c0\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Mueva Esparta"
+    ],
+    "name:lit_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430 \u0415\u0441\u043f\u0430\u0440\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:nno_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:nor_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u042d\u0441\u043f\u0430\u0440\u0442\u00e6"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0646\u06cc\u0648\u0627 \u0627\u0633\u067e\u0627\u0631\u0679\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:que_x_preferred":[
+        "Nueva Esparta suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u042d\u0441\u043f\u0430\u0440\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:spa_x_preferred":[
+        "Estado Nueva Esparta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430 \u0415\u0441\u043f\u0430\u0440\u0442\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0451\u043b\u043e\u0442\u0438 \u041d\u0443\u044d\u0432\u0430 \u042d\u0441\u043f\u0430\u0440\u0442\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e19\u0e27\u0e22\u0e27\u0e32\u0e40\u0e2d\u0e2a\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430-\u0415\u0441\u043f\u0430\u0440\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u0628\u0627 \u0627\u06cc\u0633\u067e\u0627\u0631\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:war_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u57c3\u65af\u5e15\u5854\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -62,7 +206,7 @@
         }
     ],
     "wof:id":1108694861,
-    "wof:lastmodified":1554489247,
+    "wof:lastmodified":1564161045,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

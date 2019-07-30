@@ -35,8 +35,23 @@
     "mps:longitude":-88.812776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Cayetano Istepeque"
+    ],
     "name:eng_x_variant":[
         "San Cayetano Istepeque"
+    ],
+    "name:ita_x_preferred":[
+        "San Cayetano Istepeque"
+    ],
+    "name:por_x_preferred":[
+        "San Cayetano Istepeque"
+    ],
+    "name:spa_x_preferred":[
+        "San Cayetano Istepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u8036\u5854\u8afe\u4f0a\u65af\u7279\u4f69\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694929,
-    "wof:lastmodified":1554489248,
+    "wof:lastmodified":1564161054,
     "wof:name":"San Cayetano Istepeque",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

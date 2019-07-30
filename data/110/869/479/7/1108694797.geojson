@@ -35,8 +35,26 @@
     "mps:longitude":-88.650754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Guacotecti"
+    ],
     "name:eng_x_variant":[
         "Guacotecti"
+    ],
+    "name:fra_x_preferred":[
+        "Guacotecti"
+    ],
+    "name:ita_x_preferred":[
+        "Guacotecti"
+    ],
+    "name:por_x_preferred":[
+        "Guacotecti"
+    ],
+    "name:spa_x_preferred":[
+        "Guacotecti"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u79d1\u7279\u514b\u8482"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694797,
-    "wof:lastmodified":1554489247,
+    "wof:lastmodified":1564161018,
     "wof:name":"Guacotecti",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

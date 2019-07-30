@@ -26,6 +26,9 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Albornoz"
+    ],
     "name:und_x_variant":[
         "El Albornoz",
         "Albornoz"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1310498471,
-    "wof:lastmodified":1537701518,
+    "wof:lastmodified":1564161066,
     "wof:name":"Albornoz",
     "wof:parent_id":1108694723,
     "wof:placetype":"locality",

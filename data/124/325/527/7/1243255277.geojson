@@ -31,6 +31,9 @@
         "Nueva Concepci\u00f3n de Oriente",
         "Concepci\u00f3n de Oriente"
     ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u585e\u666e\u897f\u7fc1\u5fb7\u5967\u9023\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243255277,
-    "wof:lastmodified":1537701511,
+    "wof:lastmodified":1564161245,
     "wof:name":"Concepcion de Oriente",
     "wof:parent_id":1108694755,
     "wof:placetype":"locality",

@@ -35,7 +35,19 @@
     "mps:longitude":-89.413228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tamanique"
+    ],
     "name:eng_x_variant":[
+        "Tamanique"
+    ],
+    "name:ita_x_preferred":[
+        "Tamanique"
+    ],
+    "name:por_x_preferred":[
+        "Tamanique"
+    ],
+    "name:spa_x_preferred":[
         "Tamanique"
     ],
     "src:geom":"meso",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1108695071,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1564161033,
     "wof:name":"Tamanique",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

@@ -36,8 +36,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Estanzuelas"
+    ],
     "name:eng_x_variant":[
         "Estanzuelas"
+    ],
+    "name:ita_x_preferred":[
+        "Estanzuelas"
+    ],
+    "name:por_x_preferred":[
+        "Estanzuelas"
+    ],
+    "name:spa_x_preferred":[
+        "Estanzuelas"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u5766\u8607\u57c3\u62c9\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -85,7 +100,7 @@
         }
     ],
     "wof:id":421184407,
-    "wof:lastmodified":1554488947,
+    "wof:lastmodified":1564161186,
     "wof:name":"Estanzuelas",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

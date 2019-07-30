@@ -25,6 +25,9 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Calle Real"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326825475,
-    "wof:lastmodified":1537056118,
+    "wof:lastmodified":1564160592,
     "wof:name":"Calle Real",
     "wof:parent_id":421183081,
     "wof:placetype":"locality",

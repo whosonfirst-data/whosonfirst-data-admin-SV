@@ -30,6 +30,9 @@
         "Ojo de Agua Escondido",
         "Ojos de Agua"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u970d\u65af\u5fb7\u963f\u74dc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276885165,
-    "wof:lastmodified":1537701452,
+    "wof:lastmodified":1564160793,
     "wof:name":"Ojos de Agua",
     "wof:parent_id":1108695007,
     "wof:placetype":"locality",

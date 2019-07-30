@@ -25,6 +25,15 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Porvenir"
+    ],
+    "name:por_x_preferred":[
+        "El Porvenir"
+    ],
+    "name:spa_x_preferred":[
+        "El Porvenir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276526173,
-    "wof:lastmodified":1537573777,
+    "wof:lastmodified":1564160852,
     "wof:name":"El Porvenir",
     "wof:parent_id":1108694785,
     "wof:placetype":"locality",

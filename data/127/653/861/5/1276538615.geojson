@@ -31,6 +31,9 @@
         "Zamorano",
         "Zamor\u00e1n"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u062d\u0635\u06cc\u0644 \u0632\u0627\u0645\u0631\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276538615,
-    "wof:lastmodified":1537701425,
+    "wof:lastmodified":1564160867,
     "wof:name":"Zamoran",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

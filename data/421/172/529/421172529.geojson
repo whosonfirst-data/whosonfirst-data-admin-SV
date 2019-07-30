@@ -39,6 +39,9 @@
     "name:bre_x_preferred":[
         "El Carmen"
     ],
+    "name:ceb_x_preferred":[
+        "El Carmen"
+    ],
     "name:deu_x_preferred":[
         "El Carmen"
     ],
@@ -70,6 +73,9 @@
         "El Carmen"
     ],
     "name:spa_x_preferred":[
+        "El Carmen"
+    ],
+    "name:swe_x_preferred":[
         "El Carmen"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421172529,
-    "wof:lastmodified":1554488772,
+    "wof:lastmodified":1564161180,
     "wof:name":"El Carmen",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

@@ -35,8 +35,23 @@
     "mps:longitude":-89.552063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Antonio Pajonal"
+    ],
     "name:eng_x_variant":[
         "San Antonio Pajonal"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio Pajonal"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio Pajonal"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio Pajonal"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5e15\u970d\u7d0d\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694919,
-    "wof:lastmodified":1554489248,
+    "wof:lastmodified":1564161023,
     "wof:name":"San Antonio Pajonal",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

@@ -26,10 +26,25 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 Cancasque"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Cancasque"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Cancasque"
+    ],
+    "name:spa_x_preferred":[
+        "Cancasque"
+    ],
     "name:und_x_variant":[
         "Cancasque",
         "Pueblo de Cancasque",
         "San Jos\u00e9 Cancasque"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u574e\u5361\u65af\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209523015,
-    "wof:lastmodified":1537701440,
+    "wof:lastmodified":1564160892,
     "wof:name":"San Jose Cancasque",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

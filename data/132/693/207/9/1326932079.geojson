@@ -26,6 +26,12 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El Zapotal"
+    ],
+    "name:spa_x_preferred":[
+        "El Zapotal"
+    ],
     "name:und_x_variant":[
         "San Antonio Zapotal",
         "El Zapotal"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326932079,
-    "wof:lastmodified":1537701487,
+    "wof:lastmodified":1564160555,
     "wof:name":"El Zapotal",
     "wof:parent_id":1108694875,
     "wof:placetype":"locality",

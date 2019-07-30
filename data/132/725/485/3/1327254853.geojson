@@ -26,6 +26,15 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Trinchera"
+    ],
+    "name:fra_x_preferred":[
+        "Trinchera"
+    ],
+    "name:spa_x_preferred":[
+        "Trinchera"
+    ],
     "name:und_x_variant":[
         "La Trinchera",
         "Las Trincheras",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327254853,
-    "wof:lastmodified":1537701427,
+    "wof:lastmodified":1564160564,
     "wof:name":"Trinchera",
     "wof:parent_id":1108694911,
     "wof:placetype":"locality",

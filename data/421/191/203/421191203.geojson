@@ -69,10 +69,16 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10d8\u10d2\u10dc\u10d0\u10e1\u10d8\u10dd"
     ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc774\uadf8\ub098\uc2dc\uc624"
+    ],
     "name:lit_x_preferred":[
         "San Ignasijus"
     ],
     "name:nld_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:pol_x_preferred":[
         "San Ignacio"
     ],
     "name:por_x_preferred":[
@@ -91,6 +97,9 @@
         "San Ignacio"
     ],
     "name:swe_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:war_x_preferred":[
         "San Ignacio"
     ],
     "qs:gn_country":null,
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":421191203,
-    "wof:lastmodified":1554488992,
+    "wof:lastmodified":1564161184,
     "wof:name":"San Ignacio",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

@@ -38,6 +38,21 @@
     "name:eng_x_variant":[
         "Yayantique"
     ],
+    "name:ita_x_preferred":[
+        "Yayantique"
+    ],
+    "name:por_x_preferred":[
+        "Yayantique"
+    ],
+    "name:spa_x_preferred":[
+        "Yayantique"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u06cc\u06c1\u0646\u062a\u0642\u0648\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u63da\u8482\u514b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108695097,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1564161034,
     "wof:name":"Yayantique",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

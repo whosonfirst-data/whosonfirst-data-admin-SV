@@ -30,6 +30,9 @@
         "Oratorio de La Inmaculada Concepci\u00f3n",
         "Oratorio de Concepci\u00f3n"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u6258\u91cc\u5967\u5fb7\u5eb7\u585e\u666e\u897f\u7fc1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309718207,
-    "wof:lastmodified":1537701452,
+    "wof:lastmodified":1564161157,
     "wof:name":"Oratorio de Concepcion",
     "wof:parent_id":1108694879,
     "wof:placetype":"locality",

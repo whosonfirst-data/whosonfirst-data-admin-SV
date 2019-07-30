@@ -35,7 +35,22 @@
     "mps:longitude":-89.228946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:ceb_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Caliente"
+    ],
     "name:eng_x_variant":[
+        "Agua Caliente"
+    ],
+    "name:spa_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:swe_x_preferred":[
         "Agua Caliente"
     ],
     "src:geom":"meso",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694707,
-    "wof:lastmodified":1554489244,
+    "wof:lastmodified":1564161018,
     "wof:name":"Agua Caliente",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

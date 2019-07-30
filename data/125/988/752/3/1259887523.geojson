@@ -25,6 +25,18 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 Las Flores"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Las Flores"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Las Flores"
+    ],
+    "name:spa_x_preferred":[
+        "Las Flores"
+    ],
     "name:und_x_variant":[
         "San Jos\u00e9 Las Flores"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259887523,
-    "wof:lastmodified":1537701439,
+    "wof:lastmodified":1564161330,
     "wof:name":"San Jose Las Flores",
     "wof:parent_id":1108694831,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El Zapotal"
+    ],
+    "name:spa_x_preferred":[
+        "El Zapotal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293312567,
-    "wof:lastmodified":1537037657,
+    "wof:lastmodified":1564160707,
     "wof:name":"El Zapotal",
     "wof:parent_id":1108694819,
     "wof:placetype":"locality",

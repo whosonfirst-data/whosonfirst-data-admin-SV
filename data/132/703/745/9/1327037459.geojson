@@ -30,6 +30,9 @@
         "Ojo de Agua",
         "Ojos de Agua"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u970d\u65af\u5fb7\u963f\u74dc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1327037459,
-    "wof:lastmodified":1537701452,
+    "wof:lastmodified":1564160590,
     "wof:name":"Ojos de Agua",
     "wof:parent_id":1108694875,
     "wof:placetype":"locality",

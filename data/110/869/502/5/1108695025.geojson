@@ -35,8 +35,23 @@
     "mps:longitude":-88.955683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Santa Cruz Analquito"
+    ],
     "name:eng_x_variant":[
         "Santa Cruz Analquito"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz Analquito"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz Analquito"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz Analquito"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u963f\u7d0d\u723e\u57fa\u6258"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108695025,
-    "wof:lastmodified":1554489250,
+    "wof:lastmodified":1564161006,
     "wof:name":"Santa Cruz Analquito",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

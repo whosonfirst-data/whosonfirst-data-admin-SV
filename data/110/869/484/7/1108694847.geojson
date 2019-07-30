@@ -35,8 +35,26 @@
     "mps:longitude":-88.914901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mercedes La Ceiba"
+    ],
     "name:eng_x_variant":[
         "Mercedes La Ceiba"
+    ],
+    "name:fra_x_preferred":[
+        "Mercedes La Ceiba"
+    ],
+    "name:ita_x_preferred":[
+        "Mercedes La Ceiba"
+    ],
+    "name:por_x_preferred":[
+        "Mercedes La Ceiba"
+    ],
+    "name:spa_x_preferred":[
+        "Mercedes La Ceiba"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u8cfd\u5fb7\u65af\u62c9\u585e\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694847,
-    "wof:lastmodified":1554489247,
+    "wof:lastmodified":1564161017,
     "wof:name":"Mercedes La Ceiba",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

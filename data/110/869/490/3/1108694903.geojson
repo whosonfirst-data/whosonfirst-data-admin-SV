@@ -38,6 +38,21 @@
     "name:eng_x_variant":[
         "Sacacoyo"
     ],
+    "name:ita_x_preferred":[
+        "Sacacoyo"
+    ],
+    "name:por_x_preferred":[
+        "Sacacoyo"
+    ],
+    "name:spa_x_preferred":[
+        "Sacacoyo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06a9\u0648\u06cc\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5361\u79d1\u7d04"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694903,
-    "wof:lastmodified":1554489248,
+    "wof:lastmodified":1564161021,
     "wof:name":"Sacacoyo",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

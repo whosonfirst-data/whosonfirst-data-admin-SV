@@ -25,8 +25,23 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chiltiup\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Chiltiup\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Chiltiup\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Chiltiup\u00e1n"
+    ],
     "name:und_x_variant":[
         "Chiltiup\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u723e\u8482\u70cf\u6f58"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293023365,
-    "wof:lastmodified":1537701512,
+    "wof:lastmodified":1564160746,
     "wof:name":"Chiltiupan",
     "wof:parent_id":421171699,
     "wof:placetype":"locality",

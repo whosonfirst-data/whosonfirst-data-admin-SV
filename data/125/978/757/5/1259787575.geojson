@@ -26,6 +26,15 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Arco"
+    ],
+    "name:spa_x_preferred":[
+        "El Arco"
+    ],
+    "name:swe_x_preferred":[
+        "El Arco"
+    ],
     "name:und_x_variant":[
         "Caser\u00edo El Arco",
         "El Arco"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259787575,
-    "wof:lastmodified":1537701507,
+    "wof:lastmodified":1564161302,
     "wof:name":"El Arco",
     "wof:parent_id":421188901,
     "wof:placetype":"locality",

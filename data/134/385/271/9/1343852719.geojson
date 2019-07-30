@@ -25,8 +25,20 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Poloros"
+    ],
+    "name:por_x_preferred":[
+        "Polor\u00f3s"
+    ],
+    "name:spa_x_preferred":[
+        "Polor\u00f3s"
+    ],
     "name:und_x_variant":[
         "Polor\u00f3s"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u6d1b\u7f85\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343852719,
-    "wof:lastmodified":1537701449,
+    "wof:lastmodified":1564160650,
     "wof:name":"Poloros",
     "wof:parent_id":1108694893,
     "wof:placetype":"locality",

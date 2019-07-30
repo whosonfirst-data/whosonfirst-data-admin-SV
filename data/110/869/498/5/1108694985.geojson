@@ -35,8 +35,26 @@
     "mps:longitude":-89.092931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Luis Talpa"
+    ],
     "name:eng_x_variant":[
         "San Luis Talpa"
+    ],
+    "name:fra_x_preferred":[
+        "San Luis Talpa"
+    ],
+    "name:ita_x_preferred":[
+        "San Luis"
+    ],
+    "name:por_x_preferred":[
+        "San Luis Talpa"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis Talpa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8def\u6613\u5854\u723e\u5e15"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1108694985,
-    "wof:lastmodified":1554489249,
+    "wof:lastmodified":1564161023,
     "wof:name":"San Luis Talpa",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

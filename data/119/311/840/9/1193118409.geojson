@@ -26,6 +26,24 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:swe_x_preferred":[
+        "Llano Grande"
+    ],
     "name:und_x_variant":[
         "Caser\u00edo Llano Grande",
         "Llano Grande"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1193118409,
-    "wof:lastmodified":1537701461,
+    "wof:lastmodified":1564160972,
     "wof:name":"Llano Grande",
     "wof:parent_id":421171709,
     "wof:placetype":"locality",

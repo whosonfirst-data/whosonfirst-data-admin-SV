@@ -35,8 +35,23 @@
     "mps:longitude":-89.332036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Pablo Tacachico"
+    ],
     "name:eng_x_variant":[
         "San Pablo Tacachico"
+    ],
+    "name:ita_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:por_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:spa_x_preferred":[
+        "San Pablo Tacachico"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u52c3\u7f85\u5854\u5361\u5947\u79d1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1108694993,
-    "wof:lastmodified":1554489249,
+    "wof:lastmodified":1564161022,
     "wof:name":"San Pablo Tacachico",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

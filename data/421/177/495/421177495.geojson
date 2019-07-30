@@ -13,6 +13,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:bre_x_preferred":[
+        "Cruces"
+    ],
+    "name:ceb_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:fra_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:ita_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:sco_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:spa_x_preferred":[
+        "Cruces"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cruces"
+    ],
     "name:unk_x_variant":[
         "Cant\u00f3n Las Cruces"
     ],
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":421177495,
-    "wof:lastmodified":1527716485,
+    "wof:lastmodified":1564161187,
     "wof:name":"Las Cruces",
     "wof:parent_id":1108694737,
     "wof:placetype":"locality",

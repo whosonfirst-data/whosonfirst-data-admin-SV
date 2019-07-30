@@ -26,6 +26,36 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:ceb_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:deu_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:fra_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:glg_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:ita_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:lit_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u0430\u0434\u0438\u043b\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Bobadilla"
+    ],
+    "name:swe_x_preferred":[
+        "Bobadilla"
+    ],
     "name:und_x_variant":[
         "De Bobadilla",
         "Bobadilla"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1226066385,
-    "wof:lastmodified":1537701516,
+    "wof:lastmodified":1564161405,
     "wof:name":"Bobadilla",
     "wof:parent_id":1108694911,
     "wof:placetype":"locality",

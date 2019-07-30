@@ -26,10 +26,100 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0633\u0627\u062f\u064a\u0644\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u0441\u0430\u0434\u044b\u043b\u044c\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Quesadilla mexicana"
+    ],
+    "name:ces_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:deu_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c3\u03b1\u03b4\u03af\u03b3\u03b9\u03b1"
+    ],
+    "name:fin_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:fra_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:glg_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u057d\u0561\u0564\u056b\u056c\u0575\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:ita_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:jav_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30b5\u30c7\u30a3\u30fc\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\uc0ac\ub514\uc57c"
+    ],
+    "name:lat_x_preferred":[
+        "Caseatilla"
+    ],
+    "name:lit_x_preferred":[
+        "Kesadilija"
+    ],
+    "name:msa_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:nld_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:nor_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a47\u0a07\u0a38\u0a26\u0a3f\u0a05"
+    ],
+    "name:pol_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:por_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0441\u0430\u0434\u0438\u043b\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:swe_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e0b\u0e32\u0e14\u0e34\u0e22\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Quesadilla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0441\u0430\u0434\u0438\u043b\u044c\u044f"
+    ],
     "name:und_x_variant":[
         "Quezadillas",
         "La Quesadilla",
         "Quesadilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u58a8\u897f\u54e5\u829d\u58eb\u9985\u997c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +144,7 @@
         }
     ],
     "wof:id":1242569419,
-    "wof:lastmodified":1537701468,
+    "wof:lastmodified":1564161227,
     "wof:name":"Quesadilla",
     "wof:parent_id":1108694771,
     "wof:placetype":"locality",

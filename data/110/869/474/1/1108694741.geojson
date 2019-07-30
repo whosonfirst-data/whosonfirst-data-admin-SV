@@ -35,7 +35,19 @@
     "mps:longitude":-88.142158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chilanga"
+    ],
+    "name:deu_x_preferred":[
+        "Chilanga"
+    ],
     "name:eng_x_variant":[
+        "Chilanga"
+    ],
+    "name:ita_x_preferred":[
+        "Chilanga"
+    ],
+    "name:swe_x_preferred":[
         "Chilanga"
     ],
     "src:geom":"meso",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1108694741,
-    "wof:lastmodified":1554489245,
+    "wof:lastmodified":1564161048,
     "wof:name":"Chilanga",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

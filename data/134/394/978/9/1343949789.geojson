@@ -26,9 +26,21 @@
     "iso:country":"SV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Carmen"
+    ],
+    "name:por_x_preferred":[
+        "El Carmen"
+    ],
+    "name:spa_x_preferred":[
+        "El Carmen"
+    ],
     "name:und_x_variant":[
         "Carmen",
         "El Carmen"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5361\u9580"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343949789,
-    "wof:lastmodified":1537701506,
+    "wof:lastmodified":1564160672,
     "wof:name":"El Carmen",
     "wof:parent_id":1108694771,
     "wof:placetype":"locality",

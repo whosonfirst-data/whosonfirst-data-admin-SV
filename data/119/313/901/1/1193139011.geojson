@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Nombre de Jes\u00fas"
     ],
+    "name:zho_x_preferred":[
+        "\u8036\u7a4c\u8056\u540d\u93ae"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193139011,
-    "wof:lastmodified":1537701453,
+    "wof:lastmodified":1564160961,
     "wof:name":"Nombre de Jesus",
     "wof:parent_id":1108695063,
     "wof:placetype":"locality",
