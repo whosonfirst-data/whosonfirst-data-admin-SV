@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":13.476855,
     "lbl:longitude":-88.970909,
     "mps:latitude":13.475777,
@@ -301,16 +304,13 @@
         }
     ],
     "wof:id":85677155,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298344,
+    "wof:lastmodified":1565736752,
     "wof:name":"La Paz",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "itu:country_code":[
         "503"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SV"
+    ],
     "lbl:latitude":13.762548,
     "lbl:longitude":-88.952198,
     "mps:latitude":13.762548,
@@ -999,16 +1002,13 @@
         }
     ],
     "wof:id":85632545,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298351,
+    "wof:lastmodified":1565736752,
     "wof:name":"El Salvador",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

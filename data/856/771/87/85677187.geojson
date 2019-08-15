@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "US"
+    ],
     "lbl:latitude":13.420312,
     "lbl:longitude":-88.54786,
     "mps:latitude":13.425002,
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85677187,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298342,
+    "wof:lastmodified":1565736752,
     "wof:name":"Usulut\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

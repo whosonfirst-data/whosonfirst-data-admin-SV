@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":14.06689,
     "lbl:longitude":-89.57061,
     "mps:latitude":14.073748,
@@ -300,16 +303,13 @@
         }
     ],
     "wof:id":85677195,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298337,
+    "wof:lastmodified":1565736751,
     "wof:name":"Santa Ana",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "lbl:latitude":13.895615,
     "lbl:longitude":-88.70655,
     "mps:latitude":13.906197,
@@ -307,16 +310,13 @@
         }
     ],
     "wof:id":85677141,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298346,
+    "wof:lastmodified":1565736752,
     "wof:name":"Caba\u00f1as",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

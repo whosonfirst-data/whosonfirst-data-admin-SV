@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":13.67538,
     "lbl:longitude":-89.670087,
     "mps:latitude":13.673049,
@@ -280,16 +283,13 @@
         }
     ],
     "wof:id":85677159,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298338,
+    "wof:lastmodified":1565736751,
     "wof:name":"Sonsonate",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

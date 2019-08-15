@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":14.208026,
     "lbl:longitude":-89.144621,
     "mps:latitude":14.206971,
@@ -250,16 +253,13 @@
         }
     ],
     "wof:id":85677193,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298340,
+    "wof:lastmodified":1565736751,
     "wof:name":"Chalatenango",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

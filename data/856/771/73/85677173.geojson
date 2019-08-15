@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":13.784146,
     "lbl:longitude":-88.101854,
     "mps:latitude":13.754988,
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85677173,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298341,
+    "wof:lastmodified":1565736751,
     "wof:name":"Moraz\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

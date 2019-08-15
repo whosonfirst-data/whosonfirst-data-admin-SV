@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":13.747477,
     "lbl:longitude":-89.170827,
     "mps:latitude":13.740521,
@@ -312,16 +315,13 @@
         }
     ],
     "wof:id":85677163,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298345,
+    "wof:lastmodified":1565736752,
     "wof:name":"San Salvador",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

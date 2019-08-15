@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UN"
+    ],
     "lbl:latitude":13.528753,
     "lbl:longitude":-87.893243,
     "mps:latitude":13.52726,
@@ -252,16 +255,13 @@
         }
     ],
     "wof:id":85677169,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298338,
+    "wof:lastmodified":1565736751,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

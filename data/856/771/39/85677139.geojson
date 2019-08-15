@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AH"
+    ],
     "lbl:latitude":13.852907,
     "lbl:longitude":-89.90871,
     "mps:latitude":13.865768,
@@ -315,16 +318,13 @@
         }
     ],
     "wof:id":85677139,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563298343,
+    "wof:lastmodified":1565736752,
     "wof:name":"Ahuachap\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",
