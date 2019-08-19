@@ -68,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":436,
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563298333,
+    "wof:lastmodified":1566247583,
     "wof:name":"Jar\u0161e",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

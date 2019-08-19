@@ -72,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":475,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563298351,
+    "wof:lastmodified":1566247509,
     "wof:name":"Spodnja Siska",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

@@ -71,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":194,
     "wof:belongsto":[
         102191581,
@@ -105,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563298352,
+    "wof:lastmodified":1566247509,
     "wof:name":"Moste",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",
