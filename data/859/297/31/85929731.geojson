@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":46.065833,
     "wd:longitude":14.510833,
     "wd:wordcount":336,
@@ -127,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563298334,
+    "wof:lastmodified":1566247583,
     "wof:name":"Be\u017eigrad",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",
