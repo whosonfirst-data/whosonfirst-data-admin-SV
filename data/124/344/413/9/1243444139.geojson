@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.07,13.43,-88.03,13.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Nicol\u00e1s",
         "San Nicol\u00e1s Anchico"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243444139,
-    "wof:lastmodified":1537701436,
+    "wof:lastmodified":1566651110,
     "wof:name":"San Nicolas Anchico",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.20222,13.4025,-88.16222,13.4425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225940745,
-    "wof:lastmodified":1536875705,
+    "wof:lastmodified":1566651144,
     "wof:name":"La Presa",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

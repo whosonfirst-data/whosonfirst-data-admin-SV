@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.62,13.93,-88.58,13.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Azacualpa"
     ],
@@ -42,8 +46,7 @@
         "Azacualpa"
     ],
     "name:und_x_variant":[
-        "Valle Azacualpa",
-        "Azacualpa"
+        "Valle Azacualpa"
     ],
     "name:zho_x_preferred":[
         "\u963f\u85a9\u5eab\u963f\u723e\u5e15"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1292916437,
-    "wof:lastmodified":1564160754,
+    "wof:lastmodified":1566650793,
     "wof:name":"Azacualpa",
     "wof:parent_id":421182403,
     "wof:placetype":"locality",

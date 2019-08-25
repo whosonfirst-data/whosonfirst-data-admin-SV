@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.745063,
     "lbl:longitude":-89.935457,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Ahuachapan",
     "meso:diss_me":"JUJUTLAAHUACHAPAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.935457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jujutla"
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gp:id":26808528,
         "hasc:id":"SV.AH.JU",
-        "qs:id":238977,
+        "qs_pg:id":238977,
         "wd:id":"Q2779408"
     },
     "wof:country":"SV",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421204283,
-    "wof:lastmodified":1563298811,
+    "wof:lastmodified":1566651027,
     "wof:name":"Jujutla",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

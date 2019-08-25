@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.40333,13.51333,-88.36333,13.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Buenaventura"
     ],
@@ -39,8 +43,7 @@
         "San Buenaventura"
     ],
     "name:und_x_variant":[
-        "San Buena",
-        "San Buenaventura"
+        "San Buena"
     ],
     "name:zho_x_preferred":[
         "\u8056\u5e03\u57c3\u7d0d\u6587\u5716\u62c9"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1326713731,
-    "wof:lastmodified":1564160595,
+    "wof:lastmodified":1566650692,
     "wof:name":"San Buenaventura",
     "wof:parent_id":1108694927,
     "wof:placetype":"locality",

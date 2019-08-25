@@ -10,8 +10,12 @@
     "geom:latitude":13.81083,
     "geom:longitude":-87.97139,
     "iso:country":"SV",
+    "lbl:bbox":"-87.99139,13.79083,-87.95139,13.83083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Corinto"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3586884,
         "gp:id":77162,
-        "qs:id":149095,
+        "qs_pg:id":149095,
         "wd:id":"Q3693570",
         "wk:page":"Corinto, Moraz\u00e1n"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421179127,
-    "wof:lastmodified":1563298866,
+    "wof:lastmodified":1566651054,
     "wof:name":"Corinto",
     "wof:parent_id":421172671,
     "wof:placetype":"locality",

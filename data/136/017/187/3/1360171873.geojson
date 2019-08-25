@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.67,13.66333,-88.63,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Animas"
     ],
@@ -48,8 +52,7 @@
         "Las Animas"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Las \u00c1nimas",
-        "Las \u00c1nimas"
+        "Caser\u00edo Las \u00c1nimas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360171873,
-    "wof:lastmodified":1564161134,
+    "wof:lastmodified":1566651001,
     "wof:name":"Las Animas",
     "wof:parent_id":421203747,
     "wof:placetype":"locality",

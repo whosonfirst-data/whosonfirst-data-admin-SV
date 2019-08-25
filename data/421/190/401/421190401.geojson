@@ -10,8 +10,12 @@
     "geom:latitude":13.57528,
     "geom:longitude":-89.20889,
     "iso:country":"SV",
+    "lbl:bbox":"-89.22889,13.55528,-89.18889,13.59528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Rosario de Mora"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3583937,
         "gp:id":79379,
-        "qs:id":53481,
+        "qs_pg:id":53481,
         "wd:id":"Q3941398",
         "wk:page":"Rosario de Mora"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421190401,
-    "wof:lastmodified":1561845041,
+    "wof:lastmodified":1566651044,
     "wof:name":"Rosario de Mora",
     "wof:parent_id":1108694901,
     "wof:placetype":"locality",

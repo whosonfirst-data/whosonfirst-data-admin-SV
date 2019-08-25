@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.557611,
     "lbl:longitude":-89.159855,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"San Salvador",
     "meso:diss_me":"PANCHIMALCOSAN SALVADOR",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.159855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Panchimalco"
     ],
@@ -57,7 +60,7 @@
         "\u6f58\u5947\u99ac\u723e\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694885,
-    "wof:lastmodified":1564161035,
+    "wof:lastmodified":1566650950,
     "wof:name":"Panchimalco",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

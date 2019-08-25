@@ -10,8 +10,12 @@
     "geom:latitude":13.85,
     "geom:longitude":-88.85,
     "iso:country":"SV",
+    "lbl:bbox":"-88.87,13.83,-88.83,13.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u0648\u0628\u0627\u0633\u0643\u0648"
@@ -112,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043e\u0431\u0430\u0441\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gilovasco"
     ],
     "name:urd_x_preferred":[
@@ -153,7 +157,7 @@
     "wof:concordances":{
         "gn:id":3585487,
         "gp:id":78238,
-        "qs:id":266432,
+        "qs_pg:id":266432,
         "wd:id":"Q2779383",
         "wk:page":"Ilobasco"
     },
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":421166383,
-    "wof:lastmodified":1563298795,
+    "wof:lastmodified":1566651021,
     "wof:name":"Ilobasco",
     "wof:parent_id":421184405,
     "wof:placetype":"locality",

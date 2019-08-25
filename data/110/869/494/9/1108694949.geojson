@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.8083,
     "lbl:longitude":-88.411132,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"San Miguel",
     "meso:diss_me":"SAN GERARDOSAN MIGUEL",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.411132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Gerardo"
     ],
@@ -54,7 +57,7 @@
         "\u8056\u8d6b\u62c9\u723e\u591a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108694949,
-    "wof:lastmodified":1564161052,
+    "wof:lastmodified":1566650958,
     "wof:name":"San Gerardo",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

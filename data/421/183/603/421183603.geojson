@@ -10,8 +10,12 @@
     "geom:latitude":13.18389,
     "geom:longitude":-87.92083,
     "iso:country":"SV",
+    "lbl:bbox":"-87.94083,13.16389,-87.90083,13.20389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"SV",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3585900,
         "gp:id":77925,
-        "qs:id":982575
+        "qs_pg:id":982575
     },
     "wof:country":"SV",
     "wof:created":1459009375,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421183603,
-    "wof:lastmodified":1500037299,
+    "wof:lastmodified":1566651052,
     "wof:name":"El Tamarindo",
     "wof:parent_id":421191227,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.93667,13.51333,-87.89667,13.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193009939,
-    "wof:lastmodified":1536384507,
+    "wof:lastmodified":1566650901,
     "wof:name":"El Zapote",
     "wof:parent_id":1108694965,
     "wof:placetype":"locality",

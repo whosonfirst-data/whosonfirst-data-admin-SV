@@ -10,8 +10,12 @@
     "geom:latitude":13.65889,
     "geom:longitude":-89.18306,
     "iso:country":"SV",
+    "lbl:bbox":"-89.20306,13.63889,-89.16306,13.67889",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_variant":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u0430\u0441"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3583480,
         "gp:id":79736,
-        "qs:id":149074,
+        "qs_pg:id":149074,
         "wd:id":"Q1157132",
         "wk:page":"San Marcos, El Salvador"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421179101,
-    "wof:lastmodified":1563298869,
+    "wof:lastmodified":1566651056,
     "wof:name":"San Marcos",
     "wof:parent_id":1108694987,
     "wof:placetype":"locality",

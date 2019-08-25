@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.11083,13.40611,-88.07083,13.44611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Miraflores"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1225829705,
-    "wof:lastmodified":1564161415,
+    "wof:lastmodified":1566651188,
     "wof:name":"Miraflores",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

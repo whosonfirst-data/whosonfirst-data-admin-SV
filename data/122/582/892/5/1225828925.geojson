@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.09611,13.68667,-89.05611,13.72667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Apulo",
         "Dolores Apulo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225828925,
-    "wof:lastmodified":1537701509,
+    "wof:lastmodified":1566651188,
     "wof:name":"Dolores Apulo",
     "wof:parent_id":421189133,
     "wof:placetype":"locality",

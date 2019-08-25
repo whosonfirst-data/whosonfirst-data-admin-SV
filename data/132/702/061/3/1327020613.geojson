@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.18667,13.69667,-88.14667,13.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Angostura"
     ],
@@ -42,8 +46,7 @@
         "La Angostura"
     ],
     "name:und_x_variant":[
-        "Las Cruces",
-        "La Angostura"
+        "Las Cruces"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1327020613,
-    "wof:lastmodified":1564160575,
+    "wof:lastmodified":1566650684,
     "wof:name":"La Angostura",
     "wof:parent_id":1108694741,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.684934,
     "lbl:longitude":-88.990761,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"Cuscatlan",
     "meso:diss_me":"CANDELARIACUSCATLAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.990761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09a1\u09c7\u09b2\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -99,7 +102,7 @@
         "\u574e\u5fb7\u62c9\u91cc\u4e9a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108694733,
-    "wof:lastmodified":1564161047,
+    "wof:lastmodified":1566650954,
     "wof:name":"Candelaria",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

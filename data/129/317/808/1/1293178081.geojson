@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.83667,13.43,-88.79667,13.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cant\u00f3n Porrillo",
         "El Porrillo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293178081,
-    "wof:lastmodified":1537701493,
+    "wof:lastmodified":1566650802,
     "wof:name":"El Porrillo",
     "wof:parent_id":1108695077,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.18667,13.79667,-88.14667,13.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632545
@@ -34,7 +38,7 @@
         "gn:id":3585125
     },
     "wof:country":"SV",
-    "wof:geomhash":"c32f93db05428c29f7c62b3e41bd9f34",
+    "wof:geomhash":"c66af7fa8a9b278cddd9485fb8c7ae98",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209200079,
-    "wof:lastmodified":1536294641,
+    "wof:lastmodified":1566650887,
     "wof:name":"La Montana",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -88.16667,
-    13.816670000000002,
+    13.81667,
     -88.16667,
-    13.816670000000002
+    13.81667
 ],
   "geometry": {"coordinates":[-88.16667,13.81667],"type":"Point"}
 }

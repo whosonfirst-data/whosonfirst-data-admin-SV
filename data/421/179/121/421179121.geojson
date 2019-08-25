@@ -10,8 +10,12 @@
     "geom:latitude":13.49778,
     "geom:longitude":-89.02972,
     "iso:country":"SV",
+    "lbl:bbox":"-89.04972,13.47778,-89.00972,13.51778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Rosario"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "El Rosario"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rosario de la Paz"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3586021,
         "gp:id":77850,
-        "qs:id":149085,
+        "qs_pg:id":149085,
         "wd:id":"Q11100824",
         "wk:page":"El Rosario, La Paz"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421179121,
-    "wof:lastmodified":1563298867,
+    "wof:lastmodified":1566651054,
     "wof:name":"El Rosario",
     "wof:parent_id":1108694789,
     "wof:placetype":"locality",

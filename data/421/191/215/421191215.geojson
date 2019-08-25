@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.590305,
     "lbl:longitude":-89.526715,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"La Libertad",
     "meso:diss_me":"TEOTEPEQUELA LIBERTAD",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.526715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Teotepeque"
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         102191575,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gp:id":26808610,
         "hasc:id":"SV.LI.TT",
-        "qs:id":61162,
+        "qs_pg:id":61162,
         "wd:id":"Q3984168"
     },
     "wof:country":"SV",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421191215,
-    "wof:lastmodified":1563298845,
+    "wof:lastmodified":1566651043,
     "wof:name":"Teotepeque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

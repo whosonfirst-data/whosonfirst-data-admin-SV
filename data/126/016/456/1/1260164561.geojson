@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.58667,13.51333,-88.54667,13.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Virgini\u00eb"
     ],
@@ -486,8 +490,7 @@
         "\u0412\u0456\u0440\u0434\u0436\u0438\u043d\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Valle Virginia",
-        "Virginia"
+        "Valle Virginia"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0631\u062c\u06cc\u0646\u06cc\u0627"
@@ -551,7 +554,7 @@
         }
     ],
     "wof:id":1260164561,
-    "wof:lastmodified":1564160994,
+    "wof:lastmodified":1566650924,
     "wof:name":"Virginia",
     "wof:parent_id":1108694721,
     "wof:placetype":"locality",

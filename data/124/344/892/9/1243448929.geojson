@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.30333,13.44667,-88.26333,13.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Finca La Placita",
         "La Placita"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243448929,
-    "wof:lastmodified":1537701469,
+    "wof:lastmodified":1566651110,
     "wof:name":"La Placita",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.52,14.14667,-89.48,14.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632545
@@ -34,7 +38,7 @@
         "gn:id":3584092
     },
     "wof:country":"SV",
-    "wof:geomhash":"1548f8ce1c12a77df59a599a3b34e940",
+    "wof:geomhash":"314f37b7060ba46ad69a902cc544fb3f",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209503199,
-    "wof:lastmodified":1536285116,
+    "wof:lastmodified":1566650877,
     "wof:name":"Piedra Cargada",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -89.5,
-    14.166670000000002,
+    14.16667,
     -89.5,
-    14.166670000000002
+    14.16667
 ],
   "geometry": {"coordinates":[-89.5,14.16667],"type":"Point"}
 }

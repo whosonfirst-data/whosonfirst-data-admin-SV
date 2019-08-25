@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.528753,
     "lbl:longitude":-87.893243,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.52726,
     "mps:longitude":-87.892548,
     "mz:hierarchy_label":1,
@@ -132,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0423\u043d\u0456\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Union"
     ],
     "name:urd_x_preferred":[
@@ -213,9 +214,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-22",
+    "src:population_date":"2007-05-22",
     "statoids:area_km":"2,074",
     "statoids:area_mi":"801",
     "statoids:as_of_date":"2007-05-22",
@@ -240,7 +241,7 @@
         "gp:id":2345298,
         "hasc:id":"SV.UN",
         "iso:id":"SV-UN",
-        "qs:id":1083827,
+        "qs_pg:id":1083827,
         "unlc:id":"SV-UN",
         "wd:id":"Q1130688",
         "wk:page":"La Uni\u00f3n Department"
@@ -261,11 +262,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565736751,
+    "wof:lastmodified":1566650757,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":238217,
     "wof:population_rank":10,

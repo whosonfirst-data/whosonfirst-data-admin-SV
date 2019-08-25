@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.814456,
     "lbl:longitude":-90.042811,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Ahuachapan",
     "meso:diss_me":"SAN FRANCISCO MENENDEZAHUACHAPAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-90.042811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Francisco Men\u00e9ndez"
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191575,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gp:id":26808529,
         "hasc:id":"SV.AH.SF",
-        "qs:id":233705,
+        "qs_pg:id":233705,
         "wd:id":"Q766174"
     },
     "wof:country":"SV",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421203589,
-    "wof:lastmodified":1563298816,
+    "wof:lastmodified":1566651029,
     "wof:name":"San Francisco Menendez",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

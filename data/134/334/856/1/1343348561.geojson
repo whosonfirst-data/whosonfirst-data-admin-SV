@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.68667,13.64667,-88.64667,13.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -123,8 +127,7 @@
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo San Pedro",
-        "San Pedro"
+        "Caser\u00edo San Pedro"
     ],
     "name:war_x_preferred":[
         "San Pedro"
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1343348561,
-    "wof:lastmodified":1564160674,
+    "wof:lastmodified":1566650739,
     "wof:name":"San Pedro",
     "wof:parent_id":421203747,
     "wof:placetype":"locality",

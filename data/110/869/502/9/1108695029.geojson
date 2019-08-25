@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.409566,
     "lbl:longitude":-88.41507,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Usulutan",
     "meso:diss_me":"SANTA ELENAUSULUTAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.41507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -102,7 +105,7 @@
         "Santa Elena"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108695029,
-    "wof:lastmodified":1564161005,
+    "wof:lastmodified":1566650931,
     "wof:name":"Santa Elena",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":13.85008,
     "geom:longitude":-89.542694,
     "iso:country":"SV",
+    "lbl:bbox":"-89.562694,13.83008,-89.522694,13.87008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":78611,
-        "qs:id":1074062
+        "qs_pg:id":1074062
     },
     "wof:country":"SV",
     "wof:created":1459009485,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186587,
-    "wof:lastmodified":1500037373,
+    "wof:lastmodified":1566651038,
     "wof:name":"Largo de Coatepeque",
     "wof:parent_id":1108694775,
     "wof:placetype":"locality",

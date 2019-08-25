@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.02,13.53,-87.98,13.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yucuaiqu\u00edn"
     ],
@@ -35,9 +39,6 @@
         "Yucuaiqu\u00edn"
     ],
     "name:spa_x_preferred":[
-        "Yucuaiqu\u00edn"
-    ],
-    "name:und_x_variant":[
         "Yucuaiqu\u00edn"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1209027849,
-    "wof:lastmodified":1564160924,
+    "wof:lastmodified":1566650883,
     "wof:name":"Yucuaiquin",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

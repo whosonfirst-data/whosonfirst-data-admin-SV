@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.69694,13.30722,-87.65694,13.34722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259480047,
-    "wof:lastmodified":1536862368,
+    "wof:lastmodified":1566651119,
     "wof:name":"Las Ahogadas",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.82,13.23,-88.78,13.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u043d\u0442\u044d\u043a\u0440\u044b\u0441\u0442\u0430"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1226513353,
-    "wof:lastmodified":1564161365,
+    "wof:lastmodified":1566651160,
     "wof:name":"Montecristo",
     "wof:parent_id":421168319,
     "wof:placetype":"locality",

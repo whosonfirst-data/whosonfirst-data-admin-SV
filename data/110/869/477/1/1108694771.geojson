@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.312161,
     "lbl:longitude":-87.987816,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"La Union",
     "meso:diss_me":"EL CARMENLA UNION",
@@ -35,6 +37,7 @@
     "mps:longitude":-87.987816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "El Carmen"
     ],
@@ -81,7 +84,7 @@
         "El Carmen"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108694771,
-    "wof:lastmodified":1564161016,
+    "wof:lastmodified":1566650938,
     "wof:name":"El Carmen",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

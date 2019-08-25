@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.695475,
     "lbl:longitude":-87.994569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Morazan",
     "meso:diss_me":"SOCIEDADMORAZAN",
@@ -35,11 +37,12 @@
     "mps:longitude":-87.994569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Sociedad"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108695065,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1566650947,
     "wof:name":"Sociedad",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

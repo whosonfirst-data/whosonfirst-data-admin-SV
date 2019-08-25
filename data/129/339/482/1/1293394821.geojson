@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.36083,13.85194,-89.32083,13.89194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Pedro",
         "San Pedro Oriente"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293394821,
-    "wof:lastmodified":1537701435,
+    "wof:lastmodified":1566650768,
     "wof:name":"San Pedro Oriente",
     "wof:parent_id":1108694967,
     "wof:placetype":"locality",

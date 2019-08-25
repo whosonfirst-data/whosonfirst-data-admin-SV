@@ -10,8 +10,12 @@
     "geom:latitude":13.53333,
     "geom:longitude":-88.35,
     "iso:country":"SV",
+    "lbl:bbox":"-88.37,13.51333,-88.33,13.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nueva Guadalupe"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3584260,
         "gp:id":79149,
-        "qs:id":193186,
+        "qs_pg:id":193186,
         "wd:id":"Q3879289",
         "wk:page":"Nueva Guadalupe"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421199339,
-    "wof:lastmodified":1563298850,
+    "wof:lastmodified":1566651046,
     "wof:name":"Nueva Guadalupe",
     "wof:parent_id":1108694865,
     "wof:placetype":"locality",

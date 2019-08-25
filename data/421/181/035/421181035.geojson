@@ -10,8 +10,12 @@
     "geom:latitude":13.88333,
     "geom:longitude":-88.96667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.98667,13.86333,-88.94667,13.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cinquera"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3586990,
         "gp:id":77069,
-        "qs:id":474655,
+        "qs_pg:id":474655,
         "wd:id":"Q1154142",
         "wk:page":"Cinquera"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421181035,
-    "wof:lastmodified":1563298837,
+    "wof:lastmodified":1566651040,
     "wof:name":"Cinquera",
     "wof:parent_id":1108694747,
     "wof:placetype":"locality",

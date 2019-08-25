@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.54667,13.74194,-89.50667,13.78194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Azacualpa"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Hacienda Azacualpa",
-        "Hacienda Achacualpa",
-        "Azacualpa"
+        "Hacienda Achacualpa"
     ],
     "name:zho_x_preferred":[
         "\u963f\u85a9\u5eab\u963f\u723e\u5e15"
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1259655113,
-    "wof:lastmodified":1564161285,
+    "wof:lastmodified":1566651114,
     "wof:name":"Azacualpa",
     "wof:parent_id":421203739,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.30778,
     "geom:longitude":-87.86472,
     "iso:country":"SV",
+    "lbl:bbox":"-87.88472,13.28778,-87.84472,13.32778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Conchagua"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3586917,
         "gp:id":77142,
-        "qs:id":295833,
+        "qs_pg:id":295833,
         "wd:id":"Q3686207",
         "wk:page":"Conchagua"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421173673,
-    "wof:lastmodified":1563298826,
+    "wof:lastmodified":1566651033,
     "wof:name":"Conchagua",
     "wof:parent_id":421191221,
     "wof:placetype":"locality",

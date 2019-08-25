@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.70333,13.96333,-88.66333,14.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Bosque"
     ],
@@ -70,8 +74,7 @@
     ],
     "name:und_x_variant":[
         "Caser\u00edo Bosque",
-        "Bosque",
-        "El Bosque"
+        "Bosque"
     ],
     "name:vie_x_preferred":[
         "El Bosque"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1242877295,
-    "wof:lastmodified":1564161208,
+    "wof:lastmodified":1566651072,
     "wof:name":"El Bosque",
     "wof:parent_id":421182403,
     "wof:placetype":"locality",

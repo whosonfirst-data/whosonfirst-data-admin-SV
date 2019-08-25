@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.422942,
     "lbl:longitude":-88.333121,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"San Miguel",
     "meso:diss_me":"SAN JORGESAN MIGUEL",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.333121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jorge"
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191575,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":26808694,
         "hasc:id":"SV.SM.SJ",
-        "qs:id":1113832
+        "qs_pg:id":1113832
     },
     "wof:country":"SV",
     "wof:created":1459009627,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421189501,
-    "wof:lastmodified":1564161180,
+    "wof:lastmodified":1566651035,
     "wof:name":"San Jorge",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

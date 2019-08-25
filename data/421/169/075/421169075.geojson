@@ -10,6 +10,9 @@
     "geom:latitude":13.71889,
     "geom:longitude":-89.72417,
     "iso:country":"SV",
+    "lbl:bbox":"-89.74417,13.69889,-89.70417,13.73889",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -140,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0441\u043e\u043d\u0430\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Sonsonate"
     ],
     "name:urd_x_preferred":[
@@ -277,7 +280,7 @@
     "wof:concordances":{
         "gn:id":3583102,
         "gp:id":80010,
-        "qs:id":1023935,
+        "qs_pg:id":1023935,
         "wd:id":"Q1014248",
         "wk:page":"Sonsonate, El Salvador"
     },
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421169075,
-    "wof:lastmodified":1563298809,
+    "wof:lastmodified":1566651026,
     "wof:name":"Sonsonate",
     "wof:parent_id":421184831,
     "wof:placetype":"locality",

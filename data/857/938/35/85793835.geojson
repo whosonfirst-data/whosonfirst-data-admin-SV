@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13432414.512491,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.185925,13.658959,-89.185925,13.658959",
     "geom:latitude":13.658959,
     "geom:longitude":-89.185925,
-    "gn:gn_country":"SV",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"SV",
+    "gn:fcode":"PPLX",
     "gn:latitude":13.66667,
     "gn:longitude":-89.18333,
+    "gn:population":0,
     "iso:country":"SV",
+    "lbl:bbox":"-89.190925,13.653959,-89.180925,13.663959",
     "lbl:latitude":13.658959,
     "lbl:longitude":-89.185925,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.658358,
     "mps:longitude":-89.183417,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     "name:spa_x_variant":[
         "El Milagro",
         "Colonia del Milagro"
-    ],
-    "name:unk_x_variant":[
-        "El Milagro",
-        "Colonia El Milagro"
     ],
     "qs:gn_adm0_cc":"SV",
     "qs:gn_fcode":"PPLX",
@@ -87,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85677163,
         102191575,
@@ -98,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3586968,
         "gp:id":77087,
-        "qs:id":1165075,
         "qs_pg:id":1165075
     },
     "wof:country":"SV",
@@ -117,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379462,
+    "wof:lastmodified":1566650756,
     "wof:name":"Colonia El Milagro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.32,13.69667,-88.28,13.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Angostura"
     ],
@@ -42,8 +46,7 @@
         "La Angostura"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo La Angostura",
-        "La Angostura"
+        "Caser\u00edo La Angostura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1210011035,
-    "wof:lastmodified":1564160951,
+    "wof:lastmodified":1566650898,
     "wof:name":"La Angostura",
     "wof:parent_id":421195555,
     "wof:placetype":"locality",

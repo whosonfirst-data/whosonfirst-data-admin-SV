@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.04972,13.57,-89.00972,13.61",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Socorro"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310197561,
-    "wof:lastmodified":1564161099,
+    "wof:lastmodified":1566650982,
     "wof:name":"El Socorro",
     "wof:parent_id":1108694917,
     "wof:placetype":"locality",

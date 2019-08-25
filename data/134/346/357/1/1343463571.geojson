@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.40222,13.9425,-89.36222,13.9825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moncagua"
     ],
@@ -39,8 +43,7 @@
         "Moncagua"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Moncagua",
-        "Moncagua"
+        "Caser\u00edo Moncagua"
     ],
     "name:zho_x_preferred":[
         "\u8499\u5361\u74dc"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1343463571,
-    "wof:lastmodified":1564160645,
+    "wof:lastmodified":1566650723,
     "wof:name":"Moncagua",
     "wof:parent_id":1108694993,
     "wof:placetype":"locality",

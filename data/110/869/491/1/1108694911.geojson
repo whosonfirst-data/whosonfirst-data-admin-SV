@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.439455,
     "lbl:longitude":-87.922019,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"La Union",
     "meso:diss_me":"SAN ALEJOLA UNION",
@@ -35,6 +37,7 @@
     "mps:longitude":-87.922019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Alejo"
     ],
@@ -57,7 +60,7 @@
         "\u8056\u963f\u840a\u970d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694911,
-    "wof:lastmodified":1564161024,
+    "wof:lastmodified":1566650944,
     "wof:name":"San Alejo",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

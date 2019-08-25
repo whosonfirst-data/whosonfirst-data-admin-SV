@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.900903,
     "lbl:longitude":-89.389358,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"La Libertad",
     "meso:diss_me":"SAN JUAN OPICOLA LIBERTAD",
@@ -35,12 +37,13 @@
     "mps:longitude":-89.389358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "San Juan Opico",
         "Opico"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108694967,
-    "wof:lastmodified":1554489249,
+    "wof:lastmodified":1566650944,
     "wof:name":"San Juan Opico",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

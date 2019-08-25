@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.77,13.53,-88.73,13.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Jacinto"
     ],
@@ -72,8 +76,7 @@
         "San Jacinto"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo San Jacinto",
-        "San Jacinto"
+        "Caser\u00edo San Jacinto"
     ],
     "name:vol_x_preferred":[
         "San Jacinto"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1259866531,
-    "wof:lastmodified":1564161332,
+    "wof:lastmodified":1566651143,
     "wof:name":"San Jacinto",
     "wof:parent_id":1108695019,
     "wof:placetype":"locality",

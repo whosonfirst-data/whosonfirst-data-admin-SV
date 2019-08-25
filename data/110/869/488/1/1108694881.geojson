@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.815709,
     "lbl:longitude":-88.164142,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Morazan",
     "meso:diss_me":"OSICALAMORAZAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.164142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Osicala"
     ],
@@ -57,7 +60,7 @@
         "\u5967\u897f\u5361\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694881,
-    "wof:lastmodified":1564161034,
+    "wof:lastmodified":1566650949,
     "wof:name":"Osicala",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

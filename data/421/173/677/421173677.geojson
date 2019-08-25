@@ -10,10 +10,14 @@
     "geom:latitude":13.31111,
     "geom:longitude":-88.02667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.04667,13.29111,-88.00667,13.33111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Lomega"
     ],
     "qs:gn_country":"SV",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3584209,
         "gp:id":79185,
-        "qs:id":295949
+        "qs_pg:id":295949
     },
     "wof:country":"SV",
     "wof:created":1459008999,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421173677,
-    "wof:lastmodified":1501267922,
+    "wof:lastmodified":1566651034,
     "wof:name":"Olomega",
     "wof:parent_id":1108694771,
     "wof:placetype":"locality",

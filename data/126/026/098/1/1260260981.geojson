@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.57417,14.19417,-89.53417,14.23417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260260981,
-    "wof:lastmodified":1536742091,
+    "wof:lastmodified":1566650928,
     "wof:name":"Caserio Canton",
     "wof:parent_id":1108694919,
     "wof:placetype":"locality",

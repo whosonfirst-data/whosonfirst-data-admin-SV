@@ -10,6 +10,9 @@
     "geom:latitude":13.5,
     "geom:longitude":-88.86667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.88667,13.48,-88.84667,13.52",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043a\u0430\u0442\u0435\u043a\u043e\u043b\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zacateccoluca"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "wof:concordances":{
         "gn:id":3582805,
         "gp:id":80196,
-        "qs:id":1340899,
+        "qs_pg:id":1340899,
         "wd:id":"Q139248",
         "wk:page":"Zacatecoluca, La Paz"
     },
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421169073,
-    "wof:lastmodified":1563298808,
+    "wof:lastmodified":1566651026,
     "wof:name":"Zacatecoluca",
     "wof:parent_id":421191217,
     "wof:placetype":"locality",

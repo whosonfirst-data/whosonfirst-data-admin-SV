@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.341065,
     "lbl:longitude":-89.157373,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"Chalatenango",
     "meso:diss_me":"SAN IGNACIOCHALATENANGO",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.157373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Sant Ignasi"
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":111,
     "wof:belongsto":[
         102191575,
@@ -134,7 +137,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26808568,
-        "qs:id":61155
+        "qs_pg:id":61155
     },
     "wof:country":"SV",
     "wof:created":1459009684,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421191203,
-    "wof:lastmodified":1564161184,
+    "wof:lastmodified":1566651043,
     "wof:name":"San Ignacio",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

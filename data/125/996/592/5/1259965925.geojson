@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.81833,13.695,-89.77833,13.735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Santo Domingo"
     ],
@@ -34,7 +38,6 @@
     ],
     "name:und_x_variant":[
         "El Pueblo de Santo Domingo de Guzm\u00e1n",
-        "Santo Domingo",
         "Santo Domingo Guzm\u00e1n",
         "Santo Domingo de Guzm\u00e1n"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259965925,
-    "wof:lastmodified":1564161286,
+    "wof:lastmodified":1566651115,
     "wof:name":"Santo Domingo de Guzman",
     "wof:parent_id":1108695055,
     "wof:placetype":"locality",

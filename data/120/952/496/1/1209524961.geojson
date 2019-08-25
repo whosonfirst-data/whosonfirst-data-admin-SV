@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-90.09222,13.7,-90.05222,13.74",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Playa"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209524961,
-    "wof:lastmodified":1564160892,
+    "wof:lastmodified":1566650866,
     "wof:name":"La Playa",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

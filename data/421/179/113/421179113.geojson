@@ -10,8 +10,12 @@
     "geom:latitude":13.25389,
     "geom:longitude":-88.24778,
     "iso:country":"SV",
+    "lbl:bbox":"-88.26778,13.23389,-88.22778,13.27389",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0648\u0643\u0648\u0631\u0627\u0646"
@@ -148,7 +152,7 @@
     "wof:concordances":{
         "gn:id":3585395,
         "gp:id":78297,
-        "qs:id":149081,
+        "qs_pg:id":149081,
         "wd:id":"Q1154960",
         "wk:page":"Jucuar\u00e1n"
     },
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":421179113,
-    "wof:lastmodified":1563298871,
+    "wof:lastmodified":1566651056,
     "wof:name":"Jucuar\u00e1n",
     "wof:parent_id":421184409,
     "wof:placetype":"locality",

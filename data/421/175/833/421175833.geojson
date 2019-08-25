@@ -10,8 +10,12 @@
     "geom:latitude":13.81472,
     "geom:longitude":-89.23139,
     "iso:country":"SV",
+    "lbl:bbox":"-89.25139,13.79472,-89.21139,13.83472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nejapa"
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3584284,
         "gp:id":79135,
-        "qs:id":1033397,
+        "qs_pg:id":1033397,
         "wd:id":"Q1003551",
         "wk:page":"Nejapa"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421175833,
-    "wof:lastmodified":1563298838,
+    "wof:lastmodified":1566651040,
     "wof:name":"Nejapa",
     "wof:parent_id":421189135,
     "wof:placetype":"locality",

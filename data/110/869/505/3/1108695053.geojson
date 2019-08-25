@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.506061,
     "lbl:longitude":-88.957291,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL III",
     "meso:admin_1":"La Paz",
     "meso:diss_me":"SANTIAGO NONUALCOLA PAZ",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.957291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Santiago Nonualco"
     ],
@@ -60,7 +63,7 @@
         "\u8056\u5730\u7259\u54e5\u8afe\u52aa\u963f\u723e\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695053,
-    "wof:lastmodified":1564161008,
+    "wof:lastmodified":1566650932,
     "wof:name":"Santiago Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

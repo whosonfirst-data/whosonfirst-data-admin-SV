@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.44583,13.82528,-89.40583,13.86528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Rosa"
     ],
@@ -114,8 +118,7 @@
         "Santa Rosa"
     ],
     "name:und_x_variant":[
-        "Valle Santa Rosa",
-        "Santa Rosa"
+        "Valle Santa Rosa"
     ],
     "name:vol_x_preferred":[
         "Santa Rosa"
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1225849937,
-    "wof:lastmodified":1564161418,
+    "wof:lastmodified":1566651189,
     "wof:name":"Santa Rosa",
     "wof:parent_id":421191211,
     "wof:placetype":"locality",

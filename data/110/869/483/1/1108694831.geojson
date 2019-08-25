@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.052856,
     "lbl:longitude":-88.836261,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"Chalatenango",
     "meso:diss_me":"LAS FLORESCHALATENANGO",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.836261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Las Flores"
     ],
@@ -76,7 +79,7 @@
         "\u041b\u0430\u0441-\u0424\u043b\u043e\u0440\u0435\u0441"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108694831,
-    "wof:lastmodified":1564161017,
+    "wof:lastmodified":1566650938,
     "wof:name":"Las Flores",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

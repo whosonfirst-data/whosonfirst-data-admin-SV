@@ -10,8 +10,12 @@
     "geom:latitude":13.84139,
     "geom:longitude":-89.74556,
     "iso:country":"SV",
+    "lbl:bbox":"-89.76556,13.82139,-89.72556,13.86139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Juay\u00faa"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3585401,
         "gp:id":78295,
-        "qs:id":489089,
+        "qs_pg:id":489089,
         "wd:id":"Q1006979",
         "wk:page":"Juay\u00faa"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421181337,
-    "wof:lastmodified":1563298835,
+    "wof:lastmodified":1566651039,
     "wof:name":"Juay\u00faa",
     "wof:parent_id":421167823,
     "wof:placetype":"locality",

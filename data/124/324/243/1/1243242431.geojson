@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.67,13.34667,-88.63,13.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cant\u00f3n La Ceiba Gacha",
         "Canton Criba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243242431,
-    "wof:lastmodified":1537701513,
+    "wof:lastmodified":1566651085,
     "wof:name":"Canton Criba",
     "wof:parent_id":421168319,
     "wof:placetype":"locality",

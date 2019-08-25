@@ -10,8 +10,12 @@
     "geom:latitude":13.73222,
     "geom:longitude":-89.37417,
     "iso:country":"SV",
+    "lbl:bbox":"-89.39417,13.71222,-89.35417,13.75222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u062f"
@@ -181,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0440\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cant\u00f3n Lourdes"
     ],
     "name:urd_x_preferred":[
@@ -231,7 +235,7 @@
     "wof:concordances":{
         "gn:id":3584472,
         "gp:id":79037,
-        "qs:id":1165077
+        "qs_pg:id":1165077
     },
     "wof:country":"SV",
     "wof:created":1459009723,
@@ -246,7 +250,7 @@
         }
     ],
     "wof:id":421192043,
-    "wof:lastmodified":1564161171,
+    "wof:lastmodified":1566651022,
     "wof:name":"Lourdes",
     "wof:parent_id":421189127,
     "wof:placetype":"locality",

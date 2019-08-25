@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.49143,
     "lbl:longitude":-89.2659,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"La Libertad",
     "meso:diss_me":"LA LIBERTADLA LIBERTAD",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.2659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "La Libertad"
     ],
@@ -102,7 +105,7 @@
         "La Libertad"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108694827,
-    "wof:lastmodified":1564161013,
+    "wof:lastmodified":1566650936,
     "wof:name":"La Libertad",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

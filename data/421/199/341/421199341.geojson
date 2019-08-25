@@ -10,8 +10,12 @@
     "geom:latitude":13.58444,
     "geom:longitude":-87.84111,
     "iso:country":"SV",
+    "lbl:bbox":"-87.86111,13.56444,-87.82111,13.60444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pasaquina"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Pasaquina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pasaguina"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3584140,
         "gp:id":79228,
-        "qs:id":193192,
+        "qs_pg:id":193192,
         "wd:id":"Q3896916",
         "wk:page":"Pasaquina"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421199341,
-    "wof:lastmodified":1563298851,
+    "wof:lastmodified":1566651047,
     "wof:name":"Pasaquina",
     "wof:parent_id":1108694891,
     "wof:placetype":"locality",

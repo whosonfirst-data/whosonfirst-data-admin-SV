@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.13611,13.77639,-89.09611,13.81639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Valle El Tr\u00e1nsito",
         "El Tr\u00e1nsito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259672717,
-    "wof:lastmodified":1537701487,
+    "wof:lastmodified":1566651134,
     "wof:name":"El Transito",
     "wof:parent_id":421203743,
     "wof:placetype":"locality",

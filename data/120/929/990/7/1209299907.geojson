@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.13667,13.58,-88.09667,13.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Barrios"
     ],
     "name:und_x_variant":[
-        "Mineral Barrios",
-        "Barrios"
+        "Mineral Barrios"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209299907,
-    "wof:lastmodified":1564160928,
+    "wof:lastmodified":1566650885,
     "wof:name":"Barrios",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

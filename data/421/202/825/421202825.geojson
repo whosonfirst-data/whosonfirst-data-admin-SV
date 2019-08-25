@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.11667,13.16667,-88.11667,13.16667",
     "geom:latitude":13.16667,
     "geom:longitude":-88.11667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.13667,13.14667,-88.09667,13.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"SV",
     "qs:gn_fcode":"PPL",
@@ -37,11 +43,11 @@
     "wof:concordances":{
         "gn:id":3586516,
         "gp:id":77456,
-        "qs:id":228548
+        "qs_pg:id":228548
     },
     "wof:country":"SV",
     "wof:created":1459010131,
-    "wof:geomhash":"dc5429c37f224c1ffb56c4fdb80e8bb5",
+    "wof:geomhash":"bde6fca839147f88ad53d3028d8ba0e0",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":421202825,
-    "wof:lastmodified":1470255552,
+    "wof:lastmodified":1566651030,
     "wof:name":"El Cuco",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

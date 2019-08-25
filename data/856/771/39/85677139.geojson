@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.852907,
     "lbl:longitude":-89.90871,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.865768,
     "mps:longitude":-89.904451,
     "mz:hierarchy_label":1,
@@ -175,7 +176,7 @@
         "Ahuachap\u00e1n"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc1\u0b9a\u0bcd\u0b9a\u0bbe\u0baa\u0ba9\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b95\u0bc1\u0b9a\u0bcd\u0b9a\u0bbe\u0baa\u0ba9\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c39\u0c42\u0c1a\u0c3e\u0c2a\u0c28\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -191,9 +192,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0410\u0443\u0430\u0447\u0430\u043f\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de Ahuachap\u00e1n"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06c1\u0648\u0627\u0634\u0627\u067e\u0627\u0646 \u0645\u062d\u06a9\u0645\u06c1"
@@ -276,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-22",
+    "src:population_date":"2007-05-22",
     "statoids:area_km":"1,240",
     "statoids:area_mi":"479",
     "statoids:as_of_date":"2007-05-22",
@@ -303,7 +301,7 @@
         "gp:id":2345292,
         "hasc:id":"SV.AH",
         "iso:id":"SV-AH",
-        "qs:id":1083823,
+        "qs_pg:id":1083823,
         "unlc:id":"SV-AH",
         "wd:id":"Q572993",
         "wk:page":"Ahuachap\u00e1n Department"
@@ -324,11 +322,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565736752,
+    "wof:lastmodified":1566650758,
     "wof:name":"Ahuachap\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":319503,
     "wof:population_rank":10,

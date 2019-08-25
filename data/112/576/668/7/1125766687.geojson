@@ -9,15 +9,18 @@
     "geom:bbox":"-89.35972,13.87611,-89.35972,13.87611",
     "geom:latitude":13.87611,
     "geom:longitude":-89.35972,
-    "gn:gn_country":"SV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7127,
+    "gn:country":"SV",
+    "gn:fcode":"PPL",
     "gn:population":7127,
     "iso:country":"SV",
+    "lbl:bbox":"-89.37972,13.85611,-89.33972,13.89611",
     "lbl:latitude":13.87611,
     "lbl:longitude":-89.35972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "San Juan Opico"
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043f\u0456\u043a\u043e"
     ],
-    "name:unk_x_variant":[
-        "Opico"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u76ae\u79d1"
     ],
@@ -82,7 +82,7 @@
     "qs_pg:woe_adm0":23424807,
     "qs_pg:woe_id":79698,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424807,
     "woe:name_adm0":"El Salvador",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125766687,
-    "wof:lastmodified":1563298887,
+    "wof:lastmodified":1566651062,
     "wof:name":"San Juan Opico",
     "wof:parent_id":1108694967,
     "wof:placetype":"locality",

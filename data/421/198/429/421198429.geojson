@@ -10,8 +10,12 @@
     "geom:latitude":13.38333,
     "geom:longitude":-88.35,
     "iso:country":"SV",
+    "lbl:bbox":"-88.37,13.36333,-88.33,13.40333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Rafael Oriente"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "San Rafael Oriente"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Rafael de Oriente"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3583379,
         "gp:id":79810,
-        "qs:id":1200885,
+        "qs_pg:id":1200885,
         "wd:id":"Q949719",
         "wk:page":"San Rafael, San Miguel"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421198429,
-    "wof:lastmodified":1563298840,
+    "wof:lastmodified":1566651041,
     "wof:name":"San Rafael Oriente",
     "wof:parent_id":1108695005,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.783295,
     "lbl:longitude":-89.205358,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"AMSS",
     "meso:admin_1":"San Salvador",
     "meso:diss_me":"APOPASAN SALVADOR",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.205358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648\u0628\u0627"
@@ -187,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":371,
     "wof:belongsto":[
         102191575,
@@ -198,7 +201,7 @@
     "wof:concordances":{
         "gp:id":26808702,
         "hasc:id":"SV.SS.AP",
-        "qs:id":961140,
+        "qs_pg:id":961140,
         "wd:id":"Q619646"
     },
     "wof:country":"SV",
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421183079,
-    "wof:lastmodified":1563298860,
+    "wof:lastmodified":1566651051,
     "wof:name":"Apopa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

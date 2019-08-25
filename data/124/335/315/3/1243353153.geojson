@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.24722,13.40833,-88.20722,13.44833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0456\u0433\u0435\u043b\u044c"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1243353153,
-    "wof:lastmodified":1564161248,
+    "wof:lastmodified":1566651091,
     "wof:name":"Chaparrastique",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

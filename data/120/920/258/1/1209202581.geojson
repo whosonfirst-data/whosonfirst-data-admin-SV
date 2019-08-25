@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.63667,14.06333,-89.59667,14.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632545
@@ -34,7 +38,7 @@
         "gn:id":3585091
     },
     "wof:country":"SV",
-    "wof:geomhash":"b4be154b30a9a126c4d16c771dae4088",
+    "wof:geomhash":"e15fdc8ef0e8285cd1b61022fda02c9e",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209202581,
-    "wof:lastmodified":1536294559,
+    "wof:lastmodified":1566650887,
     "wof:name":"La Parada",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -89.61667,
-    14.083329999999998,
+    14.08333,
     -89.61667,
-    14.083329999999998
+    14.08333
 ],
   "geometry": {"coordinates":[-89.61667,14.08333],"type":"Point"}
 }

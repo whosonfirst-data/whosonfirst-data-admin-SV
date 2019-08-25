@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.04028,13.35833,-88.00028,13.39833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cant\u00f3n Caulotillo",
         "Cant\u00f3n Caulotilla",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292992363,
-    "wof:lastmodified":1537701505,
+    "wof:lastmodified":1566650795,
     "wof:name":"El Caulotillo",
     "wof:parent_id":1108694771,
     "wof:placetype":"locality",

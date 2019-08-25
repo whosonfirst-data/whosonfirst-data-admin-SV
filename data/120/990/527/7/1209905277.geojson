@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.22139,13.84333,-89.18139,13.88333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cant\u00f3n Bonete",
         "Hacienda Bonete",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209905277,
-    "wof:lastmodified":1537701507,
+    "wof:lastmodified":1566650865,
     "wof:name":"El Bonete",
     "wof:parent_id":421189135,
     "wof:placetype":"locality",

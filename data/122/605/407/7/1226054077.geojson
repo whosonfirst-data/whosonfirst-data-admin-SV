@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.92,14.01333,-88.88,14.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Tepeyac"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1226054077,
-    "wof:lastmodified":1564161362,
+    "wof:lastmodified":1566651159,
     "wof:name":"Tepeyac",
     "wof:parent_id":421191205,
     "wof:placetype":"locality",

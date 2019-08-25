@@ -10,8 +10,12 @@
     "geom:latitude":13.71667,
     "geom:longitude":-88.36667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.38667,13.69667,-88.34667,13.73667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0435\u0441\u043e\u0440\u0438"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3583155,
         "gp:id":79970,
-        "qs:id":169306,
+        "qs_pg:id":169306,
         "wd:id":"Q3958151",
         "wk:page":"Sesori"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421203983,
-    "wof:lastmodified":1563298815,
+    "wof:lastmodified":1566651028,
     "wof:name":"Sesori",
     "wof:parent_id":421176713,
     "wof:placetype":"locality",

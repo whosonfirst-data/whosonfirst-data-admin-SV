@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.767983,
     "lbl:longitude":-89.008956,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"Cuscatlan",
     "meso:diss_me":"SAN PEDRO PERULAPANCUSCATLAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.008956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Pedro Perulap\u00e1n"
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":137,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gp:id":26808584,
         "hasc:id":"SV.CU.SP",
-        "qs:id":1113831,
+        "qs_pg:id":1113831,
         "wd:id":"Q657154"
     },
     "wof:country":"SV",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421189499,
-    "wof:lastmodified":1563298829,
+    "wof:lastmodified":1566651034,
     "wof:name":"San Pedro Perulapan",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

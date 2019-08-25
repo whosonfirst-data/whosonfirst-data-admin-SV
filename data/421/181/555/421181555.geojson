@@ -10,8 +10,12 @@
     "geom:latitude":14.15,
     "geom:longitude":-89.01667,
     "iso:country":"SV",
+    "lbl:bbox":"-89.03667,14.13,-88.99667,14.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "Dulce Nombre de Maria"
@@ -22,7 +26,7 @@
     "name:spa_x_preferred":[
         "Dulce Nombre de Mar\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dulce Nombre"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3586798,
         "gp:id":77215,
-        "qs:id":494645,
+        "qs_pg:id":494645,
         "wd:id":"Q3716183",
         "wk:page":"Dulce Nombre de Mar\u00eda"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421181555,
-    "wof:lastmodified":1527716326,
+    "wof:lastmodified":1566651040,
     "wof:name":"Dulce Nombre de Mar\u00eda",
     "wof:parent_id":1108694769,
     "wof:placetype":"locality",

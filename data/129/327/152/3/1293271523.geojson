@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.8125,13.59361,-89.7725,13.63361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Juli\u00e1n"
     ],
@@ -35,9 +39,6 @@
         "San Juli\u00e1n"
     ],
     "name:spa_x_preferred":[
-        "San Juli\u00e1n"
-    ],
-    "name:und_x_variant":[
         "San Juli\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1293271523,
-    "wof:lastmodified":1564160761,
+    "wof:lastmodified":1566650798,
     "wof:name":"San Julian",
     "wof:parent_id":1108694705,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.70333,13.96333,-88.66333,14.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El N\u00edspero"
     ],
@@ -48,8 +52,7 @@
         "El N\u00edspero"
     ],
     "name:und_x_variant":[
-        "N\u00edspero",
-        "El N\u00edspero"
+        "N\u00edspero"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u5c3c\u65af\u4f69\u7f85"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1327342557,
-    "wof:lastmodified":1564160578,
+    "wof:lastmodified":1566650686,
     "wof:name":"El Nispero",
     "wof:parent_id":421182403,
     "wof:placetype":"locality",

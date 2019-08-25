@@ -10,8 +10,12 @@
     "geom:latitude":13.63333,
     "geom:longitude":-88.26667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.28667,13.61333,-88.24667,13.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chapeltique"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Chapeltique"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chapelpique"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3587064,
         "gp:id":77044,
-        "qs:id":193161,
+        "qs_pg:id":193161,
         "wd:id":"Q3666268",
         "wk:page":"Chapeltique"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421199335,
-    "wof:lastmodified":1563298851,
+    "wof:lastmodified":1566651047,
     "wof:name":"Chapeltique",
     "wof:parent_id":1108694739,
     "wof:placetype":"locality",

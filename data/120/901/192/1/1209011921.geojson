@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.02,14.16333,-88.98,14.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plan de Ojo de Agua",
         "Plan del Ojo de Agua"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209011921,
-    "wof:lastmodified":1537701450,
+    "wof:lastmodified":1566650859,
     "wof:name":"Plan del Ojo de Agua",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.45333,13.43,-88.41333,13.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0627\u0645\u0627\u0631"
     ],
@@ -81,8 +85,7 @@
         "\u041c\u0456\u0440\u0430\u043c\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Finca Miramar",
-        "Miramar"
+        "Finca Miramar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1209197869,
-    "wof:lastmodified":1564160938,
+    "wof:lastmodified":1566650892,
     "wof:name":"Miramar",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

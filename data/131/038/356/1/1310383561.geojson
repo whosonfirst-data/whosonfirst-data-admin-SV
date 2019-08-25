@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.42,14.19667,-89.38,14.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo El Despoblado",
         "El Despoblado"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310383561,
-    "wof:lastmodified":1537701502,
+    "wof:lastmodified":1566650968,
     "wof:name":"El Despoblado",
     "wof:parent_id":1108695043,
     "wof:placetype":"locality",

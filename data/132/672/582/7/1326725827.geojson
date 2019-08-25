@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.97,13.79667,-87.93,13.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Corralito"
     ],
@@ -54,8 +58,7 @@
         "Corralito"
     ],
     "name:und_x_variant":[
-        "Coralito",
-        "Corralito"
+        "Coralito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1326725827,
-    "wof:lastmodified":1564160542,
+    "wof:lastmodified":1566650664,
     "wof:name":"Corralito",
     "wof:parent_id":421172671,
     "wof:placetype":"locality",

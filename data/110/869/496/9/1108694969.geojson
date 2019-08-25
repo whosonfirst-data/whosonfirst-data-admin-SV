@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.4992,
     "lbl:longitude":-89.087187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL III",
     "meso:admin_1":"La Paz",
     "meso:diss_me":"SAN JUAN TALPALA PAZ",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.087187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Juan Talpa"
     ],
@@ -60,7 +63,7 @@
         "\u8056\u80e1\u5b89\u5854\u723e\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694969,
-    "wof:lastmodified":1564161024,
+    "wof:lastmodified":1566650944,
     "wof:name":"San Juan Talpa",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

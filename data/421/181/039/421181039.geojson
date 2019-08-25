@@ -10,6 +10,9 @@
     "geom:latitude":13.33694,
     "geom:longitude":-87.84389,
     "iso:country":"SV",
+    "lbl:bbox":"-87.86389,13.31694,-87.82389,13.35694",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0423\u043d\u0456\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Carlos de La Uni\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -263,7 +266,7 @@
     "wof:concordances":{
         "gn:id":3584772,
         "gp:id":78594,
-        "qs:id":474657,
+        "qs_pg:id":474657,
         "wd:id":"Q2420477",
         "wk:page":"La Uni\u00f3n, El Salvador"
     },
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421181039,
-    "wof:lastmodified":1563298837,
+    "wof:lastmodified":1566651039,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":421191227,
     "wof:placetype":"locality",

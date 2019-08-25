@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.57,13.79667,-88.53,13.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Dub\u00f3n",
         "La Dubona"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226051285,
-    "wof:lastmodified":1537701473,
+    "wof:lastmodified":1566651160,
     "wof:name":"La Dubona",
     "wof:parent_id":421197065,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.36619,
     "lbl:longitude":-89.258498,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"Chalatenango",
     "meso:diss_me":"CITALACHALATENANGO",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.258498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cital\u00e1"
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":302,
     "wof:belongsto":[
         102191575,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gp:id":26808548,
         "hasc:id":"SV.CH.CI",
-        "qs:id":61159,
+        "qs_pg:id":61159,
         "wd:id":"Q1154046"
     },
     "wof:country":"SV",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421191209,
-    "wof:lastmodified":1563298846,
+    "wof:lastmodified":1566651044,
     "wof:name":"Citala",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

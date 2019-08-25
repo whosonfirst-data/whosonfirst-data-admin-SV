@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.782052,
     "lbl:longitude":-89.724634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Sonsonate",
     "meso:diss_me":"NAHUIZALCOSONSONATE",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.724634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nahuizalco"
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":220,
     "wof:belongsto":[
         102191575,
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gp:id":26808752,
         "hasc:id":"SV.SO.NZ",
-        "qs:id":261859,
+        "qs_pg:id":261859,
         "wd:id":"Q224791"
     },
     "wof:country":"SV",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421205339,
-    "wof:lastmodified":1563298820,
+    "wof:lastmodified":1566651031,
     "wof:name":"Nahuizalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

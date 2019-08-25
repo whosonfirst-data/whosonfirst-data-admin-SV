@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.74444,13.735,-89.70444,13.775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277153413,
-    "wof:lastmodified":1536665873,
+    "wof:lastmodified":1566650831,
     "wof:name":"Loma del Muerto",
     "wof:parent_id":421205339,
     "wof:placetype":"locality",

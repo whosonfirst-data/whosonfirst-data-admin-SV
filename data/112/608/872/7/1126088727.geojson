@@ -9,21 +9,21 @@
     "geom:bbox":"-89.21667,13.73333,-89.21667,13.73333",
     "geom:latitude":13.73333,
     "geom:longitude":-89.21667,
-    "gn:gn_country":"SV",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"SV",
+    "gn:fcode":"PPLX",
     "gn:latitude":13.73333,
     "gn:longitude":-89.21667,
+    "gn:population":0,
     "iso:country":"SV",
+    "lbl:bbox":"-89.22167,13.72833,-89.21167,13.73833",
     "lbl:latitude":13.73333,
     "lbl:longitude":-89.21667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
-        "Delicias del Norte"
-    ],
-    "name:unk_x_variant":[
         "Delicias del Norte"
     ],
     "qs_pg:aaroncc":"SV",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424807,
     "qs_pg:woe_id":77209,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424807,
     "woe:name_adm0":"El Salvador",
     "woe:name_adm1":"San Salvador",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":3586809,
         "gp:id":77209,
-        "qs:id":887549,
         "qs_pg:id":887549
     },
     "wof:country":"SV",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126088727,
-    "wof:lastmodified":1534379463,
+    "wof:lastmodified":1566651061,
     "wof:name":"Delicias del Norte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.18667,13.66333,-88.14667,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Rodeo"
     ],
@@ -42,8 +46,7 @@
         "El Rodeo"
     ],
     "name:und_x_variant":[
-        "Los Flores",
-        "El Rodeo"
+        "Los Flores"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1276571029,
-    "wof:lastmodified":1564160825,
+    "wof:lastmodified":1566650829,
     "wof:name":"El Rodeo",
     "wof:parent_id":1108695061,
     "wof:placetype":"locality",

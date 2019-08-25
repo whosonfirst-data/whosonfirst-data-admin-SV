@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.95333,13.38028,-87.91333,13.42028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agua Fr\u00eda",
         "Aguas Fr\u00edas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226039621,
-    "wof:lastmodified":1537701519,
+    "wof:lastmodified":1566651162,
     "wof:name":"Aguas Frias",
     "wof:parent_id":1108694911,
     "wof:placetype":"locality",

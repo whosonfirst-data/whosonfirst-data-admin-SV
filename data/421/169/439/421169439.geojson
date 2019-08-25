@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.776705,
     "lbl:longitude":-89.636183,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Sonsonate",
     "meso:diss_me":"IZALCOSONSONATE",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.636183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0441\u0430\u043b\u044c\u043a\u0430"
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":803,
     "wof:belongsto":[
         102191575,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gp:id":26808750,
         "hasc:id":"SV.SO.IZ",
-        "qs:id":219085,
+        "qs_pg:id":219085,
         "wd:id":"Q682226"
     },
     "wof:country":"SV",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421169439,
-    "wof:lastmodified":1563298808,
+    "wof:lastmodified":1566651026,
     "wof:name":"Izalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

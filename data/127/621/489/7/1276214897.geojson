@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.37,14.18,-89.33,14.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Rosa Guachipil\u00edn"
     ],
@@ -39,8 +43,7 @@
         "Santa Rosa Guachipil\u00edn"
     ],
     "name:und_x_variant":[
-        "Guachipilin",
-        "Santa Rosa Guachipil\u00edn"
+        "Guachipilin"
     ],
     "name:zho_x_preferred":[
         "\u8056\u7f85\u85a9\u74dc\u5947\u76ae\u6797"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276214897,
-    "wof:lastmodified":1564160795,
+    "wof:lastmodified":1566650817,
     "wof:name":"Santa Rosa Guachipilin",
     "wof:parent_id":1108695043,
     "wof:placetype":"locality",

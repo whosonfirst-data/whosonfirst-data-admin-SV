@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.847672,
     "lbl:longitude":-89.525688,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Santa Ana",
     "meso:diss_me":"EL CONGOSANTA ANA",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.525688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "El Congo"
     ],
@@ -54,7 +57,7 @@
         "\u57c3\u723e\u5b54\u6208"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108694775,
-    "wof:lastmodified":1564161016,
+    "wof:lastmodified":1566650938,
     "wof:name":"El Congo",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

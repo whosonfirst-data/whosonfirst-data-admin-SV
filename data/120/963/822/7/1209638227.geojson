@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.38667,13.66333,-89.34667,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632545
@@ -34,7 +38,7 @@
         "gn:id":3584691
     },
     "wof:country":"SV",
-    "wof:geomhash":"102c0ba73cd7c896ca60fbf0f573d9ab",
+    "wof:geomhash":"18dc6360d6d551dc31dd08ac8e8053ce",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209638227,
-    "wof:lastmodified":1536280971,
+    "wof:lastmodified":1566650864,
     "wof:name":"Loma Larga",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -89.36667,
-    13.683329999999998,
+    13.68333,
     -89.36667,
-    13.683329999999998
+    13.68333
 ],
   "geometry": {"coordinates":[-89.36667,13.68333],"type":"Point"}
 }

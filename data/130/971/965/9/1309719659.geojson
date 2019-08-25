@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.00333,14.04667,-88.96333,14.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309719659,
-    "wof:lastmodified":1537052950,
+    "wof:lastmodified":1566651013,
     "wof:name":"Monte Redondo",
     "wof:parent_id":421191205,
     "wof:placetype":"locality",

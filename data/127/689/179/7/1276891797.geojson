@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.93111,13.96583,-89.89111,14.00583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Tigre"
     ],
@@ -78,8 +82,7 @@
         "\u0e40\u0e2d\u0e25\u0e15\u0e34\u0e40\u0e01\u0e23"
     ],
     "name:und_x_variant":[
-        "Cant\u00f3n El Tigre",
-        "El Tigre"
+        "Cant\u00f3n El Tigre"
     ],
     "name:vol_x_preferred":[
         "El Tigre"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1276891797,
-    "wof:lastmodified":1564160799,
+    "wof:lastmodified":1566650819,
     "wof:name":"El Tigre",
     "wof:parent_id":421169323,
     "wof:placetype":"locality",

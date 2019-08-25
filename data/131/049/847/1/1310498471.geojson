@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.97,13.58,-87.93,13.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slv_x_preferred":[
         "Albornoz"
     ],
     "name:und_x_variant":[
-        "El Albornoz",
-        "Albornoz"
+        "El Albornoz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1310498471,
-    "wof:lastmodified":1564161066,
+    "wof:lastmodified":1566650965,
     "wof:name":"Albornoz",
     "wof:parent_id":1108694723,
     "wof:placetype":"locality",

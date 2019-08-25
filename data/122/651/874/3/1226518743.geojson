@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.70333,13.79667,-89.66333,13.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cant\u00f3n El Chaparr\u00f3n",
         "Cant\u00f3n Chaparron",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226518743,
-    "wof:lastmodified":1537701504,
+    "wof:lastmodified":1566651160,
     "wof:name":"El Chaparron",
     "wof:parent_id":421205339,
     "wof:placetype":"locality",

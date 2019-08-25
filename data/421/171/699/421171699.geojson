@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.56366,
     "lbl:longitude":-89.463427,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"La Libertad",
     "meso:diss_me":"CHILTIUPANLA LIBERTAD",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.463427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chiltiup\u00e1n"
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":138,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gp:id":26808596,
         "hasc:id":"SV.LI.CH",
-        "qs:id":1264027,
+        "qs_pg:id":1264027,
         "wd:id":"Q3674712"
     },
     "wof:country":"SV",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421171699,
-    "wof:lastmodified":1563298879,
+    "wof:lastmodified":1566651059,
     "wof:name":"Chiltiupan",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

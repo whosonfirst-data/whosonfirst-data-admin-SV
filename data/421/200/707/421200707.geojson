@@ -10,8 +10,12 @@
     "geom:latitude":13.56667,
     "geom:longitude":-88.5,
     "iso:country":"SV",
+    "lbl:bbox":"-88.52,13.54667,-88.48,13.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mercedes Uma\u00f1a"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Mercedes Uma\u00f1a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mercedes"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3584390,
         "gp:id":79069,
-        "qs:id":892015,
+        "qs_pg:id":892015,
         "wd:id":"Q935743",
         "wk:page":"Mercedes Uma\u00f1a"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421200707,
-    "wof:lastmodified":1563298852,
+    "wof:lastmodified":1566651047,
     "wof:name":"Mercedes Uma\u00f1a",
     "wof:parent_id":1108694849,
     "wof:placetype":"locality",

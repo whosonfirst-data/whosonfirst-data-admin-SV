@@ -10,6 +10,9 @@
     "geom:latitude":13.7,
     "geom:longitude":-88.1,
     "iso:country":"SV",
+    "lbl:bbox":"-88.12,13.68,-88.08,13.72",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e-\u0413\u043e\u0442\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gotera"
     ],
     "name:urd_x_preferred":[
@@ -254,7 +257,7 @@
     "wof:concordances":{
         "gn:id":3583747,
         "gp:id":79530,
-        "qs:id":53483,
+        "qs_pg:id":53483,
         "wd:id":"Q969396",
         "wk:page":"San Francisco Gotera, Moraz\u00e1n"
     },
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":421190405,
-    "wof:lastmodified":1563298848,
+    "wof:lastmodified":1566651045,
     "wof:name":"San Francisco",
     "wof:parent_id":421189495,
     "wof:placetype":"locality",
