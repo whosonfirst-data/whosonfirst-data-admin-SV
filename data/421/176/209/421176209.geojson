@@ -10,8 +10,12 @@
     "geom:latitude":13.38333,
     "geom:longitude":-88.41667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.43667,13.36333,-88.39667,13.40333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Elena"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3583278,
         "gp:id":79895,
-        "qs:id":1045541,
+        "qs_pg:id":1045541,
         "wd:id":"Q1154924",
         "wk:page":"Santa Elena, Usulut\u00e1n"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421176209,
-    "wof:lastmodified":1563298877,
+    "wof:lastmodified":1566651058,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108695029,
     "wof:placetype":"locality",

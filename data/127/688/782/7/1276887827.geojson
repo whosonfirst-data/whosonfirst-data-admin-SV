@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-90.00333,13.69667,-89.96333,13.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Santa Catarina"
     ],
@@ -104,8 +108,7 @@
     "name:und_x_variant":[
         "La Catarina",
         "Hacienda Catarina",
-        "Hacienda La Catarina",
-        "Santa Catarina"
+        "Hacienda La Catarina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1276887827,
-    "wof:lastmodified":1564160793,
+    "wof:lastmodified":1566650815,
     "wof:name":"Santa Catarina",
     "wof:parent_id":421204283,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.51167,13.69222,-89.47167,13.73222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -324,8 +328,7 @@
         "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0456\u043e"
     ],
     "name:und_x_variant":[
-        "Hacienda San Antonio",
-        "San Antonio"
+        "Hacienda San Antonio"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0627\u0646\u0679\u0648\u0646\u06cc\u0648"
@@ -383,7 +386,7 @@
         }
     ],
     "wof:id":1276681537,
-    "wof:lastmodified":1564160825,
+    "wof:lastmodified":1566650829,
     "wof:name":"San Antonio",
     "wof:parent_id":421203739,
     "wof:placetype":"locality",

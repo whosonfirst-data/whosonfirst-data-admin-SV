@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.56861,13.81139,-89.52861,13.85139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0431\u0435\u043b\u043e"
     ],
@@ -82,8 +86,7 @@
     ],
     "name:und_x_variant":[
         "Monte Velmo",
-        "Hacienda Monte Velmo",
-        "Montebello"
+        "Hacienda Monte Velmo"
     ],
     "name:vie_x_preferred":[
         "Montebello"
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1293179133,
-    "wof:lastmodified":1564160769,
+    "wof:lastmodified":1566650802,
     "wof:name":"Montebello",
     "wof:parent_id":1108694775,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.17,13.58,-89.13,13.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Joya Gir\u00f3n",
         "Joyas de Gir\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327226169,
-    "wof:lastmodified":1537701476,
+    "wof:lastmodified":1566650677,
     "wof:name":"Joyas de Giron",
     "wof:parent_id":1108694877,
     "wof:placetype":"locality",

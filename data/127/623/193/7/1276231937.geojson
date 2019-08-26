@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-90.13639,13.76306,-90.09639,13.80306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Marcos"
     ],
@@ -96,8 +100,7 @@
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo San Marcos",
-        "San Marcos"
+        "Caser\u00edo San Marcos"
     ],
     "name:vol_x_preferred":[
         "San Marcos"
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1276231937,
-    "wof:lastmodified":1564160841,
+    "wof:lastmodified":1566650837,
     "wof:name":"San Marcos",
     "wof:parent_id":421203589,
     "wof:placetype":"locality",

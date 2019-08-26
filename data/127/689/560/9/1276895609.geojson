@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.73417,13.18528,-87.69417,13.22528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276895609,
-    "wof:lastmodified":1537019296,
+    "wof:lastmodified":1566650819,
     "wof:name":"Plan de La Negra",
     "wof:parent_id":1108694845,
     "wof:placetype":"locality",

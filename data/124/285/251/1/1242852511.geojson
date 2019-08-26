@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.46833,13.96583,-89.42833,14.00583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Miguelito"
     ],
@@ -48,8 +52,7 @@
         "San Miguelito"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo San Miguelito",
-        "San Miguelito"
+        "Caser\u00edo San Miguelito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1242852511,
-    "wof:lastmodified":1564161258,
+    "wof:lastmodified":1566651100,
     "wof:name":"San Miguelito",
     "wof:parent_id":421190155,
     "wof:placetype":"locality",

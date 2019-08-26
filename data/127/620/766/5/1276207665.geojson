@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.73667,14.08,-89.69667,14.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u062a\u0627\u0646\u0643\u064a"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1276207665,
-    "wof:lastmodified":1564160810,
+    "wof:lastmodified":1566650823,
     "wof:name":"El Tanque",
     "wof:parent_id":1108694737,
     "wof:placetype":"locality",

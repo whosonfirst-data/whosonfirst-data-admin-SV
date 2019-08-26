@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.716277,
     "lbl:longitude":-89.752414,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Sonsonate",
     "meso:diss_me":"SAN ANTONIO DEL MONTESONSONATE",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.752414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Antonio del Monte"
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":531,
     "wof:belongsto":[
         102191575,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gp:id":26808755,
         "hasc:id":"SV.SO.SA",
-        "qs:id":115545,
+        "qs_pg:id":115545,
         "wd:id":"Q3946809"
     },
     "wof:country":"SV",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421195557,
-    "wof:lastmodified":1563298800,
+    "wof:lastmodified":1566651023,
     "wof:name":"San Antonio Del Monte",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

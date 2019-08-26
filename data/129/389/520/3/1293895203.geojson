@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.03667,14.11333,-88.99667,14.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Guti\u00e9rrez",
         "Guti\u00e9rrez"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293895203,
-    "wof:lastmodified":1537701483,
+    "wof:lastmodified":1566650799,
     "wof:name":"Gutierrez",
     "wof:parent_id":1108694769,
     "wof:placetype":"locality",

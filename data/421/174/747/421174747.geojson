@@ -10,8 +10,12 @@
     "geom:latitude":13.84306,
     "geom:longitude":-90.01583,
     "iso:country":"SV",
+    "lbl:bbox":"-90.03583,13.82306,-89.99583,13.86306",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Francisco Men\u00e9ndez"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3583716,
         "gp:id":79552,
-        "qs:id":898280,
+        "qs_pg:id":898280,
         "wd:id":"Q766174",
         "wk:page":"San Francisco Men\u00e9ndez"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421174747,
-    "wof:lastmodified":1563298821,
+    "wof:lastmodified":1566651031,
     "wof:name":"San Francisco Men\u00e9ndez",
     "wof:parent_id":421203589,
     "wof:placetype":"locality",

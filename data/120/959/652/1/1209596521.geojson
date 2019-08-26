@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.42,14.14667,-89.38,14.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632545
@@ -34,7 +38,7 @@
         "gn:id":3585783
     },
     "wof:country":"SV",
-    "wof:geomhash":"a54df11caefc3b2ff70d65e42590366a",
+    "wof:geomhash":"d33d6611bc55e9d3b1f853646bf0192c",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209596521,
-    "wof:lastmodified":1536282307,
+    "wof:lastmodified":1566650879,
     "wof:name":"El Zapotillo",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -89.4,
-    14.166670000000002,
+    14.16667,
     -89.4,
-    14.166670000000002
+    14.16667
 ],
   "geometry": {"coordinates":[-89.40000000000001,14.16667],"type":"Point"}
 }

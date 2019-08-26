@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.902933,
     "lbl:longitude":-88.162183,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Morazan",
     "meso:diss_me":"JOCOAITIQUEMORAZAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.162183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jocoaitique"
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191575,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gp:id":26808665,
         "hasc:id":"SV.MO.JQ",
-        "qs:id":1137335,
+        "qs_pg:id":1137335,
         "wd:id":"Q3808619"
     },
     "wof:country":"SV",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421191473,
-    "wof:lastmodified":1563298846,
+    "wof:lastmodified":1566651044,
     "wof:name":"Jocoaitique",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

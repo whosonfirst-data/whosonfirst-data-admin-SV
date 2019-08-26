@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.47861,13.83778,-89.43861,13.87778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Joya"
     ],
@@ -48,8 +52,7 @@
         "La Joya"
     ],
     "name:und_x_variant":[
-        "Cant\u00f3n La Joya",
-        "La Joya"
+        "Cant\u00f3n La Joya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1327411855,
-    "wof:lastmodified":1564160573,
+    "wof:lastmodified":1566650683,
     "wof:name":"La Joya",
     "wof:parent_id":421190155,
     "wof:placetype":"locality",

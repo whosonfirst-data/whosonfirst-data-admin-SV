@@ -10,8 +10,12 @@
     "geom:latitude":13.5,
     "geom:longitude":-88.88333,
     "iso:country":"SV",
+    "lbl:bbox":"-88.90333,13.48,-88.86333,13.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "San Juan Nonualco"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "San Juan Nonualco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nonualco"
     ],
     "qs:gn_country":"SV",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3583533,
         "gp:id":79697,
-        "qs:id":267354
+        "qs_pg:id":267354
     },
     "wof:country":"SV",
     "wof:created":1459008693,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421166535,
-    "wof:lastmodified":1564161169,
+    "wof:lastmodified":1566651020,
     "wof:name":"San Juan Nonualco",
     "wof:parent_id":421191217,
     "wof:placetype":"locality",

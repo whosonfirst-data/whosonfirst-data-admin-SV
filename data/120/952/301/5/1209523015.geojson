@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.87,13.96333,-88.83,14.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Jos\u00e9 Cancasque"
     ],
@@ -39,9 +43,7 @@
         "Cancasque"
     ],
     "name:und_x_variant":[
-        "Cancasque",
-        "Pueblo de Cancasque",
-        "San Jos\u00e9 Cancasque"
+        "Pueblo de Cancasque"
     ],
     "name:zho_x_preferred":[
         "\u8056\u4f55\u585e\u574e\u5361\u65af\u514b"
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1209523015,
-    "wof:lastmodified":1564160892,
+    "wof:lastmodified":1566650865,
     "wof:name":"San Jose Cancasque",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

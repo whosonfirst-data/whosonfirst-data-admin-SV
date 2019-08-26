@@ -10,8 +10,12 @@
     "geom:latitude":13.71639,
     "geom:longitude":-89.73833,
     "iso:country":"SV",
+    "lbl:bbox":"-89.75833,13.69639,-89.71833,13.73639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Antonio del Monte"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3583851,
         "gp:id":79445,
-        "qs:id":1062190,
+        "qs_pg:id":1062190,
         "wd:id":"Q3946809",
         "wk:page":"San Antonio del Monte"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421176649,
-    "wof:lastmodified":1563298876,
+    "wof:lastmodified":1566651058,
     "wof:name":"San Antonio del Monte",
     "wof:parent_id":421195557,
     "wof:placetype":"locality",

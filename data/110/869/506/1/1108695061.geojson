@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.688828,
     "lbl:longitude":-88.168012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Morazan",
     "meso:diss_me":"SENSEMBRAMORAZAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.168012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sensembra"
     ],
@@ -54,7 +57,7 @@
         "\u68ee\u68ee\u5e03\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108695061,
-    "wof:lastmodified":1564161030,
+    "wof:lastmodified":1566650946,
     "wof:name":"Sensembra",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

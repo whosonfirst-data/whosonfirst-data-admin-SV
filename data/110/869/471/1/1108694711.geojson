@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.958365,
     "lbl:longitude":-89.199325,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"San Salvador",
     "meso:diss_me":"AGUILARESSAN SALVADOR",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.199325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Aguilares"
     ],
@@ -60,7 +63,7 @@
         "Aguilares"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694711,
-    "wof:lastmodified":1564161012,
+    "wof:lastmodified":1566650935,
     "wof:name":"Aguilares",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

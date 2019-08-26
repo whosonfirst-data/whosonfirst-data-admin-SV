@@ -10,8 +10,12 @@
     "geom:latitude":13.87694,
     "geom:longitude":-89.17306,
     "iso:country":"SV",
+    "lbl:bbox":"-89.19306,13.85694,-89.15306,13.89694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u0437\u0430\u043f\u0430"
@@ -43,7 +47,7 @@
     "name:spa_x_preferred":[
         "Guazapa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guasapa"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3585636,
         "gp:id":78105,
-        "qs:id":1339574,
+        "qs_pg:id":1339574,
         "wd:id":"Q984133",
         "wk:page":"Guazapa"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421182475,
-    "wof:lastmodified":1563298872,
+    "wof:lastmodified":1566651057,
     "wof:name":"Guazapa",
     "wof:parent_id":1108694809,
     "wof:placetype":"locality",

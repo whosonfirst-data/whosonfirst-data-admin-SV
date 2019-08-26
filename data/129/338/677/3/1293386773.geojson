@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.88667,13.23,-87.84667,13.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gualpiapur",
         "Gualpirque"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293386773,
-    "wof:lastmodified":1537701484,
+    "wof:lastmodified":1566650762,
     "wof:name":"Gualpirque",
     "wof:parent_id":421191221,
     "wof:placetype":"locality",

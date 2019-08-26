@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.97,14.06333,-88.93,14.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Concepci\u00f3n Quezaltepeque"
     ],
@@ -35,9 +39,6 @@
         "Concepci\u00f3n Quezaltepeque"
     ],
     "name:spa_x_preferred":[
-        "Concepci\u00f3n Quezaltepeque"
-    ],
-    "name:und_x_variant":[
         "Concepci\u00f3n Quezaltepeque"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1242785347,
-    "wof:lastmodified":1564161255,
+    "wof:lastmodified":1566651097,
     "wof:name":"Concepcion Quezaltepeque",
     "wof:parent_id":1108694757,
     "wof:placetype":"locality",

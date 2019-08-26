@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.38667,13.38,-88.34667,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rodeo de Pedr\u00f3n",
         "Rodeo de Piedr\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292924675,
-    "wof:lastmodified":1537701447,
+    "wof:lastmodified":1566650770,
     "wof:name":"Rodeo de Piedron",
     "wof:parent_id":1108695005,
     "wof:placetype":"locality",

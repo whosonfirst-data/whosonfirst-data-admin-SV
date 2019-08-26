@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.43639,13.89778,-89.39639,13.93778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u041d\u043e\u043c\u0431\u0440\u0435 \u0434\u0435 \u0414\u0438\u043e\u0441"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243090405,
-    "wof:lastmodified":1564161197,
+    "wof:lastmodified":1566651065,
     "wof:name":"Nombre de Dios",
     "wof:parent_id":1108694967,
     "wof:placetype":"locality",

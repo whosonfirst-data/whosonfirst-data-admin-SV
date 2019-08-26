@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.22,13.46333,-89.18,13.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -156,8 +160,7 @@
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Santa Cruz",
-        "Santa Cruz"
+        "Caser\u00edo Santa Cruz"
     ],
     "name:vie_x_preferred":[
         "Santa Cruz"
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":1226645099,
-    "wof:lastmodified":1564161401,
+    "wof:lastmodified":1566651181,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108694901,
     "wof:placetype":"locality",

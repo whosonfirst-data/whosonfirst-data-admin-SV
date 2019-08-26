@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.15333,13.68,-88.11333,13.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0628\u0629 \u062d\u0631\u0634\u064a\u0629"
     ],
@@ -105,8 +109,7 @@
         "\u0427\u0430\u043f\u0430\u0440\u0430\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "El Chaparral",
-        "Chaparral"
+        "El Chaparral"
     ],
     "name:zho_x_preferred":[
         "\u6d53\u5bc6\u5e38\u7eff\u9614\u53f6\u704c\u4e1b"
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1193037929,
-    "wof:lastmodified":1564160967,
+    "wof:lastmodified":1566650909,
     "wof:name":"Chaparral",
     "wof:parent_id":421189495,
     "wof:placetype":"locality",

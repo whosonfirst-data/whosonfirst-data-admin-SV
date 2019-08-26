@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.569059,
     "lbl:longitude":-89.021553,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL III",
     "meso:admin_1":"La Paz",
     "meso:diss_me":"SAN ANTONIO MASAHUATLA PAZ",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.021553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Antonio Masahuat"
     ],
@@ -57,7 +60,7 @@
         "\u8056\u5b89\u6771\u5c3c\u5967\u99ac\u85a9\u74e6\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694917,
-    "wof:lastmodified":1564161024,
+    "wof:lastmodified":1566650944,
     "wof:name":"San Antonio Masahuat",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

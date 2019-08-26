@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.42,14.21333,-89.38,14.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cant\u00f3n La Junta",
         "San Antonio La Junta"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243344709,
-    "wof:lastmodified":1537701444,
+    "wof:lastmodified":1566651092,
     "wof:name":"San Antonio La Junta",
     "wof:parent_id":421171709,
     "wof:placetype":"locality",

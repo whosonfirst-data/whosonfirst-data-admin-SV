@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.851554,
     "lbl:longitude":-89.857973,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Ahuachapan",
     "meso:diss_me":"CONCEPCION DE ATACOAHUACHAPAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.857973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bd\u03c3\u03b5\u03c0\u03c3\u03b9\u03cc\u03bd \u03b4\u03b5 \u0391\u03c4\u03ac\u03ba\u03bf"
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1661,
     "wof:belongsto":[
         102191575,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gp:id":26808525,
         "hasc:id":"SV.AH.CA",
-        "qs:id":1104970,
+        "qs_pg:id":1104970,
         "wd:id":"Q1123798"
     },
     "wof:country":"SV",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421188901,
-    "wof:lastmodified":1563298831,
+    "wof:lastmodified":1566651035,
     "wof:name":"Concepcion De Ataco",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

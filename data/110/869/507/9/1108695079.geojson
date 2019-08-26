@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.167243,
     "lbl:longitude":-89.114421,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"Chalatenango",
     "meso:diss_me":"TEJUTLACHALATENANGO",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.114421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tejutla"
     ],
@@ -51,7 +54,7 @@
         "Tejutla"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108695079,
-    "wof:lastmodified":1564161032,
+    "wof:lastmodified":1566650948,
     "wof:name":"Tejutla",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

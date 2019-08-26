@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.649369,
     "lbl:longitude":-89.307867,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"AMSS",
     "meso:admin_1":"La Libertad",
     "meso:diss_me":"SANTA TECLALA LIBERTAD",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.307867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Santa Tecla"
     ],
@@ -70,7 +73,7 @@
         "Santa Tecla"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108695045,
-    "wof:lastmodified":1564161009,
+    "wof:lastmodified":1566650932,
     "wof:name":"Santa Tecla",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

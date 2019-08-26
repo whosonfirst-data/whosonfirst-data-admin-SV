@@ -10,8 +10,12 @@
     "geom:latitude":13.58944,
     "geom:longitude":-89.28889,
     "iso:country":"SV",
+    "lbl:bbox":"-89.30889,13.56944,-89.26889,13.60944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u062c\u0648\u0633\u0627\u060c \u0644\u0627 \u0644\u064a\u0628\u0631\u062a\u0627\u062f"
@@ -154,7 +158,7 @@
     "wof:concordances":{
         "gn:id":3582790,
         "gp:id":80206,
-        "qs:id":887544,
+        "qs_pg:id":887544,
         "wd:id":"Q4023866",
         "wk:page":"Zaragoza, La Libertad"
     },
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":421193319,
-    "wof:lastmodified":1563298806,
+    "wof:lastmodified":1566651025,
     "wof:name":"Zaragoza",
     "wof:parent_id":1108695103,
     "wof:placetype":"locality",

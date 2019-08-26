@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.66,
     "lbl:longitude":-89.174424,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"AMSS",
     "meso:admin_1":"San Salvador",
     "meso:diss_me":"SAN MARCOSSAN SALVADOR",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.174424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "San Marcos"
     ],
@@ -114,7 +117,7 @@
         "San Marcos"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108694987,
-    "wof:lastmodified":1564161023,
+    "wof:lastmodified":1566650943,
     "wof:name":"San Marcos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

@@ -12,8 +12,10 @@
     "gn:latitude":45.21667,
     "gn:longitude":14.73333,
     "iso:country":"SV",
+    "lbl:bbox":"14.508827,46.066225,14.518827,46.076225",
     "lbl:latitude":46.071225,
     "lbl:longitude":14.513827,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.079125,
     "mps:longitude":14.525523,
     "mz:hierarchy_label":0,
@@ -55,12 +57,6 @@
     ],
     "name:und_x_colloquial":[
         "Bezigrad"
-    ],
-    "name:und_x_preferred":[
-        "Be\u017eigrad"
-    ],
-    "name:unk_x_variant":[
-        "Be\u017eigrad"
     ],
     "name:zho_x_preferred":[
         "\u8d1d\u65e5\u683c\u52d2\u533a"
@@ -108,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3204329,
         "gp:id":55868984,
-        "qs:id":901586,
+        "qs_pg:id":901586,
         "wd:id":"Q2469185"
     },
     "wof:country":"SV",
@@ -127,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566650756,
     "wof:name":"Be\u017eigrad",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

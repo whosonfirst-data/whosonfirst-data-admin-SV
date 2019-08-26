@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.66624,
     "lbl:longitude":-89.244642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"AMSS",
     "meso:admin_1":"La Libertad",
     "meso:diss_me":"ANTIGUO CUSCATLANLA LIBERTAD",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.244642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Antiguo Cuscatl\u00e1n"
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1900,
     "wof:belongsto":[
         102191575,
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gp:id":26808592,
         "hasc:id":"SV.LI.AC",
-        "qs:id":115474,
+        "qs_pg:id":115474,
         "wd:id":"Q575756"
     },
     "wof:country":"SV",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421195553,
-    "wof:lastmodified":1563298800,
+    "wof:lastmodified":1566651023,
     "wof:name":"Antiguo Cuscatlan",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.95333,13.68,-88.91333,13.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Isabel"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1226078323,
-    "wof:lastmodified":1564161414,
+    "wof:lastmodified":1566651186,
     "wof:name":"Santa Isabel",
     "wof:parent_id":421172669,
     "wof:placetype":"locality",

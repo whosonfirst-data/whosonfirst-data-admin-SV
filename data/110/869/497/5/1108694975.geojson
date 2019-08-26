@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.01883,
     "lbl:longitude":-89.783038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Ahuachapan",
     "meso:diss_me":"SAN LORENZOAHUACHAPAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.783038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u0631\u064a\u0646\u0632\u0648"
     ],
@@ -144,7 +147,7 @@
         "San Lorenzo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1108694975,
-    "wof:lastmodified":1564161021,
+    "wof:lastmodified":1566650941,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

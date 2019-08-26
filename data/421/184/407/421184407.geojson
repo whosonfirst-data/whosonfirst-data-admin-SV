@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.625719,
     "lbl:longitude":-88.517999,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Usulutan",
     "meso:diss_me":"ESTANZUELASUSULUTAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.517999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Estanzuelas"
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gp:id":26808767,
         "hasc:id":"SV.US.ES",
-        "qs:id":995775
+        "qs_pg:id":995775
     },
     "wof:country":"SV",
     "wof:created":1459009409,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421184407,
-    "wof:lastmodified":1564161186,
+    "wof:lastmodified":1566651049,
     "wof:name":"Estanzuelas",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

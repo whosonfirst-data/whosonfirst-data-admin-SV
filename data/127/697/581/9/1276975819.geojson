@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.23444,13.32444,-88.19444,13.36444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30fb\u30d6\u30e9\u30bd"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276975819,
-    "wof:lastmodified":1564160857,
+    "wof:lastmodified":1566650844,
     "wof:name":"El Brazo",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.14333,13.46833,-88.10333,13.50833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Delicias"
     ],
@@ -36,8 +40,7 @@
         "Las Delicias"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Las Delicias",
-        "Las Delicias"
+        "Caser\u00edo Las Delicias"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209700147,
-    "wof:lastmodified":1564160894,
+    "wof:lastmodified":1566650867,
     "wof:name":"Las Delicias",
     "wof:parent_id":421201175,
     "wof:placetype":"locality",

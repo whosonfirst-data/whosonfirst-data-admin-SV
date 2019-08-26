@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.83667,13.53,-88.79667,13.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "India"
     ],
@@ -736,8 +740,7 @@
     ],
     "name:und_x_variant":[
         "Caser\u00edo La India",
-        "La India",
-        "India"
+        "La India"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06be\u0627\u0631\u062a"
@@ -816,7 +819,7 @@
         }
     ],
     "wof:id":1276955689,
-    "wof:lastmodified":1564160823,
+    "wof:lastmodified":1566650829,
     "wof:name":"India",
     "wof:parent_id":1108695077,
     "wof:placetype":"locality",

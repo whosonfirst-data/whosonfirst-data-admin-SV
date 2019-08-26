@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.87,13.73,-88.83,13.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Labor"
     ],
@@ -42,8 +46,7 @@
         "La Labor"
     ],
     "name:und_x_variant":[
-        "San Jos\u00e9 La Labor",
-        "La Labor"
+        "San Jos\u00e9 La Labor"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u62c9\u6c83\u723e"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1210003765,
-    "wof:lastmodified":1564160950,
+    "wof:lastmodified":1566650897,
     "wof:name":"La Labor",
     "wof:parent_id":1108695013,
     "wof:placetype":"locality",

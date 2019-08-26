@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.050404,
     "lbl:longitude":-88.73251,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"NO DATA",
     "meso:admin_1":"Chalatenango",
     "meso:diss_me":"ZONA DE DEMARCACION LIMITROFE",
@@ -35,11 +37,12 @@
     "mps:longitude":-88.73251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Nombre de Jes\u00fas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108695107,
-    "wof:lastmodified":1554489251,
+    "wof:lastmodified":1566650945,
     "wof:name":"Zona De Demarcacion Limitrofe",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

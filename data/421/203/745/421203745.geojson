@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.120717,
     "lbl:longitude":-89.491757,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Santa Ana",
     "meso:diss_me":"TEXISTEPEQUESANTA ANA",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.491757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Texistepeque"
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":344,
     "wof:belongsto":[
         102191575,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gp:id":26808732,
         "hasc:id":"SV.SA.TE",
-        "qs:id":115538,
+        "qs_pg:id":115538,
         "wd:id":"Q3985393"
     },
     "wof:country":"SV",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421203745,
-    "wof:lastmodified":1563298819,
+    "wof:lastmodified":1566651030,
     "wof:name":"Texistepeque",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

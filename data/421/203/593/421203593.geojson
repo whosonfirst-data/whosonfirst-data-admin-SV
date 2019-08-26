@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.294638,
     "lbl:longitude":-88.457164,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Usulutan",
     "meso:diss_me":"SAN DIONISIOUSULUTAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.457164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Dionisio"
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         102191575,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gp:id":26808777,
         "hasc:id":"SV.US.SD",
-        "qs:id":233707
+        "qs_pg:id":233707
     },
     "wof:country":"SV",
     "wof:created":1459010157,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421203593,
-    "wof:lastmodified":1564161172,
+    "wof:lastmodified":1566651028,
     "wof:name":"San Dionisio",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

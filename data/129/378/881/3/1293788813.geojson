@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.38667,13.71333,-89.34667,13.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cuyagualo",
         "Hacienda Cuyagualo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293788813,
-    "wof:lastmodified":1537701482,
+    "wof:lastmodified":1566650779,
     "wof:name":"Hacienda Cuyagualo",
     "wof:parent_id":421189127,
     "wof:placetype":"locality",

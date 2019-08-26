@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.06389,13.88972,-89.02389,13.92972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632545
@@ -34,7 +38,7 @@
         "gn:id":3584376
     },
     "wof:country":"SV",
-    "wof:geomhash":"4cb4ac558c56d336ab6b592bc7333062",
+    "wof:geomhash":"174f454bc6ad735067f9767869edbad3",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209315153,
-    "wof:lastmodified":1536290891,
+    "wof:lastmodified":1566650856,
     "wof:name":"Milingo",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -89.04389,
-    13.909720000000002,
+    13.90972,
     -89.04389,
-    13.909720000000002
+    13.90972
 ],
   "geometry": {"coordinates":[-89.04389,13.90972],"type":"Point"}
 }

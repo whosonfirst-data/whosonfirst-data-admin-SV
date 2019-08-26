@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.48667,13.53,-89.44667,13.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beneficio Las Term\u00f3pilas",
         "Beneficio Term\u00f3pilas",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326634995,
-    "wof:lastmodified":1537701463,
+    "wof:lastmodified":1566650696,
     "wof:name":"Las Termopilas",
     "wof:parent_id":421171699,
     "wof:placetype":"locality",

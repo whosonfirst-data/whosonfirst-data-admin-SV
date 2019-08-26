@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.77889,13.21917,-87.73889,13.25917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Conchag\u00fcita"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259976417,
-    "wof:lastmodified":1537701511,
+    "wof:lastmodified":1566651117,
     "wof:name":"Conchaguita",
     "wof:parent_id":1108694845,
     "wof:placetype":"locality",

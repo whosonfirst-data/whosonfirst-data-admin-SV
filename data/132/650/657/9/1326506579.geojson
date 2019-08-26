@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.67,13.68,-89.63,13.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comalapa"
     ],
@@ -48,8 +52,7 @@
         "Comalapa"
     ],
     "name:und_x_variant":[
-        "Hacienda Comalapa",
-        "Comalapa"
+        "Hacienda Comalapa"
     ],
     "name:vie_x_preferred":[
         "Comalapa"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1326506579,
-    "wof:lastmodified":1564160563,
+    "wof:lastmodified":1566650676,
     "wof:name":"Comalapa",
     "wof:parent_id":421189151,
     "wof:placetype":"locality",

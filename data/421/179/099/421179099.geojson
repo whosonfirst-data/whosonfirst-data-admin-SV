@@ -10,8 +10,12 @@
     "geom:latitude":13.97556,
     "geom:longitude":-89.34,
     "iso:country":"SV",
+    "lbl:bbox":"-89.36,13.95556,-89.32,13.99556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Pablo Tacachico"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "San Pablo Tacachico"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tacachico"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3583429,
         "gp:id":79775,
-        "qs:id":149072,
+        "qs_pg:id":149072,
         "wd:id":"Q3947747",
         "wk:page":"San Pablo Tacachico"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421179099,
-    "wof:lastmodified":1563298865,
+    "wof:lastmodified":1566651053,
     "wof:name":"San Pablo Tacachico",
     "wof:parent_id":1108694993,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.45333,13.78417,-89.41333,13.82417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Veracruz"
     ],
@@ -216,8 +220,7 @@
         "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Veracruz",
-        "Veracruz"
+        "Caser\u00edo Veracruz"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0631\u0627\u06a9\u0631\u0648\u0632"
@@ -254,7 +257,7 @@
         }
     ],
     "wof:id":1209110839,
-    "wof:lastmodified":1564160927,
+    "wof:lastmodified":1566650884,
     "wof:name":"Veracruz",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",

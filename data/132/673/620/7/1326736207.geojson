@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.02,13.73,-88.98,13.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Carmen"
     ],
@@ -67,8 +71,7 @@
     ],
     "name:und_x_variant":[
         "Caser\u00edo El Carmen",
-        "Finca el Carmen",
-        "El Carmen"
+        "Finca el Carmen"
     ],
     "name:vie_x_preferred":[
         "El Carmen"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1326736207,
-    "wof:lastmodified":1564160548,
+    "wof:lastmodified":1566650669,
     "wof:name":"El Carmen",
     "wof:parent_id":421189499,
     "wof:placetype":"locality",

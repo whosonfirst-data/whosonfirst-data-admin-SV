@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.962797,
     "lbl:longitude":-89.772695,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Ahuachapan",
     "meso:diss_me":"TURINAHUACHAPAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.772695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Turyn"
     ],
@@ -412,7 +415,7 @@
         "Turien"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -434,7 +437,7 @@
         }
     ],
     "wof:id":1108695089,
-    "wof:lastmodified":1564161029,
+    "wof:lastmodified":1566650945,
     "wof:name":"Turin",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

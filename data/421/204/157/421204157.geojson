@@ -10,8 +10,12 @@
     "geom:latitude":14.31667,
     "geom:longitude":-89.16667,
     "iso:country":"SV",
+    "lbl:bbox":"-89.18667,14.29667,-89.14667,14.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Palma"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3585098,
         "gp:id":78527,
-        "qs:id":238566,
+        "qs_pg:id":238566,
         "wd:id":"Q3821027",
         "wk:page":"La Palma, Chalatenango"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421204157,
-    "wof:lastmodified":1563298810,
+    "wof:lastmodified":1566651027,
     "wof:name":"La Palma",
     "wof:parent_id":421175389,
     "wof:placetype":"locality",

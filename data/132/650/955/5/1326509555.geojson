@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.60333,13.61333,-89.56333,13.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0627\u0645\u0627\u0631"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1326509555,
-    "wof:lastmodified":1564160562,
+    "wof:lastmodified":1566650675,
     "wof:name":"Miramar",
     "wof:parent_id":1108695031,
     "wof:placetype":"locality",

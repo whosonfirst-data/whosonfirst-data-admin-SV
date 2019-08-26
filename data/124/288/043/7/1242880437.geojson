@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.08972,13.89,-89.04972,13.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Roble",
         "El Roblar"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242880437,
-    "wof:lastmodified":1537701492,
+    "wof:lastmodified":1566651072,
     "wof:name":"El Roblar",
     "wof:parent_id":421175391,
     "wof:placetype":"locality",

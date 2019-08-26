@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.698101,
     "lbl:longitude":-89.104495,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"AMSS",
     "meso:admin_1":"San Salvador",
     "meso:diss_me":"ILOPANGOSAN SALVADOR",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.104495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0418\u043b\u043e\u043f\u0430\u043d\u0433\u043e"
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":189,
     "wof:belongsto":[
         102191575,
@@ -126,7 +129,7 @@
     "wof:concordances":{
         "gp:id":26808708,
         "hasc:id":"SV.SS.IL",
-        "qs:id":1110212,
+        "qs_pg:id":1110212,
         "wd:id":"Q1659066"
     },
     "wof:country":"SV",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421189133,
-    "wof:lastmodified":1563298828,
+    "wof:lastmodified":1566651034,
     "wof:name":"Ilopango",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

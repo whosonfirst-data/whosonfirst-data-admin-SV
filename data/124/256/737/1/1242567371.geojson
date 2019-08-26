@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.50333,13.78,-88.46333,13.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laureles"
     ],
@@ -42,8 +46,7 @@
         "Laureles"
     ],
     "name:und_x_variant":[
-        "Los Laureles",
-        "Laureles"
+        "Los Laureles"
     ],
     "name:zho_x_preferred":[
         "\u52de\u96f7\u840a\u65af"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242567371,
-    "wof:lastmodified":1564161226,
+    "wof:lastmodified":1566651082,
     "wof:name":"Laureles",
     "wof:parent_id":1108694873,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.53667,13.93,-89.49667,13.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Gloria"
     ],
@@ -48,8 +52,7 @@
         "La Gloria"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo La Gloria",
-        "La Gloria"
+        "Caser\u00edo La Gloria"
     ],
     "name:vie_x_preferred":[
         "La Gloria"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1225823533,
-    "wof:lastmodified":1564161415,
+    "wof:lastmodified":1566651187,
     "wof:name":"La Gloria",
     "wof:parent_id":421190155,
     "wof:placetype":"locality",

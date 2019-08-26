@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.25833,13.56944,-89.21833,13.60944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huiz\u00facar"
     ],
@@ -35,9 +39,6 @@
         "Huiz\u00facar"
     ],
     "name:spa_x_preferred":[
-        "Huiz\u00facar"
-    ],
-    "name:und_x_variant":[
         "Huiz\u00facar"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1310706705,
-    "wof:lastmodified":1564161064,
+    "wof:lastmodified":1566650964,
     "wof:name":"Huizucar",
     "wof:parent_id":1108694811,
     "wof:placetype":"locality",

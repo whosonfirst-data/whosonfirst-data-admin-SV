@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.798002,
     "lbl:longitude":-88.065416,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Morazan",
     "meso:diss_me":"CACAOPERAMORAZAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.065416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cacaopera"
     ],
@@ -60,7 +63,7 @@
         "\u5361\u8003\u4f69\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694725,
-    "wof:lastmodified":1564161043,
+    "wof:lastmodified":1566650952,
     "wof:name":"Cacaopera",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

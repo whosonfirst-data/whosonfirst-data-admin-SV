@@ -10,8 +10,12 @@
     "geom:latitude":13.78361,
     "geom:longitude":-87.83861,
     "iso:country":"SV",
+    "lbl:bbox":"-87.85861,13.76361,-87.81861,13.80361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nueva Esparta"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3584264,
         "gp:id":79147,
-        "qs:id":149076,
+        "qs_pg:id":149076,
         "wd:id":"Q550044",
         "wk:page":"Nueva Esparta, El Salvador"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421197585,
-    "wof:lastmodified":1563298850,
+    "wof:lastmodified":1566651046,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":1108694861,
     "wof:placetype":"locality",

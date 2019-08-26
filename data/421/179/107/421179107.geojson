@@ -10,8 +10,12 @@
     "geom:latitude":13.55,
     "geom:longitude":-88.35,
     "iso:country":"SV",
+    "lbl:bbox":"-88.37,13.53,-88.33,13.57",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lolotique"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3584714,
         "gp:id":78825,
-        "qs:id":149079,
+        "qs_pg:id":149079,
         "wd:id":"Q3836527",
         "wk:page":"Lolotique"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421179107,
-    "wof:lastmodified":1563298869,
+    "wof:lastmodified":1566651055,
     "wof:name":"Lolotique",
     "wof:parent_id":1108694839,
     "wof:placetype":"locality",

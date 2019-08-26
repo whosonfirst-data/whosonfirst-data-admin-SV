@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.82611,
     "lbl:longitude":-88.353185,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"San Miguel",
     "meso:diss_me":"SAN LUIS DE LA REINASAN MIGUEL",
@@ -35,12 +37,13 @@
     "mps:longitude":-88.353185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "San Luis De La Reina",
         "San Luis de la Reina"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108694981,
-    "wof:lastmodified":1554489249,
+    "wof:lastmodified":1566650943,
     "wof:name":"San Luis De La Reina",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

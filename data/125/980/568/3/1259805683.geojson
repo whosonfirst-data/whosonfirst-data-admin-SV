@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.11778,13.52861,-89.07778,13.56861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Cuyultit\u00e1n"
     ],
@@ -35,9 +39,6 @@
         "Cuyultit\u00e1n"
     ],
     "name:spa_x_preferred":[
-        "Cuyultit\u00e1n"
-    ],
-    "name:und_x_variant":[
         "Cuyultit\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1259805683,
-    "wof:lastmodified":1564161328,
+    "wof:lastmodified":1566651139,
     "wof:name":"Cuyultitan",
     "wof:parent_id":1108694765,
     "wof:placetype":"locality",

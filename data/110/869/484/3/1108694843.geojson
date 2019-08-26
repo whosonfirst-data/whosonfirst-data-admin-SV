@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.163519,
     "lbl:longitude":-89.422779,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Santa Ana",
     "meso:diss_me":"MASAHUATSANTA ANA",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.422779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Masahuat"
     ],
@@ -54,7 +57,7 @@
         "\u99ac\u85a9\u74e6\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108694843,
-    "wof:lastmodified":1564161018,
+    "wof:lastmodified":1566650939,
     "wof:name":"Masahuat",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

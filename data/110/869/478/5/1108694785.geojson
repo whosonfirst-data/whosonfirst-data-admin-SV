@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.036323,
     "lbl:longitude":-89.648564,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Santa Ana",
     "meso:diss_me":"EL PORVENIRSANTA ANA",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.648564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "El Porvenir"
     ],
@@ -75,7 +78,7 @@
         "El Porvenir"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108694785,
-    "wof:lastmodified":1564161011,
+    "wof:lastmodified":1566650934,
     "wof:name":"El Porvenir",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

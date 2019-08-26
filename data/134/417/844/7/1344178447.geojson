@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.7175,13.15972,-87.6775,13.19972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Meanguera del Golfo"
     ],
@@ -42,8 +46,7 @@
         "Meanguera del Golfo"
     ],
     "name:und_x_variant":[
-        "Meanguera de Golfo",
-        "Meanguera del Golfo"
+        "Meanguera de Golfo"
     ],
     "name:zho_x_preferred":[
         "\u6885\u5b89\u683c\u62c9\u5fb7\u723e\u6208\u723e\u798f"
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1344178447,
-    "wof:lastmodified":1564160678,
+    "wof:lastmodified":1566650741,
     "wof:name":"Meanguera del Golfo",
     "wof:parent_id":1108694845,
     "wof:placetype":"locality",

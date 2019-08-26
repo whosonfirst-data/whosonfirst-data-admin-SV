@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.817334,
     "lbl:longitude":-88.204091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"Morazan",
     "meso:diss_me":"GUALOCOCTIMORAZAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.204091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gualococti"
     ],
@@ -54,7 +57,7 @@
         "\u74dc\u6d1b\u79d1\u514b\u8482"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108694803,
-    "wof:lastmodified":1564161049,
+    "wof:lastmodified":1566650956,
     "wof:name":"Gualococti",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

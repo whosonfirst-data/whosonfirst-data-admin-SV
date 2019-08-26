@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.575275,
     "lbl:longitude":-88.716402,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL III",
     "meso:admin_1":"San Vicente",
     "meso:diss_me":"SAN VICENTESAN VICENTE",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.716402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044d"
     ],
@@ -114,7 +117,7 @@
         "San Vicente"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108695019,
-    "wof:lastmodified":1564161031,
+    "wof:lastmodified":1566650947,
     "wof:name":"San Vicente",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

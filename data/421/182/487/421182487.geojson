@@ -10,8 +10,12 @@
     "geom:latitude":13.95722,
     "geom:longitude":-89.18972,
     "iso:country":"SV",
+    "lbl:bbox":"-89.20972,13.93722,-89.16972,13.97722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Aguilares"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3587428,
         "gp:id":76817,
-        "qs:id":1340799,
+        "qs_pg:id":1340799,
         "wd:id":"Q2289978",
         "wk:page":"Aguilares, El Salvador"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421182487,
-    "wof:lastmodified":1563298873,
+    "wof:lastmodified":1566651057,
     "wof:name":"Aguilares",
     "wof:parent_id":1108694711,
     "wof:placetype":"locality",

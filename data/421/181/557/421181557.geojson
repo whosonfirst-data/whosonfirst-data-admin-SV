@@ -10,8 +10,12 @@
     "geom:latitude":13.6225,
     "geom:longitude":-89.02139,
     "iso:country":"SV",
+    "lbl:bbox":"-89.04139,13.6025,-89.00139,13.6425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Miguel Tepezontes"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "San Miguel Tepezontes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Miguel Tapezontes"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3583449,
         "gp:id":79754,
-        "qs:id":494665,
+        "qs_pg:id":494665,
         "wd:id":"Q1154533",
         "wk:page":"San Miguel Tepezontes"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421181557,
-    "wof:lastmodified":1561845040,
+    "wof:lastmodified":1566651039,
     "wof:name":"San Miguel Tepezontes",
     "wof:parent_id":1108694991,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.15333,14.03,-89.11333,14.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Colima"
     ],
@@ -211,8 +215,7 @@
     ],
     "name:und_x_variant":[
         "Hacienda Colima",
-        "Hacienda Colina",
-        "Colima"
+        "Hacienda Colina"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0644\u06cc\u0645\u0627"
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":1293104645,
-    "wof:lastmodified":1564160771,
+    "wof:lastmodified":1566650803,
     "wof:name":"Colima",
     "wof:parent_id":421175391,
     "wof:placetype":"locality",

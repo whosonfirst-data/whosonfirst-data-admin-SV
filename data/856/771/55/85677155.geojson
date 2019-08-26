@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.476855,
     "lbl:longitude":-88.970909,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.475777,
     "mps:longitude":-88.960451,
     "mz:hierarchy_label":1,
@@ -178,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041b\u0430-\u041f\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento de La Paz"
     ],
     "name:urd_x_preferred":[
@@ -262,9 +263,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-22",
+    "src:population_date":"2007-05-22",
     "statoids:area_km":"1,224",
     "statoids:area_mi":"472",
     "statoids:as_of_date":"2007-05-22",
@@ -289,7 +290,7 @@
         "gp:id":2345297,
         "hasc:id":"SV.PA",
         "iso:id":"SV-PA",
-        "qs:id":894882,
+        "qs_pg:id":894882,
         "unlc:id":"SV-PA",
         "wd:id":"Q1129788",
         "wk:page":"La Paz Department (El Salvador)"
@@ -310,11 +311,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565736752,
+    "wof:lastmodified":1566650759,
     "wof:name":"La Paz",
     "wof:parent_id":85632545,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":308087,
     "wof:population_rank":10,

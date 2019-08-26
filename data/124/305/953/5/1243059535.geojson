@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.02806,13.29889,-87.98806,13.33889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cabrera"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1243059535,
-    "wof:lastmodified":1564161251,
+    "wof:lastmodified":1566651094,
     "wof:name":"Cabrera",
     "wof:parent_id":1108694771,
     "wof:placetype":"locality",

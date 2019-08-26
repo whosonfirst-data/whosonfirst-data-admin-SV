@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.946037,
     "lbl:longitude":-89.474065,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Santa Ana",
     "meso:diss_me":"COATEPEQUESANTA ANA",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.474065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Coatepeque"
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191575,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gp:id":26808721,
         "hasc:id":"SV.SA.CO",
-        "qs:id":115543
+        "qs_pg:id":115543
     },
     "wof:country":"SV",
     "wof:created":1459009648,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421190155,
-    "wof:lastmodified":1564161184,
+    "wof:lastmodified":1566651045,
     "wof:name":"Coatepeque",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

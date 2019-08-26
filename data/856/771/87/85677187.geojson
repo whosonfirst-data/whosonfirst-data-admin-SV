@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":13.420312,
     "lbl:longitude":-88.54786,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.425002,
     "mps:longitude":-88.542293,
     "mz:hierarchy_label":1,
@@ -184,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0423\u0441\u0443\u043b\u0443\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Usulut\u00e1n"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0644\u0648\u062a\u0622\u0646 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -268,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-22",
+    "src:population_date":"2007-05-22",
     "statoids:area_km":"2,130",
     "statoids:area_mi":"823",
     "statoids:as_of_date":"2007-05-22",
@@ -296,7 +294,7 @@
         "gp:id":2345305,
         "hasc:id":"SV.US",
         "iso:id":"SV-US",
-        "qs:id":1135033,
+        "qs_pg:id":1135033,
         "unlc:id":"SV-US",
         "wd:id":"Q1122748",
         "wk:page":"Usulut\u00e1n Department"
@@ -317,11 +315,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565736752,
+    "wof:lastmodified":1566650758,
     "wof:name":"Usulut\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":344235,
     "wof:population_rank":10,

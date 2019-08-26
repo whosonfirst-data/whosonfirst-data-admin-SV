@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.002849,
     "lbl:longitude":-89.557005,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION OCCIDENTAL",
     "meso:admin_1":"Santa Ana",
     "meso:diss_me":"SANTA ANASANTA ANA",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.557005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Santa Ana"
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":502,
     "wof:belongsto":[
         102191575,
@@ -186,7 +189,7 @@
     "wof:concordances":{
         "gp:id":26808720,
         "hasc:id":"SV.SA.SA",
-        "qs:id":1264061
+        "qs_pg:id":1264061
     },
     "wof:country":"SV",
     "wof:created":1459008700,
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":421166707,
-    "wof:lastmodified":1564161169,
+    "wof:lastmodified":1566651020,
     "wof:name":"Santa Ana",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

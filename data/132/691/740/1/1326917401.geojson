@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.58667,13.63,-88.54667,13.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
@@ -57,8 +61,7 @@
         "Las Lajas"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Las Lajas",
-        "Las Lajas"
+        "Caser\u00edo Las Lajas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1326917401,
-    "wof:lastmodified":1564160604,
+    "wof:lastmodified":1566650698,
     "wof:name":"Las Lajas",
     "wof:parent_id":1108694951,
     "wof:placetype":"locality",

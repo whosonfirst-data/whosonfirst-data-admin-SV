@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.544848,
     "lbl:longitude":-87.827101,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION ORIENTAL",
     "meso:admin_1":"La Union",
     "meso:diss_me":"PASAQUINALA UNION",
@@ -35,6 +37,7 @@
     "mps:longitude":-87.827101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Pasaquina"
     ],
@@ -57,7 +60,7 @@
         "\u5e15\u85a9\u57fa\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694891,
-    "wof:lastmodified":1564161050,
+    "wof:lastmodified":1566650957,
     "wof:name":"Pasaquina",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

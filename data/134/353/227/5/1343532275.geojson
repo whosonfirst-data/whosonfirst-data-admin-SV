@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.47,13.29667,-88.43,13.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -132,8 +136,7 @@
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Cant\u00f3n Santa B\u00e1rbara",
-        "Santa B\u00e1rbara"
+        "Cant\u00f3n Santa B\u00e1rbara"
     ],
     "name:vol_x_preferred":[
         "Santa B\u00e1rbara"
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1343532275,
-    "wof:lastmodified":1564160625,
+    "wof:lastmodified":1566650711,
     "wof:name":"Santa Barbara",
     "wof:parent_id":421203593,
     "wof:placetype":"locality",

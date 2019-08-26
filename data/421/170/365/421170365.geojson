@@ -10,8 +10,12 @@
     "geom:latitude":13.48333,
     "geom:longitude":-88.46667,
     "iso:country":"SV",
+    "lbl:bbox":"-88.48667,13.46333,-88.44667,13.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santiago de Mar\u00eda"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Santiago de Mar\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santiago"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3583199,
         "gp:id":79956,
-        "qs:id":548318,
+        "qs_pg:id":548318,
         "wd:id":"Q1438464",
         "wk:page":"Santiago de Mar\u00eda"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421170365,
-    "wof:lastmodified":1561845042,
+    "wof:lastmodified":1566651050,
     "wof:name":"Santiago de Mar\u00eda",
     "wof:parent_id":1108695049,
     "wof:placetype":"locality",

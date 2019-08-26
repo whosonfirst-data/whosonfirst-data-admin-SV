@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.99222,13.25167,-87.95222,13.29167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0633\u0627\u062f\u064a\u0644\u0627"
     ],
@@ -115,8 +119,7 @@
     ],
     "name:und_x_variant":[
         "Quezadillas",
-        "La Quesadilla",
-        "Quesadilla"
+        "La Quesadilla"
     ],
     "name:zho_x_preferred":[
         "\u58a8\u897f\u54e5\u829d\u58eb\u9985\u997c"
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1242569419,
-    "wof:lastmodified":1564161227,
+    "wof:lastmodified":1566651083,
     "wof:name":"Quesadilla",
     "wof:parent_id":1108694771,
     "wof:placetype":"locality",

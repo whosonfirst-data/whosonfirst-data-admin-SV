@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.39944,13.85944,-89.35944,13.89944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243195117,
-    "wof:lastmodified":1536670870,
+    "wof:lastmodified":1566651108,
     "wof:name":"Valle Gracia",
     "wof:parent_id":1108694967,
     "wof:placetype":"locality",

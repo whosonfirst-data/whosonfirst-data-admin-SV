@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.754647,
     "lbl:longitude":-89.15955,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"AMSS",
     "meso:admin_1":"San Salvador",
     "meso:diss_me":"DELGADOSAN SALVADOR",
@@ -35,6 +37,7 @@
     "mps:longitude":-89.15955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Delgado"
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":26808705,
         "hasc:id":"SV.SS.CU",
-        "qs:id":961141
+        "qs_pg:id":961141
     },
     "wof:country":"SV",
     "wof:created":1459009357,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421183081,
-    "wof:lastmodified":1554488887,
+    "wof:lastmodified":1566651052,
     "wof:name":"Delgado",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

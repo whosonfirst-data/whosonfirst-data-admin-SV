@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.68667,14.13,-89.64667,14.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Monte Verde"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1326711525,
-    "wof:lastmodified":1564160593,
+    "wof:lastmodified":1566650692,
     "wof:name":"Monte Verde",
     "wof:parent_id":421190511,
     "wof:placetype":"locality",

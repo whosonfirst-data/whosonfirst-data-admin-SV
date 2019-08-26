@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.970788,
     "lbl:longitude":-88.641332,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL III",
     "meso:admin_1":"Cabanas",
     "meso:diss_me":"VICTORIACABANAS",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.641332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Victoria"
@@ -259,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -269,7 +272,7 @@
     "wof:concordances":{
         "gp:id":26808542,
         "hasc:id":"SV.CA.VI",
-        "qs:id":911523
+        "qs_pg:id":911523
     },
     "wof:country":"SV",
     "wof:created":1459009328,
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421182403,
-    "wof:lastmodified":1564161189,
+    "wof:lastmodified":1566651057,
     "wof:name":"Victoria",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

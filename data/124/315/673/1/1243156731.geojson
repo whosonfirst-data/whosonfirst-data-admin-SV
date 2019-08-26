@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.08667,13.51333,-88.04667,13.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0645\u0643\u0631\u0627\u0646"
     ],
@@ -38,9 +42,6 @@
         "Comacar\u00e1n"
     ],
     "name:spa_x_preferred":[
-        "Comacar\u00e1n"
-    ],
-    "name:und_x_variant":[
         "Comacar\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1243156731,
-    "wof:lastmodified":1564161239,
+    "wof:lastmodified":1566651087,
     "wof:name":"Comacaran",
     "wof:parent_id":1108694749,
     "wof:placetype":"locality",

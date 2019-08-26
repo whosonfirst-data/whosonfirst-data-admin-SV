@@ -12,9 +12,12 @@
     "iso:country":"SV",
     "lbl:latitude":13.698156,
     "lbl:longitude":-89.191355,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "San Salvador"
@@ -431,7 +434,7 @@
         "gn:id":3583361,
         "gp:id":79825,
         "loc:id":"n79066410",
-        "qs:id":1155818,
+        "qs_pg:id":1155818,
         "wd:id":"Q3110",
         "wk:page":"San Salvador"
     },
@@ -448,7 +451,7 @@
         }
     ],
     "wof:id":421191785,
-    "wof:lastmodified":1563298845,
+    "wof:lastmodified":1566651043,
     "wof:name":"San Salvador",
     "wof:parent_id":421180907,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.43333,
     "geom:longitude":-88.6,
     "iso:country":"SV",
+    "lbl:bbox":"-88.62,13.41333,-88.58,13.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Agust\u00edn"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3583910,
         "gp:id":79399,
-        "qs:id":444752,
+        "qs_pg:id":444752,
         "wd:id":"Q1154943",
         "wk:page":"San Agust\u00edn, Usulut\u00e1n"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421178015,
-    "wof:lastmodified":1563298872,
+    "wof:lastmodified":1566651057,
     "wof:name":"San Agust\u00edn",
     "wof:parent_id":1108694909,
     "wof:placetype":"locality",

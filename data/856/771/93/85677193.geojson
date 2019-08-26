@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.208026,
     "lbl:longitude":-89.144621,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.206971,
     "mps:longitude":-89.135148,
     "mz:hierarchy_label":1,
@@ -130,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043b\u0430\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento de Chalatenango"
     ],
     "name:urd_x_preferred":[
@@ -211,9 +212,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-05-22",
+    "src:population_date":"2007-05-22",
     "statoids:area_km":"2,017",
     "statoids:area_mi":"779",
     "statoids:as_of_date":"2007-05-22",
@@ -238,7 +239,7 @@
         "gp:id":2345294,
         "hasc:id":"SV.CH",
         "iso:id":"SV-CH",
-        "qs:id":1083826,
+        "qs_pg:id":1083826,
         "unlc:id":"SV-CH",
         "wd:id":"Q522221",
         "wk:page":"Chalatenango Department"
@@ -259,11 +260,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565736751,
+    "wof:lastmodified":1566650758,
     "wof:name":"Chalatenango",
     "wof:parent_id":85632545,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":192788,
     "wof:population_rank":9,

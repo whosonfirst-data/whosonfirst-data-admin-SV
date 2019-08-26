@@ -10,8 +10,12 @@
     "geom:latitude":13.61278,
     "geom:longitude":-89.18,
     "iso:country":"SV",
+    "lbl:bbox":"-89.2,13.59278,-89.16,13.63278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Panchimalco"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3584156,
         "gp:id":79219,
-        "qs:id":489107,
+        "qs_pg:id":489107,
         "wd:id":"Q927563",
         "wk:page":"Panchimalco"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421179749,
-    "wof:lastmodified":1563298866,
+    "wof:lastmodified":1566651054,
     "wof:name":"Panchimalco",
     "wof:parent_id":1108694885,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.75333,13.38,-88.71333,13.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pacun",
         "Valle del Pac\u00fan",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226329457,
-    "wof:lastmodified":1537701496,
+    "wof:lastmodified":1566651164,
     "wof:name":"El Pacun",
     "wof:parent_id":1108695077,
     "wof:placetype":"locality",

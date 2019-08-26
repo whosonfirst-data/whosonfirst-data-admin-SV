@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.42,13.39667,-88.38,13.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632545
@@ -34,7 +38,7 @@
         "gn:id":3585422
     },
     "wof:country":"SV",
-    "wof:geomhash":"47fe710790e54a2383c6def4f3ddb278",
+    "wof:geomhash":"0b8ef0caeb866018fbc7016d7c92f78b",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209385975,
-    "wof:lastmodified":1536288624,
+    "wof:lastmodified":1566650856,
     "wof:name":"Joya Ancha Arriba",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -88.4,
-    13.416670000000002,
+    13.41667,
     -88.4,
-    13.416670000000002
+    13.41667
 ],
   "geometry": {"coordinates":[-88.40000000000001,13.41667],"type":"Point"}
 }

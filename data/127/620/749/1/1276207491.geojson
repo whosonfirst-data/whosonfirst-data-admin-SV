@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.50333,14.13,-89.46333,14.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -84,8 +88,7 @@
         "Santa Elena"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Santa Elena",
-        "Santa Elena"
+        "Caser\u00edo Santa Elena"
     ],
     "name:vie_x_preferred":[
         "Santa Elena"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1276207491,
-    "wof:lastmodified":1564160809,
+    "wof:lastmodified":1566650822,
     "wof:name":"Santa Elena",
     "wof:parent_id":421203745,
     "wof:placetype":"locality",

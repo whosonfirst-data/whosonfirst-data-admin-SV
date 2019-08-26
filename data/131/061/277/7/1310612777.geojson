@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.18667,14.11333,-89.14667,14.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Jos\u00e9 del Carao",
         "San Jos\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310612777,
-    "wof:lastmodified":1537701440,
+    "wof:lastmodified":1566650984,
     "wof:name":"San Jose El Carao",
     "wof:parent_id":1108694829,
     "wof:placetype":"locality",

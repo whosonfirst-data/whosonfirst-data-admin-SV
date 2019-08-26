@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-87.79917,13.45611,-87.75917,13.49611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243260519,
-    "wof:lastmodified":1537070548,
+    "wof:lastmodified":1566651110,
     "wof:name":"San Felipe",
     "wof:parent_id":1108694891,
     "wof:placetype":"locality",

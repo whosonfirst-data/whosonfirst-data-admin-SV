@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.98667,13.94667,-88.94667,13.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "San Luis del Carmen"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309714071,
-    "wof:lastmodified":1564161157,
+    "wof:lastmodified":1566651013,
     "wof:name":"San Luis del Carmen",
     "wof:parent_id":1108694983,
     "wof:placetype":"locality",

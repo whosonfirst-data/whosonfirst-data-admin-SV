@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.90333,13.54667,-88.86333,13.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Salto"
     ],
@@ -48,8 +52,7 @@
         "El Salto"
     ],
     "name:und_x_variant":[
-        "El Salto San Jose",
-        "El Salto"
+        "El Salto San Jose"
     ],
     "name:vie_x_preferred":[
         "El Salto"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1276864341,
-    "wof:lastmodified":1564160786,
+    "wof:lastmodified":1566650811,
     "wof:name":"El Salto",
     "wof:parent_id":421170965,
     "wof:placetype":"locality",

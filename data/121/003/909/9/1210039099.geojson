@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-89.28194,13.895,-89.24194,13.935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210039099,
-    "wof:lastmodified":1536385133,
+    "wof:lastmodified":1566650899,
     "wof:name":"Tacachico",
     "wof:parent_id":421171703,
     "wof:placetype":"locality",

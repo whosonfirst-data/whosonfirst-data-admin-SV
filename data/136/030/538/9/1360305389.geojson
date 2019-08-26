@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/El_Salvador",
     "iso:country":"SV",
+    "lbl:bbox":"-88.00333,13.68,-87.96333,13.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pe\u00f1\u00f3n",
         "El Pe\u00f1\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360305389,
-    "wof:lastmodified":1537701494,
+    "wof:lastmodified":1566650995,
     "wof:name":"El Penon",
     "wof:parent_id":1108695065,
     "wof:placetype":"locality",

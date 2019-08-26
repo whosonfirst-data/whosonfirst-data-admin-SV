@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.744565,
     "lbl:longitude":-88.969784,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1r":"REGION CENTRAL II",
     "meso:admin_1":"Cuscatlan",
     "meso:diss_me":"SANTA CRUZ MICHAPACUSCATLAN",
@@ -35,6 +37,7 @@
     "mps:longitude":-88.969784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Santa Cruz Michapa"
     ],
@@ -54,7 +57,7 @@
         "\u8056\u514b\u9b6f\u65af\u7c73\u67e5\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632545,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108695027,
-    "wof:lastmodified":1564161005,
+    "wof:lastmodified":1566650931,
     "wof:name":"Santa Cruz Michapa",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
