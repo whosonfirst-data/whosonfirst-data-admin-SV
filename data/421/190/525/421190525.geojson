@@ -104,6 +104,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009660,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3fd9e2c779df567b09acb591c6e1abed",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421190525,
-    "wof:lastmodified":1566651046,
+    "wof:lastmodified":1582345123,
     "wof:name":"Tejutepeque",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

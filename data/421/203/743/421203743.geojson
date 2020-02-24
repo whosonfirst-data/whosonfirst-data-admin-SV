@@ -113,6 +113,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d368aae269e7e667fe6d9e97e9421f1d",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421203743,
-    "wof:lastmodified":1566651030,
+    "wof:lastmodified":1582345122,
     "wof:name":"Tonacatepeque",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

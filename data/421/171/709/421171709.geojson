@@ -122,6 +122,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f96bc8b965221884688864874b56d1b9",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421171709,
-    "wof:lastmodified":1566651059,
+    "wof:lastmodified":1582345124,
     "wof:name":"Metapan",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

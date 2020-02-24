@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009611,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f61cc951313fe559a3285dd5da60aad",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421189151,
-    "wof:lastmodified":1566651034,
+    "wof:lastmodified":1582345122,
     "wof:name":"Caluco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

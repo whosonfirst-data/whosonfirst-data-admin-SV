@@ -296,6 +296,9 @@
         "wk:page":"La Paz Department (El Salvador)"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1e6d924354998333d59741ed8ade1559",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650759,
+    "wof:lastmodified":1582345117,
     "wof:name":"La Paz",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

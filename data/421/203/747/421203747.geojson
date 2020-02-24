@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd49bbf314dd3300804815d655e89c31",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421203747,
-    "wof:lastmodified":1566651029,
+    "wof:lastmodified":1582345122,
     "wof:name":"Apastepeque",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

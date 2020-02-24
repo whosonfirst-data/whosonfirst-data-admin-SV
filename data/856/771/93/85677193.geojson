@@ -245,6 +245,9 @@
         "wk:page":"Chalatenango Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a98209b0d7501e777387a8dff3923774",
     "wof:hierarchy":[
         {
@@ -260,7 +263,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650758,
+    "wof:lastmodified":1582345116,
     "wof:name":"Chalatenango",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1469052802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"050cdfd9443d8c223a61434b0cba5fb3",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890452037,
-    "wof:lastmodified":1566651060,
+    "wof:lastmodified":1582345124,
     "wof:name":"El Triunfo",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

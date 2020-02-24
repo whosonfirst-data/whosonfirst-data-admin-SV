@@ -104,6 +104,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d1dab2326c2e7020cfd9b98b8e680029",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421191209,
-    "wof:lastmodified":1566651044,
+    "wof:lastmodified":1582345123,
     "wof:name":"Citala",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

@@ -302,6 +302,10 @@
         "wd:id":"Q16520673"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"629e1f22c764bd7407d5ba565197a1b3",
     "wof:hierarchy":[
         {
@@ -317,7 +321,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566650755,
+    "wof:lastmodified":1582345116,
     "wof:name":"Siska",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

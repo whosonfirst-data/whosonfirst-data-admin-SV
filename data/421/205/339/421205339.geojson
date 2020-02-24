@@ -110,6 +110,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010221,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"888e3be62b68670e46733664b79e7ef6",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421205339,
-    "wof:lastmodified":1566651031,
+    "wof:lastmodified":1582345122,
     "wof:name":"Nahuizalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

@@ -122,6 +122,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008810,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"feaa2b4652e13deb451ef9f8322542d0",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421169439,
-    "wof:lastmodified":1566651026,
+    "wof:lastmodified":1582345121,
     "wof:name":"Izalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

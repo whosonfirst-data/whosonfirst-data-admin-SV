@@ -175,6 +175,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010064,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf6e29715355f0c07a416305a45cbb4e",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":421201175,
-    "wof:lastmodified":1566651048,
+    "wof:lastmodified":1582345123,
     "wof:name":"San Miguel",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

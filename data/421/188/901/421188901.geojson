@@ -90,6 +90,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009587,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f518c8b7d1ed3c0919a473521e22ea1",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421188901,
-    "wof:lastmodified":1566651035,
+    "wof:lastmodified":1582345122,
     "wof:name":"Concepcion De Ataco",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

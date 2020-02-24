@@ -101,6 +101,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009852,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"364e3b3ebc4b2b6f02d7246c05e4ad3b",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421195557,
-    "wof:lastmodified":1566651023,
+    "wof:lastmodified":1582345121,
     "wof:name":"San Antonio Del Monte",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

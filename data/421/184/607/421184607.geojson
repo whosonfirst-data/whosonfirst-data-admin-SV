@@ -185,6 +185,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009416,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"706f12be34dbd3904cbfcacd6d3e9997",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421184607,
-    "wof:lastmodified":1566651050,
+    "wof:lastmodified":1582345124,
     "wof:name":"Atiquizaya",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

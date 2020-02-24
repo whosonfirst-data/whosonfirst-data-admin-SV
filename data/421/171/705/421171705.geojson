@@ -95,6 +95,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"895be36f1d9eb22ae151c9416afcd750",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421171705,
-    "wof:lastmodified":1566651059,
+    "wof:lastmodified":1582345124,
     "wof:name":"San Matias",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

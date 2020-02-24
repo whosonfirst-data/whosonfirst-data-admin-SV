@@ -110,6 +110,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad5e4558f8c85c3a1dd30cd6373b75fb",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421203737,
-    "wof:lastmodified":1566651028,
+    "wof:lastmodified":1582345122,
     "wof:name":"San Martin",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

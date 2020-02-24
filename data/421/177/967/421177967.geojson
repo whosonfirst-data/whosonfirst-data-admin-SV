@@ -110,6 +110,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009166,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"269ce86d3c48306dceb2242c545db127",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421177967,
-    "wof:lastmodified":1566651051,
+    "wof:lastmodified":1582345124,
     "wof:name":"Nueva Concepcion",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

@@ -116,6 +116,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009852,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"603699573518a0beea89080bb8da0760",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421195553,
-    "wof:lastmodified":1566651023,
+    "wof:lastmodified":1582345121,
     "wof:name":"Antiguo Cuscatlan",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

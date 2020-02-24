@@ -83,6 +83,9 @@
         "qs:id":901612
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a559a7eddeddbce60805bf092a86e5e",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379463,
+    "wof:lastmodified":1582345116,
     "wof:name":"Colonia Escal\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

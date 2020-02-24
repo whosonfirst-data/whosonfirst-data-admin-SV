@@ -113,6 +113,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008876,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9409ca81fa47c2119667de2b1600c388",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421170965,
-    "wof:lastmodified":1566651050,
+    "wof:lastmodified":1582345124,
     "wof:name":"San Juan Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

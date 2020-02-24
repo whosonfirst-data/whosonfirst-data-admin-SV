@@ -185,6 +185,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008946,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"555328cdc7f8e671c908f9422cebb566",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421172531,
-    "wof:lastmodified":1566651036,
+    "wof:lastmodified":1582345123,
     "wof:name":"Intipuca",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

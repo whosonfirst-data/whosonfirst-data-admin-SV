@@ -100,6 +100,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0de0d216ba8ecc616e38389355cc6599",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421191471,
-    "wof:lastmodified":1566651042,
+    "wof:lastmodified":1582345123,
     "wof:name":"Tenancingo",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

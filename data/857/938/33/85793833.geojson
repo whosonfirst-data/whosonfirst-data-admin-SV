@@ -79,6 +79,9 @@
         "qs:id":901611
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48a37724c3f35a416c4d0b2d43e27625",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379463,
+    "wof:lastmodified":1582345116,
     "wof:name":"Colonia Dolores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

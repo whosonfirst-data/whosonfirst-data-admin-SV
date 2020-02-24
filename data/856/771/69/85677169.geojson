@@ -247,6 +247,9 @@
         "wk:page":"La Uni\u00f3n Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c176ba89f63a57fccfc455a67ea1befc",
     "wof:hierarchy":[
         {
@@ -262,7 +265,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650757,
+    "wof:lastmodified":1582345116,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

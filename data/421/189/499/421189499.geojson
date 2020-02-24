@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c940141b4c1b363b5bc160793f9241e",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421189499,
-    "wof:lastmodified":1566651034,
+    "wof:lastmodified":1582345122,
     "wof:name":"San Pedro Perulapan",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

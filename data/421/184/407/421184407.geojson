@@ -93,6 +93,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"171d13973caea6cf8e503f34bc189994",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421184407,
-    "wof:lastmodified":1566651049,
+    "wof:lastmodified":1582345124,
     "wof:name":"Estanzuelas",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

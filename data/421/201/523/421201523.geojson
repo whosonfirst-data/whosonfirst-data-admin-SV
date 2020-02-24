@@ -116,6 +116,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010075,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"601667368e33ad88ce3d34637262dc5b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421201523,
-    "wof:lastmodified":1566651049,
+    "wof:lastmodified":1582345123,
     "wof:name":"Sonzacate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

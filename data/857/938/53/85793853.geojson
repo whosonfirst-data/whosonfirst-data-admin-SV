@@ -75,6 +75,9 @@
         "qs:id":887549
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"823484448515358eda4f768420b8ccf0",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379463,
+    "wof:lastmodified":1582345116,
     "wof:name":"Delicias del Norte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

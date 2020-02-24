@@ -234,6 +234,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d94c70e3c76c4beb69145d83f84b1e6",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":421175389,
-    "wof:lastmodified":1566651040,
+    "wof:lastmodified":1582345123,
     "wof:name":"La Palma",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

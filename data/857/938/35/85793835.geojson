@@ -99,6 +99,9 @@
         "qs_pg:id":1165075
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54b4c4cd71a50e5f0fe63b4c33e3cac9",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566650756,
+    "wof:lastmodified":1582345116,
     "wof:name":"Colonia El Milagro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

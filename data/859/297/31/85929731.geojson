@@ -108,6 +108,9 @@
         "wd:id":"Q2469185"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7fbd6995f673b885375860de692ea498",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566650756,
+    "wof:lastmodified":1582345116,
     "wof:name":"Be\u017eigrad",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

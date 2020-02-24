@@ -98,6 +98,10 @@
         "wd:id":"Q2000244"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d5a313d59dd3a70c9429afb22dedf2f",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566650755,
+    "wof:lastmodified":1582345116,
     "wof:name":"Center",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

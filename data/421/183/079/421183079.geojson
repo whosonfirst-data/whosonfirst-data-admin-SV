@@ -206,6 +206,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009357,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33bca2b54baefa5a2e4fb67b978c4e06",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421183079,
-    "wof:lastmodified":1566651051,
+    "wof:lastmodified":1582345124,
     "wof:name":"Apopa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

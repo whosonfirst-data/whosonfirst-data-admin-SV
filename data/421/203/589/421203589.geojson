@@ -122,6 +122,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0443b83901b8567d6ee788be74eb517d",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421203589,
-    "wof:lastmodified":1566651029,
+    "wof:lastmodified":1582345122,
     "wof:name":"San Francisco Menendez",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

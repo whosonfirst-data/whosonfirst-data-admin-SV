@@ -101,6 +101,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dd2c506745c46bdc11841a6d427f076",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421171701,
-    "wof:lastmodified":1566651059,
+    "wof:lastmodified":1582345124,
     "wof:name":"Jicalapa",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

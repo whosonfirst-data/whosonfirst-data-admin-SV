@@ -104,6 +104,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de2d311f2f900e0fa2f958cadd118014",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421189495,
-    "wof:lastmodified":1566651035,
+    "wof:lastmodified":1582345122,
     "wof:name":"San Francisco Gotera",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

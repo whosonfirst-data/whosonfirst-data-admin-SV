@@ -786,6 +786,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c4abc993b2ccb6b53fb76a9d14624f6",
     "wof:hierarchy":[
         {
@@ -796,7 +799,7 @@
         }
     ],
     "wof:id":421203739,
-    "wof:lastmodified":1566651028,
+    "wof:lastmodified":1582345122,
     "wof:name":"Armenia",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

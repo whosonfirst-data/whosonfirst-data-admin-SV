@@ -102,6 +102,9 @@
         "qs_pg:id":1082598
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab95721a2877d45b6e1cf2272018a4e3",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566650756,
+    "wof:lastmodified":1582345116,
     "wof:name":"Colonia San Benito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

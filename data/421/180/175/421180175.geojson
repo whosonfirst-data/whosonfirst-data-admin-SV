@@ -134,6 +134,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009247,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9812af304ad4944cbb6677ce39e501ed",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421180175,
-    "wof:lastmodified":1566651032,
+    "wof:lastmodified":1582345122,
     "wof:name":"Mejicanos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

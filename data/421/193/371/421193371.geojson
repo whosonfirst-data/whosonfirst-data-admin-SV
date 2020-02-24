@@ -119,6 +119,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009769,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"206d3bd33ac84308eb7267405e3449ab",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421193371,
-    "wof:lastmodified":1566651025,
+    "wof:lastmodified":1582345121,
     "wof:name":"Tacuba",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

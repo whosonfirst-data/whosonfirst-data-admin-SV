@@ -112,6 +112,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"936682d1f01f70065fec316bce7df898",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421189501,
-    "wof:lastmodified":1566651035,
+    "wof:lastmodified":1582345122,
     "wof:name":"San Jorge",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d582220328f41e99b7322bbb1490990",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421189131,
-    "wof:lastmodified":1566651035,
+    "wof:lastmodified":1582345122,
     "wof:name":"Comasagua",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

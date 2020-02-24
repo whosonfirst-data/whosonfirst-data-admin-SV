@@ -104,6 +104,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d4a04f6bc3689b77ba832d13322ff0b",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421191215,
-    "wof:lastmodified":1566651043,
+    "wof:lastmodified":1582345123,
     "wof:name":"Teotepeque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

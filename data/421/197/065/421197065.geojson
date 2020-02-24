@@ -148,6 +148,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1bd68a2397a86979d449909261834d9e",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421197065,
-    "wof:lastmodified":1566651046,
+    "wof:lastmodified":1582345123,
     "wof:name":"Dolores",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

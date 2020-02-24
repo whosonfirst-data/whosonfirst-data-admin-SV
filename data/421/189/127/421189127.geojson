@@ -158,6 +158,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea3deee1b59debd2fc084543352e67bd",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421189127,
-    "wof:lastmodified":1566651034,
+    "wof:lastmodified":1582345122,
     "wof:name":"Colon",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

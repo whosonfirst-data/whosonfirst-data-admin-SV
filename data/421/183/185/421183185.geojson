@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009361,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b29000cf2f2ce50f343212056b96a2a9",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421183185,
-    "wof:lastmodified":1566651053,
+    "wof:lastmodified":1582345124,
     "wof:name":"Arambala",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

@@ -104,6 +104,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"229e93523350d21b691f415dbb7781b6",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421191219,
-    "wof:lastmodified":1566651042,
+    "wof:lastmodified":1582345123,
     "wof:name":"San Francisco Chinameca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

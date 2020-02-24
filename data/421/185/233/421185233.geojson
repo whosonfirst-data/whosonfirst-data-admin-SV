@@ -104,6 +104,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009436,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c717e7ad9073176af9d77bf943b97065",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421185233,
-    "wof:lastmodified":1566651059,
+    "wof:lastmodified":1582345124,
     "wof:name":"San Rafael Obrajuelo",
     "wof:parent_id":85677155,
     "wof:placetype":"county",
