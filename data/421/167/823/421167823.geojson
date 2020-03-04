@@ -110,6 +110,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008744,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f220e2107cdd9767c33db22754e13a2",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421167823,
-    "wof:lastmodified":1566651025,
+    "wof:lastmodified":1582345121,
     "wof:name":"Juayua",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

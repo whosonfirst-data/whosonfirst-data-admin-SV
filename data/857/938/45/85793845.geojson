@@ -79,6 +79,9 @@
         "qs:id":982569
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7428bc9e634271d060428d289d48404f",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379463,
+    "wof:lastmodified":1582345116,
     "wof:name":"Colonia Las Delicias",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

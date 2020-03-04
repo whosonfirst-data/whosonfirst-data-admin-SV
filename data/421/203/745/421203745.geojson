@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8dab97ea8ce0797c7c4db2ddd534d7fb",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421203745,
-    "wof:lastmodified":1566651030,
+    "wof:lastmodified":1582345122,
     "wof:name":"Texistepeque",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

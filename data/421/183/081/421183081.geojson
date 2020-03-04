@@ -112,6 +112,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009357,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b095cc4872f02404177618534f89db2",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421183081,
-    "wof:lastmodified":1566651052,
+    "wof:lastmodified":1582345124,
     "wof:name":"Delgado",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

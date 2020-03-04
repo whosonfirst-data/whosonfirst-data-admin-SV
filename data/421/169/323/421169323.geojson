@@ -109,6 +109,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008804,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d6eeb7f0fb7e17d463cf7973b4a5e3d",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421169323,
-    "wof:lastmodified":1566651026,
+    "wof:lastmodified":1582345121,
     "wof:name":"Ahuachapan",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

@@ -114,6 +114,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7b451f8b4ad435e83b9676b3bbe8d79",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421175391,
-    "wof:lastmodified":1566651040,
+    "wof:lastmodified":1582345123,
     "wof:name":"Suchitoto",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

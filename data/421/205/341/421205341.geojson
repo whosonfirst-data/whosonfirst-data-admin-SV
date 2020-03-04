@@ -79,6 +79,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010221,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a51a36cded446b95af5619fa84472d95",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421205341,
-    "wof:lastmodified":1566651031,
+    "wof:lastmodified":1582345122,
     "wof:name":"Usulutan",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

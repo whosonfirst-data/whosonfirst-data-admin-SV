@@ -100,6 +100,10 @@
         "wk:page":"Zgornja \u0160i\u0161ka"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f4e97982d3e3dbc988f65f41a23b017",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566650761,
+    "wof:lastmodified":1582345118,
     "wof:name":"Zgornja Siska",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

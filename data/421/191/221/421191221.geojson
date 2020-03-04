@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"782ac16bb587efb1188d1e1cd50e1db2",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421191221,
-    "wof:lastmodified":1566651042,
+    "wof:lastmodified":1582345123,
     "wof:name":"Conchagua",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

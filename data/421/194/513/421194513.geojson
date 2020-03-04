@@ -279,6 +279,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009810,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"177adb5ba5c2117b3772962297d0303e",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":421194513,
-    "wof:lastmodified":1566651024,
+    "wof:lastmodified":1582345121,
     "wof:name":"Chalatenango",
     "wof:parent_id":421191205,
     "wof:placetype":"locality",

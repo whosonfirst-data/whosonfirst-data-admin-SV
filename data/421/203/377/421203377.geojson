@@ -124,6 +124,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010149,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1af34a84371827f8ffe436fa8c3d0c9",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421203377,
-    "wof:lastmodified":1566651028,
+    "wof:lastmodified":1582345122,
     "wof:name":"El Rosario",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

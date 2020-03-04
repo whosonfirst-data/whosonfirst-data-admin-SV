@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009117,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bac5fd3404c325f342877c1a8791a082",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421176713,
-    "wof:lastmodified":1566651058,
+    "wof:lastmodified":1582345124,
     "wof:name":"Sesori",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

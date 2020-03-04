@@ -85,6 +85,10 @@
         "wk:page":"Moste District"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"277b3d1ba34ef8e25e40af02fa0db2ee",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566650760,
+    "wof:lastmodified":1582345118,
     "wof:name":"Moste",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

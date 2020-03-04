@@ -83,6 +83,9 @@
     },
     "wof:country":"SV",
     "wof:created":1469052782,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c77fa36359ad2e36e57069d89740a2e9",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890451505,
-    "wof:lastmodified":1566651060,
+    "wof:lastmodified":1582345124,
     "wof:name":"San Luis La Herradura",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

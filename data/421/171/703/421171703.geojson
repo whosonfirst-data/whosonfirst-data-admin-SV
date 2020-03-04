@@ -103,6 +103,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb3d6170ae8263f7551ecea6e2d2f880",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421171703,
-    "wof:lastmodified":1566651059,
+    "wof:lastmodified":1582345124,
     "wof:name":"Quezaltepeque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

@@ -182,6 +182,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010161,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e37c013119669aeb3a1e964975912cd",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":421203731,
-    "wof:lastmodified":1566651028,
+    "wof:lastmodified":1582345122,
     "wof:name":"Chirilagua",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

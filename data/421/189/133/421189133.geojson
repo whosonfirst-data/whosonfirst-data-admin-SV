@@ -134,6 +134,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009606,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6d6c51407406a3e828cf8df98f71ae4",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421189133,
-    "wof:lastmodified":1566651034,
+    "wof:lastmodified":1582345122,
     "wof:name":"Ilopango",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

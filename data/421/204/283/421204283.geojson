@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010179,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca616909a12f79b648c012a13e0ef08c",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421204283,
-    "wof:lastmodified":1566651027,
+    "wof:lastmodified":1582345122,
     "wof:name":"Jujutla",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

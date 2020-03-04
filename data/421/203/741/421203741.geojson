@@ -104,6 +104,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35f4a79e49b371e16cf8c195bf53270e",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421203741,
-    "wof:lastmodified":1566651029,
+    "wof:lastmodified":1582345122,
     "wof:name":"Santiago Texacuangos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

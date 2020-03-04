@@ -307,6 +307,9 @@
         "wk:page":"Ahuachap\u00e1n Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8164d649fbad895bf6aefe5fcdf85032",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650758,
+    "wof:lastmodified":1582345117,
     "wof:name":"Ahuachap\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

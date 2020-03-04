@@ -122,6 +122,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009611,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ae24d606e0fde06052939380deb9f4a",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421189135,
-    "wof:lastmodified":1566651034,
+    "wof:lastmodified":1582345122,
     "wof:name":"Nejapa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

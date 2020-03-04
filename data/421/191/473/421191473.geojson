@@ -101,6 +101,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a517410799f446167276ffdf90b3092d",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421191473,
-    "wof:lastmodified":1566651044,
+    "wof:lastmodified":1582345123,
     "wof:name":"Jocoaitique",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

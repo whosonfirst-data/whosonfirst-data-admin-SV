@@ -185,6 +185,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"43344ef94bee0962edfff9f22fc21450",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421184405,
-    "wof:lastmodified":1566651049,
+    "wof:lastmodified":1582345124,
     "wof:name":"Ilobasco",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

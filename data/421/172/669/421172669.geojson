@@ -188,6 +188,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459008950,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1282c10c4c72d7c1aea58bd8c082a252",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":421172669,
-    "wof:lastmodified":1566651036,
+    "wof:lastmodified":1582345122,
     "wof:name":"Cojutepeque",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

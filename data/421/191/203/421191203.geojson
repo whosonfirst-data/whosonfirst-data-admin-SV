@@ -141,6 +141,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"212c8c018aca6f4005ed697679e41ac9",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":421191203,
-    "wof:lastmodified":1566651043,
+    "wof:lastmodified":1582345123,
     "wof:name":"San Ignacio",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

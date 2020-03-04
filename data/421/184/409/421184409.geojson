@@ -185,6 +185,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5469756951b68963596af814ccd440e",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421184409,
-    "wof:lastmodified":1566651049,
+    "wof:lastmodified":1582345123,
     "wof:name":"Jucuaran",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

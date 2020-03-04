@@ -116,6 +116,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009481,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8eb9527f8c4bcc7653a3b32417c0a5a5",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421186439,
-    "wof:lastmodified":1566651038,
+    "wof:lastmodified":1582345123,
     "wof:name":"Apaneca",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

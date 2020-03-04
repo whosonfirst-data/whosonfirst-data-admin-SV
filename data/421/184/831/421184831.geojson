@@ -203,6 +203,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009423,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"504c2871392cdd9183aac7a51ec3aeb8",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421184831,
-    "wof:lastmodified":1566651049,
+    "wof:lastmodified":1582345124,
     "wof:name":"Sonsonate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

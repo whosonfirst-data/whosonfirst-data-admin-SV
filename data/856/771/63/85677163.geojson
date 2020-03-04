@@ -304,6 +304,9 @@
         "wk:page":"San Salvador Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8737522a940f12908455f6d6f8cefe82",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650759,
+    "wof:lastmodified":1582345117,
     "wof:name":"San Salvador",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

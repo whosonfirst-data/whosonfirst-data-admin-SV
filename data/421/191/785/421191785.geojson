@@ -440,6 +440,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009709,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"74d4d2389515d427a09866093241c3b6",
     "wof:hierarchy":[
         {
@@ -451,7 +454,7 @@
         }
     ],
     "wof:id":421191785,
-    "wof:lastmodified":1566651043,
+    "wof:lastmodified":1582345123,
     "wof:name":"San Salvador",
     "wof:parent_id":421180907,
     "wof:placetype":"locality",

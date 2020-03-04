@@ -300,6 +300,9 @@
         "wk:page":"Usulut\u00e1n Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b9142523994f7d120bd48048a016523",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650758,
+    "wof:lastmodified":1582345117,
     "wof:name":"Usulut\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

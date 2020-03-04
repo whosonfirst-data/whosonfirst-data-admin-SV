@@ -275,6 +275,9 @@
         "wk:page":"Sonsonate Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbcf0b1b14bad09c01c2f32427fdc08f",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650757,
+    "wof:lastmodified":1582345116,
     "wof:name":"Sonsonate",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

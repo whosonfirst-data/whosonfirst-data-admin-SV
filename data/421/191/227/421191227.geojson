@@ -185,6 +185,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"693374eff56b49b465de0266d555a2b1",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421191227,
-    "wof:lastmodified":1566651041,
+    "wof:lastmodified":1582345123,
     "wof:name":"La Union",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

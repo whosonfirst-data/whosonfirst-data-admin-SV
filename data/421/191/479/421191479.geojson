@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85e44cd316c78384cf27294f9eb7bd30",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421191479,
-    "wof:lastmodified":1566651043,
+    "wof:lastmodified":1582345123,
     "wof:name":"Perquin",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

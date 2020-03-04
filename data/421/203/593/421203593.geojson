@@ -103,6 +103,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68c0a6e4ca92f91960ed8f0e592b1d86",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421203593,
-    "wof:lastmodified":1566651028,
+    "wof:lastmodified":1582345122,
     "wof:name":"San Dionisio",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

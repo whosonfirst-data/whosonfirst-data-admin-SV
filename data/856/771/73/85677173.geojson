@@ -298,6 +298,9 @@
         "wk:page":"Moraz\u00e1n Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e32770d0727d31d369f7bca575d4b02f",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650758,
+    "wof:lastmodified":1582345117,
     "wof:name":"Moraz\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

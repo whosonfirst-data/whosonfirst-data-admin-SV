@@ -299,6 +299,9 @@
         "wk:page":"Caba\u00f1as Department"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d13f899bc91496821eb22cc96b4424f",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566650759,
+    "wof:lastmodified":1582345117,
     "wof:name":"Caba\u00f1as",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

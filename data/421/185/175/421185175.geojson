@@ -107,6 +107,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009434,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc3f9c3fba7d0ab31e1045a5209caada",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421185175,
-    "wof:lastmodified":1566651059,
+    "wof:lastmodified":1582345124,
     "wof:name":"Jocoro",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

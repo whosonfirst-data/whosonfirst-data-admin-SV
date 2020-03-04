@@ -78,6 +78,9 @@
         "qs:id":901610
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b64022ae9e0466cb3e0803aa4fd7964",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379463,
+    "wof:lastmodified":1582345116,
     "wof:name":"Colonia Am\u00e9rica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

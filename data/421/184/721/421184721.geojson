@@ -185,6 +185,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009420,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8be737f02f38a08403154c428d52cad1",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421184721,
-    "wof:lastmodified":1566651050,
+    "wof:lastmodified":1582345124,
     "wof:name":"El Transito",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

@@ -78,6 +78,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c48888f4a60d0b2b7d526ef99fe00681",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421191475,
-    "wof:lastmodified":1566651043,
+    "wof:lastmodified":1582345123,
     "wof:name":"Meanguera",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

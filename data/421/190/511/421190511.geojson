@@ -117,6 +117,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009660,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8092013bede4f00dd3e06d71f1de9010",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421190511,
-    "wof:lastmodified":1566651044,
+    "wof:lastmodified":1582345123,
     "wof:name":"Candelaria De La Frontera",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

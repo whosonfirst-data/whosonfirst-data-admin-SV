@@ -143,6 +143,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"61ea0d6b18ec8c1b1d7052d5fd669582",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421191217,
-    "wof:lastmodified":1566651043,
+    "wof:lastmodified":1582345123,
     "wof:name":"Zacatecoluca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

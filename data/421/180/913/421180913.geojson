@@ -119,6 +119,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459009275,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45bb35976956041076e887e041c1c0b9",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421180913,
-    "wof:lastmodified":1566651032,
+    "wof:lastmodified":1582345122,
     "wof:name":"Ayutuxtepeque",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

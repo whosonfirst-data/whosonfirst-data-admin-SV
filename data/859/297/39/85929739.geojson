@@ -107,6 +107,10 @@
         "wk:page":"Ro\u017enik, Grosuplje"
     },
     "wof:country":"SV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad525071dd3c79ea07c206171b1b9c41",
     "wof:hierarchy":[
         {
@@ -122,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566650756,
+    "wof:lastmodified":1582345116,
     "wof:name":"Roznik",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

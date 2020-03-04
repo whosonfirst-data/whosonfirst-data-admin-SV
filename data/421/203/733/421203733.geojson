@@ -152,6 +152,9 @@
     },
     "wof:country":"SV",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed6e0d1585f4c3019fac3c36a359def8",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421203733,
-    "wof:lastmodified":1566651029,
+    "wof:lastmodified":1582345122,
     "wof:name":"Soyapango",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
