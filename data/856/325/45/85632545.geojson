@@ -969,9 +969,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"El_Salvador",
-        "digitalenvoy:country_code":[
-            222
-        ],
+        "digitalenvoy:country_code":222,
         "fb:id":"en.el_salvador",
         "fifa:id":"SLV",
         "fips:code":"ES",
@@ -1015,7 +1013,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529223,
+    "wof:lastmodified":1583797431,
     "wof:name":"El Salvador",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
