@@ -440,6 +440,9 @@
         "wd:id":"Q3110",
         "wk:page":"San Salvador"
     },
+    "wof:coterminous":[
+        421180907
+    ],
     "wof:country":"SV",
     "wof:created":1459009709,
     "wof:geom_alt":[
@@ -456,7 +459,7 @@
         }
     ],
     "wof:id":421191785,
-    "wof:lastmodified":1607390891,
+    "wof:lastmodified":1607980765,
     "wof:name":"San Salvador",
     "wof:parent_id":421180907,
     "wof:placetype":"locality",
