@@ -436,6 +436,7 @@
         "gn:id":3583361,
         "gp:id":79825,
         "loc:id":"n79066410",
+        "ne:id":1159150853,
         "qs_pg:id":1155818,
         "wd:id":"Q3110",
         "wk:page":"San Salvador"
@@ -459,7 +460,8 @@
         }
     ],
     "wof:id":421191785,
-    "wof:lastmodified":1607980765,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"San Salvador",
     "wof:parent_id":421180907,
     "wof:placetype":"locality",
