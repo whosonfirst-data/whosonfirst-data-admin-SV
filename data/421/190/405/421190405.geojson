@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "San Francisco Gotera"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648 \u06af\u0648\u062a\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "San Francisco Gotera"
     ],
@@ -47,8 +50,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0aab\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0abf\u0ab8\u0acd\u0a95\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05e8\u05e0\u05e1\u05d9\u05e1\u05e7\u05d5 \u05d2\u05d5\u05d8\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u092b\u094d\u0930\u093e\u0902\u0938\u093f\u0938\u094d\u0915\u094b \u0917\u094b\u091f\u0947\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "San Francisco Gotera"
     ],
     "name:ind_x_preferred":[
         "San Francisco Gotera"
@@ -129,6 +138,9 @@
         "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648 \u06af\u0648\u062a\u06cc\u0631\u0627"
     ],
     "name:vie_x_preferred":[
+        "San Francisco"
+    ],
+    "name:vie_x_variant":[
         "San Francisco Gotera"
     ],
     "name:zho_x_preferred":[
@@ -250,8 +262,8 @@
     "wof:belongsto":[
         102191575,
         85632545,
-        421189495,
-        85677173
+        85677173,
+        421189495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -274,7 +286,7 @@
         }
     ],
     "wof:id":421190405,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1636500601,
     "wof:name":"San Francisco",
     "wof:parent_id":421189495,
     "wof:placetype":"locality",

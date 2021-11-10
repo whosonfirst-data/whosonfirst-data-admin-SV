@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0410\u0441\u0456\u043d\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b8\u09bf\u09a8\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u0438\u043d\u043e"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Assino"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03af\u03bd\u03bf"
     ],
     "name:epo_x_preferred":[
         "Asino"
@@ -68,6 +74,12 @@
     "name:haw_x_preferred":[
         "Asino"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d9\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0938\u0940\u0928\u094b"
+    ],
     "name:hrv_x_preferred":[
         "Asino"
     ],
@@ -75,6 +87,9 @@
         "Asino"
     ],
     "name:ido_x_preferred":[
+        "Asino"
+    ],
+    "name:ind_x_preferred":[
         "Asino"
     ],
     "name:ita_x_preferred":[
@@ -98,8 +113,14 @@
     "name:pol_x_preferred":[
         "Asino"
     ],
+    "name:por_x_preferred":[
+        "Asino"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0438\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Asino"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0441\u0438\u043d\u043e"
@@ -157,7 +178,7 @@
         }
     ],
     "wof:id":1210005853,
-    "wof:lastmodified":1566650898,
+    "wof:lastmodified":1636500585,
     "wof:name":"Asino",
     "wof:parent_id":421203741,
     "wof:placetype":"locality",

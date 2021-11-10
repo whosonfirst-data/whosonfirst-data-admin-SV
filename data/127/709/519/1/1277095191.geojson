@@ -29,6 +29,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u099c\u09cb\u09b8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u062e\u0648\u0632\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05df \u05d7\u05d5\u05d6\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u091c\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "San Jose"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ud638\uc138"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "San Jose"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "San Jose"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -41,7 +80,7 @@
         "gn:id":3583645
     },
     "wof:country":"SV",
-    "wof:geomhash":"e0d849b954edc7570a49eb3f699c447d",
+    "wof:geomhash":"cc851b70794f4f4d21572fad2aa749b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1277095191,
-    "wof:lastmodified":1566650809,
+    "wof:lastmodified":1636500574,
     "wof:name":"San Jose",
     "wof:parent_id":1108694899,
     "wof:placetype":"locality",
@@ -62,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.23333000000002,
+    -88.23333,
     13.51667,
-    -88.23333000000002,
+    -88.23333,
     13.51667
 ],
-  "geometry": {"coordinates":[-88.23333000000002,13.51667],"type":"Point"}
+  "geometry": {"coordinates":[-88.23333,13.51667],"type":"Point"}
 }

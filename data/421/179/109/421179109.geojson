@@ -60,10 +60,14 @@
         "Puerto La Libertad"
     ],
     "name:urd_x_preferred":[
-        "\u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688\u060c \u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688"
+        "\u0644\u0627 \u0644\u0628\u0631\u062a\u0627\u062f"
     ],
     "name:urd_x_variant":[
-        "\u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688"
+        "\u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688",
+        "\u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688\u060c \u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "La Libertad"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5229\u4f2f\u5854\u5fb7"
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421179109,
-    "wof:lastmodified":1566651055,
+    "wof:lastmodified":1636500602,
     "wof:name":"La Libertad",
     "wof:parent_id":1108694827,
     "wof:placetype":"locality",

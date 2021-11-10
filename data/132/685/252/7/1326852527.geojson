@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Barahona"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d4\u05d5\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Barahona"
+    ],
     "name:ita_x_preferred":[
         "Barahona"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1326852527,
-    "wof:lastmodified":1566650691,
+    "wof:lastmodified":1636500561,
     "wof:name":"Barahona",
     "wof:parent_id":1108694995,
     "wof:placetype":"locality",

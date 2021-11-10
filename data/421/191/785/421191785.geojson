@@ -137,6 +137,9 @@
         "San Salvad\u00f2"
     ],
     "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05e1\u05df \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05df \u05e1\u05dc\u05d5\u05d5\u05d3\u05d5\u05e8"
     ],
     "name:hif_x_preferred":[
@@ -425,8 +428,8 @@
     "wof:belongsto":[
         102191575,
         85632545,
-        421180907,
-        85677163
+        85677163,
+        421180907
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -460,7 +463,7 @@
         }
     ],
     "wof:id":421191785,
-    "wof:lastmodified":1608688177,
+    "wof:lastmodified":1636500601,
     "wof:megacity":1,
     "wof:name":"San Salvador",
     "wof:parent_id":421180907,

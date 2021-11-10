@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Bol\u00edvar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8"
+    ],
     "name:ita_x_preferred":[
         "Bol\u00edvar"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1292997427,
-    "wof:lastmodified":1566650796,
+    "wof:lastmodified":1636500572,
     "wof:name":"Bolivar",
     "wof:parent_id":1108694723,
     "wof:placetype":"locality",

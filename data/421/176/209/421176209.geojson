@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Santa Elena"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05dc\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Elena"
+    ],
     "name:ita_x_preferred":[
         "Santa Elena"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421176209,
-    "wof:lastmodified":1566651058,
+    "wof:lastmodified":1636500603,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108695029,
     "wof:placetype":"locality",

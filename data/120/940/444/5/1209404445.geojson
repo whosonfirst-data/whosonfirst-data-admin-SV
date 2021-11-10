@@ -33,6 +33,12 @@
     "name:ceb_x_preferred":[
         "San Antonio"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Antonio"
+    ],
     "name:ita_x_preferred":[
         "San Antonio"
     ],
@@ -59,7 +65,7 @@
         "wk:page":"San_Antonio%2C_San_Miguel"
     },
     "wof:country":"SV",
-    "wof:geomhash":"75dc172fcda9168fcb61e498552128f5",
+    "wof:geomhash":"856eadccb8931048b534fa3218aa0501",
     "wof:hierarchy":[
         {
             "country_id":85632545,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1209404445,
-    "wof:lastmodified":1566650871,
+    "wof:lastmodified":1636500582,
     "wof:name":"San Antonio",
     "wof:parent_id":85632545,
     "wof:placetype":"locality",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.26666999999998,
+    -88.26667,
     13.83333,
-    -88.26666999999998,
+    -88.26667,
     13.83333
 ],
-  "geometry": {"coordinates":[-88.26666999999998,13.83333],"type":"Point"}
+  "geometry": {"coordinates":[-88.26667,13.83333],"type":"Point"}
 }

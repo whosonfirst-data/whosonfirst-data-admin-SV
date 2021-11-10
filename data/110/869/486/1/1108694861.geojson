@@ -96,6 +96,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d0\u05d1\u05d4 \u05d0\u05e1\u05e4\u05e8\u05d8\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Nueva Esparta"
+    ],
     "name:ita_x_preferred":[
         "Nuova Sparta"
     ],
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":1108694861,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1636500590,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
