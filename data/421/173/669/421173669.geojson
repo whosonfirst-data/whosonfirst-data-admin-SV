@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Chirilagua"
     ],
+    "name:eus_x_preferred":[
+        "Chirilagua"
+    ],
     "name:fin_x_preferred":[
         "Chirilagua"
     ],
@@ -75,6 +78,9 @@
         "\u091a\u093f\u0932\u0940\u0917\u093e\u0917\u0941\u0906"
     ],
     "name:msa_x_preferred":[
+        "Chirilagua"
+    ],
+    "name:nan_x_preferred":[
         "Chirilagua"
     ],
     "name:nld_x_preferred":[
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":421173669,
-    "wof:lastmodified":1566651033,
+    "wof:lastmodified":1690867029,
     "wof:name":"Chirilagua",
     "wof:parent_id":421203731,
     "wof:placetype":"locality",

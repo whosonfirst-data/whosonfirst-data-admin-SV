@@ -20,10 +20,16 @@
     "name:eng_x_preferred":[
         "Meanguera"
     ],
+    "name:eus_x_preferred":[
+        "Meanguera"
+    ],
     "name:hun_x_preferred":[
         "Meanguera"
     ],
     "name:ita_x_preferred":[
+        "Meanguera"
+    ],
+    "name:nan_x_preferred":[
         "Meanguera"
     ],
     "name:nld_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421201055,
-    "wof:lastmodified":1566651048,
+    "wof:lastmodified":1690867041,
     "wof:name":"Meanguera",
     "wof:parent_id":421191475,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Nahuizalco"
     ],
+    "name:eus_x_preferred":[
+        "Nahuizalco"
+    ],
     "name:fra_x_preferred":[
         "Nahuizalco"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30d5\u30a4\u30b5\u30eb\u30b3"
+    ],
+    "name:nan_x_preferred":[
+        "Nahuizalco"
     ],
     "name:nld_x_preferred":[
         "Nahuizalco"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421197587,
-    "wof:lastmodified":1566651046,
+    "wof:lastmodified":1690867039,
     "wof:name":"Nahuizalco",
     "wof:parent_id":421205339,
     "wof:placetype":"locality",

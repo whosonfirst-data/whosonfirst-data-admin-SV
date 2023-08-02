@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000374,
     "geom:area_square_m":4490188.499992,
-    "geom:bbox":"-89.7233916548,13.7350910107,-89.6997643069,13.7635694036",
+    "geom:bbox":"-89.723392,13.735091,-89.699764,13.763569",
     "geom:latitude":13.746824,
-    "geom:longitude":-89.709251,
+    "geom:longitude":-89.709252,
     "iso:country":"SV",
     "label:eng_x_preferred_longname":[
         "Sonzacate Municipality"
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Sonzocate"
+    ],
     "name:ceb_x_preferred":[
         "Sonzacate"
     ],
@@ -46,6 +49,9 @@
         "Sonzacate"
     ],
     "name:eng_x_preferred":[
+        "Sonzacate"
+    ],
+    "name:eus_x_preferred":[
         "Sonzacate"
     ],
     "name:fra_x_preferred":[
@@ -60,6 +66,9 @@
     "name:jpn_x_preferred":[
         "\u30bd\u30f3\u30b5\u30ab\u30c6"
     ],
+    "name:nan_x_preferred":[
+        "Sonzacate"
+    ],
     "name:nld_x_preferred":[
         "Sonzacate"
     ],
@@ -70,6 +79,9 @@
         "Sonzacate"
     ],
     "name:spa_x_preferred":[
+        "Sonzacate"
+    ],
+    "name:swe_x_preferred":[
         "Sonzacate"
     ],
     "name:war_x_preferred":[
@@ -119,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"601667368e33ad88ce3d34637262dc5b",
+    "wof:geomhash":"02094f3f63c45b944ff1c5b9b44b85dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":421201523,
-    "wof:lastmodified":1582345123,
+    "wof:lastmodified":1690867042,
     "wof:name":"Sonzacate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",
@@ -141,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.72339165476225,
-    13.7350910107422,
-    -89.6997643068537,
-    13.76356940355794
+    -89.723392,
+    13.735091,
+    -89.699764,
+    13.763569
 ],
-  "geometry": {"coordinates":[[[-89.70459906464882,13.76356940355794],[-89.70004164265427,13.755],[-89.69989285751556,13.74944855733793],[-89.69976430685369,13.745],[-89.7029856889492,13.73823418936968],[-89.70325088512389,13.73786577954153],[-89.70346933938504,13.73775271413308],[-89.71538865299547,13.7350910107422],[-89.72339165476225,13.74027574930149],[-89.71604648297104,13.74944855733793],[-89.70481886657306,13.76356572875317],[-89.70459906464882,13.76356940355794]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-89.704599,13.763569],[-89.700042,13.755],[-89.699893,13.749449],[-89.699764,13.745],[-89.702986,13.738234],[-89.70325099999999,13.737866],[-89.703469,13.737753],[-89.715389,13.735091],[-89.723392,13.740276],[-89.71604600000001,13.749449],[-89.704819,13.763566],[-89.704599,13.763569]]],"type":"Polygon"}
 }

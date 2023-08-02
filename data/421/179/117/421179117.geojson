@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Jocoro"
     ],
+    "name:eus_x_preferred":[
+        "Jocoro"
+    ],
     "name:fra_x_preferred":[
         "Jocoro"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30db\u30b3\u30ed"
+    ],
+    "name:nan_x_preferred":[
+        "Jocoro"
     ],
     "name:nld_x_preferred":[
         "Jocoro"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421179117,
-    "wof:lastmodified":1566651055,
+    "wof:lastmodified":1690867049,
     "wof:name":"Jocoro",
     "wof:parent_id":421185175,
     "wof:placetype":"locality",

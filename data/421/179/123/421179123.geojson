@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Congo"
     ],
+    "name:eus_x_preferred":[
+        "El Congo"
+    ],
     "name:fra_x_preferred":[
         "El Congo"
     ],
@@ -35,7 +38,13 @@
     "name:nah_x_preferred":[
         "El Congo"
     ],
+    "name:nan_x_preferred":[
+        "El Congo"
+    ],
     "name:nld_x_preferred":[
+        "El Congo"
+    ],
+    "name:pol_x_preferred":[
         "El Congo"
     ],
     "name:por_x_preferred":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421179123,
-    "wof:lastmodified":1566651056,
+    "wof:lastmodified":1690867050,
     "wof:name":"El Congo",
     "wof:parent_id":1108694775,
     "wof:placetype":"locality",

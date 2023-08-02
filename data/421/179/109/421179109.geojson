@@ -23,7 +23,13 @@
     "name:eng_x_preferred":[
         "La Libertad"
     ],
+    "name:eus_x_preferred":[
+        "La Libertad"
+    ],
     "name:fra_x_preferred":[
+        "La Libertad"
+    ],
+    "name:glg_x_preferred":[
         "La Libertad"
     ],
     "name:ita_x_preferred":[
@@ -38,6 +44,9 @@
     "name:lit_x_preferred":[
         "La Libertadas"
     ],
+    "name:nan_x_preferred":[
+        "La Libertad"
+    ],
     "name:nld_x_preferred":[
         "La Libertad"
     ],
@@ -51,6 +60,9 @@
         "\u041b\u0430-\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
     "name:spa_x_preferred":[
+        "La Libertad"
+    ],
+    "name:szl_x_preferred":[
         "La Libertad"
     ],
     "name:ukr_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":421179109,
-    "wof:lastmodified":1636500602,
+    "wof:lastmodified":1690867049,
     "wof:name":"La Libertad",
     "wof:parent_id":1108694827,
     "wof:placetype":"locality",

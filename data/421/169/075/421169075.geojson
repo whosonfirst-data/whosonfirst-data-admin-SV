@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u0633\u0648\u0646\u0633\u0648\u0646\u0627\u062a\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Sonsonate"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043d\u0441\u0430\u043d\u0430\u0442\u044d"
     ],
@@ -35,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Sonsonate"
     ],
+    "name:ces_x_preferred":[
+        "Sonsonate"
+    ],
     "name:dan_x_preferred":[
         "Sonsonate"
     ],
@@ -45,6 +51,9 @@
         "\u03a3\u03bf\u03bd\u03c3\u03bf\u03bd\u03ac\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
+        "Sonsonate"
+    ],
+    "name:eus_x_preferred":[
         "Sonsonate"
     ],
     "name:fas_x_preferred":[
@@ -106,6 +115,9 @@
     ],
     "name:nah_x_variant":[
         "Centzon\u0101tl"
+    ],
+    "name:nan_x_preferred":[
+        "Sonsonate"
     ],
     "name:nld_x_preferred":[
         "Sonsonate"
@@ -303,7 +315,7 @@
         }
     ],
     "wof:id":421169075,
-    "wof:lastmodified":1636500598,
+    "wof:lastmodified":1690867024,
     "wof:name":"Sonsonate",
     "wof:parent_id":421184831,
     "wof:placetype":"locality",

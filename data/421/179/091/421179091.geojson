@@ -26,7 +26,13 @@
     "name:eng_x_preferred":[
         "Tacuba"
     ],
+    "name:eus_x_preferred":[
+        "Tacuba"
+    ],
     "name:fra_x_preferred":[
+        "Tacuba"
+    ],
+    "name:glg_x_preferred":[
         "Tacuba"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +43,9 @@
     ],
     "name:nah_x_preferred":[
         "Tlac\u014dpan"
+    ],
+    "name:nan_x_preferred":[
+        "Tacuba"
     ],
     "name:nld_x_preferred":[
         "Tacuba"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421179091,
-    "wof:lastmodified":1566651053,
+    "wof:lastmodified":1690867047,
     "wof:name":"Tacuba",
     "wof:parent_id":421193371,
     "wof:placetype":"locality",

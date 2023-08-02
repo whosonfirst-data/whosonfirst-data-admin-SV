@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ae\u09bf\u0997\u09c1\u09af\u09bc\u09c7\u09b2 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant San Miguel"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0438\u0433\u0435\u043b"
     ],
@@ -50,6 +53,9 @@
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03b1\u03bd \u039c\u03b9\u03b3\u03ba\u03ad\u03bb"
     ],
+    "name:ell_x_variant":[
+        "\u03b4\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03b1\u03bd \u039c\u03b9\u03b3\u03ba\u03ad\u03bb"
+    ],
     "name:eng_x_preferred":[
         "San Miguel"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:eus_x_preferred":[
         "San Miguel departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u0644"
     ],
     "name:fin_x_preferred":[
         "San Miguelin departmentti"
@@ -124,6 +133,9 @@
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl San Miguel"
+    ],
+    "name:nan_x_preferred":[
+        "San Miguel Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "San Miguel"
@@ -324,7 +336,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636500569,
+    "wof:lastmodified":1690867013,
     "wof:name":"San Miguel",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

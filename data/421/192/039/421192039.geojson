@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Alegr\u00eda"
     ],
+    "name:eus_x_preferred":[
+        "Alegr\u00eda"
+    ],
     "name:fra_x_preferred":[
         "Alegr\u00eda"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ec\u30b0\u30ea\u30a2"
+    ],
+    "name:nan_x_preferred":[
+        "Alegr\u00eda"
     ],
     "name:nld_x_preferred":[
         "Alegr\u00eda"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421192039,
-    "wof:lastmodified":1566651022,
+    "wof:lastmodified":1690867019,
     "wof:name":"Alegr\u00eda",
     "wof:parent_id":1108694713,
     "wof:placetype":"locality",

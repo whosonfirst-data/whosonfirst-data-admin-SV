@@ -23,10 +23,16 @@
     "name:eng_x_preferred":[
         "Nuevo Cuscatl\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Nuevo Cuscatl\u00e1n"
+    ],
     "name:fra_x_preferred":[
         "Nuevo Cuscatl\u00e1n"
     ],
     "name:ita_x_preferred":[
+        "Nuevo Cuscatl\u00e1n"
+    ],
+    "name:nan_x_preferred":[
         "Nuevo Cuscatl\u00e1n"
     ],
     "name:nld_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421194781,
-    "wof:lastmodified":1566651024,
+    "wof:lastmodified":1690867021,
     "wof:name":"Nuevo Cuscatl\u00e1n",
     "wof:parent_id":1108694869,
     "wof:placetype":"locality",

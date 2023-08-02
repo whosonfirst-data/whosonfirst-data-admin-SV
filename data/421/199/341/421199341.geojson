@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Pasaquina"
     ],
+    "name:eus_x_preferred":[
+        "Pasaquina"
+    ],
     "name:fra_x_preferred":[
         "Pasaquina"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30b5\u30ad\u30ca"
+    ],
+    "name:nan_x_preferred":[
+        "Pasaquina"
     ],
     "name:nld_x_preferred":[
         "Pasaquina"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421199341,
-    "wof:lastmodified":1566651047,
+    "wof:lastmodified":1690867040,
     "wof:name":"Pasaquina",
     "wof:parent_id":1108694891,
     "wof:placetype":"locality",

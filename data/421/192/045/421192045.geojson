@@ -23,10 +23,16 @@
     "name:eng_x_preferred":[
         "Salcoatit\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
     "name:fra_x_preferred":[
         "Salcoatit\u00e1n"
     ],
     "name:ita_x_preferred":[
+        "Salcoatit\u00e1n"
+    ],
+    "name:nan_x_preferred":[
         "Salcoatit\u00e1n"
     ],
     "name:nld_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421192045,
-    "wof:lastmodified":1566651022,
+    "wof:lastmodified":1690867019,
     "wof:name":"Salcoatit\u00e1n",
     "wof:parent_id":1108694905,
     "wof:placetype":"locality",

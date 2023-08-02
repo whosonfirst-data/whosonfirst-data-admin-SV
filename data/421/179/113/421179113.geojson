@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Jucuar\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Jucuar\u00e1n"
+    ],
     "name:fin_x_preferred":[
         "Jucuar\u00e1n"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:msa_x_preferred":[
         "Jucuaran"
+    ],
+    "name:nan_x_preferred":[
+        "Jucuar\u00e1n"
     ],
     "name:nld_x_preferred":[
         "Jucuar\u00e1n"
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":421179113,
-    "wof:lastmodified":1566651056,
+    "wof:lastmodified":1690867051,
     "wof:name":"Jucuar\u00e1n",
     "wof:parent_id":421184409,
     "wof:placetype":"locality",

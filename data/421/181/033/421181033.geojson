@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Caluco"
     ],
+    "name:eus_x_preferred":[
+        "Caluco"
+    ],
     "name:fra_x_preferred":[
         "Caluco"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30b3"
+    ],
+    "name:nan_x_preferred":[
+        "Caluco"
     ],
     "name:nld_x_preferred":[
         "Caluco"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421181033,
-    "wof:lastmodified":1566651040,
+    "wof:lastmodified":1690867035,
     "wof:name":"Caluco",
     "wof:parent_id":421189151,
     "wof:placetype":"locality",

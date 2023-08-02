@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Ilobasco"
     ],
+    "name:eus_x_preferred":[
+        "Ilobasco"
+    ],
     "name:fin_x_preferred":[
         "Ilobasco"
     ],
@@ -75,6 +78,9 @@
         "\u0907\u0932\u094b\u092c\u0945\u0938\u094d\u0915\u094b"
     ],
     "name:msa_x_preferred":[
+        "Ilobasco"
+    ],
+    "name:nan_x_preferred":[
         "Ilobasco"
     ],
     "name:nld_x_preferred":[
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421166383,
-    "wof:lastmodified":1566651021,
+    "wof:lastmodified":1690867017,
     "wof:name":"Ilobasco",
     "wof:parent_id":421184405,
     "wof:placetype":"locality",

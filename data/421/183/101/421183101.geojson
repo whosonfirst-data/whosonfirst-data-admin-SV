@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Texistepeque"
     ],
+    "name:eus_x_preferred":[
+        "Texistepeque"
+    ],
     "name:fra_x_preferred":[
         "Texistepeque"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:nah_x_preferred":[
         "Tecciztepec"
+    ],
+    "name:nan_x_preferred":[
+        "Texistepeque"
     ],
     "name:nld_x_preferred":[
         "Texistepeque"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421183101,
-    "wof:lastmodified":1566651052,
+    "wof:lastmodified":1690867045,
     "wof:name":"Texistepeque",
     "wof:parent_id":421203745,
     "wof:placetype":"locality",

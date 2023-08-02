@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Guaymango"
     ],
+    "name:eus_x_preferred":[
+        "Guaymango"
+    ],
     "name:fra_x_preferred":[
         "Guaymango"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30a2\u30a4\u30de\u30f3\u30b4"
+    ],
+    "name:nan_x_preferred":[
+        "Guaymango"
     ],
     "name:nld_x_preferred":[
         "Guaymango"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421198135,
-    "wof:lastmodified":1566651041,
+    "wof:lastmodified":1690867035,
     "wof:name":"Guaymango",
     "wof:parent_id":1108694807,
     "wof:placetype":"locality",

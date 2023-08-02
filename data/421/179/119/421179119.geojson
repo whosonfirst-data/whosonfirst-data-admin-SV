@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "El Tr\u00e1nsito"
     ],
+    "name:eus_x_preferred":[
+        "El Tr\u00e1nsito"
+    ],
     "name:fin_x_preferred":[
         "El Tr\u00e1nsito"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:msa_x_preferred":[
         "El Transito"
+    ],
+    "name:nan_x_preferred":[
+        "El Tr\u00e1nsito"
     ],
     "name:nld_x_preferred":[
         "El Tr\u00e1nsito"
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":421179119,
-    "wof:lastmodified":1566651054,
+    "wof:lastmodified":1690867049,
     "wof:name":"El Tr\u00e1nsito",
     "wof:parent_id":421184721,
     "wof:placetype":"locality",

@@ -26,11 +26,20 @@
     "name:eng_x_preferred":[
         "Ozatl\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Ozatl\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Ozatl\u00e1n"
+    ],
     "name:ita_x_preferred":[
         "Ozatl\u00e1n"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30b5\u30c8\u30e9\u30f3"
+    ],
+    "name:nan_x_preferred":[
+        "Ozatl\u00e1n"
     ],
     "name:nld_x_preferred":[
         "Ozatl\u00e1n"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421177535,
-    "wof:lastmodified":1566651050,
+    "wof:lastmodified":1690867044,
     "wof:name":"Ozatl\u00e1n",
     "wof:parent_id":1108694883,
     "wof:placetype":"locality",

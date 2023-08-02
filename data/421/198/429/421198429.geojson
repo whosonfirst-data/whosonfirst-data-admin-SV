@@ -23,11 +23,17 @@
     "name:eng_x_preferred":[
         "San Rafael"
     ],
+    "name:eus_x_preferred":[
+        "San Rafael Oriente"
+    ],
     "name:ita_x_preferred":[
         "San Rafael Oriente"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb"
+    ],
+    "name:nan_x_preferred":[
+        "San Rafael"
     ],
     "name:nld_x_preferred":[
         "San Rafael"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421198429,
-    "wof:lastmodified":1566651041,
+    "wof:lastmodified":1690867035,
     "wof:name":"San Rafael Oriente",
     "wof:parent_id":1108695005,
     "wof:placetype":"locality",

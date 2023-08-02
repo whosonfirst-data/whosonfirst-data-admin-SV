@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u064a\u0648\u0646\u064a\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "La Uni\u00f3n"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u0987\u0989\u09a8\u09bf\u09af\u09bc\u09a8"
     ],
@@ -36,6 +39,9 @@
         "\u039b\u03b1 \u039f\u03c5\u03bd\u03b9\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
+        "La Uni\u00f3n"
+    ],
+    "name:eus_x_preferred":[
         "La Uni\u00f3n"
     ],
     "name:fin_x_preferred":[
@@ -82,6 +88,12 @@
     ],
     "name:nah_x_preferred":[
         "La Uni\u00f3n"
+    ],
+    "name:nan_x_preferred":[
+        "La Uni\u00f3n"
+    ],
+    "name:nau_x_preferred":[
+        "La Union"
     ],
     "name:nld_x_preferred":[
         "La Uni\u00f3n"
@@ -283,7 +295,7 @@
         }
     ],
     "wof:id":421181039,
-    "wof:lastmodified":1566651039,
+    "wof:lastmodified":1690867034,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":421191227,
     "wof:placetype":"locality",

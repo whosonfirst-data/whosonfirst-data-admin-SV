@@ -23,10 +23,16 @@
     "name:eng_x_preferred":[
         "Cital\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Cital\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Cital\u00e1"
     ],
     "name:ita_x_preferred":[
+        "Cital\u00e1"
+    ],
+    "name:nan_x_preferred":[
         "Cital\u00e1"
     ],
     "name:nld_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421204835,
-    "wof:lastmodified":1566651027,
+    "wof:lastmodified":1690867024,
     "wof:name":"Cital\u00e1",
     "wof:parent_id":421191209,
     "wof:placetype":"locality",

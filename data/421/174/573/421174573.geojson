@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Jujutla"
     ],
+    "name:eus_x_preferred":[
+        "Jujutla"
+    ],
     "name:fra_x_preferred":[
         "Jujutla"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30d5\u30c8\u30e9"
+    ],
+    "name:nan_x_preferred":[
+        "Jujutla"
     ],
     "name:nld_x_preferred":[
         "Jujutla"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421174573,
-    "wof:lastmodified":1566651031,
+    "wof:lastmodified":1690867028,
     "wof:name":"Jujutla",
     "wof:parent_id":421204283,
     "wof:placetype":"locality",

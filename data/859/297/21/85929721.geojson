@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Jar\u0161e"
     ],
+    "name:ita_x_preferred":[
+        "Jar\u0161e"
+    ],
+    "name:slv_x_preferred":[
+        "Jar\u0161e"
+    ],
     "name:und_x_colloquial":[
         "Jarse"
     ],
@@ -103,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582345116,
+    "wof:lastmodified":1690867009,
     "wof:name":"Jar\u0161e",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

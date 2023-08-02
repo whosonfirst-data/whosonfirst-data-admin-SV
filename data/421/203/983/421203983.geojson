@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Sesori"
     ],
+    "name:eus_x_preferred":[
+        "Sesori"
+    ],
     "name:fra_x_preferred":[
         "Sesori"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30bd\u30ea"
+    ],
+    "name:nan_x_preferred":[
+        "Sesori"
     ],
     "name:nld_x_preferred":[
         "Sesori"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421203983,
-    "wof:lastmodified":1566651028,
+    "wof:lastmodified":1690867025,
     "wof:name":"Sesori",
     "wof:parent_id":421176713,
     "wof:placetype":"locality",
