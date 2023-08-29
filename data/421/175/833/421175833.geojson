@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Nejapa"
     ],
+    "name:eus_x_preferred":[
+        "Nejapa"
+    ],
     "name:fra_x_preferred":[
         "Nejapa"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:nah_x_preferred":[
         "Nex\u0101pan"
+    ],
+    "name:nan_x_preferred":[
+        "Nejapa"
     ],
     "name:nld_x_preferred":[
         "Nejapa"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421175833,
-    "wof:lastmodified":1566651040,
+    "wof:lastmodified":1690867035,
     "wof:name":"Nejapa",
     "wof:parent_id":421189135,
     "wof:placetype":"locality",

@@ -26,10 +26,19 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Spodnja \u0160i\u0161ka"
+    ],
     "name:eng_x_preferred":[
         "Spodnja \u0160i\u0161ka"
     ],
     "name:fra_x_preferred":[
+        "Spodnja \u0160i\u0161ka"
+    ],
+    "name:ita_x_preferred":[
+        "Spodnja \u0160i\u0161ka"
+    ],
+    "name:nld_x_preferred":[
         "Spodnja \u0160i\u0161ka"
     ],
     "name:slv_x_preferred":[
@@ -104,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582345118,
+    "wof:lastmodified":1690867014,
     "wof:name":"Spodnja Siska",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

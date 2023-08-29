@@ -23,11 +23,17 @@
     "name:eng_x_preferred":[
         "Corinto"
     ],
+    "name:eus_x_preferred":[
+        "Corinto"
+    ],
     "name:ita_x_preferred":[
         "Corinto"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ea\u30f3\u30c8"
+    ],
+    "name:nan_x_preferred":[
+        "Corinto"
     ],
     "name:nld_x_preferred":[
         "Corinto"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421179127,
-    "wof:lastmodified":1566651054,
+    "wof:lastmodified":1690867048,
     "wof:name":"Corinto",
     "wof:parent_id":421172671,
     "wof:placetype":"locality",

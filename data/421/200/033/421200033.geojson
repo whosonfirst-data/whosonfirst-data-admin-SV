@@ -23,11 +23,17 @@
     "name:eng_x_preferred":[
         "Tenancingo"
     ],
+    "name:eus_x_preferred":[
+        "Tenancingo"
+    ],
     "name:ita_x_preferred":[
         "Tenancingo"
     ],
     "name:nah_x_preferred":[
         "Ten\u0101ntzinco"
+    ],
+    "name:nan_x_preferred":[
+        "Tenancingo"
     ],
     "name:nld_x_preferred":[
         "Tenancingo"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421200033,
-    "wof:lastmodified":1566651047,
+    "wof:lastmodified":1690867041,
     "wof:name":"Tenancingo",
     "wof:parent_id":421191471,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Cinquera"
     ],
+    "name:eus_x_preferred":[
+        "Cinquera"
+    ],
     "name:fra_x_preferred":[
         "Cinquera"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30b1\u30e9"
+    ],
+    "name:nan_x_preferred":[
+        "Cinquera"
     ],
     "name:nld_x_preferred":[
         "Cinquera"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421181035,
-    "wof:lastmodified":1566651040,
+    "wof:lastmodified":1690867034,
     "wof:name":"Cinquera",
     "wof:parent_id":1108694747,
     "wof:placetype":"locality",

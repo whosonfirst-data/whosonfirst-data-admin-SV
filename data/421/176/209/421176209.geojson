@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Santa Elena"
     ],
+    "name:eus_x_preferred":[
+        "Santa Elena"
+    ],
     "name:fra_x_preferred":[
         "Santa Elena"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30a8\u30ec\u30ca"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Elena"
     ],
     "name:nld_x_preferred":[
         "Santa Elena"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421176209,
-    "wof:lastmodified":1636500603,
+    "wof:lastmodified":1690867054,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108695029,
     "wof:placetype":"locality",

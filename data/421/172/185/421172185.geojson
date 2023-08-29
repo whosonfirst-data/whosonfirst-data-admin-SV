@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Apastepeque"
     ],
+    "name:eus_x_preferred":[
+        "Apastepeque"
+    ],
     "name:fra_x_preferred":[
         "Apastepeque"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d1\u30b9\u30c6\u30da\u30b1"
+    ],
+    "name:nan_x_preferred":[
+        "Apastepeque"
     ],
     "name:nld_x_preferred":[
         "Apastepeque"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421172185,
-    "wof:lastmodified":1566651037,
+    "wof:lastmodified":1690867033,
     "wof:name":"Apastepeque",
     "wof:parent_id":421203747,
     "wof:placetype":"locality",

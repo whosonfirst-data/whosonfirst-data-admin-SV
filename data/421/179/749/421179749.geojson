@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Panchimalco"
     ],
+    "name:eus_x_preferred":[
+        "Panchimalco"
+    ],
     "name:fra_x_preferred":[
         "Panchimalco"
     ],
@@ -38,7 +41,13 @@
     "name:nah_x_preferred":[
         "P\u0101nch\u012bmalco"
     ],
+    "name:nan_x_preferred":[
+        "Panchimalco"
+    ],
     "name:nld_x_preferred":[
+        "Panchimalco"
+    ],
+    "name:pol_x_preferred":[
         "Panchimalco"
     ],
     "name:por_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421179749,
-    "wof:lastmodified":1566651054,
+    "wof:lastmodified":1690867048,
     "wof:name":"Panchimalco",
     "wof:parent_id":1108694885,
     "wof:placetype":"locality",

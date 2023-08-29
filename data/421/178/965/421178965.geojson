@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Jiquilisco"
     ],
+    "name:eus_x_preferred":[
+        "Jiquilisco"
+    ],
     "name:fra_x_preferred":[
         "Jiquilisco"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d2\u30ad\u30ea\u30b9\u30b3"
+    ],
+    "name:nan_x_preferred":[
+        "Jiquilisco"
     ],
     "name:nld_x_preferred":[
         "Jiquilisco"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421178965,
-    "wof:lastmodified":1566651056,
+    "wof:lastmodified":1690867051,
     "wof:name":"Jiquilisco",
     "wof:parent_id":421168319,
     "wof:placetype":"locality",

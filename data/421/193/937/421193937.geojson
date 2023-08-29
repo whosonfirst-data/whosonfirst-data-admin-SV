@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Comasagua"
     ],
+    "name:eus_x_preferred":[
+        "Comasagua"
+    ],
     "name:fra_x_preferred":[
         "Comasagua"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30fc\u30de\u30b5\u30b0\u30a2"
+    ],
+    "name:nan_x_preferred":[
+        "Comasagua"
     ],
     "name:nld_x_preferred":[
         "Comasagua"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421193937,
-    "wof:lastmodified":1566651025,
+    "wof:lastmodified":1690867022,
     "wof:name":"Comasagua",
     "wof:parent_id":421189131,
     "wof:placetype":"locality",

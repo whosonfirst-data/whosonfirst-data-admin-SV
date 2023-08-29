@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ad\u09bf\u09b8\u09c7\u09a8\u09cd\u09a4\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant San Vicente"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u0412\u0438\u0441\u0435\u043d\u0442\u0435"
     ],
@@ -50,6 +53,9 @@
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03b1\u03bd \u0392\u03b9\u03c3\u03ad\u03bd\u03c4\u03b5"
     ],
+    "name:ell_x_variant":[
+        "\u03b4\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a3\u03b1\u03bd \u0392\u03b9\u03c3\u03ad\u03bd\u03c4\u03b5"
+    ],
     "name:eng_x_preferred":[
         "San Vicente"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:eus_x_preferred":[
         "San Vicente departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u0646 \u0648\u06cc\u0633\u0646\u062a\u0647"
     ],
     "name:fin_x_preferred":[
         "San Vicenten departementti"
@@ -124,6 +133,9 @@
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl San Vicente"
+    ],
+    "name:nan_x_preferred":[
+        "San Vicente Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "San Vicente"
@@ -318,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636500569,
+    "wof:lastmodified":1690867013,
     "wof:name":"San Vicente",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

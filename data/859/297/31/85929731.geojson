@@ -43,6 +43,12 @@
     "name:ita_x_preferred":[
         "Distretto di Be\u017eigrad"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0436\u0438\u0433\u0440\u0430\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Be\u017eigrad"
+    ],
     "name:nld_x_preferred":[
         "Be\u017eigrad"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:slv_x_preferred":[
         "\u010cetrtna skupnost Be\u017eigrad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0436\u0438\u0433\u0440\u0430\u0434"
     ],
     "name:und_x_colloquial":[
         "Bezigrad"
@@ -126,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582345116,
+    "wof:lastmodified":1690867009,
     "wof:name":"Be\u017eigrad",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

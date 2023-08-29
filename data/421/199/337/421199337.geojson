@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Concepci\u00f3n Batres"
     ],
+    "name:eus_x_preferred":[
+        "Concepci\u00f3n Batres"
+    ],
     "name:fra_x_preferred":[
         "Concepci\u00f3n Batres"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30bb\u30d7\u30b7\u30aa\u30f3\u30fb\u30d0\u30c8\u30ec\u30b9"
+    ],
+    "name:nan_x_preferred":[
+        "Concepci\u00f3n Batres"
     ],
     "name:nld_x_preferred":[
         "Concepci\u00f3n Batres"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421199337,
-    "wof:lastmodified":1566651046,
+    "wof:lastmodified":1690867039,
     "wof:name":"Concepci\u00f3n Batres",
     "wof:parent_id":1108694753,
     "wof:placetype":"locality",

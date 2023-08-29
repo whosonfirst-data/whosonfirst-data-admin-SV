@@ -51,6 +51,9 @@
     "name:ces_x_preferred":[
         "\u0160i\u0161ka"
     ],
+    "name:chv_x_preferred":[
+        "\u0419\u0115\u043a\u0435\u043b"
+    ],
     "name:cos_x_preferred":[
         "\u0160i\u0161ka"
     ],
@@ -204,6 +207,9 @@
     "name:ron_x_preferred":[
         "\u0160i\u0161ka"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0448\u043a\u0430"
+    ],
     "name:scn_x_preferred":[
         "\u0160i\u0161ka"
     ],
@@ -321,7 +327,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582345116,
+    "wof:lastmodified":1690867008,
     "wof:name":"Siska",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

@@ -28,11 +28,17 @@
     "name:eng_x_preferred":[
         "Chinameca"
     ],
+    "name:eus_x_preferred":[
+        "Chinameca"
+    ],
     "name:ita_x_preferred":[
         "Chinameca"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30ca\u30e1\u30ab"
+    ],
+    "name:nan_x_preferred":[
+        "Chinameca"
     ],
     "name:nld_x_preferred":[
         "Chinameca"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125939219,
-    "wof:lastmodified":1566651061,
+    "wof:lastmodified":1690867056,
     "wof:name":"Chinameca",
     "wof:parent_id":1108694743,
     "wof:placetype":"locality",

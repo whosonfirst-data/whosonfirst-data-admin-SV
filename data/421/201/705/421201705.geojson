@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Guatajiagua"
     ],
+    "name:eus_x_preferred":[
+        "Guatajiagua"
+    ],
     "name:fra_x_preferred":[
         "Guatajiagua"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30a2\u30bf\u30d2\u30a2\u30b0\u30a2"
+    ],
+    "name:nan_x_preferred":[
+        "Guatajiagua"
     ],
     "name:nld_x_preferred":[
         "Guatajiagua"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421201705,
-    "wof:lastmodified":1566651048,
+    "wof:lastmodified":1690867042,
     "wof:name":"Guatajiagua",
     "wof:parent_id":1108694805,
     "wof:placetype":"locality",

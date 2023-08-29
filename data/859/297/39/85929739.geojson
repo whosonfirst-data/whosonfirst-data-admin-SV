@@ -32,10 +32,16 @@
     "name:bos_x_preferred":[
         "Ro\u017enik"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0436\u043d\u0438\u043a"
+    ],
     "name:eng_x_preferred":[
         "Ro\u017enik"
     ],
     "name:fra_x_preferred":[
+        "Ro\u017enik"
+    ],
+    "name:hrv_x_preferred":[
         "Ro\u017enik"
     ],
     "name:nld_x_preferred":[
@@ -51,6 +57,9 @@
         "Ro\u017enik"
     ],
     "name:srp_x_preferred":[
+        "\u0420\u043e\u0436\u043d\u0438\u043a"
+    ],
+    "name:tat_x_preferred":[
         "\u0420\u043e\u0436\u043d\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
@@ -126,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582345116,
+    "wof:lastmodified":1690867009,
     "wof:name":"Roznik",
     "wof:parent_id":101752073,
     "wof:placetype":"neighbourhood",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Conchagua"
     ],
+    "name:eus_x_preferred":[
+        "Conchagua"
+    ],
     "name:fra_x_preferred":[
         "Conchagua"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30c1\u30e3\u30b0\u30a2"
+    ],
+    "name:nan_x_preferred":[
+        "Conchagua"
     ],
     "name:nld_x_preferred":[
         "Conchagua"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421173673,
-    "wof:lastmodified":1566651033,
+    "wof:lastmodified":1690867029,
     "wof:name":"Conchagua",
     "wof:parent_id":421191221,
     "wof:placetype":"locality",

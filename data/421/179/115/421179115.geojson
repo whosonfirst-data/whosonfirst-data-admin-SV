@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Jucuapa"
     ],
+    "name:eus_x_preferred":[
+        "Jucuapa"
+    ],
     "name:fra_x_preferred":[
         "Jucuapa"
     ],
@@ -32,7 +35,13 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30af\u30a2\u30d1"
     ],
+    "name:nan_x_preferred":[
+        "Jucuapa"
+    ],
     "name:nld_x_preferred":[
+        "Jucuapa"
+    ],
+    "name:pol_x_preferred":[
         "Jucuapa"
     ],
     "name:por_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421179115,
-    "wof:lastmodified":1566651056,
+    "wof:lastmodified":1690867050,
     "wof:name":"Jucuapa",
     "wof:parent_id":1108694821,
     "wof:placetype":"locality",

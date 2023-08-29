@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Lolotique"
     ],
+    "name:eus_x_preferred":[
+        "Lolotique"
+    ],
     "name:fra_x_preferred":[
         "Lolotique"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30ed\u30c6\u30a3\u30b1"
+    ],
+    "name:nan_x_preferred":[
+        "Lolotique"
     ],
     "name:nld_x_preferred":[
         "Lolotique"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421179107,
-    "wof:lastmodified":1566651055,
+    "wof:lastmodified":1690867049,
     "wof:name":"Lolotique",
     "wof:parent_id":1108694839,
     "wof:placetype":"locality",

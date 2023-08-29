@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Santiago de Mar\u00eda"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041c\u0430\u0440\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Santiago"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421170365,
-    "wof:lastmodified":1566651050,
+    "wof:lastmodified":1690867043,
     "wof:name":"Santiago de Mar\u00eda",
     "wof:parent_id":1108695049,
     "wof:placetype":"locality",

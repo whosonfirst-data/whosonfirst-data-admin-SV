@@ -23,11 +23,20 @@
     "name:eng_x_preferred":[
         "La Palma"
     ],
+    "name:eus_x_preferred":[
+        "La Palma"
+    ],
+    "name:glg_x_preferred":[
+        "La Palma"
+    ],
     "name:ita_x_preferred":[
         "La Palma"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30d1\u30eb\u30de"
+    ],
+    "name:nan_x_preferred":[
+        "La Palma"
     ],
     "name:nld_x_preferred":[
         "La Palma"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421204157,
-    "wof:lastmodified":1636500599,
+    "wof:lastmodified":1690867024,
     "wof:name":"La Palma",
     "wof:parent_id":421175389,
     "wof:placetype":"locality",

@@ -26,11 +26,17 @@
     "name:eng_x_preferred":[
         "Sociedad"
     ],
+    "name:eus_x_preferred":[
+        "Sociedad"
+    ],
     "name:ita_x_preferred":[
         "Sociedad"
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30b7\u30a8\u30c0\u30fc"
+    ],
+    "name:nan_x_preferred":[
+        "Sociedad"
     ],
     "name:nld_x_preferred":[
         "Sociedad"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421173325,
-    "wof:lastmodified":1566651034,
+    "wof:lastmodified":1690867030,
     "wof:name":"Sociedad",
     "wof:parent_id":1108695065,
     "wof:placetype":"locality",
