@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001125,
-    "geom:area_square_m":13521290.462428,
+    "geom:area_square_m":13521237.998957,
     "geom:bbox":"-88.35578,13.514035,-88.293986,13.550641",
     "geom:latitude":13.533825,
     "geom:longitude":-88.325944,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Nueva Guadalupe"
     ],
+    "name:eng_x_preferred":[
+        "Nueva Guadalupe"
+    ],
     "name:eng_x_variant":[
         "Nueva Guadalupe",
         "Lolotique"
@@ -73,7 +76,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493225,
-    "wof:geomhash":"23ff66d7e47eaea774195727e3cd3b7f",
+    "wof:geomhash":"a67396f86d274486d989f1fcac3f0dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108694865,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Nueva Guadalupe",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

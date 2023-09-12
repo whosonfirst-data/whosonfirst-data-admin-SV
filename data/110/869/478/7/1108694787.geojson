@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00105,
-    "geom:area_square_m":12603614.360717,
+    "geom:area_square_m":12603580.989808,
     "geom:bbox":"-89.731591,13.962203,-89.694002,14.008453",
     "geom:latitude":13.985435,
     "geom:longitude":-89.709916,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "El Refugio"
     ],
+    "name:eng_x_preferred":[
+        "El Refugio"
+    ],
     "name:eng_x_variant":[
         "El Refugio",
         "Atiquizaya"
@@ -79,7 +82,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493138,
-    "wof:geomhash":"a0f00fb6170b42f69685abbdaae75b5e",
+    "wof:geomhash":"ed6c860b9048d929d4f60aa1a1e4f580",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108694787,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492795,
     "wof:name":"El Refugio",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

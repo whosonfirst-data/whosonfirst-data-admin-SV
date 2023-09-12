@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003981,
-    "geom:area_square_m":47777982.196562,
+    "geom:area_square_m":47777789.849268,
     "geom:bbox":"-88.266558,13.873613,-88.182202,13.95271",
     "geom:latitude":13.910574,
     "geom:longitude":-88.228256,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Torola"
     ],
+    "name:eng_x_preferred":[
+        "Torola"
+    ],
     "name:eng_x_variant":[
         "Torola"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493427,
-    "wof:geomhash":"fae9bd910b41dfc113ebb84f371aedbd",
+    "wof:geomhash":"30b96d60d81575e174f27d8ead104a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695085,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Torola",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

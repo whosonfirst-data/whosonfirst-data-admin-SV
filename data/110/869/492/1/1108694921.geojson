@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002764,
-    "geom:area_square_m":33178458.2387,
+    "geom:area_square_m":33178458.238704,
     "geom:bbox":"-88.3054155772,13.8275749526,-88.2428228462,13.9155839399",
     "geom:latitude":13.870884,
     "geom:longitude":-88.271572,
@@ -106,6 +106,9 @@
     ],
     "name:eml_x_preferred":[
         "Sant Ant\u00f3ni"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio"
     ],
     "name:eng_x_variant":[
         "San Antonio"
@@ -384,7 +387,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493269,
-    "wof:geomhash":"a46a13d64cdf302c28285cf9c3e821ba",
+    "wof:geomhash":"4ba2f76bc6afadaf385af84716931a77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -394,7 +397,7 @@
         }
     ],
     "wof:id":1108694921,
-    "wof:lastmodified":1566650960,
+    "wof:lastmodified":1694492410,
     "wof:name":"San Antonio",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

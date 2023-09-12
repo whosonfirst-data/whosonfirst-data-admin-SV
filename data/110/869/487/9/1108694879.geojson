@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001273,
-    "geom:area_square_m":15283738.652914,
+    "geom:area_square_m":15283711.827472,
     "geom:bbox":"-89.072861,13.801612,-89.032937,13.847637",
     "geom:latitude":13.824703,
     "geom:longitude":-89.054361,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Oratorio De Concepcion"
+    ],
     "name:eng_x_variant":[
         "Oratorio De Concepcion",
         "Oratorio de Concepci\u00f3n"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493234,
-    "wof:geomhash":"353a9ef5b0eac8c61d8a2d4a97f0e654",
+    "wof:geomhash":"68f0f13cae724180411fd730daf74259",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694879,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Oratorio De Concepcion",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

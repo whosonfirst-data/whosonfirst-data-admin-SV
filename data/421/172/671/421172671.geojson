@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009337,
-    "geom:area_square_m":112111386.31367,
+    "geom:area_square_m":112111386.313622,
     "geom:bbox":"-88.0374078914,13.73684436,-87.9292589276,13.902881",
     "geom:latitude":13.820344,
     "geom:longitude":-87.976179,
@@ -43,6 +43,9 @@
         "Corinto"
     ],
     "name:deu_x_preferred":[
+        "Corinto"
+    ],
+    "name:eng_x_preferred":[
         "Corinto"
     ],
     "name:eng_x_variant":[
@@ -115,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc528e21474a24eda27025d914dbfe64",
+    "wof:geomhash":"32281a667bd1133f2b2e0d386d0983cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421172671,
-    "wof:lastmodified":1582345123,
+    "wof:lastmodified":1694492498,
     "wof:name":"Corinto",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

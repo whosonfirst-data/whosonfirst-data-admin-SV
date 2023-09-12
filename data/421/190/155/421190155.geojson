@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01203,
-    "geom:area_square_m":144380919.81268,
+    "geom:area_square_m":144380743.001518,
     "geom:bbox":"-89.535206,13.813037,-89.390835,14.001668",
     "geom:latitude":13.92575,
     "geom:longitude":-89.468099,
@@ -43,6 +43,9 @@
         "Coatepeque"
     ],
     "name:deu_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:eng_x_preferred":[
         "Coatepeque"
     ],
     "name:eng_x_variant":[
@@ -109,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dc6ef5aae456f37980350ded83ff906f",
+    "wof:geomhash":"c19667772f8e56e306aba85858bfbafe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421190155,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"Coatepeque",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

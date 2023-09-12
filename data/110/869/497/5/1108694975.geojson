@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003716,
-    "geom:area_square_m":44582718.492598,
+    "geom:area_square_m":44582740.819856,
     "geom:bbox":"-89.861663,13.98333,-89.722276,14.063456",
     "geom:latitude":14.025545,
     "geom:longitude":-89.784093,
@@ -54,6 +54,9 @@
         "San Lorenzo"
     ],
     "name:deu_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:eng_x_preferred":[
         "San Lorenzo"
     ],
     "name:eng_x_variant":[
@@ -174,7 +177,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493326,
-    "wof:geomhash":"44fa0d2772f9da05688bae1097cde33b",
+    "wof:geomhash":"dc9c33ac480ba8d3d1f8f5c6105f4cff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":1108694975,
-    "wof:lastmodified":1636500589,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

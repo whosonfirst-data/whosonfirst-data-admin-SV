@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023007,
-    "geom:area_square_m":276711651.56515,
+    "geom:area_square_m":276711516.093022,
     "geom:bbox":"-88.857415,13.244638,-88.676736,13.563925",
     "geom:latitude":13.423662,
     "geom:longitude":-88.765497,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tecoluca"
+    ],
     "name:eng_x_variant":[
         "Tecoluca"
     ],
@@ -69,7 +72,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493416,
-    "wof:geomhash":"5b93378dc2d6c3c444f3ffe32d235909",
+    "wof:geomhash":"790c9da5d1985d8b0d0c4715bbcf0025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108695077,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Tecoluca",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

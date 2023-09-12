@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008549,
-    "geom:area_square_m":102808091.562992,
+    "geom:area_square_m":102808155.370828,
     "geom:bbox":"-88.678217,13.371146,-88.551111,13.522009",
     "geom:latitude":13.448823,
     "geom:longitude":-88.620073,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Agustin"
+    ],
     "name:eng_x_variant":[
         "San Agustin",
         "San Agust\u00edn"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493258,
-    "wof:geomhash":"662ab8456fae7c810720b4cd25e41398",
+    "wof:geomhash":"010aaa5587e8a98d184a4d522eb28a78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694909,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"San Agustin",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

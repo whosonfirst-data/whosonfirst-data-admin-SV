@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007962,
-    "geom:area_square_m":95718698.097837,
+    "geom:area_square_m":95718183.606938,
     "geom:bbox":"-88.322414,13.470293,-88.206609,13.59782",
     "geom:latitude":13.546622,
     "geom:longitude":-88.266331,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Moncagua"
     ],
+    "name:eng_x_preferred":[
+        "Moncagua"
+    ],
     "name:eng_x_variant":[
         "Moncagua"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493211,
-    "wof:geomhash":"3fcb07049541b631b21c5bc5983e0dbe",
+    "wof:geomhash":"97511a125ed15c92a6f61d031e62b99c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694851,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Moncagua",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

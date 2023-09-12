@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002375,
-    "geom:area_square_m":28528712.762824,
+    "geom:area_square_m":28528552.584997,
     "geom:bbox":"-89.820881,13.66966,-89.771333,13.753319",
     "geom:latitude":13.71566,
     "geom:longitude":-89.79635,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Santo Domingo De Guzman"
+    ],
     "name:eng_x_variant":[
         "Santo Domingo De Guzman",
         "Santo Domingo"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493394,
-    "wof:geomhash":"232b43a4415fca99e99da1d06ece564e",
+    "wof:geomhash":"b1e3b0c1df65e120b3bce1f9f369ccae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695055,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"Santo Domingo De Guzman",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

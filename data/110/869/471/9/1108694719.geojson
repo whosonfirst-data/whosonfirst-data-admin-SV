@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001094,
-    "geom:area_square_m":13124317.799878,
+    "geom:area_square_m":13124317.799859,
     "geom:bbox":"-89.005299361,13.9679706332,-88.9699232481,14.0154859198",
     "geom:latitude":13.992247,
     "geom:longitude":-88.988601,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Azacualpa"
+    ],
     "name:eng_x_variant":[
         "Azacualpa"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493072,
-    "wof:geomhash":"cc04dffdfa5140b262259dc72a4e68ca",
+    "wof:geomhash":"1d28984d4398a5164061d8484430d7db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694719,
-    "wof:lastmodified":1566650934,
+    "wof:lastmodified":1694492409,
     "wof:name":"Azacualpa",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

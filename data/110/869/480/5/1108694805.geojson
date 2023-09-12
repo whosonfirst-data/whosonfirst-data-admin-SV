@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006805,
-    "geom:area_square_m":81757964.161285,
+    "geom:area_square_m":81758014.470535,
     "geom:bbox":"-88.272891,13.609755,-88.177016,13.74118",
     "geom:latitude":13.682039,
     "geom:longitude":-88.223171,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Guatajiagua"
     ],
+    "name:eng_x_preferred":[
+        "Guatajiagua"
+    ],
     "name:eng_x_variant":[
         "Guatajiagua"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493157,
-    "wof:geomhash":"0a1537bd82e7a5e47118233e3a2174f8",
+    "wof:geomhash":"b0677c6ab6f8c6f2062d249db212f8c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694805,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Guatajiagua",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

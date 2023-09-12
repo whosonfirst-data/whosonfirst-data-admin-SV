@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012532,
-    "geom:area_square_m":150163249.238504,
+    "geom:area_square_m":150163183.614664,
     "geom:bbox":"-89.270633,14.253716,-89.065084,14.360745",
     "geom:latitude":14.303016,
     "geom:longitude":-89.167982,
@@ -83,6 +83,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u03a0\u03ac\u03bb\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "La Palma"
     ],
     "name:eng_x_variant":[
         "La Palma"
@@ -249,7 +252,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"07b306491b912e9fe3c833746061e483",
+    "wof:geomhash":"5bcb44472b983b5d4307298e7dc0727f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":421175389,
-    "wof:lastmodified":1636500600,
+    "wof:lastmodified":1694492931,
     "wof:name":"La Palma",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

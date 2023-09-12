@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":14606.335854,
+    "geom:area_square_m":14605.502136,
     "geom:bbox":"-88.738619,14.049971,-88.730928,14.066009",
     "geom:latitude":14.052076,
     "geom:longitude":-88.733044,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Zona De Demarcacion Limitrofe"
+    ],
     "name:eng_x_variant":[
         "Nombre de Jes\u00fas"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493447,
-    "wof:geomhash":"24cd62063430041306f374a7e311e0d3",
+    "wof:geomhash":"31687a955ad37535c3edd679c41750e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108695107,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1694492797,
     "wof:name":"Zona De Demarcacion Limitrofe",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

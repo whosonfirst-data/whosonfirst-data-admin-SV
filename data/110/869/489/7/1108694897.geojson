@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010474,
-    "geom:area_square_m":126066578.097246,
+    "geom:area_square_m":126066630.815955,
     "geom:bbox":"-88.645185,13.157444,-88.449165,13.309318",
     "geom:latitude":13.236524,
     "geom:longitude":-88.549752,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Puerto El Triunfo"
     ],
+    "name:eng_x_preferred":[
+        "Puerto El Triunfo"
+    ],
     "name:eng_x_variant":[
         "Puerto El Triunfo",
         "Jiquilisco"
@@ -79,7 +82,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493249,
-    "wof:geomhash":"b18d61bb21d93c2b2450318df777c0b3",
+    "wof:geomhash":"6dbc7e520bc371f5ca3dd136d99ddfea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108694897,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"Puerto El Triunfo",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

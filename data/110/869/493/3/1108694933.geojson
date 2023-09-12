@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000978,
-    "geom:area_square_m":11752257.095844,
+    "geom:area_square_m":11752257.095836,
     "geom:bbox":"-89.0118579653,13.621226153,-88.966902757,13.6650261411",
     "geom:latitude":13.646415,
     "geom:longitude":-88.988111,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Emigdio"
     ],
+    "name:eng_x_preferred":[
+        "San Emigdio"
+    ],
     "name:eng_x_variant":[
         "San Emigdio"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493282,
-    "wof:geomhash":"8ba753cfff7f85be6e37f16a1da92898",
+    "wof:geomhash":"83281b07ec6edc8f19d55e65a0778397",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694933,
-    "wof:lastmodified":1566650958,
+    "wof:lastmodified":1694492410,
     "wof:name":"San Emigdio",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

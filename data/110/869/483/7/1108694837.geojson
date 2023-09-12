@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007901,
-    "geom:area_square_m":94861337.631427,
+    "geom:area_square_m":94861517.163748,
     "geom:bbox":"-87.955041,13.756005,-87.862336,13.902636",
     "geom:latitude":13.829816,
     "geom:longitude":-87.908147,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Lislique"
     ],
+    "name:eng_x_preferred":[
+        "Lislique"
+    ],
     "name:eng_x_variant":[
         "Lislique"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493196,
-    "wof:geomhash":"88ad568ee991d95137c8bf00ab0eb239",
+    "wof:geomhash":"c8f0ff749c0aceb56b7b4c06871c6505",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694837,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Lislique",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00724,
-    "geom:area_square_m":86966590.71081,
+    "geom:area_square_m":86966675.998498,
     "geom:bbox":"-88.803677,13.671928,-88.674578,13.796831",
     "geom:latitude":13.741994,
     "geom:longitude":-88.74258,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Esteban Catarina"
     ],
+    "name:eng_x_preferred":[
+        "San Esteban Catarina"
+    ],
     "name:eng_x_variant":[
         "San Esteban Catarina"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493284,
-    "wof:geomhash":"0995ee7c7ca439004ec545d68d6bec6c",
+    "wof:geomhash":"2700c1f3071c0de96f66ba46b2039e96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694935,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Esteban Catarina",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

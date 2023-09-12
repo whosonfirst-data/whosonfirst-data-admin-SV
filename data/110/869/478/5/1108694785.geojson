@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004059,
-    "geom:area_square_m":48695349.575172,
+    "geom:area_square_m":48695253.502614,
     "geom:bbox":"-89.680785,13.997362,-89.613056,14.091623",
     "geom:latitude":14.039871,
     "geom:longitude":-89.645817,
@@ -49,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bb \u03a0\u03bf\u03c1\u03b2\u03b5\u03bd\u03af\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "El Porvenir"
     ],
     "name:eng_x_variant":[
         "El Porvenir"
@@ -129,7 +132,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493136,
-    "wof:geomhash":"7779b898fd45005b2e9e211e6f84e0c8",
+    "wof:geomhash":"b72fa061f4878ba85b60c450cdaa2b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1108694785,
-    "wof:lastmodified":1636500588,
+    "wof:lastmodified":1694492931,
     "wof:name":"El Porvenir",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

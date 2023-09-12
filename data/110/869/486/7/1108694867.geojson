@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003382,
-    "geom:area_square_m":40563830.88273,
+    "geom:area_square_m":40563976.873761,
     "geom:bbox":"-88.840385,14.036084,-88.761427,14.111849",
     "geom:latitude":14.077808,
     "geom:longitude":-88.800049,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Nueva Trinidad"
     ],
+    "name:eng_x_preferred":[
+        "Nueva Trinidad"
+    ],
     "name:eng_x_variant":[
         "Nueva Trinidad"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493226,
-    "wof:geomhash":"d354526beed9f9d178080aa08e5a8bb7",
+    "wof:geomhash":"031ed1fd16103ebaa5d6361776543844",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694867,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Nueva Trinidad",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

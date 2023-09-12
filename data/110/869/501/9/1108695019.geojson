@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023466,
-    "geom:area_square_m":282044037.972327,
+    "geom:area_square_m":282043849.806322,
     "geom:bbox":"-88.836877,13.469267,-88.566618,13.654813",
     "geom:latitude":13.580178,
     "geom:longitude":-88.716418,
@@ -51,6 +51,9 @@
         "San Vicente"
     ],
     "name:deu_x_preferred":[
+        "San Vicente"
+    ],
+    "name:eng_x_preferred":[
         "San Vicente"
     ],
     "name:eng_x_variant":[
@@ -138,7 +141,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493365,
-    "wof:geomhash":"3644622590c5900e29990a12af36ec7c",
+    "wof:geomhash":"ad4c766f441b43e9e2df18aab1e38130",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108695019,
-    "wof:lastmodified":1636500590,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Vicente",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002617,
-    "geom:area_square_m":31437410.613435,
+    "geom:area_square_m":31437562.365264,
     "geom:bbox":"-88.2074,13.659086,-88.131305,13.736384",
     "geom:latitude":13.696305,
     "geom:longitude":-88.170605,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Sensembra"
     ],
+    "name:eng_x_preferred":[
+        "Sensembra"
+    ],
     "name:eng_x_variant":[
         "Sensembra"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493400,
-    "wof:geomhash":"7f6de9320200b9189501a0cfbb2b6476",
+    "wof:geomhash":"6bd3f70c296535a76a68ea5a3e498c58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695061,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"Sensembra",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

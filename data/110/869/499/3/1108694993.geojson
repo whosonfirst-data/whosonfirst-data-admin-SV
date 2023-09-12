@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010616,
-    "geom:area_square_m":127369897.657646,
+    "geom:area_square_m":127369901.61183,
     "geom:bbox":"-89.400475,13.936889,-89.258069,14.064911",
     "geom:latitude":13.999436,
     "geom:longitude":-89.330931,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Pablo Tacachico"
     ],
+    "name:eng_x_preferred":[
+        "San Pablo Tacachico"
+    ],
     "name:eng_x_variant":[
         "San Pablo Tacachico"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493343,
-    "wof:geomhash":"7f42cbf2fce6d91808d445b57c265e66",
+    "wof:geomhash":"8ad01f480f65b54da095da5f79e5fb4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694993,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Pablo Tacachico",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004707,
-    "geom:area_square_m":56538928.201501,
+    "geom:area_square_m":56538934.063263,
     "geom:bbox":"-89.093188,13.667616,-89.025382,13.80351",
     "geom:latitude":13.734384,
     "geom:longitude":-89.061655,
@@ -50,6 +50,9 @@
     ],
     "name:deu_x_preferred":[
         "San Mart\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "San Martin"
     ],
     "name:eng_x_variant":[
         "San Martin",
@@ -170,7 +173,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dffea6d235a095db08b8451cb769d839",
+    "wof:geomhash":"4fc60604cdfb69be722aeb3c9a723daa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":421203737,
-    "wof:lastmodified":1636500599,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Martin",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

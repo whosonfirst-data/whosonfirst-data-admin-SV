@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012485,
-    "geom:area_square_m":150254385.094785,
+    "geom:area_square_m":150254315.187366,
     "geom:bbox":"-87.997239,13.154139,-87.733139,13.3925",
     "geom:latitude":13.266112,
     "geom:longitude":-87.908703,
@@ -55,6 +55,9 @@
         "La Union"
     ],
     "name:deu_x_preferred":[
+        "La Union"
+    ],
+    "name:eng_x_preferred":[
         "La Union"
     ],
     "name:eng_x_variant":[
@@ -191,7 +194,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4ba3dcab458c932df7130fd626ee2442",
+    "wof:geomhash":"6f53a457b1cfff4520bdcced7e0d7a98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421191227,
-    "wof:lastmodified":1636500600,
+    "wof:lastmodified":1694492931,
     "wof:name":"La Union",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

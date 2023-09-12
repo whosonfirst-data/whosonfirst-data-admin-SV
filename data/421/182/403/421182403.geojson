@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012332,
-    "geom:area_square_m":147982437.933123,
+    "geom:area_square_m":147982533.37394,
     "geom:bbox":"-88.723317,13.911549,-88.568193,14.024463",
     "geom:latitude":13.96697,
     "geom:longitude":-88.642768,
@@ -83,6 +83,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03ba\u03c4\u03c9\u03c1\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Victoria"
     ],
     "name:eng_x_variant":[
         "Victoria"
@@ -291,7 +294,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c379aafc9672d49bab86c80c5023368",
+    "wof:geomhash":"1064604027d2b4293bae0853946f9981",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421182403,
-    "wof:lastmodified":1636500602,
+    "wof:lastmodified":1694492931,
     "wof:name":"Victoria",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006126,
-    "geom:area_square_m":73552417.449249,
+    "geom:area_square_m":73552417.449306,
     "geom:bbox":"-88.7523533313,13.7831171287,-88.6511949934,13.8880952496",
     "geom:latitude":13.825476,
     "geom:longitude":-88.706169,
@@ -48,6 +48,9 @@
         "San Isidro"
     ],
     "name:deu_x_preferred":[
+        "San Isidro"
+    ],
+    "name:eng_x_preferred":[
         "San Isidro"
     ],
     "name:eng_x_variant":[
@@ -117,7 +120,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493308,
-    "wof:geomhash":"5e37c4c18271e2164a75406dce021ca1",
+    "wof:geomhash":"4a87170368a3c91e8accafcbf41db13d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108694955,
-    "wof:lastmodified":1566650959,
+    "wof:lastmodified":1694492410,
     "wof:name":"San Isidro",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

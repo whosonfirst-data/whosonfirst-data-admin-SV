@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005837,
-    "geom:area_square_m":70062563.747972,
+    "geom:area_square_m":70062711.49439,
     "geom:bbox":"-88.102072,13.837225,-88.012616,13.977193",
     "geom:latitude":13.89486,
     "geom:longitude":-88.064146,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Joateca"
     ],
+    "name:eng_x_preferred":[
+        "Joateca"
+    ],
     "name:eng_x_variant":[
         "Joateca"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493173,
-    "wof:geomhash":"33a230439955d21333b6e9fdaf752641",
+    "wof:geomhash":"3796773a48469bdf394b407784e8e86d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694819,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Joateca",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

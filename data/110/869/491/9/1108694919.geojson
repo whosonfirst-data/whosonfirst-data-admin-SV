@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004339,
-    "geom:area_square_m":52018023.453407,
+    "geom:area_square_m":52018161.494249,
     "geom:bbox":"-89.60385,14.14331,-89.508895,14.239711",
     "geom:latitude":14.188928,
     "geom:longitude":-89.55207,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Antonio Pajonal"
     ],
+    "name:eng_x_preferred":[
+        "San Antonio Pajonal"
+    ],
     "name:eng_x_variant":[
         "San Antonio Pajonal"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493267,
-    "wof:geomhash":"f41d03d5f7610b282b0d0e88a8b86913",
+    "wof:geomhash":"6b17b3566714fbe04abe421c5a30e949",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694919,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"San Antonio Pajonal",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

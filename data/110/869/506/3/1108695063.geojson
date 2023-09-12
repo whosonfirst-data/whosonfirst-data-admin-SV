@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026303,
-    "geom:area_square_m":315707233.719321,
+    "geom:area_square_m":315707293.039221,
     "geom:bbox":"-88.81223,13.793679,-88.497681,14.000979",
     "geom:latitude":13.907226,
     "geom:longitude":-88.638101,
@@ -49,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03bd\u03c3\u03bf\u03c5\u03bd\u03c4\u03b5\u03c0\u03ad\u03ba\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Sensuntepeque"
     ],
     "name:eng_x_variant":[
         "Sensuntepeque"
@@ -114,7 +117,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493402,
-    "wof:geomhash":"069f9f6753671d41a66cd0da8a5efcd7",
+    "wof:geomhash":"b000b311ecb595f477f8834aa9cf9ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108695063,
-    "wof:lastmodified":1636500590,
+    "wof:lastmodified":1694492931,
     "wof:name":"Sensuntepeque",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

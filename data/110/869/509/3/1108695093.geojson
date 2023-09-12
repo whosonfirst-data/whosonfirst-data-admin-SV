@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002182,
-    "geom:area_square_m":26213807.728833,
+    "geom:area_square_m":26213924.070912,
     "geom:bbox":"-88.898901,13.630193,-88.846666,13.690957",
     "geom:latitude":13.659475,
     "geom:longitude":-88.87181,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
+        "Verapaz"
+    ],
+    "name:eng_x_preferred":[
         "Verapaz"
     ],
     "name:eng_x_variant":[
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493434,
-    "wof:geomhash":"7149f3e239d401dd18a02e75c1c5fa0b",
+    "wof:geomhash":"bf992e5ede4c517bb7ab1e07b0e6030f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108695093,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Verapaz",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

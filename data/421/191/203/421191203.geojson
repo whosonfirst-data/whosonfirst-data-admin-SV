@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004714,
-    "geom:area_square_m":56469588.094859,
+    "geom:area_square_m":56469604.270554,
     "geom:bbox":"-89.229274,14.314351,-89.080078,14.404496",
     "geom:latitude":14.354852,
     "geom:longitude":-89.151185,
@@ -46,6 +46,9 @@
         "San Ignacio"
     ],
     "name:deu_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:eng_x_preferred":[
         "San Ignacio"
     ],
     "name:eng_x_variant":[
@@ -147,7 +150,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d3b1c477d05ed89a23ab6822b83e9c7",
+    "wof:geomhash":"05f04e3c4df9766291ff169fcd184cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421191203,
-    "wof:lastmodified":1636500601,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Ignacio",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

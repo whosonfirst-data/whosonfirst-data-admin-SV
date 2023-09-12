@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001609,
-    "geom:area_square_m":19322311.795084,
+    "geom:area_square_m":19322541.809146,
     "geom:bbox":"-88.220386,13.765027,-88.1875,13.844973",
     "geom:latitude":13.808086,
     "geom:longitude":-88.202761,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Gualococti"
     ],
+    "name:eng_x_preferred":[
+        "Gualococti"
+    ],
     "name:eng_x_variant":[
         "Gualococti"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493155,
-    "wof:geomhash":"0fb0c6aa275edbfd93b84505f6364062",
+    "wof:geomhash":"1576eb623a974853c2977c399af6e81e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694803,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Gualococti",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

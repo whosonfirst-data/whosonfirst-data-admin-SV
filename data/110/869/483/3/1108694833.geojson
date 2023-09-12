@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002974,
-    "geom:area_square_m":35672750.020501,
+    "geom:area_square_m":35672750.020514,
     "geom:bbox":"-88.9196925237,14.055152718,-88.8487891987,14.1359315153",
     "geom:latitude":14.094886,
     "geom:longitude":-88.884359,
@@ -42,6 +42,9 @@
         "Las Vueltas"
     ],
     "name:deu_x_preferred":[
+        "Las Vueltas"
+    ],
+    "name:eng_x_preferred":[
         "Las Vueltas"
     ],
     "name:eng_x_variant":[
@@ -81,7 +84,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493194,
-    "wof:geomhash":"0a192004d77b32524845cbae1b4278c6",
+    "wof:geomhash":"1c59ecbd961455b3c0b108c341d136ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108694833,
-    "wof:lastmodified":1566650939,
+    "wof:lastmodified":1694492409,
     "wof:name":"Las Vueltas",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

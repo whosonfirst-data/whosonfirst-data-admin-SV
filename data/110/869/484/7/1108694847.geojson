@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
-    "geom:area_square_m":3418414.284597,
+    "geom:area_square_m":3418414.284599,
     "geom:bbox":"-88.9262648102,13.6319650774,-88.9034286221,13.6515616584",
     "geom:latitude":13.642483,
     "geom:longitude":-88.915118,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Mercedes La Ceiba"
     ],
+    "name:eng_x_preferred":[
+        "Mercedes La Ceiba"
+    ],
     "name:eng_x_variant":[
         "Mercedes La Ceiba"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493206,
-    "wof:geomhash":"7f4883328716d564791653163136f92c",
+    "wof:geomhash":"a06f548b0fe09533fbbba162cf2ee942",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694847,
-    "wof:lastmodified":1566650939,
+    "wof:lastmodified":1694492409,
     "wof:name":"Mercedes La Ceiba",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

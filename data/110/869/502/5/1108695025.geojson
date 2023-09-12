@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000949,
-    "geom:area_square_m":11403837.227118,
+    "geom:area_square_m":11403847.73084,
     "geom:bbox":"-88.982423,13.640652,-88.929071,13.669994",
     "geom:latitude":13.656956,
     "geom:longitude":-88.955683,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Santa Cruz Analquito"
     ],
+    "name:eng_x_preferred":[
+        "Santa Cruz Analquito"
+    ],
     "name:eng_x_variant":[
         "Santa Cruz Analquito"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493371,
-    "wof:geomhash":"ccb81c4094901b9377331c30d1cf7525",
+    "wof:geomhash":"015fdf03419c3990b791569a7ba5d3b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695025,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"Santa Cruz Analquito",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":9183938.727852,
+    "geom:area_square_m":9183817.944694,
     "geom:bbox":"-88.979599,13.612975,-88.943542,13.649623",
     "geom:latitude":13.632556,
     "geom:longitude":-88.96175,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Paraiso De Osorio"
+    ],
     "name:eng_x_variant":[
         "Paraiso De Osorio",
         "San Emigdio"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493241,
-    "wof:geomhash":"731368645fb73edb5410d4aa12a2073f",
+    "wof:geomhash":"fe69ea56045efc1b501bdd39762eb94f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694887,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"Paraiso De Osorio",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

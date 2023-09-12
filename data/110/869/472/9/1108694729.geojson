@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001636,
-    "geom:area_square_m":19680691.629264,
+    "geom:area_square_m":19680691.629257,
     "geom:bbox":"-88.4817692757,13.4187439281,-88.4329822055,13.4748358484",
     "geom:latitude":13.446561,
     "geom:longitude":-88.458118,
@@ -160,6 +160,9 @@
     ],
     "name:eml_x_preferred":[
         "Calif\u00f2rgna"
+    ],
+    "name:eng_x_preferred":[
+        "California"
     ],
     "name:eng_x_variant":[
         "California"
@@ -624,7 +627,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493080,
-    "wof:geomhash":"29ecc0964f5eed83609463c211582dc1",
+    "wof:geomhash":"effc4d4f3c38a37ba897ca936b7bdf30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -634,7 +637,7 @@
         }
     ],
     "wof:id":1108694729,
-    "wof:lastmodified":1566650951,
+    "wof:lastmodified":1694492409,
     "wof:name":"California",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

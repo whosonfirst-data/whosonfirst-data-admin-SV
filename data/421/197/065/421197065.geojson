@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011726,
-    "geom:area_square_m":140807002.214259,
+    "geom:area_square_m":140806803.542342,
     "geom:bbox":"-88.650766,13.74,-88.491517,13.898273",
     "geom:latitude":13.808038,
     "geom:longitude":-88.555311,
@@ -49,6 +49,9 @@
         "Dolores"
     ],
     "name:deu_x_preferred":[
+        "Dolores"
+    ],
+    "name:eng_x_preferred":[
         "Dolores"
     ],
     "name:eng_x_variant":[
@@ -154,7 +157,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1901d1f31b22adb44b6eaa441444e0ef",
+    "wof:geomhash":"bb4a4d20b1fed4a73d773ff31f1b935f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421197065,
-    "wof:lastmodified":1636500601,
+    "wof:lastmodified":1694492931,
     "wof:name":"Dolores",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006311,
-    "geom:area_square_m":75791042.660533,
+    "geom:area_square_m":75791042.660514,
     "geom:bbox":"-89.5492456719,13.7050963651,-89.4370295183,13.8146542047",
     "geom:latitude":13.760731,
     "geom:longitude":-89.502147,
@@ -200,6 +200,9 @@
     ],
     "name:eml_x_preferred":[
         "Arm\u00e8gna"
+    ],
+    "name:eng_x_preferred":[
+        "Armenia"
     ],
     "name:eng_x_variant":[
         "Armenia"
@@ -789,7 +792,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c4abc993b2ccb6b53fb76a9d14624f6",
+    "wof:geomhash":"9b7590d46e703148040a07806b1c4d98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -799,7 +802,7 @@
         }
     ],
     "wof:id":421203739,
-    "wof:lastmodified":1582345122,
+    "wof:lastmodified":1694492498,
     "wof:name":"Armenia",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002089,
-    "geom:area_square_m":25076801.258904,
+    "geom:area_square_m":25076801.2589,
     "geom:bbox":"-88.6838924096,13.8319754581,-88.6281178249,13.9067814535",
     "geom:latitude":13.865509,
     "geom:longitude":-88.652641,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Guacotecti"
     ],
+    "name:eng_x_preferred":[
+        "Guacotecti"
+    ],
     "name:eng_x_variant":[
         "Guacotecti"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493152,
-    "wof:geomhash":"5fa9c48a25b9646c681239b4f517568f",
+    "wof:geomhash":"e96afbd513d24bd2c250ef292ac9ee3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694797,
-    "wof:lastmodified":1566650940,
+    "wof:lastmodified":1694492409,
     "wof:name":"Guacotecti",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

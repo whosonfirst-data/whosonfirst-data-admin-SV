@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004041,
-    "geom:area_square_m":48604220.772228,
+    "geom:area_square_m":48603850.195735,
     "geom:bbox":"-88.617584,13.364759,-88.532921,13.466054",
     "geom:latitude":13.408205,
     "geom:longitude":-88.571336,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Francisco Javier"
     ],
+    "name:eng_x_preferred":[
+        "San Francisco Javier"
+    ],
     "name:eng_x_variant":[
         "San Francisco Javier"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493292,
-    "wof:geomhash":"f2ae67a618cadc769b3ebac530324e82",
+    "wof:geomhash":"2a063f2c0b62a8bd1d048eb1fecd8c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694941,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Francisco Javier",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

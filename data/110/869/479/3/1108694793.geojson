@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009107,
-    "geom:area_square_m":109416235.424057,
+    "geom:area_square_m":109416200.252785,
     "geom:bbox":"-87.862096,13.61727,-87.735755,13.736759",
     "geom:latitude":13.670578,
     "geom:longitude":-87.796686,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "El Sauce"
     ],
+    "name:eng_x_preferred":[
+        "El Sauce"
+    ],
     "name:eng_x_variant":[
         "El Sauce"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493144,
-    "wof:geomhash":"d21e27a7441be250b901016795c709b0",
+    "wof:geomhash":"fc042c2e058b9b3d783de034d98b24a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694793,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"El Sauce",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

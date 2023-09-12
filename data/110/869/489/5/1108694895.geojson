@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003229,
-    "geom:area_square_m":38751564.85878,
+    "geom:area_square_m":38751561.881901,
     "geom:bbox":"-88.946027,13.93293,-88.857648,13.991632",
     "geom:latitude":13.958786,
     "geom:longitude":-88.898659,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Potonico"
     ],
+    "name:eng_x_preferred":[
+        "Potonico"
+    ],
     "name:eng_x_variant":[
         "Potonico",
         "Embalse Cerron Grande"
@@ -73,7 +76,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493248,
-    "wof:geomhash":"016d43ad404e1f7183385e1bf432c3b5",
+    "wof:geomhash":"3b1af392667ef8b96d4b690c43b86e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108694895,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"Potonico",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

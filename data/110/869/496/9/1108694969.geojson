@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00108,
-    "geom:area_square_m":12983463.08915,
+    "geom:area_square_m":12983463.089135,
     "geom:bbox":"-89.1034193156,13.4757254201,-89.0721388582,13.5227373479",
     "geom:latitude":13.498937,
     "geom:longitude":-89.089048,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "San Juan Talpa"
     ],
+    "name:eng_x_preferred":[
+        "San Juan Talpa"
+    ],
     "name:eng_x_variant":[
         "San Juan Talpa"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493321,
-    "wof:geomhash":"8cee8f98100f12a64ea3b99daeea8de0",
+    "wof:geomhash":"5e0282c06239daab25da83b0ef4ec801",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694969,
-    "wof:lastmodified":1566650944,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Juan Talpa",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

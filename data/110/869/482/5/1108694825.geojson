@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002106,
-    "geom:area_square_m":25244578.24082,
+    "geom:area_square_m":25244592.676621,
     "geom:bbox":"-88.965756,14.124371,-88.9077,14.208414",
     "geom:latitude":14.165127,
     "geom:longitude":-88.939022,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "La Laguna"
+    ],
     "name:eng_x_variant":[
         "La Laguna"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493185,
-    "wof:geomhash":"a7115efa832c5b9e8918ff6f85e8d179",
+    "wof:geomhash":"ec8046185cbcfab4e7ef68cde2f4c82e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108694825,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"La Laguna",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

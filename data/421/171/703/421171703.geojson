@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010761,
-    "geom:area_square_m":129191733.080982,
+    "geom:area_square_m":129191819.290598,
     "geom:bbox":"-89.328403,13.734141,-89.21568,13.952919",
     "geom:latitude":13.846313,
     "geom:longitude":-89.274191,
@@ -43,6 +43,9 @@
         "Quezaltepeque"
     ],
     "name:deu_x_preferred":[
+        "Quezaltepeque"
+    ],
+    "name:eng_x_preferred":[
         "Quezaltepeque"
     ],
     "name:eng_x_variant":[
@@ -109,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb7b9f9ca83d3b2f518ade71557b5ed9",
+    "wof:geomhash":"394007ffd7e2c7c089a5bbe48c7dac0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421171703,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"Quezaltepeque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

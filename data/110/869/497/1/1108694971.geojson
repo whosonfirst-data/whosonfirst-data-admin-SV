@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001969,
-    "geom:area_square_m":23660573.82778,
+    "geom:area_square_m":23660573.827779,
     "geom:bbox":"-89.0213364408,13.565993772,-88.967733362,13.6324204536",
     "geom:latitude":13.600342,
     "geom:longitude":-88.99353,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Juan Tepezontes"
     ],
+    "name:eng_x_preferred":[
+        "San Juan Tepezontes"
+    ],
     "name:eng_x_variant":[
         "San Juan Tepezontes"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493322,
-    "wof:geomhash":"7e101a80f8d3954a89572f0e942e033e",
+    "wof:geomhash":"060e20b888da8e5349285827c14ae8ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694971,
-    "wof:lastmodified":1566650941,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Juan Tepezontes",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

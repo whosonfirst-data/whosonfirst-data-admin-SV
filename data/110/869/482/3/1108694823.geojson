@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007226,
-    "geom:area_square_m":86721655.939334,
+    "geom:area_square_m":86721753.50518,
     "geom:bbox":"-88.947752,13.867726,-88.799441,13.971262",
     "geom:latitude":13.917895,
     "geom:longitude":-88.878241,
@@ -42,6 +42,9 @@
         "\u062e\u0648\u062a\u064a\u0627\u0628\u0627"
     ],
     "name:deu_x_preferred":[
+        "Jutiapa"
+    ],
+    "name:eng_x_preferred":[
         "Jutiapa"
     ],
     "name:eng_x_variant":[
@@ -105,7 +108,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493184,
-    "wof:geomhash":"5d79c00e7431b86a514dac05ba5ae511",
+    "wof:geomhash":"b8abbb91718603a6a1d9c6ddaa87d6c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1108694823,
-    "wof:lastmodified":1636500589,
+    "wof:lastmodified":1694492931,
     "wof:name":"Jutiapa",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

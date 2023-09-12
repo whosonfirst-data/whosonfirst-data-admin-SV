@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003387,
-    "geom:area_square_m":40720383.122434,
+    "geom:area_square_m":40720352.614561,
     "geom:bbox":"-88.105551,13.506616,-88.017592,13.568066",
     "geom:latitude":13.535414,
     "geom:longitude":-88.058003,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Comacaran"
+    ],
     "name:eng_x_variant":[
         "Comacaran",
         "Comacar\u00e1n"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493105,
-    "wof:geomhash":"27e423b0af65b4765993cca24dc4909e",
+    "wof:geomhash":"015ce3add95a988cb9c985ab9ac4acf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694749,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"Comacaran",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

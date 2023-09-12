@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001897,
-    "geom:area_square_m":22785142.737687,
+    "geom:area_square_m":22785213.95094,
     "geom:bbox":"-88.993207,13.703421,-88.949488,13.779173",
     "geom:latitude":13.740921,
     "geom:longitude":-88.971275,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Santa Cruz Michapa"
     ],
+    "name:eng_x_preferred":[
+        "Santa Cruz Michapa"
+    ],
     "name:eng_x_variant":[
         "Santa Cruz Michapa"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493373,
-    "wof:geomhash":"4db16b3da2fbcbcb423d827f5838f70c",
+    "wof:geomhash":"448e6bda6fed0a094b73f3bb674e45bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695027,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"Santa Cruz Michapa",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

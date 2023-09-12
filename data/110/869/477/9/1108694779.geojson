@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010526,
-    "geom:area_square_m":126280225.365614,
+    "geom:area_square_m":126280123.70827,
     "geom:bbox":"-89.292423,13.938926,-89.135345,14.061273",
     "geom:latitude":14.007608,
     "geom:longitude":-89.218953,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "El Paisnal"
     ],
+    "name:eng_x_preferred":[
+        "El Paisnal"
+    ],
     "name:eng_x_variant":[
         "El Paisnal"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493134,
-    "wof:geomhash":"154ec53ffe892f7cebabdb588e967e90",
+    "wof:geomhash":"f6f38595d37a0e10bcc6bcc83a88ecc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694779,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"El Paisnal",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

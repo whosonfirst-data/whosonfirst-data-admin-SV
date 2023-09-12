@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00202,
-    "geom:area_square_m":24270916.967978,
+    "geom:area_square_m":24270916.967984,
     "geom:bbox":"-88.8944111557,13.5889190935,-88.8352659741,13.6382904609",
     "geom:latitude":13.614374,
     "geom:longitude":-88.865348,
@@ -57,6 +57,9 @@
         "Guadalupe"
     ],
     "name:deu_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:eng_x_preferred":[
         "Guadalupe"
     ],
     "name:eng_x_variant":[
@@ -162,7 +165,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493153,
-    "wof:geomhash":"c7ed78c65e6839bab2849dcc0acfb566",
+    "wof:geomhash":"8b8d160048b09547670e2df4acd3a3ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1108694801,
-    "wof:lastmodified":1566650956,
+    "wof:lastmodified":1694492410,
     "wof:name":"Guadalupe",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

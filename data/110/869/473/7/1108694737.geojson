@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015178,
-    "geom:area_square_m":182107633.074591,
+    "geom:area_square_m":182107633.074394,
     "geom:bbox":"-89.7460389,13.8539450986,-89.625881496,14.1546947146",
     "geom:latitude":13.999476,
     "geom:longitude":-89.687818,
@@ -45,6 +45,9 @@
         "Chalchuapa"
     ],
     "name:deu_x_preferred":[
+        "Chalchuapa"
+    ],
+    "name:eng_x_preferred":[
         "Chalchuapa"
     ],
     "name:eng_x_variant":[
@@ -96,7 +99,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493089,
-    "wof:geomhash":"e40e1d56873306621d3caf82634a0b6d",
+    "wof:geomhash":"d3fd8d4f29fb90067e73d1506f6106c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108694737,
-    "wof:lastmodified":1566650954,
+    "wof:lastmodified":1694492410,
     "wof:name":"Chalchuapa",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

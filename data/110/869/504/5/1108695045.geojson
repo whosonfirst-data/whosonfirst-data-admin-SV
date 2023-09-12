@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008901,
-    "geom:area_square_m":106957999.507315,
+    "geom:area_square_m":106957999.507357,
     "geom:bbox":"-89.3457105441,13.5331442831,-89.2613730195,13.7493310767",
     "geom:latitude":13.646829,
     "geom:longitude":-89.307232,
@@ -47,6 +47,9 @@
     "name:ceb_x_preferred":[
         "Santa Tecla"
     ],
+    "name:eng_x_preferred":[
+        "Santa Tecla"
+    ],
     "name:eng_x_variant":[
         "Santa Tecla",
         "Nueva San Salvador"
@@ -85,7 +88,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493387,
-    "wof:geomhash":"c326cd2abc05745f7a1ad56f453e2b0e",
+    "wof:geomhash":"39f8ba97847bc41c69dcb1f652559dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695045,
-    "wof:lastmodified":1566650932,
+    "wof:lastmodified":1694492409,
     "wof:name":"Santa Tecla",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

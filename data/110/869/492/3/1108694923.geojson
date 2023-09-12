@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
-    "geom:area_square_m":12432945.755902,
+    "geom:area_square_m":12432857.462868,
     "geom:bbox":"-89.071056,13.752136,-89.037686,13.809492",
     "geom:latitude":13.782655,
     "geom:longitude":-89.052108,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Bartolome Perulapia"
+    ],
     "name:eng_x_variant":[
         "San Bartolome Perulapia",
         "San Bartolom\u00e9 Perulap\u00eda"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493270,
-    "wof:geomhash":"c0623bf3d236ca0c26c2994028fcb5d7",
+    "wof:geomhash":"3832b0463f370b4192291e177e73974e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694923,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Bartolome Perulapia",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

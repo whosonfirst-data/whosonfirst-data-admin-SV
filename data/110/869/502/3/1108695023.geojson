@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010538,
-    "geom:area_square_m":126584838.822839,
+    "geom:area_square_m":126584838.822884,
     "geom:bbox":"-88.7561984359,13.6712230917,-88.5890566909,13.7981140623",
     "geom:latitude":13.728245,
     "geom:longitude":-88.664523,
@@ -54,6 +54,9 @@
         "Santa Clara"
     ],
     "name:deu_x_preferred":[
+        "Santa Clara"
+    ],
+    "name:eng_x_preferred":[
         "Santa Clara"
     ],
     "name:eng_x_variant":[
@@ -165,7 +168,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493369,
-    "wof:geomhash":"1cff7d06e213866d6bcbf01bce5d2843",
+    "wof:geomhash":"b4c841eb32a80d21a5da2ffecd80acf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1108695023,
-    "wof:lastmodified":1566650931,
+    "wof:lastmodified":1694492409,
     "wof:name":"Santa Clara",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

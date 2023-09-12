@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005474,
-    "geom:area_square_m":65707857.757236,
+    "geom:area_square_m":65707857.75724,
     "geom:bbox":"-89.2076637523,13.8360491948,-89.12,13.9622941486",
     "geom:latitude":13.897422,
     "geom:longitude":-89.166518,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Guazapa"
     ],
+    "name:eng_x_preferred":[
+        "Guazapa"
+    ],
     "name:eng_x_variant":[
         "Guazapa"
     ],
@@ -78,7 +81,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493162,
-    "wof:geomhash":"e56145bd6c616df38d8f8a76791f7d74",
+    "wof:geomhash":"546a392d5552d516428a682f9097d0ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108694809,
-    "wof:lastmodified":1566650955,
+    "wof:lastmodified":1694492410,
     "wof:name":"Guazapa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

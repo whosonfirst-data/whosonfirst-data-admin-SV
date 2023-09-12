@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002204,
-    "geom:area_square_m":26428634.720474,
+    "geom:area_square_m":26428634.720456,
     "geom:bbox":"-88.9931408212,14.1141152669,-88.9446932532,14.1931863451",
     "geom:latitude":14.153987,
     "geom:longitude":-88.967696,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Comalapa"
+    ],
+    "name:eng_x_preferred":[
         "Comalapa"
     ],
     "name:eng_x_variant":[
@@ -78,7 +81,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493106,
-    "wof:geomhash":"56b8f5a8b82b4ab09906c62698854906",
+    "wof:geomhash":"fa8058ea90b5dacb48a99d7d4750cdb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108694751,
-    "wof:lastmodified":1566650951,
+    "wof:lastmodified":1694492409,
     "wof:name":"Comalapa",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

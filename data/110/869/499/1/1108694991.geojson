@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00203,
-    "geom:area_square_m":24399212.257391,
+    "geom:area_square_m":24399212.257358,
     "geom:bbox":"-89.0414955388,13.5986115162,-88.9926132756,13.6699308268",
     "geom:latitude":13.635999,
     "geom:longitude":-89.021508,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Miguel Tepezontes"
+    ],
     "name:eng_x_variant":[
         "San Miguel Tepezontes"
     ],
@@ -69,7 +72,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493340,
-    "wof:geomhash":"b0462f1e8a41f64b745d34f1fb9d4dd3",
+    "wof:geomhash":"cf513dc169ababbe7317b872ff1c37c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694991,
-    "wof:lastmodified":1566650942,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Miguel Tepezontes",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

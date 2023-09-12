@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010515,
-    "geom:area_square_m":126267887.814414,
+    "geom:area_square_m":126267965.362426,
     "geom:bbox":"-88.122039,13.739264,-87.989298,13.874651",
     "geom:latitude":13.807001,
     "geom:longitude":-88.054342,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Cacaopera"
+    ],
+    "name:eng_x_preferred":[
         "Cacaopera"
     ],
     "name:eng_x_variant":[
@@ -78,7 +81,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493078,
-    "wof:geomhash":"91107635df9a7cd8a00b0d11fa5b6e90",
+    "wof:geomhash":"0e961e7c22baaaefaeeae00572e267ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108694725,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1694492794,
     "wof:name":"Cacaopera",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

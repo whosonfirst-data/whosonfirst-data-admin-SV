@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":11644940.845441,
+    "geom:area_square_m":11644943.138766,
     "geom:bbox":"-89.779524,13.803977,-89.739868,13.860561",
     "geom:latitude":13.831952,
     "geom:longitude":-89.759709,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Salcoatitan"
+    ],
     "name:eng_x_variant":[
         "Salcoatitan",
         "Salcoatit\u00e1n"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493256,
-    "wof:geomhash":"bd7a6259c50a2667e46be5c2ff093a87",
+    "wof:geomhash":"65d9da9bfece731b6f17e38ce5208971",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694905,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"Salcoatitan",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

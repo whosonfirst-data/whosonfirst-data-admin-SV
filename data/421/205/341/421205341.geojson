@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01767,
-    "geom:area_square_m":212657166.761934,
+    "geom:area_square_m":212657398.014713,
     "geom:bbox":"-88.523532,13.162972,-88.351608,13.421972",
     "geom:latitude":13.275365,
     "geom:longitude":-88.44037,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Usulutan"
+    ],
     "name:eng_x_variant":[
         "Usulutan",
         "Usulut\u00e1n"
@@ -85,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce754794267da3f5f325f798aa5cf8d4",
+    "wof:geomhash":"bf2e36a07f85de232d31bf3bdfe27401",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421205341,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Usulutan",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

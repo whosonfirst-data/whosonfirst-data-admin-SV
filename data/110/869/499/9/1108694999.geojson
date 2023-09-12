@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003222,
-    "geom:area_square_m":38730822.89332,
+    "geom:area_square_m":38730822.893332,
     "geom:bbox":"-88.9828905707,13.5660565415,-88.8852415273,13.6137169439",
     "geom:latitude":13.589773,
     "geom:longitude":-88.932881,
@@ -44,6 +44,9 @@
     "name:ceb_x_preferred":[
         "San Pedro Nonualco"
     ],
+    "name:eng_x_preferred":[
+        "San Pedro Nonualco"
+    ],
     "name:eng_x_variant":[
         "San Pedro Nonualco"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493346,
-    "wof:geomhash":"5574cbaa29747059a4df506d197b41d4",
+    "wof:geomhash":"786e6c0468f852dff4b884d74074dcb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694999,
-    "wof:lastmodified":1566650942,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Pedro Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

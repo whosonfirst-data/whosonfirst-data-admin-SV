@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00293,
-    "geom:area_square_m":35207694.004767,
+    "geom:area_square_m":35207603.997411,
     "geom:bbox":"-89.748177,13.615147,-89.697193,13.719359",
     "geom:latitude":13.668541,
     "geom:longitude":-89.720757,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Nahulingo"
     ],
+    "name:eng_x_preferred":[
+        "Nahulingo"
+    ],
     "name:eng_x_variant":[
         "Nahulingo"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493215,
-    "wof:geomhash":"b380971d0f0d525119d9154eb21f220f",
+    "wof:geomhash":"364fafd401b03dd64543cb60c8a7e1cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694857,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Nahulingo",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

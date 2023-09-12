@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004365,
-    "geom:area_square_m":52389283.837943,
+    "geom:area_square_m":52389406.971952,
     "geom:bbox":"-89.347363,13.85,-89.265116,13.959927",
     "geom:latitude":13.899946,
     "geom:longitude":-89.306069,
@@ -50,6 +50,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u039c\u03b1\u03c4\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "San Matias"
     ],
     "name:eng_x_variant":[
         "San Matias",
@@ -149,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"151b3e4e7e6eaff042808759df49a971",
+    "wof:geomhash":"1e58b65e20e79ce59aa12a6ec2f53dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421171705,
-    "wof:lastmodified":1636500603,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Matias",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

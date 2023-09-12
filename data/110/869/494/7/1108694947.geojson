@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007903,
-    "geom:area_square_m":94730440.514692,
+    "geom:area_square_m":94730542.240906,
     "geom:bbox":"-89.101069,14.134533,-89.015257,14.301682",
     "geom:latitude":14.218786,
     "geom:longitude":-89.055922,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Francisco Morazan"
+    ],
     "name:eng_x_variant":[
         "San Francisco Morazan",
         "San Francisco Moraz\u00e1n"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493297,
-    "wof:geomhash":"889c10a791485fb1be0ea9cbb09f8376",
+    "wof:geomhash":"ebb58dabb4d3505ca1481a305cf43dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694947,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Francisco Morazan",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

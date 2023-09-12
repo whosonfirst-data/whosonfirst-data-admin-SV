@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008642,
-    "geom:area_square_m":103862975.949027,
+    "geom:area_square_m":103863199.566484,
     "geom:bbox":"-89.670119,13.518961,-89.520686,13.664519",
     "geom:latitude":13.589414,
     "geom:longitude":-89.594946,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Santa Isabel Ishuatan"
+    ],
     "name:eng_x_variant":[
         "Santa Isabel Ishuatan",
         "Santa Isabel Ishuat\u00e1n"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493377,
-    "wof:geomhash":"f193319f3fe8921ba09fcd6ff2da4bd0",
+    "wof:geomhash":"a50461e623f61bb9dc13fcfc5cb956fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695031,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"Santa Isabel Ishuatan",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

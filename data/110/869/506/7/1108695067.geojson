@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002822,
-    "geom:area_square_m":33905556.785995,
+    "geom:area_square_m":33905572.971041,
     "geom:bbox":"-89.427743,13.644238,-89.348653,13.717473",
     "geom:latitude":13.673943,
     "geom:longitude":-89.393811,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Talnique"
     ],
+    "name:eng_x_preferred":[
+        "Talnique"
+    ],
     "name:eng_x_variant":[
         "Talnique"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493410,
-    "wof:geomhash":"e73f84d23c8534d3c15c17c7a5aa3b51",
+    "wof:geomhash":"28d1582b14decacc2184cbf8028affef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695067,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Talnique",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

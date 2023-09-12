@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012212,
-    "geom:area_square_m":146810209.778061,
+    "geom:area_square_m":146810209.778097,
     "geom:bbox":"-88.6705671998,13.4478214038,-88.5133075891,13.5900254258",
     "geom:latitude":13.525598,
     "geom:longitude":-88.584655,
@@ -190,6 +190,9 @@
     ],
     "name:eml_x_preferred":[
         "Berl\u00ee\u1e45"
+    ],
+    "name:eng_x_preferred":[
+        "Berlin"
     ],
     "name:eng_x_variant":[
         "Berlin",
@@ -757,7 +760,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493074,
-    "wof:geomhash":"06ff301d1dddd8becaabf67bccf8c13e",
+    "wof:geomhash":"1b092acbdd534952c937a349a69f540d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -767,7 +770,7 @@
         }
     ],
     "wof:id":1108694721,
-    "wof:lastmodified":1566650952,
+    "wof:lastmodified":1694492410,
     "wof:name":"Berlin",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

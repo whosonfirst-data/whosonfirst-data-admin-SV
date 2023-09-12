@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000798,
-    "geom:area_square_m":9580435.334238,
+    "geom:area_square_m":9580435.334237,
     "geom:bbox":"-89.7917394224,13.9390655769,-89.7550784897,13.9777385685",
     "geom:latitude":13.96057,
     "geom:longitude":-89.772418,
@@ -118,6 +118,9 @@
     ],
     "name:eml_x_preferred":[
         "Tur\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "Turin"
     ],
     "name:eng_x_variant":[
         "Turin",
@@ -427,7 +430,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493429,
-    "wof:geomhash":"8a0ca89f1bc78a1d99757c764a250945",
+    "wof:geomhash":"78b4546e9b2b349fc5bed72ab93d7727",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -437,7 +440,7 @@
         }
     ],
     "wof:id":1108695089,
-    "wof:lastmodified":1566650945,
+    "wof:lastmodified":1694492409,
     "wof:name":"Turin",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

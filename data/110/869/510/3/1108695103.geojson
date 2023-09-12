@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00199,
-    "geom:area_square_m":23917736.741795,
+    "geom:area_square_m":23917736.741781,
     "geom:bbox":"-89.3144745377,13.5277149917,-89.2782426927,13.6233438594",
     "geom:latitude":13.573076,
     "geom:longitude":-89.296243,
@@ -109,6 +109,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c1\u03b1\u03b3\u03cc\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Zaragoza"
     ],
     "name:eng_x_variant":[
         "Zaragoza"
@@ -372,7 +375,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493445,
-    "wof:geomhash":"46f9a9a867b27c433a6940089d3b587d",
+    "wof:geomhash":"36a87f571aa288e1cd946b1c2a426171",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -382,7 +385,7 @@
         }
     ],
     "wof:id":1108695103,
-    "wof:lastmodified":1566650945,
+    "wof:lastmodified":1694492409,
     "wof:name":"Zaragoza",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003117,
-    "geom:area_square_m":37402588.911887,
+    "geom:area_square_m":37402633.09942,
     "geom:bbox":"-88.23824,13.917421,-88.168979,13.999149",
     "geom:latitude":13.964914,
     "geom:longitude":-88.201737,
@@ -54,6 +54,9 @@
         "San Fernando"
     ],
     "name:deu_x_preferred":[
+        "San Fernando"
+    ],
+    "name:eng_x_preferred":[
         "San Fernando"
     ],
     "name:eng_x_variant":[
@@ -172,7 +175,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493287,
-    "wof:geomhash":"59cb72dc526e072c6d2493fd05f749fb",
+    "wof:geomhash":"01e2a66759453d60482da4c62f4b3c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":1108694939,
-    "wof:lastmodified":1636500591,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Fernando",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

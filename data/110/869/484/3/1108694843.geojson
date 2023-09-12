@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004362,
-    "geom:area_square_m":52302706.938414,
+    "geom:area_square_m":52302581.308835,
     "geom:bbox":"-89.459781,14.128742,-89.367481,14.214474",
     "geom:latitude":14.165772,
     "geom:longitude":-89.415065,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Masahuat"
     ],
+    "name:eng_x_preferred":[
+        "Masahuat"
+    ],
     "name:eng_x_variant":[
         "Masahuat"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493200,
-    "wof:geomhash":"8592d905b7a8eea2a4dae8df0d4643c0",
+    "wof:geomhash":"874831aa19bad3f2ce315fc905dd3f56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694843,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Masahuat",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

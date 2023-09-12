@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004176,
-    "geom:area_square_m":50197403.94158,
+    "geom:area_square_m":50197576.541763,
     "geom:bbox":"-88.028821,13.485408,-87.96222,13.582681",
     "geom:latitude":13.533542,
     "geom:longitude":-87.997745,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Yucuaiquin"
+    ],
     "name:eng_x_variant":[
         "Yucuaiquin",
         "Yucuaiqu\u00edn"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493443,
-    "wof:geomhash":"6a99c822e2b63d3096c6b2bc3e12d06f",
+    "wof:geomhash":"491ba0f5624859cf81702d3e26347b47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695101,
-    "wof:lastmodified":1627522804,
+    "wof:lastmodified":1694492797,
     "wof:name":"Yucuaiquin",
     "wof:parent_id":85677169,
     "wof:placetype":"county",
