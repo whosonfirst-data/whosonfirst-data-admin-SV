@@ -1108,7 +1108,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"503",
     "statoids:ds":"ES",
     "statoids:fifa":"SLV",
@@ -1181,7 +1181,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694492074,
+    "wof:lastmodified":1694639528,
     "wof:name":"El Salvador",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
