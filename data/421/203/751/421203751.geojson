@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003482,
-    "geom:area_square_m":41841021.740806,
+    "geom:area_square_m":41840833.452837,
     "geom:bbox":"-88.155004,13.593737,-88.072255,13.65825",
     "geom:latitude":13.628423,
     "geom:longitude":-88.11319,
@@ -64,6 +64,9 @@
         "San Marcos"
     ],
     "name:deu_x_variant":[
+        "San Carlos"
+    ],
+    "name:eng_x_preferred":[
         "San Carlos"
     ],
     "name:eng_x_variant":[
@@ -245,7 +248,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f76d2226dc8043724df4598584249f3b",
+    "wof:geomhash":"5fc539a271eddb0934c818be387ceb0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":421203751,
-    "wof:lastmodified":1636500599,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Carlos",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003818,
-    "geom:area_square_m":45901029.114049,
+    "geom:area_square_m":45900896.821084,
     "geom:bbox":"-88.451064,13.453093,-88.3675,13.541442",
     "geom:latitude":13.503457,
     "geom:longitude":-88.403589,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Jucuapa"
     ],
+    "name:eng_x_preferred":[
+        "Jucuapa"
+    ],
     "name:eng_x_variant":[
         "Jucuapa"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493178,
-    "wof:geomhash":"8796e7f59ceee80cbd60cb54056db880",
+    "wof:geomhash":"fa3705d0a18b14b0873cdc5a10359868",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694821,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Jucuapa",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

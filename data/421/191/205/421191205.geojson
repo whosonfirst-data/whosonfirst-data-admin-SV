@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011146,
-    "geom:area_square_m":133709558.542297,
+    "geom:area_square_m":133709838.808662,
     "geom:bbox":"-89.04609,13.984898,-88.853522,14.096104",
     "geom:latitude":14.040191,
     "geom:longitude":-88.953178,
@@ -46,6 +46,9 @@
         "\u09b6\u09cd\u09af\u09be\u09b2\u09be\u09a4\u09c7\u09a8\u09be\u0982\u0997\u09cb"
     ],
     "name:ceb_x_preferred":[
+        "Chalatenango"
+    ],
+    "name:eng_x_preferred":[
         "Chalatenango"
     ],
     "name:eng_x_variant":[
@@ -121,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20fd7a6cd613ff60de9d396f68445d45",
+    "wof:geomhash":"a0014b5281f710fc3382090824ef4ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421191205,
-    "wof:lastmodified":1636500601,
+    "wof:lastmodified":1694492931,
     "wof:name":"Chalatenango",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

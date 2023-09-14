@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002493,
-    "geom:area_square_m":29905699.460995,
+    "geom:area_square_m":29905658.162012,
     "geom:bbox":"-88.785083,14.032575,-88.728991,14.119529",
     "geom:latitude":14.081884,
     "geom:longitude":-88.752768,
@@ -44,6 +44,9 @@
     "name:ceb_x_preferred":[
         "Arcatao"
     ],
+    "name:eng_x_preferred":[
+        "Arcatao"
+    ],
     "name:eng_x_variant":[
         "Arcatao"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493068,
-    "wof:geomhash":"3c7d7676bd4640f649db2526581b6221",
+    "wof:geomhash":"31f2d508cf7da471a4e732c0d22e4713",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694717,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1694492794,
     "wof:name":"Arcatao",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

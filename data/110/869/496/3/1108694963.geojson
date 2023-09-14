@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002676,
-    "geom:area_square_m":32163871.199873,
+    "geom:area_square_m":32163826.398006,
     "geom:bbox":"-89.291805,13.512256,-89.243819,13.607722",
     "geom:latitude":13.553913,
     "geom:longitude":-89.269339,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Jose Villanueva"
+    ],
     "name:eng_x_variant":[
         "San Jose Villanueva",
         "San Jos\u00e9 Villanueva"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493315,
-    "wof:geomhash":"6564a5cc8e4acb7c935cdc577457568b",
+    "wof:geomhash":"7aa2e200ce906d96c06fa635edd9b354",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694963,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Jose Villanueva",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

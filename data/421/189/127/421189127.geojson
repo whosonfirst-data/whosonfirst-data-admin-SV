@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006618,
-    "geom:area_square_m":79498141.876451,
+    "geom:area_square_m":79498141.876473,
     "geom:bbox":"-89.4285022743,13.6784638547,-89.2897098458,13.7669653226",
     "geom:latitude":13.722722,
     "geom:longitude":-89.360751,
@@ -52,6 +52,9 @@
         "Col\u00f3n"
     ],
     "name:deu_x_variant":[
+        "Colon"
+    ],
+    "name:eng_x_preferred":[
         "Colon"
     ],
     "name:eng_x_variant":[
@@ -161,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea3deee1b59debd2fc084543352e67bd",
+    "wof:geomhash":"9d266d5eb61f45b2649f6e092e32b297",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421189127,
-    "wof:lastmodified":1582345122,
+    "wof:lastmodified":1694492498,
     "wof:name":"Colon",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

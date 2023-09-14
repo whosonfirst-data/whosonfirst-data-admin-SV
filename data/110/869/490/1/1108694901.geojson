@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003168,
-    "geom:area_square_m":38082184.914331,
+    "geom:area_square_m":38082446.302546,
     "geom:bbox":"-89.233043,13.480363,-89.182601,13.589281",
     "geom:latitude":13.538857,
     "geom:longitude":-89.204852,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Rosario De Mora"
+    ],
     "name:eng_x_variant":[
         "Rosario De Mora",
         "Rosario de Mora"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493253,
-    "wof:geomhash":"942f1df54b8af021d3d6b5aa10438b0c",
+    "wof:geomhash":"ef6363f0d9a3f4acd728596f86ba3809",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694901,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"Rosario De Mora",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

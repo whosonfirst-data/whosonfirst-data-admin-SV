@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002791,
-    "geom:area_square_m":33531455.338094,
+    "geom:area_square_m":33531455.338097,
     "geom:bbox":"-89.0342307952,13.6597493959,-88.9398227138,13.70759213",
     "geom:latitude":13.68169,
     "geom:longitude":-88.985141,
@@ -48,6 +48,9 @@
         "Candelaria"
     ],
     "name:deu_x_preferred":[
+        "Candelaria"
+    ],
+    "name:eng_x_preferred":[
         "Candelaria"
     ],
     "name:eng_x_variant":[
@@ -114,7 +117,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493084,
-    "wof:geomhash":"3530680b0c9109c70c4ead0f4de1316b",
+    "wof:geomhash":"0dcd6059f27a5537bdf4f0ae6aa557f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108694733,
-    "wof:lastmodified":1566650954,
+    "wof:lastmodified":1694492410,
     "wof:name":"Candelaria",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001074,
-    "geom:area_square_m":12904848.680524,
+    "geom:area_square_m":12904853.002484,
     "geom:bbox":"-88.833548,13.631216,-88.795426,13.67473",
     "geom:latitude":13.653992,
     "geom:longitude":-88.815045,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Cayetano Istepeque"
     ],
+    "name:eng_x_preferred":[
+        "San Cayetano Istepeque"
+    ],
     "name:eng_x_variant":[
         "San Cayetano Istepeque"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493276,
-    "wof:geomhash":"f880078c48525a4acbaf6d5d350b6c9d",
+    "wof:geomhash":"b4631d5e0b802dc6e621c79ed72bfb14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694929,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Cayetano Istepeque",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

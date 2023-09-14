@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003545,
-    "geom:area_square_m":42609956.438997,
+    "geom:area_square_m":42610006.810661,
     "geom:bbox":"-87.928941,13.509667,-87.866608,13.589125",
     "geom:latitude":13.552099,
     "geom:longitude":-87.898522,
@@ -46,6 +46,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
+    ],
+    "name:eng_x_preferred":[
+        "San Jose"
     ],
     "name:eng_x_variant":[
         "San Jose",
@@ -97,7 +100,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493317,
-    "wof:geomhash":"3fb1a531dafcb9a5e4a8f94810db6251",
+    "wof:geomhash":"a842b8488976e3bc5203d51a286eac98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108694965,
-    "wof:lastmodified":1636500589,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Jose",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

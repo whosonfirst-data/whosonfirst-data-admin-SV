@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011459,
-    "geom:area_square_m":137674747.819739,
+    "geom:area_square_m":137674572.669617,
     "geom:bbox":"-88.628379,13.610092,-88.485578,13.75042",
     "geom:latitude":13.6846,
     "geom:longitude":-88.561018,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Ildefonso"
+    ],
     "name:eng_x_variant":[
         "San Ildefonso"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493304,
-    "wof:geomhash":"64b225362d2cb8d4dd6c33a98cfc51c9",
+    "wof:geomhash":"1277ccb5dfefc7a033ab91ad390eeb3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108694951,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Ildefonso",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

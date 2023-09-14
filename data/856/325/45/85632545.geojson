@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.734064,
-    "geom:area_square_m":20828722248.444954,
+    "geom:area_square_m":20828722740.239597,
     "geom:bbox":"-90.133533,13.154139,-87.68158,14.450557",
     "geom:latitude":13.734086,
     "geom:longitude":-88.866013,
@@ -14,6 +14,9 @@
     "iso:country":"SV",
     "itu:country_code":[
         "503"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SV"
@@ -1104,7 +1107,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"503",
     "statoids:ds":"ES",
     "statoids:fifa":"SLV",
@@ -1163,7 +1167,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"9603f4244e973b7406344bbbe52f77b9",
+    "wof:geomhash":"4bf4a679475a5bef7079d71f41ce6cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1177,12 +1181,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867014,
+    "wof:lastmodified":1694639528,
     "wof:name":"El Salvador",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":6340454,
-    "wof:population_rank":13,
+    "wof:population":6453553,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sv",
     "wof:shortcode":"SV",
     "wof:superseded_by":[],

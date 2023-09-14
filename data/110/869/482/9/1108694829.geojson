@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009048,
-    "geom:area_square_m":108458984.105865,
+    "geom:area_square_m":108458984.105792,
     "geom:bbox":"-89.202662826,14.0842579049,-89.09079892,14.279655284",
     "geom:latitude":14.200389,
     "geom:longitude":-89.15417,
@@ -42,6 +42,9 @@
         "La Reina"
     ],
     "name:ceb_x_preferred":[
+        "La Reina"
+    ],
+    "name:eng_x_preferred":[
         "La Reina"
     ],
     "name:eng_x_variant":[
@@ -108,7 +111,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493189,
-    "wof:geomhash":"8bb76e7d383427b3903c57c63f3a5514",
+    "wof:geomhash":"61b42362d86e1667586339fedea019fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1108694829,
-    "wof:lastmodified":1566650936,
+    "wof:lastmodified":1694492409,
     "wof:name":"La Reina",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

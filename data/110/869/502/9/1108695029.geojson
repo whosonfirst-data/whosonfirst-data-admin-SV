@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005371,
-    "geom:area_square_m":64607039.592565,
+    "geom:area_square_m":64606970.788706,
     "geom:bbox":"-88.455972,13.365434,-88.37708,13.471909",
     "geom:latitude":13.412024,
     "geom:longitude":-88.415812,
@@ -45,6 +45,9 @@
         "Santa Elena"
     ],
     "name:deu_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:eng_x_preferred":[
         "Santa Elena"
     ],
     "name:eng_x_variant":[
@@ -123,7 +126,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493375,
-    "wof:geomhash":"84990a5abadb91c4d46bc82524123766",
+    "wof:geomhash":"b75387240619383ec8bca7657dd6e39f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1108695029,
-    "wof:lastmodified":1636500588,
+    "wof:lastmodified":1694492931,
     "wof:name":"Santa Elena",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

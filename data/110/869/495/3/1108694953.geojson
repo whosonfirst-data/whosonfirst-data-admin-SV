@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001868,
-    "geom:area_square_m":22416430.484991,
+    "geom:area_square_m":22416373.471081,
     "geom:bbox":"-88.872653,13.988976,-88.801081,14.037309",
     "geom:latitude":14.012447,
     "geom:longitude":-88.832916,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Isidro Labrador"
+    ],
     "name:eng_x_variant":[
         "San Isidro Labrador",
         "San Jos\u00e9 Las Flores"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493306,
-    "wof:geomhash":"eadb969c3f705ccb0dcc633db4456ad1",
+    "wof:geomhash":"13a07b1092f86181e2c8f88bd032a4e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694953,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Isidro Labrador",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

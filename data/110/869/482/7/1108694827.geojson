@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011702,
-    "geom:area_square_m":140703140.669128,
+    "geom:area_square_m":140703669.607843,
     "geom:bbox":"-89.375386,13.41705,-89.135299,13.542777",
     "geom:latitude":13.485505,
     "geom:longitude":-89.255825,
@@ -46,6 +46,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u039b\u03b9\u03bc\u03c0\u03b5\u03c1\u03c4\u03ac\u03b4"
+    ],
+    "name:eng_x_preferred":[
+        "La Libertad"
     ],
     "name:eng_x_variant":[
         "La Libertad"
@@ -129,7 +132,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493187,
-    "wof:geomhash":"e926ea82d3f8171ab3938738fe438359",
+    "wof:geomhash":"23c849b951dd7aaa7b1cdf50141f5b54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1108694827,
-    "wof:lastmodified":1636500589,
+    "wof:lastmodified":1694492931,
     "wof:name":"La Libertad",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

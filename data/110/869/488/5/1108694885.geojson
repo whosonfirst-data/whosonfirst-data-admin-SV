@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008099,
-    "geom:area_square_m":97351969.66941,
+    "geom:area_square_m":97351497.905104,
     "geom:bbox":"-89.231946,13.472606,-89.132207,13.646949",
     "geom:latitude":13.570839,
     "geom:longitude":-89.177256,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Panchimalco"
     ],
+    "name:eng_x_preferred":[
+        "Panchimalco"
+    ],
     "name:eng_x_variant":[
         "Panchimalco"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493240,
-    "wof:geomhash":"26bac82ddfa4c4738e0cb1eb202657a6",
+    "wof:geomhash":"cbd7708cb28977b9456859e7d913a34c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694885,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Panchimalco",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

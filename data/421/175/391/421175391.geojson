@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02538,
-    "geom:area_square_m":304557988.186554,
+    "geom:area_square_m":304557858.337069,
     "geom:bbox":"-89.169009,13.847495,-88.947222,14.076171",
     "geom:latitude":13.956711,
     "geom:longitude":-89.072845,
@@ -49,6 +49,9 @@
         "Suchitoto"
     ],
     "name:deu_x_preferred":[
+        "Suchitoto"
+    ],
+    "name:eng_x_preferred":[
         "Suchitoto"
     ],
     "name:eng_x_variant":[
@@ -120,7 +123,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5d43beab492de7bea0720debe0b2f06",
+    "wof:geomhash":"1af592d559d9d5fb14482efddfbfbe1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421175391,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Suchitoto",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

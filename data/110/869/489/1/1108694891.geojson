@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018602,
-    "geom:area_square_m":223635793.090238,
+    "geom:area_square_m":223635793.090302,
     "geom:bbox":"-87.8847060141,13.4114028669,-87.7176555,13.6247458553",
     "geom:latitude":13.527114,
     "geom:longitude":-87.804942,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Pasaquina"
     ],
+    "name:eng_x_preferred":[
+        "Pasaquina"
+    ],
     "name:eng_x_variant":[
         "Pasaquina"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493243,
-    "wof:geomhash":"67e697c1873f8d83a68679ad5b1faa20",
+    "wof:geomhash":"0211472dbaef50e4a5f913cf6317b91f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694891,
-    "wof:lastmodified":1566650957,
+    "wof:lastmodified":1694492410,
     "wof:name":"Pasaquina",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

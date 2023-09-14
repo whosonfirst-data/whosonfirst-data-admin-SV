@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001692,
-    "geom:area_square_m":20302443.400412,
+    "geom:area_square_m":20302548.668607,
     "geom:bbox":"-89.658195,13.936202,-89.617768,14.003708",
     "geom:latitude":13.970673,
     "geom:longitude":-89.636443,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Sebastian Salitrillo"
+    ],
     "name:eng_x_variant":[
         "San Sebastian Salitrillo",
         "San Sebasti\u00e1n Salitrillo"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493360,
-    "wof:geomhash":"eee83fbc35d89d8f79cc6cac93d227af",
+    "wof:geomhash":"372bd1e606b4a81ad9b5916446480e61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695011,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Sebastian Salitrillo",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

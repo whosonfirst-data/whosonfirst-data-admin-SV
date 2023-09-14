@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00373,
-    "geom:area_square_m":44852752.422054,
+    "geom:area_square_m":44852664.662157,
     "geom:bbox":"-88.527581,13.456656,-88.444857,13.541436",
     "geom:latitude":13.505652,
     "geom:longitude":-88.490111,
@@ -42,6 +42,9 @@
         "\u0410\u043b\u0435\u0433\u0440\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
+        "Alegria"
+    ],
+    "name:eng_x_preferred":[
         "Alegria"
     ],
     "name:eng_x_variant":[
@@ -85,7 +88,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493060,
-    "wof:geomhash":"ebf5ec9c50cdc086396612c806c26db9",
+    "wof:geomhash":"5c403b3be6c7d9976500582079924738",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108694713,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1694492794,
     "wof:name":"Alegria",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

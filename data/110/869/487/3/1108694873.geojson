@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009069,
-    "geom:area_square_m":108902990.768076,
+    "geom:area_square_m":108903357.576877,
     "geom:bbox":"-88.530006,13.727543,-88.426485,13.864419",
     "geom:latitude":13.794187,
     "geom:longitude":-88.476267,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nuevo Eden De San Juan"
+    ],
     "name:eng_x_variant":[
         "Nuevo Eden De San Juan",
         "Nuevo Ed\u00e9n de San Juan"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493229,
-    "wof:geomhash":"1531f89a465715fb997a8e9b468f0fe5",
+    "wof:geomhash":"2e675958d9e327e1774102808313033b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694873,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Nuevo Eden De San Juan",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

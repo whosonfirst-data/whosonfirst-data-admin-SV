@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004965,
-    "geom:area_square_m":59617724.605333,
+    "geom:area_square_m":59617687.733362,
     "geom:bbox":"-89.016251,13.778928,-88.911048,13.873076",
     "geom:latitude":13.824918,
     "geom:longitude":-88.97178,
@@ -43,6 +43,9 @@
         "Tenancingo"
     ],
     "name:deu_x_preferred":[
+        "Tenancingo"
+    ],
+    "name:eng_x_preferred":[
         "Tenancingo"
     ],
     "name:eng_x_variant":[
@@ -106,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3575d8f0a8e1ff2ecbb574e1c5a073e9",
+    "wof:geomhash":"9dc26910c327ef17945368fcd811096e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421191471,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Tenancingo",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

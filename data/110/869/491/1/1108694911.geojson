@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021491,
-    "geom:area_square_m":258455249.6384,
+    "geom:area_square_m":258455249.638401,
     "geom:bbox":"-88.0113812193,13.3660641406,-87.788583942,13.5181031835",
     "geom:latitude":13.442784,
     "geom:longitude":-87.913085,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Alejo"
     ],
+    "name:eng_x_preferred":[
+        "San Alejo"
+    ],
     "name:eng_x_variant":[
         "San Alejo"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493260,
-    "wof:geomhash":"d99495d45148b9133527e6f6266219f2",
+    "wof:geomhash":"bbbe1191fa92c9ab4087ba16791d152e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694911,
-    "wof:lastmodified":1566650944,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Alejo",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004727,
-    "geom:area_square_m":56757792.919138,
+    "geom:area_square_m":56757714.964123,
     "geom:bbox":"-88.389033,13.780256,-88.314002,13.885669",
     "geom:latitude":13.828148,
     "geom:longitude":-88.356245,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Luis De La Reina"
+    ],
     "name:eng_x_variant":[
         "San Luis De La Reina",
         "San Luis de la Reina"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493329,
-    "wof:geomhash":"15fa0d4859d3e1cadec68e4f75cd1bce",
+    "wof:geomhash":"f5ca566ae3fff45dd786a77adcb69d53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694981,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Luis De La Reina",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

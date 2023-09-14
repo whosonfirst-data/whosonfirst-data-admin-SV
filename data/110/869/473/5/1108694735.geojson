@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004522,
-    "geom:area_square_m":54292538.340669,
+    "geom:area_square_m":54292538.340678,
     "geom:bbox":"-88.355,13.8087194515,-88.2725950233,13.9051501182",
     "geom:latitude":13.858652,
     "geom:longitude":-88.311279,
@@ -58,6 +58,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03bf\u03bb\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Carolina"
     ],
     "name:eng_x_variant":[
         "Carolina"
@@ -153,7 +156,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493086,
-    "wof:geomhash":"ac017cf51cf2498c9fa612d4a6b4ae05",
+    "wof:geomhash":"5178bdbbda9b1568da904a37bb1590b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1108694735,
-    "wof:lastmodified":1566650955,
+    "wof:lastmodified":1694492410,
     "wof:name":"Carolina",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003397,
-    "geom:area_square_m":40812561.802438,
+    "geom:area_square_m":40812640.02514,
     "geom:bbox":"-89.487422,13.641096,-89.406615,13.728419",
     "geom:latitude":13.68173,
     "geom:longitude":-89.442215,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Jayaque"
     ],
+    "name:eng_x_preferred":[
+        "Jayaque"
+    ],
     "name:eng_x_variant":[
         "Jayaque"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493169,
-    "wof:geomhash":"b907a3f5e2212025fee0eaee858a828a",
+    "wof:geomhash":"5f5e52cf3a9ef0975797efb4a63e23b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694813,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Jayaque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

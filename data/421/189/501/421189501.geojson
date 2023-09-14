@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003328,
-    "geom:area_square_m":40030459.66842,
+    "geom:area_square_m":40030625.274036,
     "geom:bbox":"-88.382571,13.393937,-88.294349,13.451739",
     "geom:latitude":13.422394,
     "geom:longitude":-88.333957,
@@ -43,6 +43,9 @@
         "San Jorge"
     ],
     "name:deu_x_preferred":[
+        "San Jorge"
+    ],
+    "name:eng_x_preferred":[
         "San Jorge"
     ],
     "name:eng_x_variant":[
@@ -118,7 +121,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"22984ddcf2ba6ad88ed7ceb8fc025173",
+    "wof:geomhash":"b9c73fe319b528092dd45c4f15c8fdb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421189501,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Jorge",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002473,
-    "geom:area_square_m":29729917.053263,
+    "geom:area_square_m":29729917.053245,
     "geom:bbox":"-89.08752152,13.4982127703,-89.0495428873,13.5989844595",
     "geom:latitude":13.547479,
     "geom:longitude":-89.066902,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Tapalhuaca"
     ],
+    "name:eng_x_preferred":[
+        "Tapalhuaca"
+    ],
     "name:eng_x_variant":[
         "Tapalhuaca"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493413,
-    "wof:geomhash":"86e9f85bb6b637ec1e0948cc49d1b7af",
+    "wof:geomhash":"e1839d0eeeb954e3f100f9063d4d4eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695073,
-    "wof:lastmodified":1566650948,
+    "wof:lastmodified":1694492409,
     "wof:name":"Tapalhuaca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

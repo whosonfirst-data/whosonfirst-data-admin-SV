@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004453,
-    "geom:area_square_m":53494039.851034,
+    "geom:area_square_m":53493996.709348,
     "geom:bbox":"-88.225822,13.691564,-88.104483,13.771607",
     "geom:latitude":13.732157,
     "geom:longitude":-88.157316,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Chilanga"
     ],
+    "name:eng_x_preferred":[
+        "Chilanga"
+    ],
     "name:eng_x_variant":[
         "Chilanga"
     ],
@@ -69,7 +72,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493092,
-    "wof:geomhash":"0098276b1dd5eb004eea267f0f06226c",
+    "wof:geomhash":"45d8331999c71b6e504c9d282b15b51d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694741,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1694492794,
     "wof:name":"Chilanga",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

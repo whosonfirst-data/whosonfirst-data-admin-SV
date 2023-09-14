@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003603,
-    "geom:area_square_m":43335813.340607,
+    "geom:area_square_m":43335909.113615,
     "geom:bbox":"-88.544921,13.393418,-88.467373,13.470693",
     "geom:latitude":13.432415,
     "geom:longitude":-88.506178,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tecapan"
+    ],
     "name:eng_x_variant":[
         "Tecapan",
         "Tecap\u00e1n"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493415,
-    "wof:geomhash":"0418fb9f8474807ea3f7b6d77bb38e33",
+    "wof:geomhash":"86d80178870571a5eefb5b201b0a5825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695075,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Tecapan",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

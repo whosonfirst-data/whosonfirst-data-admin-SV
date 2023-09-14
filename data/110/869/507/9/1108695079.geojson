@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009857,
-    "geom:area_square_m":118189529.395483,
+    "geom:area_square_m":118188990.013572,
     "geom:bbox":"-89.180137,14.059507,-89.066276,14.29051",
     "geom:latitude":14.152877,
     "geom:longitude":-89.121758,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Tejutla"
     ],
+    "name:eng_x_preferred":[
+        "Tejutla"
+    ],
     "name:eng_x_variant":[
         "Tejutla"
     ],
@@ -69,7 +72,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493419,
-    "wof:geomhash":"2c67f3b422a48d832ab7a6d779242649",
+    "wof:geomhash":"78333e2d262f2771fdf55df2bec8163f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108695079,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Tejutla",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

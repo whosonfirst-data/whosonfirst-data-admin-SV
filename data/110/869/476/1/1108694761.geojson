@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000684,
-    "geom:area_square_m":8216204.529682,
+    "geom:area_square_m":8216204.529689,
     "geom:bbox":"-89.194080033,13.7222674712,-89.1684306745,13.7859985598",
     "geom:latitude":13.751796,
     "geom:longitude":-89.180986,
@@ -42,6 +42,9 @@
         "Cuscatancingo"
     ],
     "name:deu_x_preferred":[
+        "Cuscatancingo"
+    ],
+    "name:eng_x_preferred":[
         "Cuscatancingo"
     ],
     "name:eng_x_variant":[
@@ -88,7 +91,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493119,
-    "wof:geomhash":"76327f0da142728e3235161a30d7487e",
+    "wof:geomhash":"43c37d06bb96dbd613bee9322e048288",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108694761,
-    "wof:lastmodified":1566650937,
+    "wof:lastmodified":1694492409,
     "wof:name":"Cuscatancingo",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

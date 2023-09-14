@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001385,
-    "geom:area_square_m":16637990.423819,
+    "geom:area_square_m":16637990.423822,
     "geom:bbox":"-88.928871933,13.7060362429,-88.8843069823,13.7627657725",
     "geom:latitude":13.732707,
     "geom:longitude":-88.90659,
@@ -46,6 +46,9 @@
         "El Carmen"
     ],
     "name:deu_x_preferred":[
+        "El Carmen"
+    ],
+    "name:eng_x_preferred":[
         "El Carmen"
     ],
     "name:eng_x_variant":[
@@ -124,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21694d81d035eb07c58c3682a16f31b2",
+    "wof:geomhash":"cf03ae8d3b78d2848632c5d8eb75d48b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421172529,
-    "wof:lastmodified":1582345123,
+    "wof:lastmodified":1694492498,
     "wof:name":"El Carmen",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

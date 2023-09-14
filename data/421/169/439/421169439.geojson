@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014903,
-    "geom:area_square_m":178977601.766202,
+    "geom:area_square_m":178978218.84876,
     "geom:bbox":"-89.715389,13.67023,-89.53,13.836025",
     "geom:latitude":13.770464,
     "geom:longitude":-89.628469,
@@ -140,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"332b71bdbb7acd6c623a0a3dedf9dcc1",
+    "wof:geomhash":"e803d255320fa32bd1fc89dece8b60a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":421169439,
-    "wof:lastmodified":1690867023,
+    "wof:lastmodified":1694492498,
     "wof:name":"Izalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

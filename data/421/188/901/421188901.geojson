@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005626,
-    "geom:area_square_m":67543160.852861,
+    "geom:area_square_m":67543396.366284,
     "geom:bbox":"-89.909229,13.790668,-89.812768,13.89455",
     "geom:latitude":13.846057,
     "geom:longitude":-89.857214,
@@ -41,6 +41,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bd\u03c3\u03b5\u03c0\u03c3\u03b9\u03cc\u03bd \u03b4\u03b5 \u0391\u03c4\u03ac\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Concepcion De Ataco"
     ],
     "name:eng_x_variant":[
         "Concepcion De Ataco",
@@ -96,7 +99,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ed3e72a515a7aa452d76370c901d5a2",
+    "wof:geomhash":"ff9cabe5dbb2be059093746f763571ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421188901,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"Concepcion De Ataco",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

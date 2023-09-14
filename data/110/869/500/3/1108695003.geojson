@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001728,
-    "geom:area_square_m":20750168.88741,
+    "geom:area_square_m":20750099.802674,
     "geom:bbox":"-88.897846,13.703371,-88.858063,13.780708",
     "geom:latitude":13.741645,
     "geom:longitude":-88.876492,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Rafael Cedros"
     ],
+    "name:eng_x_preferred":[
+        "San Rafael Cedros"
+    ],
     "name:eng_x_variant":[
         "San Rafael Cedros"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493352,
-    "wof:geomhash":"f57a34658f7c8a8f14d342bdf050bb06",
+    "wof:geomhash":"d1f9b4f9addbc7e845237fc961a1665f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695003,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Rafael Cedros",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

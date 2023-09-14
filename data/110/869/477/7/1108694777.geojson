@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00403,
-    "geom:area_square_m":48441890.85106,
+    "geom:area_square_m":48442066.315312,
     "geom:bbox":"-88.140836,13.547404,-88.043154,13.636916",
     "geom:latitude":13.592295,
     "geom:longitude":-88.085495,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "El Divisadero"
     ],
+    "name:eng_x_preferred":[
+        "El Divisadero"
+    ],
     "name:eng_x_variant":[
         "El Divisadero"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493132,
-    "wof:geomhash":"fe518f2f4c66faabff92719e5861d810",
+    "wof:geomhash":"501132160728f7d7f3716f5e19b2443c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694777,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"El Divisadero",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

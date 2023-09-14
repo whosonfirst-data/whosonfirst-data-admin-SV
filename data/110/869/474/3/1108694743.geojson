@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007954,
-    "geom:area_square_m":95643759.092545,
+    "geom:area_square_m":95643617.893482,
     "geom:bbox":"-88.399447,13.425726,-88.271669,13.537485",
     "geom:latitude":13.479105,
     "geom:longitude":-88.338948,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Chinameca"
     ],
+    "name:eng_x_preferred":[
+        "Chinameca"
+    ],
     "name:eng_x_variant":[
         "Chinameca"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493095,
-    "wof:geomhash":"364184e2e496c67e4827606d2db9cbc9",
+    "wof:geomhash":"090130b97126736aa6d6b710165fbb22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694743,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"Chinameca",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

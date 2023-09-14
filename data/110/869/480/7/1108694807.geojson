@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006896,
-    "geom:area_square_m":82834265.77943,
+    "geom:area_square_m":82834265.779455,
     "geom:bbox":"-89.900192197,13.6783400209,-89.8107411534,13.8026132094",
     "geom:latitude":13.731358,
     "geom:longitude":-89.849117,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Guaymango"
+    ],
+    "name:eng_x_preferred":[
         "Guaymango"
     ],
     "name:eng_x_variant":[
@@ -78,7 +81,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493160,
-    "wof:geomhash":"6f21af6dd2939018b864dfa94eacb170",
+    "wof:geomhash":"a35c3aee9bb3083b85b1e82b9f5b0b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108694807,
-    "wof:lastmodified":1566650956,
+    "wof:lastmodified":1694492410,
     "wof:name":"Guaymango",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

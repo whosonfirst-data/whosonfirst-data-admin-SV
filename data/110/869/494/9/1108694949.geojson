@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006718,
-    "geom:area_square_m":80662914.933571,
+    "geom:area_square_m":80662942.767135,
     "geom:bbox":"-88.444206,13.746885,-88.373784,13.885753",
     "geom:latitude":13.815799,
     "geom:longitude":-88.410433,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Gerardo"
     ],
+    "name:eng_x_preferred":[
+        "San Gerardo"
+    ],
     "name:eng_x_variant":[
         "San Gerardo"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493302,
-    "wof:geomhash":"a4daa69e9bc799d44c3aa9e690454404",
+    "wof:geomhash":"9858eebe160062379617be077c666ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694949,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Gerardo",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

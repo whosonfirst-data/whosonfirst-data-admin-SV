@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002511,
-    "geom:area_square_m":30212613.386144,
+    "geom:area_square_m":30212613.386136,
     "geom:bbox":"-88.4912367642,13.2636365771,-88.4211590143,13.32",
     "geom:latitude":13.294018,
     "geom:longitude":-88.456499,
@@ -40,6 +40,9 @@
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
+        "San Dionisio"
+    ],
+    "name:eng_x_preferred":[
         "San Dionisio"
     ],
     "name:eng_x_variant":[
@@ -106,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68c0a6e4ca92f91960ed8f0e592b1d86",
+    "wof:geomhash":"5ec196274f6c5b76e1217e85dea645c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421203593,
-    "wof:lastmodified":1582345122,
+    "wof:lastmodified":1694492498,
     "wof:name":"San Dionisio",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

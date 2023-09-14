@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008597,
-    "geom:area_square_m":103098856.457914,
+    "geom:area_square_m":103098534.38226,
     "geom:bbox":"-89.696468,14.053305,-89.566479,14.186373",
     "geom:latitude":14.113914,
     "geom:longitude":-89.637458,
@@ -44,6 +44,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03b4\u03b5\u03bb\u03ac\u03c1\u03b9\u03b1 \u03bd\u03c4\u03b5 \u03bb\u03b1 \u03a6\u03c1\u03bf\u03bd\u03c4\u03ad\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Candelaria De La Frontera"
     ],
     "name:eng_x_variant":[
         "Candelaria De La Frontera",
@@ -123,7 +126,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a8bea31ccc854f97f8202774817accc",
+    "wof:geomhash":"be7b9c604e4bfb082fa4c393b2d03830",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421190511,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1694492794,
     "wof:name":"Candelaria De La Frontera",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

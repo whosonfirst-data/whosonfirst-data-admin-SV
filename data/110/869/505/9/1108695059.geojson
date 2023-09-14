@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002146,
-    "geom:area_square_m":25785194.100677,
+    "geom:area_square_m":25785181.050077,
     "geom:bbox":"-89.168449,13.607539,-89.117901,13.671973",
     "geom:latitude":13.639463,
     "geom:longitude":-89.143054,
@@ -52,6 +52,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03cc\u03bc\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Tomas"
     ],
     "name:eng_x_variant":[
         "Santo Tomas",
@@ -127,7 +130,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493397,
-    "wof:geomhash":"e184714db58405cae330103890c075b4",
+    "wof:geomhash":"daa48505e86cc6cb25f55bef8df715b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1108695059,
-    "wof:lastmodified":1636500588,
+    "wof:lastmodified":1694492931,
     "wof:name":"Santo Tomas",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

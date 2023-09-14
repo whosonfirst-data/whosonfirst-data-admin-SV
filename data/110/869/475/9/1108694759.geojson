@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006971,
-    "geom:area_square_m":83776286.768339,
+    "geom:area_square_m":83776125.24031,
     "geom:bbox":"-89.693418,13.560765,-89.570335,13.690152",
     "geom:latitude":13.623161,
     "geom:longitude":-89.635693,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Cuisnahuat"
     ],
+    "name:eng_x_preferred":[
+        "Cuisnahuat"
+    ],
     "name:eng_x_variant":[
         "Cuisnahuat"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493118,
-    "wof:geomhash":"1fe8472941446992ffea77ef968b4047",
+    "wof:geomhash":"267c87bf5fe6408da86defbce77bfd62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694759,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"Cuisnahuat",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

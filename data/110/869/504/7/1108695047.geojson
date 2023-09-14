@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003527,
-    "geom:area_square_m":42290553.458394,
+    "geom:area_square_m":42290468.625732,
     "geom:bbox":"-89.664898,14.138888,-89.584303,14.204596",
     "geom:latitude":14.172857,
     "geom:longitude":-89.621282,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Santiago De La Frontera"
+    ],
     "name:eng_x_variant":[
         "Santiago De La Frontera",
         "Santiago de la Frontera"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493388,
-    "wof:geomhash":"ab354e1a1bc20a29c3401691e4a8fd27",
+    "wof:geomhash":"4aa19449069ec7e586f91263cc57bb57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695047,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"Santiago De La Frontera",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

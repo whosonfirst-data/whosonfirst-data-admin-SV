@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004581,
-    "geom:area_square_m":54994903.460715,
+    "geom:area_square_m":54994921.969441,
     "geom:bbox":"-88.18,13.819897,-88.090861,13.912402",
     "geom:latitude":13.863086,
     "geom:longitude":-88.131006,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Meanguera"
+    ],
     "name:eng_x_variant":[
         "Meanguera"
     ],
@@ -84,7 +87,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aeb7a25cbc368ab67291af40edfafa87",
+    "wof:geomhash":"282f6aecdf23be7e1370422ddb82d8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421191475,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Meanguera",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

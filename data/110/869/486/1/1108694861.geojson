@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007761,
-    "geom:area_square_m":93185358.630344,
+    "geom:area_square_m":93185310.186845,
     "geom:bbox":"-87.882741,13.71624,-87.799207,13.899317",
     "geom:latitude":13.82204,
     "geom:longitude":-87.843144,
@@ -72,6 +72,9 @@
         "Nueva Esparta"
     ],
     "name:deu_x_preferred":[
+        "Nueva Esparta"
+    ],
+    "name:eng_x_preferred":[
         "Nueva Esparta"
     ],
     "name:eng_x_variant":[
@@ -205,7 +208,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493222,
-    "wof:geomhash":"05317c9f6a94b070bd7fd887e984137d",
+    "wof:geomhash":"fedbc0804925d81ac3521dcdfbac47c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":1108694861,
-    "wof:lastmodified":1636500590,
+    "wof:lastmodified":1694492931,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002629,
-    "geom:area_square_m":31606567.246286,
+    "geom:area_square_m":31606386.190406,
     "geom:bbox":"-88.094556,13.464588,-88.022627,13.517739",
     "geom:latitude":13.49116,
     "geom:longitude":-88.060128,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Uluazapa"
     ],
+    "name:eng_x_preferred":[
+        "Uluazapa"
+    ],
     "name:eng_x_variant":[
         "Uluazapa"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493431,
-    "wof:geomhash":"acc7943ca1d38f811766397792995533",
+    "wof:geomhash":"75a7d15ff7ad001f1a29c3f5d9005e08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695091,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Uluazapa",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

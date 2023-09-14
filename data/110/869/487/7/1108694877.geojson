@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005786,
-    "geom:area_square_m":69551791.849275,
+    "geom:area_square_m":69551791.849257,
     "geom:bbox":"-89.1631392558,13.4712542296,-89.0957315538,13.6142467651",
     "geom:latitude":13.537453,
     "geom:longitude":-89.126818,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Olocuilta"
     ],
+    "name:eng_x_preferred":[
+        "Olocuilta"
+    ],
     "name:eng_x_variant":[
         "Olocuilta"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493232,
-    "wof:geomhash":"fbad5a52ab037b416ca5af2cb6b24ac7",
+    "wof:geomhash":"86ad3bd9ae357bfa26e728411c524d67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694877,
-    "wof:lastmodified":1566650953,
+    "wof:lastmodified":1694492410,
     "wof:name":"Olocuilta",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

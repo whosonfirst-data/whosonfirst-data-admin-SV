@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001508,
-    "geom:area_square_m":18138513.817409,
+    "geom:area_square_m":18138590.958586,
     "geom:bbox":"-88.428998,13.305414,-88.382446,13.369304",
     "geom:latitude":13.340512,
     "geom:longitude":-88.406955,
@@ -57,6 +57,9 @@
         "Santa Maria"
     ],
     "name:deu_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:eng_x_preferred":[
         "Santa Maria"
     ],
     "name:eng_x_variant":[
@@ -178,7 +181,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493380,
-    "wof:geomhash":"a7c60909c8d06b5a47fc65a05af5f5c7",
+    "wof:geomhash":"93ec1677f0745683b99d47d3b0465def",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":1108695037,
-    "wof:lastmodified":1636500588,
+    "wof:lastmodified":1694492931,
     "wof:name":"Santa Maria",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

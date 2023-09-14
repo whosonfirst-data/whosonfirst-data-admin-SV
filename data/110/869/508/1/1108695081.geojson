@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004208,
-    "geom:area_square_m":50559264.679039,
+    "geom:area_square_m":50559127.506242,
     "geom:bbox":"-89.531837,13.645648,-89.435168,13.73185",
     "geom:latitude":13.690869,
     "geom:longitude":-89.489252,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Tepecoyo"
     ],
+    "name:eng_x_preferred":[
+        "Tepecoyo"
+    ],
     "name:eng_x_variant":[
         "Tepecoyo"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493422,
-    "wof:geomhash":"004bb55239622b5d5800b9bc606a9f2c",
+    "wof:geomhash":"dfa161073513a69d47b3c3b1a4e9cecc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695081,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Tepecoyo",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

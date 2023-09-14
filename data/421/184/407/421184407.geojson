@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005143,
-    "geom:area_square_m":61804370.980117,
+    "geom:area_square_m":61804566.950961,
     "geom:bbox":"-88.569064,13.586421,-88.46444,13.671713",
     "geom:latitude":13.623984,
     "geom:longitude":-88.514437,
@@ -40,6 +40,9 @@
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
+        "Estanzuelas"
+    ],
+    "name:eng_x_preferred":[
         "Estanzuelas"
     ],
     "name:eng_x_variant":[
@@ -99,7 +102,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da7cf8b101ac2a472ad6e150fe6230ce",
+    "wof:geomhash":"3758215f855875204db0c08605f49a00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421184407,
-    "wof:lastmodified":1627522798,
+    "wof:lastmodified":1694492795,
     "wof:name":"Estanzuelas",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

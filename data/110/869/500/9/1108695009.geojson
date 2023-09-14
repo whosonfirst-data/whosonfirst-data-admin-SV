@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000954,
-    "geom:area_square_m":11456871.65132,
+    "geom:area_square_m":11456919.726101,
     "geom:bbox":"-88.944586,13.658706,-88.912409,13.701658",
     "geom:latitude":13.680043,
     "geom:longitude":-88.928657,
@@ -46,6 +46,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a1\u03b1\u03bc\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "San Ramon"
     ],
     "name:eng_x_variant":[
         "San Ramon",
@@ -118,7 +121,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493358,
-    "wof:geomhash":"4cbab18a105fca6476314ce7ff265dd0",
+    "wof:geomhash":"b9bac0d27fe598645a7255d54cdad825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108695009,
-    "wof:lastmodified":1636500590,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Ramon",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

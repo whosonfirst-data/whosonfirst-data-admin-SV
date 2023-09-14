@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014043,
-    "geom:area_square_m":168753041.764521,
+    "geom:area_square_m":168753041.764449,
     "geom:bbox":"-89.9546407392,13.521416664,-89.7700364002,13.714285369",
     "geom:latitude":13.634864,
     "geom:longitude":-89.850307,
@@ -51,6 +51,9 @@
         "Acajutla"
     ],
     "name:deu_x_preferred":[
+        "Acajutla"
+    ],
+    "name:eng_x_preferred":[
         "Acajutla"
     ],
     "name:eng_x_variant":[
@@ -111,7 +114,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493054,
-    "wof:geomhash":"1a9f2c6eeab5a7c7c1dc945bc99ce552",
+    "wof:geomhash":"046cef166929be2de348b2a4efe2d43f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108694705,
-    "wof:lastmodified":1566650940,
+    "wof:lastmodified":1694492409,
     "wof:name":"Acajutla",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

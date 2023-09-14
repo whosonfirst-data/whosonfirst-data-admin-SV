@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008549,
-    "geom:area_square_m":102735781.87356,
+    "geom:area_square_m":102735984.378228,
     "geom:bbox":"-88.328332,13.582939,-88.201201,13.691004",
     "geom:latitude":13.633256,
     "geom:longitude":-88.273642,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Chapeltique"
     ],
+    "name:eng_x_preferred":[
+        "Chapeltique"
+    ],
     "name:eng_x_variant":[
         "Chapeltique"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493090,
-    "wof:geomhash":"9230dcb7953e5da488acc8b795dd669a",
+    "wof:geomhash":"2cee6fb6c18fae7aa40dc1c400d1165e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694739,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1694492794,
     "wof:name":"Chapeltique",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

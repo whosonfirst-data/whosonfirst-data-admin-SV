@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05305,
-    "geom:area_square_m":638025136.172736,
+    "geom:area_square_m":638025062.459961,
     "geom:bbox":"-88.2996,13.299248,-88.019279,13.621215",
     "geom:latitude":13.435665,
     "geom:longitude":-88.157602,
@@ -52,6 +52,9 @@
         "San Miguel"
     ],
     "name:deu_x_preferred":[
+        "San Miguel"
+    ],
+    "name:eng_x_preferred":[
         "San Miguel"
     ],
     "name:eng_x_variant":[
@@ -199,7 +202,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ed000f10a50e8f6d0e492ca65ff7362",
+    "wof:geomhash":"8d17d4faabc6efe153533837f20ce2a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421201175,
-    "wof:lastmodified":1636500602,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Miguel",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

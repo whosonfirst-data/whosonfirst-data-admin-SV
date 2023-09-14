@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006895,
-    "geom:area_square_m":82779944.553084,
+    "geom:area_square_m":82779991.815605,
     "geom:bbox":"-89.5625,13.781807,-89.460739,13.913729",
     "geom:latitude":13.847059,
     "geom:longitude":-89.513738,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "El Congo"
     ],
+    "name:eng_x_preferred":[
+        "El Congo"
+    ],
     "name:eng_x_variant":[
         "El Congo"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493130,
-    "wof:geomhash":"7a4406b77755fbd3f4be62a8717c54ac",
+    "wof:geomhash":"038ff40ebe9b693c1f4fd54a3cf6271d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694775,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"El Congo",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

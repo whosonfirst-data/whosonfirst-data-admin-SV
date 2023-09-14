@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002279,
-    "geom:area_square_m":27345597.781783,
+    "geom:area_square_m":27345507.853611,
     "geom:bbox":"-88.967442,13.967804,-88.905692,14.025271",
     "geom:latitude":13.996441,
     "geom:longitude":-88.935247,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Miguel De Mercedes"
+    ],
     "name:eng_x_variant":[
         "San Miguel De Mercedes",
         "San Miguel de Mercedes"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493339,
-    "wof:geomhash":"4b33c709443bd6f5169001142c03a1eb",
+    "wof:geomhash":"d3580cc7ee2c08a8acd3dc4ab037df9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108694989,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Miguel De Mercedes",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

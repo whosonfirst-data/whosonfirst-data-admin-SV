@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010708,
-    "geom:area_square_m":128358933.010282,
+    "geom:area_square_m":128358805.150621,
     "geom:bbox":"-89.288569,14.101923,-89.175654,14.271421",
     "geom:latitude":14.199843,
     "geom:longitude":-89.225061,
@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "Agua Caliente"
     ],
+    "name:eng_x_preferred":[
+        "Agua Caliente"
+    ],
     "name:eng_x_variant":[
         "Agua Caliente"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493055,
-    "wof:geomhash":"e9485208f6d793982f51f31b71b62fdd",
+    "wof:geomhash":"e0992a7bb4c5912b512f445a6cb42527",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694707,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1694492794,
     "wof:name":"Agua Caliente",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

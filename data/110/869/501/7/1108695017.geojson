@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003732,
-    "geom:area_square_m":44812385.543131,
+    "geom:area_square_m":44812385.543122,
     "geom:bbox":"-88.2749081038,13.7600868615,-88.2047088304,13.8542605014",
     "geom:latitude":13.809048,
     "geom:longitude":-88.236097,
@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "San Simon"
     ],
+    "name:eng_x_preferred":[
+        "San Simon"
+    ],
     "name:eng_x_variant":[
         "San Simon",
         "San Sim\u00f3n"
@@ -85,7 +88,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493364,
-    "wof:geomhash":"99d101e196b1ffd6d0bb4d4fd8e3ec5d",
+    "wof:geomhash":"ccbf4b00cb85205211aa0d39025375ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695017,
-    "wof:lastmodified":1566650947,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Simon",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

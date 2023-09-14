@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001297,
-    "geom:area_square_m":15575961.875928,
+    "geom:area_square_m":15575961.875921,
     "geom:bbox":"-88.927088414,13.7467202918,-88.8821528597,13.7954213908",
     "geom:latitude":13.772502,
     "geom:longitude":-88.90321,
@@ -43,6 +43,9 @@
         "El Rosario"
     ],
     "name:ceb_x_preferred":[
+        "El Rosario"
+    ],
+    "name:eng_x_preferred":[
         "El Rosario"
     ],
     "name:eng_x_variant":[
@@ -127,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f1af34a84371827f8ffe436fa8c3d0c9",
+    "wof:geomhash":"7370b000bd47eceffc9f34d20d197529",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421203377,
-    "wof:lastmodified":1582345122,
+    "wof:lastmodified":1694492498,
     "wof:name":"El Rosario",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

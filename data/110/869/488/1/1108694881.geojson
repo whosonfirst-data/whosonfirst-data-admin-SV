@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002778,
-    "geom:area_square_m":33360764.282582,
+    "geom:area_square_m":33360569.881347,
     "geom:bbox":"-88.195158,13.781865,-88.121495,13.842095",
     "geom:latitude":13.815659,
     "geom:longitude":-88.16414,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Osicala"
+    ],
+    "name:eng_x_preferred":[
         "Osicala"
     ],
     "name:eng_x_variant":[
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493236,
-    "wof:geomhash":"e21c96613c90ef1ebefdfb6678286751",
+    "wof:geomhash":"d0439f791a12c79469cf8d815676e0ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108694881,
-    "wof:lastmodified":1627522799,
+    "wof:lastmodified":1694492795,
     "wof:name":"Osicala",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

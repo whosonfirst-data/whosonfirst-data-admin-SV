@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00193,
-    "geom:area_square_m":23138113.017159,
+    "geom:area_square_m":23138061.431543,
     "geom:bbox":"-89.07481,14.095934,-89.017286,14.156858",
     "geom:latitude":14.128216,
     "geom:longitude":-89.041048,
@@ -48,6 +48,9 @@
         "San Rafael"
     ],
     "name:deu_x_preferred":[
+        "San Rafael"
+    ],
+    "name:eng_x_preferred":[
         "San Rafael"
     ],
     "name:eng_x_variant":[
@@ -138,7 +141,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493356,
-    "wof:geomhash":"e673c5f40b3c4f0bb9d5564221e35978",
+    "wof:geomhash":"83c327f7cd3aab6ea6cbbc985c06fb3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108695007,
-    "wof:lastmodified":1636500590,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Rafael",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

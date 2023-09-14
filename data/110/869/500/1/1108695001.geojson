@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001834,
-    "geom:area_square_m":22029049.51987,
+    "geom:area_square_m":22029049.519878,
     "geom:bbox":"-89.8221740025,13.7281745924,-89.7879480887,13.8158772181",
     "geom:latitude":13.777094,
     "geom:longitude":-89.804264,
@@ -39,6 +39,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "San Pedro Puxtla"
+    ],
+    "name:eng_x_preferred":[
         "San Pedro Puxtla"
     ],
     "name:eng_x_variant":[
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493350,
-    "wof:geomhash":"aef46a95a19abcaf32e2f5298f194712",
+    "wof:geomhash":"333539f3a7406b8ba9c67b70cc7769de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108695001,
-    "wof:lastmodified":1566650948,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Pedro Puxtla",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008451,
-    "geom:area_square_m":101579950.826501,
+    "geom:area_square_m":101580056.191765,
     "geom:bbox":"-89.454092,13.489944,-89.368192,13.652993",
     "geom:latitude":13.565836,
     "geom:longitude":-89.4124,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Tamanique"
     ],
+    "name:eng_x_preferred":[
+        "Tamanique"
+    ],
     "name:eng_x_variant":[
         "Tamanique"
     ],
@@ -69,7 +72,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493412,
-    "wof:geomhash":"d6f09d124676ad7e1d2c62bf5d58a288",
+    "wof:geomhash":"6147be93a69e777f77defd6da98a61c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108695071,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Tamanique",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

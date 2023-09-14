@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001318,
-    "geom:area_square_m":15834616.838281,
+    "geom:area_square_m":15834685.809207,
     "geom:bbox":"-89.240956,13.625015,-89.155373,13.675469",
     "geom:latitude":13.652257,
     "geom:longitude":-89.190335,
@@ -51,6 +51,9 @@
         "San Marcos"
     ],
     "name:deu_x_preferred":[
+        "San Marcos"
+    ],
+    "name:eng_x_preferred":[
         "San Marcos"
     ],
     "name:eng_x_variant":[
@@ -138,7 +141,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493334,
-    "wof:geomhash":"a656a03083482d414732471baf633ec1",
+    "wof:geomhash":"e7cd6ff573366391cfc85acf3f05fc26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108694987,
-    "wof:lastmodified":1636500589,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Marcos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

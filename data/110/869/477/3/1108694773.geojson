@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002341,
-    "geom:area_square_m":28067382.464682,
+    "geom:area_square_m":28067202.086832,
     "geom:bbox":"-88.935,14.141219,-88.87483,14.208537",
     "geom:latitude":14.177496,
     "geom:longitude":-88.909657,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "El Carrizal"
+    ],
     "name:eng_x_variant":[
         "El Carrizal"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493129,
-    "wof:geomhash":"3ea85c440f4ef0fe2d530caae65f72e1",
+    "wof:geomhash":"38758f8b779fb82ce614cd39f84f5b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108694773,
-    "wof:lastmodified":1627522797,
+    "wof:lastmodified":1694492794,
     "wof:name":"El Carrizal",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

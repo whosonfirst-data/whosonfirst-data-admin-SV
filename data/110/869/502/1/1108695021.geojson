@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002737,
-    "geom:area_square_m":32872962.96146,
+    "geom:area_square_m":32872985.766229,
     "geom:bbox":"-89.792457,13.739122,-89.752225,13.836232",
     "geom:latitude":13.786326,
     "geom:longitude":-89.772789,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Santa Catarina Masahuat"
     ],
+    "name:eng_x_preferred":[
+        "Santa Catarina Masahuat"
+    ],
     "name:eng_x_variant":[
         "Santa Catarina Masahuat"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493368,
-    "wof:geomhash":"5dcd588f39a42c7c431790d2375e7ce4",
+    "wof:geomhash":"d7966465a1f2224bb424e6660c216422",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108695021,
-    "wof:lastmodified":1627522802,
+    "wof:lastmodified":1694492796,
     "wof:name":"Santa Catarina Masahuat",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

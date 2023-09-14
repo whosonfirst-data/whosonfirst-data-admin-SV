@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000643,
-    "geom:area_square_m":7713335.579189,
+    "geom:area_square_m":7713270.27167,
     "geom:bbox":"-89.022386,13.957167,-88.990406,13.989756",
     "geom:latitude":13.971526,
     "geom:longitude":-89.008044,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Francisco Lempa"
     ],
+    "name:eng_x_preferred":[
+        "San Francisco Lempa"
+    ],
     "name:eng_x_variant":[
         "San Francisco Lempa"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493294,
-    "wof:geomhash":"e6c0ef13846affc0443756f23d42b186",
+    "wof:geomhash":"3c0728fd9d0bf6d3fa367692eb03f08d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694945,
-    "wof:lastmodified":1627522801,
+    "wof:lastmodified":1694492796,
     "wof:name":"San Francisco Lempa",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001105,
-    "geom:area_square_m":13275710.341981,
+    "geom:area_square_m":13275702.207858,
     "geom:bbox":"-88.852868,13.611791,-88.825779,13.68058",
     "geom:latitude":13.648857,
     "geom:longitude":-88.840142,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tepetitan"
+    ],
     "name:eng_x_variant":[
         "Tepetitan",
         "Tepetit\u00e1n"
@@ -58,7 +61,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493423,
-    "wof:geomhash":"6f0a030de250351f15c7c3f381e49c8e",
+    "wof:geomhash":"e4a380c7b18cc573d479bf6608ff4c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695083,
-    "wof:lastmodified":1627522803,
+    "wof:lastmodified":1694492796,
     "wof:name":"Tepetitan",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002826,
-    "geom:area_square_m":33973865.731798,
+    "geom:area_square_m":33973865.731771,
     "geom:bbox":"-89.0612293838,13.5374510964,-88.9810012731,13.6079369244",
     "geom:latitude":13.570316,
     "geom:longitude":-89.021518,
@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "San Antonio Masahuat"
     ],
+    "name:eng_x_preferred":[
+        "San Antonio Masahuat"
+    ],
     "name:eng_x_variant":[
         "San Antonio Masahuat"
     ],
@@ -72,7 +75,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493265,
-    "wof:geomhash":"2b6484b858be3c7381ced37755fe1a53",
+    "wof:geomhash":"665b3492cac8b7f462a5f3c4ca00c93e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108694917,
-    "wof:lastmodified":1566650944,
+    "wof:lastmodified":1694492409,
     "wof:name":"San Antonio Masahuat",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001267,
-    "geom:area_square_m":15227945.296617,
+    "geom:area_square_m":15228110.40048,
     "geom:bbox":"-88.250187,13.500142,-88.199981,13.544568",
     "geom:latitude":13.520964,
     "geom:longitude":-88.224759,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Quelepa"
+    ],
     "name:eng_x_variant":[
         "Quelepa"
     ],
@@ -69,7 +72,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493251,
-    "wof:geomhash":"727b7f706c07d3ec971ec9b194888523",
+    "wof:geomhash":"a1f7c95a6061175c2df380e669f16fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108694899,
-    "wof:lastmodified":1627522800,
+    "wof:lastmodified":1694492795,
     "wof:name":"Quelepa",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

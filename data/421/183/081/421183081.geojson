@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003012,
-    "geom:area_square_m":36177341.396349,
+    "geom:area_square_m":36177341.396342,
     "geom:bbox":"-89.1985545929,13.7081590637,-89.1368644015,13.8009253326",
     "geom:latitude":13.755686,
     "geom:longitude":-89.162589,
@@ -40,6 +40,9 @@
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
+        "Delgado"
+    ],
+    "name:eng_x_preferred":[
         "Delgado"
     ],
     "name:eng_x_variant":[
@@ -115,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b095cc4872f02404177618534f89db2",
+    "wof:geomhash":"9349a38c25bc9360b8dcf23226d5682a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421183081,
-    "wof:lastmodified":1582345124,
+    "wof:lastmodified":1694492498,
     "wof:name":"Delgado",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

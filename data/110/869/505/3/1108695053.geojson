@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012574,
-    "geom:area_square_m":151205783.487462,
+    "geom:area_square_m":151205783.48746,
     "geom:bbox":"-89.0105947156,13.3361735509,-88.9025855532,13.5799653917",
     "geom:latitude":13.467347,
     "geom:longitude":-88.958125,
@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "Santiago Nonualco"
     ],
+    "name:eng_x_preferred":[
+        "Santiago Nonualco"
+    ],
     "name:eng_x_variant":[
         "Santiago Nonualco"
     ],
@@ -75,7 +78,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493392,
-    "wof:geomhash":"762d8af058bbe8418bd8cb3d779cd533",
+    "wof:geomhash":"ec02d4940304a6ee532ae9e8d91e8417",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108695053,
-    "wof:lastmodified":1566650932,
+    "wof:lastmodified":1694492409,
     "wof:name":"Santiago Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021164,
-    "geom:area_square_m":253964111.576473,
+    "geom:area_square_m":253964111.576481,
     "geom:bbox":"-89.9665888746,13.8790460242,-89.7546831309,14.0486826155",
     "geom:latitude":13.962364,
     "geom:longitude":-89.852198,
@@ -53,6 +53,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bf\u03c5\u03b1\u03c4\u03c3\u03b1\u03c0\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Ahuachapan"
     ],
     "name:eng_x_variant":[
         "Ahuachapan",
@@ -112,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d6eeb7f0fb7e17d463cf7973b4a5e3d",
+    "wof:geomhash":"09e036c5ed2668aab38c30f5f81a776e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421169323,
-    "wof:lastmodified":1582345121,
+    "wof:lastmodified":1694492498,
     "wof:name":"Ahuachapan",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

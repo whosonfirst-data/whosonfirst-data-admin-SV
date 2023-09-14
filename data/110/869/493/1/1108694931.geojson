@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001466,
-    "geom:area_square_m":17614534.7337,
+    "geom:area_square_m":17614354.180191,
     "geom:bbox":"-88.919829,13.666886,-88.867354,13.708776",
     "geom:latitude":13.689431,
     "geom:longitude":-88.896546,
@@ -38,6 +38,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "San Cristobal"
+    ],
     "name:eng_x_variant":[
         "San Cristobal",
         "San Crist\u00f3bal"
@@ -67,7 +70,7 @@
     },
     "wof:country":"SV",
     "wof:created":1474493279,
-    "wof:geomhash":"35e4f5c51bd4508b6133258ec8e7fae2",
+    "wof:geomhash":"491e0b16c1dddea7465b571f46e9dac8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108694931,
-    "wof:lastmodified":1636500591,
+    "wof:lastmodified":1694492931,
     "wof:name":"San Cristobal",
     "wof:parent_id":85677145,
     "wof:placetype":"county",
