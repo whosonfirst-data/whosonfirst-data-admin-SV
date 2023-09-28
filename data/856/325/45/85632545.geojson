@@ -1146,6 +1146,7 @@
         "hasc:id":"SV",
         "icao:code":"YS",
         "ioc:id":"ESA",
+        "iso:code":"SV",
         "itu:id":"SLV",
         "loc:id":"n79066409",
         "m49:code":"222",
@@ -1160,6 +1161,7 @@
         "wk:page":"El Salvador",
         "wmo:id":"ES"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:country_alpha3":"SLV",
     "wof:geom_alt":[
@@ -1181,7 +1183,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639528,
+    "wof:lastmodified":1695881184,
     "wof:name":"El Salvador",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
