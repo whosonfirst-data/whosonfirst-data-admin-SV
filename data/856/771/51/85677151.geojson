@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138069,
-    "geom:area_square_m":1658634338.693977,
+    "geom:area_square_m":1658634265.351855,
     "geom:bbox":"-89.629423,13.41705,-89.135299,14.064911",
     "geom:latitude":13.704795,
     "geom:longitude":-89.36528,
@@ -310,17 +310,19 @@
         "gn:id":3585155,
         "gp:id":2345296,
         "hasc:id":"SV.LI",
+        "iso:code":"SV-LI",
         "iso:id":"SV-LI",
         "qs_pg:id":1046582,
         "unlc:id":"SV-LI",
         "wd:id":"Q930820",
         "wk:page":"La Libertad Department (El Salvador)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"661e96826dcdf2c6559598e145182958",
+    "wof:geomhash":"dcd4b9f0e873696ecef532f543aa1634",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867010,
+    "wof:lastmodified":1695884871,
     "wof:name":"La Libertad",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

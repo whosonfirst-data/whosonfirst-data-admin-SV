@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110456,
-    "geom:area_square_m":1326525605.032624,
+    "geom:area_square_m":1326525672.777783,
     "geom:bbox":"-88.274908,13.547404,-87.929259,13.999649",
     "geom:latitude":13.77567,
     "geom:longitude":-88.105214,
@@ -304,17 +304,19 @@
         "gn:id":3584317,
         "gp:id":2345299,
         "hasc:id":"SV.MO",
+        "iso:code":"SV-MO",
         "iso:id":"SV-MO",
         "qs_pg:id":894883,
         "unlc:id":"SV-MO",
         "wd:id":"Q1122836",
         "wk:page":"Moraz\u00e1n Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7718718fa7b0a25bfa97aad762b1bd4f",
+    "wof:geomhash":"bfe4e61d6d52b9908b236c2e83134e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867011,
+    "wof:lastmodified":1695884362,
     "wof:name":"Moraz\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

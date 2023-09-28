@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169126,
-    "geom:area_square_m":2034506306.872792,
+    "geom:area_square_m":2034505549.347108,
     "geom:bbox":"-88.813218,13.157444,-88.124637,13.700306",
     "geom:latitude":13.38041,
     "geom:longitude":-88.494734,
@@ -305,17 +305,19 @@
         "gn:id":3582882,
         "gp:id":2345305,
         "hasc:id":"SV.US",
+        "iso:code":"SV-US",
         "iso:id":"SV-US",
         "qs_pg:id":1135033,
         "unlc:id":"SV-US",
         "wd:id":"Q1122748",
         "wk:page":"Usulut\u00e1n Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"444840cf465039dfd430333e54f39706",
+    "wof:geomhash":"9b79699667a420d8a99ccd8bf14d0456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867012,
+    "wof:lastmodified":1695884362,
     "wof:name":"Usulut\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

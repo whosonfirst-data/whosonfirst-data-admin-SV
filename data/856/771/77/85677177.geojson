@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177662,
-    "geom:area_square_m":2135743278.503851,
+    "geom:area_square_m":2135743676.077911,
     "geom:bbox":"-88.530006,13.166222,-88.017592,13.915584",
     "geom:latitude":13.541518,
     "geom:longitude":-88.255211,
@@ -311,17 +311,19 @@
         "gn:id":3583462,
         "gp:id":2345300,
         "hasc:id":"SV.SM",
+        "iso:code":"SV-SM",
         "iso:id":"SV-SM",
         "qs_pg:id":235591,
         "unlc:id":"SV-SM",
         "wd:id":"Q930804",
         "wk:page":"San Miguel Department (El Salvador)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b93abcaf1fc652abd103081df6b5c701",
+    "wof:geomhash":"35e81c2b6be8cc8f0b20c91c7d3890f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867013,
+    "wof:lastmodified":1695884871,
     "wof:name":"San Miguel",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

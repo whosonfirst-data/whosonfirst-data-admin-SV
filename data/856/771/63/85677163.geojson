@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075326,
-    "geom:area_square_m":904640783.947221,
+    "geom:area_square_m":904640464.097543,
     "geom:bbox":"-89.292423,13.472606,-89.025382,14.061273",
     "geom:latitude":13.771569,
     "geom:longitude":-89.172788,
@@ -313,16 +313,18 @@
         "gn:id":3583360,
         "gp:id":2345301,
         "hasc:id":"SV.SS",
+        "iso:code":"SV-SS",
         "iso:id":"SV-SS",
         "qs_pg:id":235592,
         "wd:id":"Q1543219",
         "wk:page":"San Salvador Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e6ecde34e73db039db4215f14752949",
+    "wof:geomhash":"09a0c373d8f5fc485529bbf793e4bf0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -337,7 +339,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867012,
+    "wof:lastmodified":1695884871,
     "wof:name":"San Salvador",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

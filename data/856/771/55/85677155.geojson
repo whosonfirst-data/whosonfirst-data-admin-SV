@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10156,
-    "geom:area_square_m":1221216730.330388,
+    "geom:area_square_m":1221216875.15162,
     "geom:bbox":"-89.163139,13.267469,-88.78,13.669931",
     "geom:latitude":13.479101,
     "geom:longitude":-88.967304,
@@ -316,17 +316,19 @@
         "gn:id":3585087,
         "gp:id":2345297,
         "hasc:id":"SV.PA",
+        "iso:code":"SV-PA",
         "iso:id":"SV-PA",
         "qs_pg:id":894882,
         "unlc:id":"SV-PA",
         "wd:id":"Q1129788",
         "wk:page":"La Paz Department (El Salvador)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3a9887a47889f35ebb16a8a85424cecd",
+    "wof:geomhash":"d65d24822f2a8d45ba34bcc9e1512dce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -341,7 +343,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867012,
+    "wof:lastmodified":1695884871,
     "wof:name":"La Paz",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

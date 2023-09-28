@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170456,
-    "geom:area_square_m":2043995043.265517,
+    "geom:area_square_m":2043994479.274752,
     "geom:bbox":"-89.746039,13.781807,-89.247718,14.450557",
     "geom:latitude":14.124303,
     "geom:longitude":-89.508456,
@@ -303,17 +303,19 @@
         "gn:id":3583332,
         "gp:id":2345302,
         "hasc:id":"SV.SA",
+        "iso:code":"SV-SA",
         "iso:id":"SV-SA",
         "qs_pg:id":423765,
         "unlc:id":"SV-SA",
         "wd:id":"Q671158",
         "wk:page":"Santa Ana Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df885f193994c483b29dae7cad72a58b",
+    "wof:geomhash":"e3a6fc2dc56663b9e28e368940becfec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867009,
+    "wof:lastmodified":1695884871,
     "wof:name":"Santa Ana",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

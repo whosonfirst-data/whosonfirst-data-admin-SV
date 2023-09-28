@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165348,
-    "geom:area_square_m":1987864416.848769,
+    "geom:area_square_m":1987865057.818194,
     "geom:bbox":"-88.092368,13.154139,-87.68158,13.922105",
     "geom:latitude":13.52251,
     "geom:longitude":-87.887384,
@@ -252,17 +252,19 @@
         "gn:id":3584767,
         "gp:id":2345298,
         "hasc:id":"SV.UN",
+        "iso:code":"SV-UN",
         "iso:id":"SV-UN",
         "qs_pg:id":1083827,
         "unlc:id":"SV-UN",
         "wd:id":"Q1130688",
         "wk:page":"La Uni\u00f3n Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d4cddd483e2170664ea540c51df1e283",
+    "wof:geomhash":"f5a2531cefb692aced27e47f430552e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -277,7 +279,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867010,
+    "wof:lastmodified":1695884362,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

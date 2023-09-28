@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100131,
-    "geom:area_square_m":1203382589.330093,
+    "geom:area_square_m":1203382452.496704,
     "geom:bbox":"-88.898901,13.244638,-88.485578,13.798114",
     "geom:latitude":13.607991,
     "geom:longitude":-88.722,
@@ -305,17 +305,19 @@
         "gn:id":3583176,
         "gp:id":2345303,
         "hasc:id":"SV.SV",
+        "iso:code":"SV-SV",
         "iso:id":"SV-SV",
         "qs_pg:id":318465,
         "unlc:id":"SV-SV",
         "wd:id":"Q1130180",
         "wk:page":"San Vicente Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0d5252158d321f3c524b86663a251f0",
+    "wof:geomhash":"138993d74fc1f0abc5f2db5dc3a3a69a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867013,
+    "wof:lastmodified":1695884871,
     "wof:name":"San Vicente",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

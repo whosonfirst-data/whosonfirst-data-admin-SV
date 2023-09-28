@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104154,
-    "geom:area_square_m":1251260604.324116,
+    "geom:area_square_m":1251261082.510292,
     "geom:bbox":"-89.954641,13.518961,-89.43703,13.905039",
     "geom:latitude":13.696039,
     "geom:longitude":-89.687747,
@@ -280,17 +280,19 @@
         "gn:id":3583101,
         "gp:id":2345304,
         "hasc:id":"SV.SO",
+        "iso:code":"SV-SO",
         "iso:id":"SV-SO",
         "qs_pg:id":235593,
         "unlc:id":"SV-SO",
         "wd:id":"Q212540",
         "wk:page":"Sonsonate Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f30489e266b9849335177afbb7abbf6",
+    "wof:geomhash":"63d234c82e3c9f1037e68f0450b567d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867010,
+    "wof:lastmodified":1695884871,
     "wof:name":"Sonsonate",
     "wof:parent_id":85632545,
     "wof:placetype":"region",
