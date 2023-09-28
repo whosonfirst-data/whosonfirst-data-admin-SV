@@ -97,6 +97,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SA.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493089,
     "wof:geomhash":"d3fd8d4f29fb90067e73d1506f6106c8",
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108694737,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886440,
     "wof:name":"Chalchuapa",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

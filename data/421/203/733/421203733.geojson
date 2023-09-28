@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002545,
-    "geom:area_square_m":30574896.087754,
+    "geom:area_square_m":30574833.217831,
     "geom:bbox":"-89.171819,13.664226,-89.114679,13.745313",
     "geom:latitude":13.703771,
     "geom:longitude":-89.143343,
@@ -162,12 +162,13 @@
         "qs_pg:id":115532,
         "wd:id":"Q956031"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"71884bbac8568ac36ea68e44933db338",
+    "wof:geomhash":"034b0a75aa949f68bd927d85c1876b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421203733,
-    "wof:lastmodified":1690867026,
+    "wof:lastmodified":1695886783,
     "wof:name":"Soyapango",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

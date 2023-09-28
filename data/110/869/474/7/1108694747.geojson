@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CA.CI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493098,
     "wof:geomhash":"434c1eb499684935df154a1e045c554b",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694747,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"Cinquera",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

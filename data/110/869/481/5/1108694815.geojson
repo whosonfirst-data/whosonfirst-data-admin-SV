@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.JE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493171,
     "wof:geomhash":"c28d3389a097b3481d9b078636c7c43d",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694815,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Jerusalen",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

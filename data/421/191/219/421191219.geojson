@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004074,
-    "geom:area_square_m":48965636.566311,
+    "geom:area_square_m":48965759.0049,
     "geom:bbox":"-89.111991,13.562963,-89.032938,13.66732",
     "geom:latitude":13.612864,
     "geom:longitude":-89.0718,
@@ -111,12 +111,13 @@
         "qs_pg:id":61169,
         "wd:id":"Q978154"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c55a079f545ddbc0ddb6c4f223746e3",
+    "wof:geomhash":"94f45353c31cfe25732eafcbdd200514",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421191219,
-    "wof:lastmodified":1690867036,
+    "wof:lastmodified":1695886784,
     "wof:name":"San Francisco Chinameca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493240,
     "wof:geomhash":"cbd7708cb28977b9456859e7d913a34c",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694885,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Panchimalco",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CU.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493279,
     "wof:geomhash":"491e0b16c1dddea7465b571f46e9dac8",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108694931,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Cristobal",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

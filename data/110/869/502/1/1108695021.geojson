@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SO.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493368,
     "wof:geomhash":"d7966465a1f2224bb424e6660c216422",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695021,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santa Catarina Masahuat",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

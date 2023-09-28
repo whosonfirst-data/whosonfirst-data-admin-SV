@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493062,
     "wof:geomhash":"aadc09b50a525f73160b92c8df8fb6bd",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694715,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886494,
     "wof:name":"Anamoros",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

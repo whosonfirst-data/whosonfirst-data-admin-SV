@@ -112,6 +112,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SO.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493054,
     "wof:geomhash":"046cef166929be2de348b2a4efe2d43f",
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108694705,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"Acajutla",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

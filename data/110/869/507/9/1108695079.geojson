@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493419,
     "wof:geomhash":"78333e2d262f2771fdf55df2bec8163f",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108695079,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Tejutla",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

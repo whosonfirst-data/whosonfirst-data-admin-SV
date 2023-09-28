@@ -86,6 +86,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493364,
     "wof:geomhash":"ccbf4b00cb85205211aa0d39025375ec",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108695017,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886440,
     "wof:name":"San Simon",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

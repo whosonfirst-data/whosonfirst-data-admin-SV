@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493208,
     "wof:geomhash":"dfd8b9314e03b31e5e3396ac5e0261a1",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694849,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Mercedes Umana",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

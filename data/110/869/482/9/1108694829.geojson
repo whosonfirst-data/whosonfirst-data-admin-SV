@@ -109,6 +109,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.LR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493189,
     "wof:geomhash":"61b42362d86e1667586339fedea019fa",
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108694829,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"La Reina",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

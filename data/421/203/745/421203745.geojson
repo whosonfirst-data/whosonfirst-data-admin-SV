@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013943,
-    "geom:area_square_m":167195833.860838,
+    "geom:area_square_m":167196104.484522,
     "geom:bbox":"-89.593701,14.057876,-89.401001,14.182028",
     "geom:latitude":14.117635,
     "geom:longitude":-89.493234,
@@ -111,12 +111,13 @@
         "qs_pg:id":115538,
         "wd:id":"Q3985393"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03394c030e0f8774615459a50eee4803",
+    "wof:geomhash":"c599e19508252e444b35b837d509c71b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421203745,
-    "wof:lastmodified":1690867026,
+    "wof:lastmodified":1695886783,
     "wof:name":"Texistepeque",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

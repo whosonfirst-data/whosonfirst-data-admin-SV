@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493105,
     "wof:geomhash":"015ce3add95a988cb9c985ab9ac4acf2",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694749,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Comacaran",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

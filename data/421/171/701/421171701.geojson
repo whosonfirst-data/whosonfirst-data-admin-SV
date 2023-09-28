@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004147,
-    "geom:area_square_m":49855636.556067,
+    "geom:area_square_m":49855344.415969,
     "geom:bbox":"-89.552657,13.49325,-89.482599,13.580369",
     "geom:latitude":13.532197,
     "geom:longitude":-89.5144,
@@ -105,12 +105,13 @@
         "qs_pg:id":1264028,
         "wd:id":"Q3808267"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008904,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64653b3f672b5e88c1360c50bea36fda",
+    "wof:geomhash":"98d009df0aa0ef4e58bb279b2d64be82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":421171701,
-    "wof:lastmodified":1690867054,
+    "wof:lastmodified":1695886784,
     "wof:name":"Jicalapa",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

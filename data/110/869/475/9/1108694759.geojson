@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SO.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493118,
     "wof:geomhash":"267c87bf5fe6408da86defbce77bfd62",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694759,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Cuisnahuat",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

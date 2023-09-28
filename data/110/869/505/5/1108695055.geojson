@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SO.SD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493394,
     "wof:geomhash":"b1e3b0c1df65e120b3bce1f9f369ccae",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695055,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santo Domingo De Guzman",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009571,
-    "geom:area_square_m":115004357.394163,
+    "geom:area_square_m":115004518.434476,
     "geom:bbox":"-88.799576,13.618556,-88.605316,13.703022",
     "geom:latitude":13.660141,
     "geom:longitude":-88.696064,
@@ -111,12 +111,13 @@
         "qs_pg:id":115540,
         "wd:id":"Q617890"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f41699aeab4f997b629eb69c837cf0b",
+    "wof:geomhash":"a74915b88b9acd254d135e839b8a96ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421203747,
-    "wof:lastmodified":1690867025,
+    "wof:lastmodified":1695886783,
     "wof:name":"Apastepeque",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

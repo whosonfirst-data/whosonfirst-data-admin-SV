@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493229,
     "wof:geomhash":"2e675958d9e327e1774102808313033b",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694873,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Nuevo Eden De San Juan",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

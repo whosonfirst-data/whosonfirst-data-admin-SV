@@ -110,6 +110,7 @@
         "hasc:id":"SV.AH.AH",
         "qs_pg:id":1204174
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008804,
     "wof:geom_alt":[
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421169323,
-    "wof:lastmodified":1694492498,
+    "wof:lastmodified":1695886782,
     "wof:name":"Ahuachapan",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

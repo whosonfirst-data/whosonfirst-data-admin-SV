@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"SV.AH.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493138,
     "wof:geomhash":"ed6c860b9048d929d4f60aa1a1e4f580",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108694787,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886496,
     "wof:name":"El Refugio",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

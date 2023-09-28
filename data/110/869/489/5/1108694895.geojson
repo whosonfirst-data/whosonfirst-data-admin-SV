@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493248,
     "wof:geomhash":"3b1af392667ef8b96d4b690c43b86e6b",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108694895,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"Potonico",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

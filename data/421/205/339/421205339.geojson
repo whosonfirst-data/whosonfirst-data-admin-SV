@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005682,
-    "geom:area_square_m":68229880.86622,
+    "geom:area_square_m":68229991.649875,
     "geom:bbox":"-89.761528,13.740276,-89.634403,13.860611",
     "geom:latitude":13.798837,
     "geom:longitude":-89.707805,
@@ -114,12 +114,13 @@
         "qs_pg:id":261859,
         "wd:id":"Q224791"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010221,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5fc3219708deba4e44c5942bc223c50",
+    "wof:geomhash":"f104d6605b9327290ebdda8e92744ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421205339,
-    "wof:lastmodified":1690867027,
+    "wof:lastmodified":1695886783,
     "wof:name":"Nahuizalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

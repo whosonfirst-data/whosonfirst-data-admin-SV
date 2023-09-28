@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493134,
     "wof:geomhash":"f6f38595d37a0e10bcc6bcc83a88ecc3",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694779,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886496,
     "wof:name":"El Paisnal",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

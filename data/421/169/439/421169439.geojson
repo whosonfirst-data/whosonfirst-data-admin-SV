@@ -135,6 +135,7 @@
         "qs_pg:id":219085,
         "wd:id":"Q682226"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008810,
     "wof:geom_alt":[
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421169439,
-    "wof:lastmodified":1694492498,
+    "wof:lastmodified":1695886783,
     "wof:name":"Izalco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

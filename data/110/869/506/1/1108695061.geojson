@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493400,
     "wof:geomhash":"6bd3f70c296535a76a68ea5a3e498c58",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695061,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Sensembra",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

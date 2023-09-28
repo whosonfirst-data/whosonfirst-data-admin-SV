@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493439,
     "wof:geomhash":"3fdaf18e8013438e476ddfc7c7e2dacb",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695097,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886503,
     "wof:name":"Yayantique",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

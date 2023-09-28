@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02877,
-    "geom:area_square_m":345007450.169786,
+    "geom:area_square_m":345008002.458917,
     "geom:bbox":"-89.432884,14.026016,-89.148356,14.249847",
     "geom:latitude":14.109762,
     "geom:longitude":-89.306492,
@@ -114,12 +114,13 @@
         "qs_pg:id":19973,
         "wd:id":"Q2779443"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009166,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a5419e06a1eeb291a2fa6f2a462deba3",
+    "wof:geomhash":"87fa10277e8d93f0efbab4dc6c2cc011",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421177967,
-    "wof:lastmodified":1690867044,
+    "wof:lastmodified":1695886784,
     "wof:name":"Nueva Concepcion",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

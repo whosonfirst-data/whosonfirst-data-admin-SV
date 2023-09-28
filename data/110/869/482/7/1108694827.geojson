@@ -130,6 +130,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493187,
     "wof:geomhash":"23c849b951dd7aaa7b1cdf50141f5b54",
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108694827,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"La Libertad",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

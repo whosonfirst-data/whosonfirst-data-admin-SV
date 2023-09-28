@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493306,
     "wof:geomhash":"13a07b1092f86181e2c8f88bd032a4e1",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694953,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Isidro Labrador",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

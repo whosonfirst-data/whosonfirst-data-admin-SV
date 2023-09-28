@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493185,
     "wof:geomhash":"ec8046185cbcfab4e7ef68cde2f4c82e",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108694825,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"La Laguna",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

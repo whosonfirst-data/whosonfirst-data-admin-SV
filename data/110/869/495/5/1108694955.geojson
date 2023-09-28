@@ -118,6 +118,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CA.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493308,
     "wof:geomhash":"4a87170368a3c91e8accafcbf41db13d",
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108694955,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"San Isidro",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

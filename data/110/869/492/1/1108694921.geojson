@@ -385,6 +385,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493269,
     "wof:geomhash":"4ba2f76bc6afadaf385af84716931a77",
@@ -397,7 +398,7 @@
         }
     ],
     "wof:id":1108694921,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886442,
     "wof:name":"San Antonio",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

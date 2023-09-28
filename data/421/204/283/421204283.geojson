@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01514,
-    "geom:area_square_m":181840794.467704,
+    "geom:area_square_m":181840808.547613,
     "geom:bbox":"-90.032055,13.664549,-89.838646,13.826514",
     "geom:latitude":13.748165,
     "geom:longitude":-89.936903,
@@ -111,12 +111,13 @@
         "qs_pg:id":238977,
         "wd:id":"Q2779408"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010179,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1df1982a37cd9d761bd6f4649e2612c",
+    "wof:geomhash":"abfd8168c480def0692fd6b0c8eae795",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421204283,
-    "wof:lastmodified":1690867025,
+    "wof:lastmodified":1695886783,
     "wof:name":"Jujutla",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.JT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493173,
     "wof:geomhash":"3796773a48469bdf394b407784e8e86d",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694819,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Joateca",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

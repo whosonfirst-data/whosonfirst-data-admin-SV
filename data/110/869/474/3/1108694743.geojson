@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493095,
     "wof:geomhash":"090130b97126736aa6d6b710165fbb22",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694743,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Chinameca",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

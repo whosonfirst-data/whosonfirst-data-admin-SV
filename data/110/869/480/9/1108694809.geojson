@@ -79,6 +79,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493162,
     "wof:geomhash":"546a392d5552d516428a682f9097d0ec",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108694809,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"Guazapa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

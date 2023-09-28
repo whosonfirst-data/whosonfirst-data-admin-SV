@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.EC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493129,
     "wof:geomhash":"38758f8b779fb82ce614cd39f84f5b8f",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108694773,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886496,
     "wof:name":"El Carrizal",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

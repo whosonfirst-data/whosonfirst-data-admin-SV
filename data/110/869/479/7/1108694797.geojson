@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CA.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493152,
     "wof:geomhash":"e96afbd513d24bd2c250ef292ac9ee3e",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694797,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"Guacotecti",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

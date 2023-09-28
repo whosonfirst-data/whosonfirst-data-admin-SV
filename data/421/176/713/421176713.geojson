@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016037,
-    "geom:area_square_m":192651044.441302,
+    "geom:area_square_m":192650897.605184,
     "geom:bbox":"-88.513527,13.638504,-88.302577,13.78039",
     "geom:latitude":13.708836,
     "geom:longitude":-88.389401,
@@ -111,12 +111,13 @@
         "qs_pg:id":392748,
         "wd:id":"Q3958151"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009117,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1b1a080a79a2e11277086208ff7b428",
+    "wof:geomhash":"3925b17207c15624bedb1c98b9c326ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421176713,
-    "wof:lastmodified":1690867053,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sesori",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

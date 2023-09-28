@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001685,
-    "geom:area_square_m":20239994.614662,
+    "geom:area_square_m":20239909.171738,
     "geom:bbox":"-89.261906,13.72,-89.193645,13.757978",
     "geom:latitude":13.738879,
     "geom:longitude":-89.224477,
@@ -147,12 +147,13 @@
         "qs_pg:id":467294,
         "wd:id":"Q723411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009247,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bcd882091a685ea8c6020f61b3be69ad",
+    "wof:geomhash":"bedaba5ee7885e4ea1dec60a2deb407d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":421180175,
-    "wof:lastmodified":1690867028,
+    "wof:lastmodified":1695886783,
     "wof:name":"Mejicanos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

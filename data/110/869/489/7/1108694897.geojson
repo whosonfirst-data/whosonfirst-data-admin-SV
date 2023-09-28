@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493249,
     "wof:geomhash":"6dbc7e520bc371f5ca3dd136d99ddfea",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108694897,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"Puerto El Triunfo",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

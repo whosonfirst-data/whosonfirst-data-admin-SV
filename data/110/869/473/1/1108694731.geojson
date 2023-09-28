@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493082,
     "wof:geomhash":"6c462af6a98d80e1100867225822e965",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694731,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Cancasque",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

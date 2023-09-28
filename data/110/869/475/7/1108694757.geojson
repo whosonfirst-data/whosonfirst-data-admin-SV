@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.CQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493115,
     "wof:geomhash":"8f0ba4043a629e7a31927fc4a54f17c3",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694757,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Concepcion Quezaltepeque",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

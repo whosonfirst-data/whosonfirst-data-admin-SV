@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004478,
-    "geom:area_square_m":53797665.325963,
+    "geom:area_square_m":53797500.158565,
     "geom:bbox":"-89.682255,13.654835,-89.596261,13.739967",
     "geom:latitude":13.703989,
     "geom:longitude":-89.636696,
@@ -111,12 +111,13 @@
         "qs_pg:id":1110221,
         "wd:id":"Q985418"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009611,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"271675545bcab4cc939991ed8d2f6f92",
+    "wof:geomhash":"5558c99095f33864bcc0d12967ddb896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421189151,
-    "wof:lastmodified":1690867031,
+    "wof:lastmodified":1695886783,
     "wof:name":"Caluco",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

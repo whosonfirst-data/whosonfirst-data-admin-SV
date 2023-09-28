@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493254,
     "wof:geomhash":"fe1396d414d693eff4045141acbc2c1c",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694903,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"Sacacoyo",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

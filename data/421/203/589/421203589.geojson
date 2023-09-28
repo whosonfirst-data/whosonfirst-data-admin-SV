@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02236,
-    "geom:area_square_m":268491469.16567,
+    "geom:area_square_m":268491472.63621,
     "geom:bbox":"-90.133533,13.701444,-89.931265,13.905165",
     "geom:latitude":13.808078,
     "geom:longitude":-90.032865,
@@ -129,12 +129,13 @@
         "qs_pg:id":233705,
         "wd:id":"Q766174"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010157,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe7750f4dfbc85bca6a86476e344a13e",
+    "wof:geomhash":"93462cd69d6a53a2395f9667ed2c000f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421203589,
-    "wof:lastmodified":1690867026,
+    "wof:lastmodified":1695886783,
     "wof:name":"San Francisco Menendez",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

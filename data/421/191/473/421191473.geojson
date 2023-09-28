@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002568,
-    "geom:area_square_m":30823127.913506,
+    "geom:area_square_m":30823220.359213,
     "geom:bbox":"-88.199801,13.875525,-88.130416,13.934256",
     "geom:latitude":13.903064,
     "geom:longitude":-88.162854,
@@ -105,12 +105,13 @@
         "qs_pg:id":1137335,
         "wd:id":"Q3808619"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009694,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b6724f405f9e5d4f8f7033d477645bf",
+    "wof:geomhash":"83e3abacc1462ea3f2b1cefd31f8e885",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":421191473,
-    "wof:lastmodified":1690867037,
+    "wof:lastmodified":1695886784,
     "wof:name":"Jocoaitique",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

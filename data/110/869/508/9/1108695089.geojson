@@ -428,6 +428,7 @@
     "wof:concordances":{
         "hasc:id":"SV.AH.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493429,
     "wof:geomhash":"78b4546e9b2b349fc5bed72ab93d7727",
@@ -440,7 +441,7 @@
         }
     ],
     "wof:id":1108695089,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"Turin",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

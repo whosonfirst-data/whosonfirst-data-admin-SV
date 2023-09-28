@@ -154,6 +154,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493086,
     "wof:geomhash":"5178bdbbda9b1568da904a37bb1590b3",
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1108694735,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"Carolina",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

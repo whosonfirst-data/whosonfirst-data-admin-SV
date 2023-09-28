@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":3225435.84764,
+    "geom:area_square_m":3225439.738314,
     "geom:bbox":"-89.220756,13.745795,-89.194673,13.763967",
     "geom:latitude":13.756462,
     "geom:longitude":-89.206027,
@@ -120,12 +120,13 @@
         "qs_pg:id":467293,
         "wd:id":"Q793367"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009275,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"07d648dfd44f05c56e3adf877b1e4cf2",
+    "wof:geomhash":"30599e5d69e6e835010c9b8cf20cc938",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421180913,
-    "wof:lastmodified":1690867029,
+    "wof:lastmodified":1695886783,
     "wof:name":"Ayutuxtepeque",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

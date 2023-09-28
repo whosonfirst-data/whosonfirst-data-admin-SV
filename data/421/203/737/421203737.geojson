@@ -168,6 +168,7 @@
         "hasc:id":"SV.SS.SN",
         "qs_pg:id":115533
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421203737,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Martin",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

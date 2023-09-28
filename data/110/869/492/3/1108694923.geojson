@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CU.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493270,
     "wof:geomhash":"3832b0463f370b4192291e177e73974e",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694923,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Bartolome Perulapia",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

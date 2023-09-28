@@ -106,6 +106,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CA.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493184,
     "wof:geomhash":"b8abbb91718603a6a1d9c6ddaa87d6c1",
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108694823,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"Jutiapa",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

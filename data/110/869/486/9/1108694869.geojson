@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.NC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493228,
     "wof:geomhash":"911f6c7ea5b36b8b6a7f3c618aac1b20",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694869,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Nuevo Cuscatlan",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

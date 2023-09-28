@@ -62,6 +62,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493076,
     "wof:geomhash":"22d23effe8d85c77d0171ead8e7ff1fd",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1108694723,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"Bolivar",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

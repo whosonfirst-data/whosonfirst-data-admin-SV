@@ -115,6 +115,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CA.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493402,
     "wof:geomhash":"b000b311ecb595f477f8834aa9cf9ac3",
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108695063,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"Sensuntepeque",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

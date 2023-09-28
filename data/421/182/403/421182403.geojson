@@ -289,6 +289,7 @@
         "hasc:id":"SV.CA.VI",
         "qs_pg:id":911523
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009328,
     "wof:geom_alt":[
@@ -304,7 +305,7 @@
         }
     ],
     "wof:id":421182403,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886762,
     "wof:name":"Victoria",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

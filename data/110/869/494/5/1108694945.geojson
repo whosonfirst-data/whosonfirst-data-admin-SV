@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493294,
     "wof:geomhash":"3c0728fd9d0bf6d3fa367692eb03f08d",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694945,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Francisco Lempa",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

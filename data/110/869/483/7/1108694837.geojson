@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493196,
     "wof:geomhash":"c8f0ff749c0aceb56b7b4c06871c6505",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694837,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Lislique",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

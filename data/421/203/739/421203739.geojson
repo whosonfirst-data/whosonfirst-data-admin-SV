@@ -787,6 +787,7 @@
         "hasc:id":"SV.SO.AR",
         "qs_pg:id":115534
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
@@ -802,7 +803,7 @@
         }
     ],
     "wof:id":421203739,
-    "wof:lastmodified":1694492498,
+    "wof:lastmodified":1695886783,
     "wof:name":"Armenia",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

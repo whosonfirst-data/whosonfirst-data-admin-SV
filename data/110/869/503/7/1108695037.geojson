@@ -179,6 +179,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493380,
     "wof:geomhash":"93ec1677f0745683b99d47d3b0465def",
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":1108695037,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"Santa Maria",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

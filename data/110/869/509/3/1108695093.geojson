@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.VE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493434,
     "wof:geomhash":"bf992e5ede4c517bb7ab1e07b0e6030f",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108695093,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886503,
     "wof:name":"Verapaz",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

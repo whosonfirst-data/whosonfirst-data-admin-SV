@@ -79,6 +79,7 @@
     "wof:concordances":{
         "hasc:id":"SV.AH.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493160,
     "wof:geomhash":"a35c3aee9bb3083b85b1e82b9f5b0b2a",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108694807,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"Guaymango",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

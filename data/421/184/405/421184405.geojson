@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019879,
-    "geom:area_square_m":238659894.041449,
+    "geom:area_square_m":238659804.500673,
     "geom:bbox":"-88.922457,13.767793,-88.736292,13.934696",
     "geom:latitude":13.84575,
     "geom:longitude":-88.817532,
@@ -189,12 +189,13 @@
         "qs_pg:id":995774,
         "wd:id":"Q2779383"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad0dedc80ad645ea337e3a8090655922",
+    "wof:geomhash":"b91000f9856c441ede73830a2b05135d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":421184405,
-    "wof:lastmodified":1690867043,
+    "wof:lastmodified":1695886784,
     "wof:name":"Ilobasco",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

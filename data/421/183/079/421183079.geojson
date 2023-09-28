@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004386,
-    "geom:area_square_m":52663416.393173,
+    "geom:area_square_m":52663391.19157,
     "geom:bbox":"-89.251329,13.751009,-89.149708,13.85142",
     "geom:latitude":13.798952,
     "geom:longitude":-89.196092,
@@ -213,12 +213,13 @@
         "qs_pg:id":961140,
         "wd:id":"Q619646"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009357,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b5023453dbbf8b42278ea00fd2a87d5",
+    "wof:geomhash":"806ff916b6fbf63ed6423c973274333b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":421183079,
-    "wof:lastmodified":1690867045,
+    "wof:lastmodified":1695886784,
     "wof:name":"Apopa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

@@ -373,6 +373,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493445,
     "wof:geomhash":"36a87f571aa288e1cd946b1c2a426171",
@@ -385,7 +386,7 @@
         }
     ],
     "wof:id":1108695103,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"Zaragoza",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

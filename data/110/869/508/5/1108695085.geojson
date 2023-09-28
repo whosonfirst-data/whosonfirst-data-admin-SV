@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493427,
     "wof:geomhash":"30b96d60d81575e174f27d8ead104a5c",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695085,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886503,
     "wof:name":"Torola",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

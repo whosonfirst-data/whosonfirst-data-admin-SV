@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005731,
-    "geom:area_square_m":68827999.280925,
+    "geom:area_square_m":68827873.786535,
     "geom:bbox":"-89.16182,13.713987,-89.082799,13.850085",
     "geom:latitude":13.783018,
     "geom:longitude":-89.118661,
@@ -123,12 +123,13 @@
         "qs_pg:id":115537,
         "wd:id":"Q1003568"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cacb68d53c5e09fb3003936882e7d684",
+    "wof:geomhash":"cb37ade67222768c05f536a98f845a8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421203743,
-    "wof:lastmodified":1690867026,
+    "wof:lastmodified":1695886783,
     "wof:name":"Tonacatepeque",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

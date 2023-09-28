@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.ED"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493132,
     "wof:geomhash":"501132160728f7d7f3716f5e19b2443c",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694777,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886496,
     "wof:name":"El Divisadero",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

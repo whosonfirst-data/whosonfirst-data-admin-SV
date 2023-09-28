@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493333,
     "wof:geomhash":"2801be7ea9a919cb2998c8ef4cbb8ad7",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694985,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"San Luis Talpa",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

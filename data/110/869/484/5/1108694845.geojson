@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493202,
     "wof:geomhash":"79f167cd5e6c1402ca5a1a24d1e2d17f",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694845,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Meanguera Del Golfo",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

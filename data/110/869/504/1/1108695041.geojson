@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493384,
     "wof:geomhash":"6396ee7acbdbf3ef77c9daa61c152a12",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695041,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santa Rosa De Lima",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

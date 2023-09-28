@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SA.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493360,
     "wof:geomhash":"372bd1e606b4a81ad9b5916446480e61",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695011,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"San Sebastian Salitrillo",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SO.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493377,
     "wof:geomhash":"a50461e623f61bb9dc13fcfc5cb956fd",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695031,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santa Isabel Ishuatan",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493331,
     "wof:geomhash":"325fa0ae88511e5ce36dbbba5ba79979",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694983,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Luis Del Carmen",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

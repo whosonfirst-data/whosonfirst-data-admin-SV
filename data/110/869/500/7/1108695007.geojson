@@ -139,6 +139,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493356,
     "wof:geomhash":"83c327f7cd3aab6ea6cbbc985c06fb3c",
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108695007,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"San Rafael",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.UL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493431,
     "wof:geomhash":"75a7d15ff7ad001f1a29c3f5d9005e08",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695091,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886503,
     "wof:name":"Uluazapa",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

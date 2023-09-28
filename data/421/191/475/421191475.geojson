@@ -82,6 +82,7 @@
         "hasc:id":"SV.MO.ME",
         "qs_pg:id":1137336
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009694,
     "wof:geom_alt":[
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":421191475,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886496,
     "wof:name":"Meanguera",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

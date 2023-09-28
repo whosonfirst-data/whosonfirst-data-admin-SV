@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SA.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493385,
     "wof:geomhash":"d872e58990f2aede80eb58d030050971",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695043,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santa Rosa Guachipilin",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

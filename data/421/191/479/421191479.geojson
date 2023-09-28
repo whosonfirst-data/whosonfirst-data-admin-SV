@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001705,
-    "geom:area_square_m":20463785.681165,
+    "geom:area_square_m":20463751.323846,
     "geom:bbox":"-88.181762,13.937241,-88.080476,13.996852",
     "geom:latitude":13.969726,
     "geom:longitude":-88.152393,
@@ -111,12 +111,13 @@
         "qs_pg:id":1137337,
         "wd:id":"Q3900071"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009694,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05243053408d61522918c61c9cfdacd0",
+    "wof:geomhash":"dbfc5c9a97ead6a291dde099bd2e4954",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421191479,
-    "wof:lastmodified":1690867036,
+    "wof:lastmodified":1695886784,
     "wof:name":"Perquin",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

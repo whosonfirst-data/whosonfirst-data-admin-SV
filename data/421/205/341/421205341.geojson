@@ -83,6 +83,7 @@
         "hasc:id":"SV.US.US",
         "qs_pg:id":261860
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010221,
     "wof:geom_alt":[
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":421205341,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Usulutan",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

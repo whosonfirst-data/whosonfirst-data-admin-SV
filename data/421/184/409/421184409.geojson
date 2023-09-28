@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01909,
-    "geom:area_square_m":229797775.126997,
+    "geom:area_square_m":229797768.432688,
     "geom:bbox":"-88.370095,13.159667,-88.124637,13.311809",
     "geom:latitude":13.218968,
     "geom:longitude":-88.248699,
@@ -189,12 +189,13 @@
         "qs_pg:id":995776,
         "wd:id":"Q1154960"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96395f97ea3b7a04d305003f51f0da4b",
+    "wof:geomhash":"d6ace1f54f6518acf86ecf3a378b3449",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":421184409,
-    "wof:lastmodified":1690867042,
+    "wof:lastmodified":1695886784,
     "wof:name":"Jucuaran",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

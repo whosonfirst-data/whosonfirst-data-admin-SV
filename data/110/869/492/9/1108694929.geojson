@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.SY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493276,
     "wof:geomhash":"b4631d5e0b802dc6e621c79ed72bfb14",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694929,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Cayetano Istepeque",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

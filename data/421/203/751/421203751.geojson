@@ -243,6 +243,7 @@
         "hasc:id":"SV.MO.SC",
         "qs_pg:id":115542
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
@@ -258,7 +259,7 @@
         }
     ],
     "wof:id":421203751,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Carlos",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

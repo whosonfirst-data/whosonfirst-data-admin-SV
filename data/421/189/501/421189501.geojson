@@ -116,6 +116,7 @@
         "hasc:id":"SV.SM.SJ",
         "qs_pg:id":1113832
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009627,
     "wof:geom_alt":[
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421189501,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Jorge",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

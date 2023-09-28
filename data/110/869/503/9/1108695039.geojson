@@ -163,6 +163,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493382,
     "wof:geomhash":"0fe3bd0972e0d2a845159a085f869484",
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1108695039,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"Santa Rita",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

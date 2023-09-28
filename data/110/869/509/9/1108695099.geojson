@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.YO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493441,
     "wof:geomhash":"5dc51fc2b399ee5c603df565ff36e82a",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695099,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886503,
     "wof:name":"Yoloaiquin",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

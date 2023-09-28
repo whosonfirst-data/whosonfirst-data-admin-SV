@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006908,
-    "geom:area_square_m":83018580.67416,
+    "geom:area_square_m":83018158.04709,
     "geom:bbox":"-89.408835,13.532057,-89.328774,13.679446",
     "geom:latitude":13.604783,
     "geom:longitude":-89.364046,
@@ -111,12 +111,13 @@
         "qs_pg:id":1110211,
         "wd:id":"Q3683966"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009605,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"62b4b24033155577b04f8055a75404b4",
+    "wof:geomhash":"acd8fe15ecdd304a2365d611c7b96aed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421189131,
-    "wof:lastmodified":1690867031,
+    "wof:lastmodified":1695886783,
     "wof:name":"Comasagua",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

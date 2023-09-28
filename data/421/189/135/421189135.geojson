@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006909,
-    "geom:area_square_m":82947604.997173,
+    "geom:area_square_m":82947460.214065,
     "geom:bbox":"-89.268002,13.744956,-89.179433,13.922028",
     "geom:latitude":13.840589,
     "geom:longitude":-89.224917,
@@ -126,12 +126,13 @@
         "qs_pg:id":1110213,
         "wd:id":"Q1003551"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009611,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ccd82e23834269d7fccee848e72bdf4d",
+    "wof:geomhash":"6156e18ca417015102e942e1c2349085",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421189135,
-    "wof:lastmodified":1690867030,
+    "wof:lastmodified":1695886783,
     "wof:name":"Nejapa",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

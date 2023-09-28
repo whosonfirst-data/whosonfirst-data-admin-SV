@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493068,
     "wof:geomhash":"31f2d508cf7da471a4e732c0d22e4713",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694717,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886494,
     "wof:name":"Arcatao",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

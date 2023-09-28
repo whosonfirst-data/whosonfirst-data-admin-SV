@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493055,
     "wof:geomhash":"e0992a7bb4c5912b512f445a6cb42527",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694707,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886494,
     "wof:name":"Agua Caliente",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

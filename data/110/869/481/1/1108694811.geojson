@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.HU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493163,
     "wof:geomhash":"aa040e782438555e6b956e30c21c8ef1",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694811,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886496,
     "wof:name":"Huizucar",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

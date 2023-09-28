@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.AZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493072,
     "wof:geomhash":"1d28984d4398a5164061d8484430d7db",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694719,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"Azacualpa",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

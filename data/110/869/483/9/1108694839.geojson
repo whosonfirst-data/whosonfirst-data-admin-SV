@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493197,
     "wof:geomhash":"a7dc18be5322d625b11377c895d4181f",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694839,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Lolotique",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

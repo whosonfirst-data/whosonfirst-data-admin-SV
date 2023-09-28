@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012996,
-    "geom:area_square_m":155989407.122965,
+    "geom:area_square_m":155989456.770678,
     "geom:bbox":"-90.038,13.786554,-89.880916,13.967576",
     "geom:latitude":13.895541,
     "geom:longitude":-89.950844,
@@ -126,12 +126,13 @@
         "qs_pg:id":891809,
         "wd:id":"Q1283898"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009769,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e6e07bb23a81d8de93ea6cdc1203982c",
+    "wof:geomhash":"d56f3daa6676dd78ffa4ae39930e662f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421193371,
-    "wof:lastmodified":1690867022,
+    "wof:lastmodified":1695886783,
     "wof:name":"Tacuba",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

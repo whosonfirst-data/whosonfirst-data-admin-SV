@@ -119,6 +119,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CU.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493358,
     "wof:geomhash":"b9bac0d27fe598645a7255d54cdad825",
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108695009,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Ramon",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

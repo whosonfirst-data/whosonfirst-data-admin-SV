@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493113,
     "wof:geomhash":"7a1bed557c61f15b432677c1ea3d6f74",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694755,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Concepcion De Oriente",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

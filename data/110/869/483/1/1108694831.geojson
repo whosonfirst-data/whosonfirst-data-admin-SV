@@ -92,6 +92,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493192,
     "wof:geomhash":"250d859da79769074296f5e0a235c73f",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108694831,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"Las Flores",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

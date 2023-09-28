@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CU.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493373,
     "wof:geomhash":"448e6bda6fed0a094b73f3bb674e45bd",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695027,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santa Cruz Michapa",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00881,
-    "geom:area_square_m":105897713.424781,
+    "geom:area_square_m":105897529.91392,
     "geom:bbox":"-89.629423,13.499861,-89.474062,13.660776",
     "geom:latitude":13.576626,
     "geom:longitude":-89.540766,
@@ -117,12 +117,13 @@
         "qs_pg:id":61162,
         "wd:id":"Q3984168"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fcf150c52c2d30ae570b5dc48cc3dba3",
+    "wof:geomhash":"5302969c94ae4969b89955de5d7479d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421191215,
-    "wof:lastmodified":1690867037,
+    "wof:lastmodified":1695886502,
     "wof:name":"Teotepeque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",
