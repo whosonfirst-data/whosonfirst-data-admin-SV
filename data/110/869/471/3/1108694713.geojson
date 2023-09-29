@@ -86,6 +86,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493060,
     "wof:geomhash":"5c403b3be6c7d9976500582079924738",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108694713,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886494,
     "wof:name":"Alegria",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

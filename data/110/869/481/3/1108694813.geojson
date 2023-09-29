@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493169,
     "wof:geomhash":"5f5e52cf3a9ef0975797efb4a63e23b8",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694813,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886496,
     "wof:name":"Jayaque",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

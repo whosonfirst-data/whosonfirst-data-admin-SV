@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024015,
-    "geom:area_square_m":288828230.226062,
+    "geom:area_square_m":288828902.028275,
     "geom:bbox":"-88.926601,13.267469,-88.78,13.594574",
     "geom:latitude":13.433205,
     "geom:longitude":-88.849393,
@@ -177,12 +177,13 @@
         "qs_pg:id":61163,
         "wd:id":"Q139248"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"89f53f3945b1305c924510889788414f",
+    "wof:geomhash":"6591a67d36cc9b5129b64c28c711bc9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":421191217,
-    "wof:lastmodified":1690867036,
+    "wof:lastmodified":1695886761,
     "wof:name":"Zacatecoluca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

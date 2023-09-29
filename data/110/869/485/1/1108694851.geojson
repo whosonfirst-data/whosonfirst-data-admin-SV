@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493211,
     "wof:geomhash":"97511a125ed15c92a6f61d031e62b99c",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694851,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Moncagua",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

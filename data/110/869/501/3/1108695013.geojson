@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493362,
     "wof:geomhash":"a8069b489ef080fd2cb7c40b855bb8eb",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695013,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"San Sebastian",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

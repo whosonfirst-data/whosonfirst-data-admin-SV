@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166267,
-    "geom:area_square_m":1993583507.210886,
+    "geom:area_square_m":1993584318.870265,
     "geom:bbox":"-89.432884,13.93293,-88.681478,14.415878",
     "geom:latitude":14.145371,
     "geom:longitude":-89.076674,
@@ -262,17 +262,19 @@
         "gn:id":3587090,
         "gp:id":2345294,
         "hasc:id":"SV.CH",
+        "iso:code":"SV-CH",
         "iso:id":"SV-CH",
         "qs_pg:id":1083826,
         "unlc:id":"SV-CH",
         "wd:id":"Q522221",
         "wk:page":"Chalatenango Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9f14397cb9eefd65d469e0b7beec63a",
+    "wof:geomhash":"37cd48cc90bef19bf2925e3138fc4a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -287,7 +289,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867011,
+    "wof:lastmodified":1695884871,
     "wof:name":"Chalatenango",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

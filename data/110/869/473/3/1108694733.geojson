@@ -115,6 +115,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CU.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493084,
     "wof:geomhash":"0dcd6059f27a5537bdf4f0ae6aa557f8",
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108694733,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886440,
     "wof:name":"Candelaria",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

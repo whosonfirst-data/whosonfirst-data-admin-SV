@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.SG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493302,
     "wof:geomhash":"9858eebe160062379617be077c666ad4",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694949,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Gerardo",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

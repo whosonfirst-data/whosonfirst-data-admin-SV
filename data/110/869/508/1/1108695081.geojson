@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.TP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493422,
     "wof:geomhash":"dfa161073513a69d47b3c3b1a4e9cecc",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695081,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Tepecoyo",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

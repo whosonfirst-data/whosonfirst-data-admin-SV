@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099967,
-    "geom:area_square_m":1200117270.176957,
+    "geom:area_square_m":1200117127.756897,
     "geom:bbox":"-90.133533,13.664549,-89.694002,14.063456",
     "geom:latitude":13.859736,
     "geom:longitude":-89.90542,
@@ -310,17 +310,19 @@
         "gn:id":3587425,
         "gp:id":2345292,
         "hasc:id":"SV.AH",
+        "iso:code":"SV-AH",
         "iso:id":"SV-AH",
         "qs_pg:id":1083823,
         "unlc:id":"SV-AH",
         "wd:id":"Q572993",
         "wk:page":"Ahuachap\u00e1n Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c9e2c68419ca27ec21eb8e985fb59b9b",
+    "wof:geomhash":"5bcb25c2ed62c34edf4749465d6287f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867012,
+    "wof:lastmodified":1695884362,
     "wof:name":"Ahuachap\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493405,
     "wof:geomhash":"93a51b2ca3628c163bab6a024ec1d16a",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108695065,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Sociedad",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

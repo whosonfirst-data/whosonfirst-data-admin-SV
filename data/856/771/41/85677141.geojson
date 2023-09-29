@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092016,
-    "geom:area_square_m":1104563782.873162,
+    "geom:area_square_m":1104563443.983272,
     "geom:bbox":"-88.989631,13.74,-88.491517,14.024463",
     "geom:latitude":13.88136,
     "geom:longitude":-88.711305,
@@ -310,17 +310,19 @@
         "gn:id":3587217,
         "gp:id":2345293,
         "hasc:id":"SV.CA",
+        "iso:code":"SV-CA",
         "iso:id":"SV-CA",
         "qs_pg:id":1097024,
         "unlc:id":"SV-CA",
         "wd:id":"Q914058",
         "wk:page":"Caba\u00f1as Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d18af042082be8eebd237a9d2a271c3",
+    "wof:geomhash":"49d6a820976e19ec57d29ec91a9f14ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867013,
+    "wof:lastmodified":1695884362,
     "wof:name":"Caba\u00f1as",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

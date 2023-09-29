@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003384,
-    "geom:area_square_m":40628445.345027,
+    "geom:area_square_m":40628418.809727,
     "geom:bbox":"-88.949586,13.816245,-88.867713,13.90029",
     "geom:latitude":13.85806,
     "geom:longitude":-88.91674,
@@ -108,12 +108,13 @@
         "qs_pg:id":1119688,
         "wd:id":"Q1154062"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009660,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b568b6b8437a089b21ae967e3d534a2",
+    "wof:geomhash":"3620d9f82e326bd0ee97af879f0ec75d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421190525,
-    "wof:lastmodified":1690867039,
+    "wof:lastmodified":1695886784,
     "wof:name":"Tejutepeque",
     "wof:parent_id":85677141,
     "wof:placetype":"county",

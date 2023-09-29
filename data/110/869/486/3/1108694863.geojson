@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493224,
     "wof:geomhash":"03d27af82678d16e100580fc1607271b",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108694863,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Nueva Granada",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

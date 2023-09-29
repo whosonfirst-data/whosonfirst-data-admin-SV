@@ -124,6 +124,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493375,
     "wof:geomhash":"b75387240619383ec8bca7657dd6e39f",
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108695029,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"Santa Elena",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

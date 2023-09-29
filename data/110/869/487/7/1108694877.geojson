@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.OL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493232,
     "wof:geomhash":"86ad3bd9ae357bfa26e728411c524d67",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694877,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886440,
     "wof:name":"Olocuilta",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

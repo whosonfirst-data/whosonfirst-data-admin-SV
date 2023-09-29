@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493109,
     "wof:geomhash":"d369721160a0f84d26875903a84915f9",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694753,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Concepcion Batres",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

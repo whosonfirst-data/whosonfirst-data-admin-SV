@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493437,
     "wof:geomhash":"840ab37eb80fd757f5746e31b1408612",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695095,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886503,
     "wof:name":"Yamabal",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

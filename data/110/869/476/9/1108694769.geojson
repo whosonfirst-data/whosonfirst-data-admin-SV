@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.DN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493125,
     "wof:geomhash":"e7b0dbe4b2aac94352cf18736c20aa5c",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694769,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886496,
     "wof:name":"Dulce Nombre De Maria",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

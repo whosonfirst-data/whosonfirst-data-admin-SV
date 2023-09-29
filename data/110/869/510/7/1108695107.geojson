@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.NJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493447,
     "wof:geomhash":"31687a955ad37535c3edd679c41750e6",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108695107,
-    "wof:lastmodified":1694492797,
+    "wof:lastmodified":1695886503,
     "wof:name":"Zona De Demarcacion Limitrofe",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

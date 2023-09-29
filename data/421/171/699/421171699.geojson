@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006944,
-    "geom:area_square_m":83472677.840996,
+    "geom:area_square_m":83473067.988764,
     "geom:bbox":"-89.499764,13.491901,-89.43,13.651996",
     "geom:latitude":13.561792,
     "geom:longitude":-89.462771,
@@ -111,12 +111,13 @@
         "qs_pg:id":1264027,
         "wd:id":"Q3674712"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008904,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"337887a43d88074d0a4ee94bf4919639",
+    "wof:geomhash":"15abae12df8d60725ee0700bf3ec5f6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421171699,
-    "wof:lastmodified":1690867054,
+    "wof:lastmodified":1695886784,
     "wof:name":"Chiltiupan",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

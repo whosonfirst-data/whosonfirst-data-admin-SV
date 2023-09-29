@@ -172,6 +172,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493285,
     "wof:geomhash":"eb38498e0b74bd414448200e73da546c",
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":1108694937,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Fernando",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

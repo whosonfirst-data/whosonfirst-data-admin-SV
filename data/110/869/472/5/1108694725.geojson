@@ -79,6 +79,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493078,
     "wof:geomhash":"0e961e7c22baaaefaeeae00572e267ff",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108694725,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Cacaopera",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

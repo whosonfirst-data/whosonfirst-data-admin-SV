@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493329,
     "wof:geomhash":"f5ca566ae3fff45dd786a77adcb69d53",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694981,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Luis De La Reina",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

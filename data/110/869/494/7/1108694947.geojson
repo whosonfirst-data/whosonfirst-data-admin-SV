@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493297,
     "wof:geomhash":"ebb58dabb4d3505ca1481a305cf43dc8",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694947,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Francisco Morazan",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

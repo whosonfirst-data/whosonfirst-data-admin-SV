@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493199,
     "wof:geomhash":"ac78d0ec8060c16c9fcc562a36261e41",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694841,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Lolotiquillo",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

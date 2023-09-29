@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493057,
     "wof:geomhash":"790ce315ed86d001c0906ca25856e020",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694711,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"Aguilares",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

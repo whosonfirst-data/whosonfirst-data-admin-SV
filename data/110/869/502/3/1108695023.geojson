@@ -166,6 +166,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493369,
     "wof:geomhash":"b4c841eb32a80d21a5da2ffecd80acf8",
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1108695023,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886437,
     "wof:name":"Santa Clara",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

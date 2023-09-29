@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034067,
-    "geom:area_square_m":409912944.120798,
+    "geom:area_square_m":409912203.083654,
     "geom:bbox":"-88.813218,13.210808,-88.507467,13.470877",
     "geom:latitude":13.321924,
     "geom:longitude":-88.664091,
@@ -114,12 +114,13 @@
         "qs_pg:id":1119683,
         "wd:id":"Q1154953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008761,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48e85eb9c3713b68666bfd5d885bcca6",
+    "wof:geomhash":"ca945d100b1b5fd42ccb802c495a5e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421168319,
-    "wof:lastmodified":1690867017,
+    "wof:lastmodified":1695886782,
     "wof:name":"Jiquilisco",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

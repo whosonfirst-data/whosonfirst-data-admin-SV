@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493241,
     "wof:geomhash":"fe69ea56045efc1b501bdd39762eb94f",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694887,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Paraiso De Osorio",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

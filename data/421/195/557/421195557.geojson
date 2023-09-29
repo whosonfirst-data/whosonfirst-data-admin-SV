@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002326,
-    "geom:area_square_m":27943899.046425,
+    "geom:area_square_m":27943839.755512,
     "geom:bbox":"-89.783131,13.68003,-89.724059,13.748555",
     "geom:latitude":13.716329,
     "geom:longitude":-89.752409,
@@ -108,12 +108,13 @@
         "qs_pg:id":115545,
         "wd:id":"Q3946809"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009852,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a77e6c1f4794f3644560cccd0192254c",
+    "wof:geomhash":"b608f85136787b447a3af5171b64c69f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421195557,
-    "wof:lastmodified":1690867019,
+    "wof:lastmodified":1695886783,
     "wof:name":"San Antonio Del Monte",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493354,
     "wof:geomhash":"fbb069eeaeeb7fbbc8428783ac5f7336",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695005,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"San Rafael Oriente",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

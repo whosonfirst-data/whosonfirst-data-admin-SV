@@ -139,6 +139,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.SV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493365,
     "wof:geomhash":"ad4c766f441b43e9e2df18aab1e38130",
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108695019,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Vicente",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

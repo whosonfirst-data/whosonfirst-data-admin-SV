@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493346,
     "wof:geomhash":"786e6c0468f852dff4b884d74074dcb6",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694999,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"San Pedro Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

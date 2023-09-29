@@ -98,6 +98,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493317,
     "wof:geomhash":"a842b8488976e3bc5203d51a286eac98",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108694965,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"San Jose",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493144,
     "wof:geomhash":"fc042c2e058b9b3d783de034d98b24a0",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694793,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886496,
     "wof:name":"El Sauce",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

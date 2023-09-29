@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493416,
     "wof:geomhash":"790c9da5d1985d8b0d0c4715bbcf0025",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108695077,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Tecoluca",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

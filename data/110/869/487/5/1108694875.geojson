@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.OA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493231,
     "wof:geomhash":"32fa8ae21f3c9238c4ad1b4be9191b52",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694875,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Ojos De Agua",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

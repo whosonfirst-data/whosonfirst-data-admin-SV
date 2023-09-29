@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493265,
     "wof:geomhash":"665b3492cac8b7f462a5f3c4ca00c93e",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694917,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"San Antonio Masahuat",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

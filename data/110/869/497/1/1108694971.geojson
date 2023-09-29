@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493322,
     "wof:geomhash":"060e20b888da8e5349285827c14ae8ef",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694971,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"San Juan Tepezontes",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

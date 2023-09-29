@@ -94,6 +94,7 @@
         "qs_pg:id":1104970,
         "wd:id":"Q1123798"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009587,
     "wof:geom_alt":[
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421188901,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Concepcion De Ataco",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

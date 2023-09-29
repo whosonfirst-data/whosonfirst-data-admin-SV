@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057784,
-    "geom:area_square_m":692328356.394477,
+    "geom:area_square_m":692328031.509486,
     "geom:bbox":"-89.592813,14.164992,-89.247718,14.450557",
     "geom:latitude":14.314233,
     "geom:longitude":-89.424589,
@@ -129,12 +129,13 @@
         "qs_pg:id":1264063,
         "wd:id":"Q2537220"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008904,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28fd6773e6e493c4defe1340a85392df",
+    "wof:geomhash":"c3caf5aa1e2b684b994f0ae7387af7d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421171709,
-    "wof:lastmodified":1690867054,
+    "wof:lastmodified":1695886784,
     "wof:name":"Metapan",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

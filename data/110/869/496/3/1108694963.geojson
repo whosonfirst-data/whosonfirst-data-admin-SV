@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493315,
     "wof:geomhash":"7aa2e200ce906d96c06fa635edd9b354",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694963,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Jose Villanueva",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

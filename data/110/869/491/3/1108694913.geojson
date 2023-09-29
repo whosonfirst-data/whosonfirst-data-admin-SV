@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493261,
     "wof:geomhash":"c3e2004ca206bc7526ee7023df79e345",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694913,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Antonio De La Cruz",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

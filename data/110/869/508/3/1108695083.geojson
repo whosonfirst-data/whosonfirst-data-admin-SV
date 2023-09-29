@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.TP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493423,
     "wof:geomhash":"e4a380c7b18cc573d479bf6608ff4c8e",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695083,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Tepetitan",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493155,
     "wof:geomhash":"1576eb623a974853c2977c399af6e81e",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694803,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886496,
     "wof:name":"Gualococti",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003279,
-    "geom:area_square_m":39401978.905087,
+    "geom:area_square_m":39402006.71546,
     "geom:bbox":"-89.129339,13.607221,-89.04141,13.682149",
     "geom:latitude":13.649665,
     "geom:longitude":-89.093991,
@@ -111,12 +111,13 @@
         "qs_pg:id":115535,
         "wd:id":"Q679112"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"858f0410842e48a523922a3262d4942b",
+    "wof:geomhash":"becc185213c2675ca81e47578aa16d22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421203741,
-    "wof:lastmodified":1690867026,
+    "wof:lastmodified":1695886783,
     "wof:name":"Santiago Texacuangos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

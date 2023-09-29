@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007528,
-    "geom:area_square_m":90375830.136069,
+    "geom:area_square_m":90375987.673392,
     "geom:bbox":"-89.784553,13.807114,-89.649368,13.905039",
     "geom:latitude":13.864686,
     "geom:longitude":-89.717846,
@@ -120,12 +120,13 @@
         "qs_pg:id":421487,
         "wd:id":"Q1006979"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008744,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7d5825c0006052bcbf51bc7e2e5e12d",
+    "wof:geomhash":"c8296f335d9331e66b8f9d3aaa288ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421167823,
-    "wof:lastmodified":1690867023,
+    "wof:lastmodified":1695886782,
     "wof:name":"Juayua",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

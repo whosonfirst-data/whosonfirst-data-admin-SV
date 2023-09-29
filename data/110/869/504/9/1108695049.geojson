@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.SG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493391,
     "wof:geomhash":"2071aeeaa7ea6e986f2d862761bc58f1",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695049,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santiago De Maria",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

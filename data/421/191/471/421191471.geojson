@@ -104,6 +104,7 @@
         "hasc:id":"SV.CU.TE",
         "qs_pg:id":1137330
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009694,
     "wof:geom_alt":[
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":421191471,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Tenancingo",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

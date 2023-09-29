@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00584,
-    "geom:area_square_m":70079532.207313,
+    "geom:area_square_m":70079548.668561,
     "geom:bbox":"-88.174713,13.895289,-88.072631,13.999649",
     "geom:latitude":13.949637,
     "geom:longitude":-88.114709,
@@ -111,12 +111,13 @@
         "qs_pg:id":969549,
         "wd:id":"Q3621256"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009361,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57f49bd29c0a71fbf44c0d454636ae76",
+    "wof:geomhash":"cae27df3d664f741595a821e59308bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421183185,
-    "wof:lastmodified":1690867046,
+    "wof:lastmodified":1695886784,
     "wof:name":"Arambala",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SA.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493267,
     "wof:geomhash":"6b17b3566714fbe04abe421c5a30e949",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694919,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Antonio Pajonal",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

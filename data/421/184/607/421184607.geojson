@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005159,
-    "geom:area_square_m":61908476.526421,
+    "geom:area_square_m":61908130.433486,
     "geom:bbox":"-89.791389,13.898289,-89.701549,14.014539",
     "geom:latitude":13.959346,
     "geom:longitude":-89.741882,
@@ -192,12 +192,13 @@
         "qs_pg:id":1002236,
         "wd:id":"Q2779447"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009416,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"047cfd896a5cf9554bf10aca126d374d",
+    "wof:geomhash":"ea8dd25a05065563bff45046d47b824d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":421184607,
-    "wof:lastmodified":1690867043,
+    "wof:lastmodified":1695886784,
     "wof:name":"Atiquizaya",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

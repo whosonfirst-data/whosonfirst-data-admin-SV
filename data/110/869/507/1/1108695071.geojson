@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493412,
     "wof:geomhash":"6147be93a69e777f77defd6da98a61c7",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108695071,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Tamanique",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.NJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493218,
     "wof:geomhash":"dee61d30ee4b313231d6b4d63b7dfebc",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694859,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Nombre De Jesus",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

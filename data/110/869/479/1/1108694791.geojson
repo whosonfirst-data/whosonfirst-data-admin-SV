@@ -97,6 +97,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.ER"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493142,
     "wof:geomhash":"0509e3ddd3621e825d58c715c0bf5ef8",
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108694791,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"El Rosario",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

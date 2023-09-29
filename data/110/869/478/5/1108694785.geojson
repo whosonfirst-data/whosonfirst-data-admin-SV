@@ -130,6 +130,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SA.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493136,
     "wof:geomhash":"b72fa061f4878ba85b60c450cdaa2b1b",
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108694785,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"El Porvenir",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

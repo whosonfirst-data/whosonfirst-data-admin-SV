@@ -119,6 +119,7 @@
         "hasc:id":"SV.CH.CH",
         "qs_pg:id":61158
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009684,
     "wof:geom_alt":[
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421191205,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886762,
     "wof:name":"Chalatenango",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

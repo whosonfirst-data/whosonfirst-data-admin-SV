@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.JP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493178,
     "wof:geomhash":"fa3705d0a18b14b0873cdc5a10359868",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694821,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886497,
     "wof:name":"Jucuapa",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

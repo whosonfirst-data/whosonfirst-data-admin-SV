@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493263,
     "wof:geomhash":"5b3237da1d259db961dece2b2cf5f0fa",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108694915,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Antonio Los Ranchos",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

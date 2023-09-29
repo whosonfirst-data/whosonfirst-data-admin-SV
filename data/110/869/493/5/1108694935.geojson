@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493284,
     "wof:geomhash":"2700c1f3071c0de96f66ba46b2039e96",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694935,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Esteban Catarina",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

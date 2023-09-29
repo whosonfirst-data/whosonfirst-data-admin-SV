@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.OZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493238,
     "wof:geomhash":"176c4f5ff0ab8976b96434a7165ff61a",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694883,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Ozatlan",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

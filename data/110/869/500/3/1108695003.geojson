@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CU.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493352,
     "wof:geomhash":"d1f9b4f9addbc7e845237fc961a1665f",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695003,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Rafael Cedros",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

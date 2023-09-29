@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493292,
     "wof:geomhash":"2a063f2c0b62a8bd1d048eb1fecd8c6e",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694941,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Francisco Javier",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

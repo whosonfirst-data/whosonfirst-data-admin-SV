@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.NT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493226,
     "wof:geomhash":"031ed1fd16103ebaa5d6361776543844",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694867,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886498,
     "wof:name":"Nueva Trinidad",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

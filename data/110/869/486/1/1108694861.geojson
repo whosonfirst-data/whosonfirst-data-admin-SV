@@ -206,6 +206,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493222,
     "wof:geomhash":"fedbc0804925d81ac3521dcdfbac47c6",
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":1108694861,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"Nueva Esparta",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

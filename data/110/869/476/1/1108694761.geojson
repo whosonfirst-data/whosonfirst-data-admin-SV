@@ -89,6 +89,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493119,
     "wof:geomhash":"43c37d06bb96dbd613bee9322e048288",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108694761,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"Cuscatancingo",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

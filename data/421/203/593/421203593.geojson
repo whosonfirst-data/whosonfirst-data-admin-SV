@@ -104,6 +104,7 @@
         "hasc:id":"SV.US.SD",
         "qs_pg:id":233707
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010157,
     "wof:geom_alt":[
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":421203593,
-    "wof:lastmodified":1694492498,
+    "wof:lastmodified":1695886783,
     "wof:name":"San Dionisio",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

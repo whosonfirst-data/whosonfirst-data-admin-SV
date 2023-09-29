@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493378,
     "wof:geomhash":"8fa647eb4f4316ac04d373a37c179489",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695035,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886501,
     "wof:name":"Santa Maria Ostuma",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

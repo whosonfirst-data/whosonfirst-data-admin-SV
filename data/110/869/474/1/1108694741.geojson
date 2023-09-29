@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493092,
     "wof:geomhash":"45d8331999c71b6e504c9d282b15b51d",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108694741,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Chilanga",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

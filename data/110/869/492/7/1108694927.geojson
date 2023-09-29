@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493272,
     "wof:geomhash":"1a0162d6f090291daea046a9cdfccb37",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694927,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Buena Ventura",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

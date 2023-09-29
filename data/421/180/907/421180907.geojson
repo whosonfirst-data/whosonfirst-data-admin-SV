@@ -397,6 +397,7 @@
         "hasc:id":"SV.SS.SS",
         "qs_pg:id":467283
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421191785
     ],
@@ -415,7 +416,7 @@
         }
     ],
     "wof:id":421180907,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Salvador",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

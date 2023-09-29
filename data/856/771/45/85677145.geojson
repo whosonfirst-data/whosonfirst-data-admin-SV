@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062215,
-    "geom:area_square_m":746948413.052524,
+    "geom:area_square_m":746948444.376912,
     "geom:bbox":"-89.169009,13.640652,-88.858063,14.076171",
     "geom:latitude":13.846235,
     "geom:longitude":-89.022632,
@@ -306,17 +306,19 @@
         "gn:id":3586831,
         "gp:id":2345295,
         "hasc:id":"SV.CU",
+        "iso:code":"SV-CU",
         "iso:id":"SV-CU",
         "qs_pg:id":894881,
         "unlc:id":"SV-CU",
         "wd:id":"Q1130677",
         "wk:page":"Cuscatl\u00e1n Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SV",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eaefcd54dcc050a744f28315aa9282e6",
+    "wof:geomhash":"b886dad251a02609d989980998e922d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867011,
+    "wof:lastmodified":1695884362,
     "wof:name":"Cuscatl\u00e1n",
     "wof:parent_id":85632545,
     "wof:placetype":"region",

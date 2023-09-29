@@ -128,6 +128,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493397,
     "wof:geomhash":"daa48505e86cc6cb25f55bef8df715b4",
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108695059,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"Santo Tomas",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

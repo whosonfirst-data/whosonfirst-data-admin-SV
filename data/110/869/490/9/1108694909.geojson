@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493258,
     "wof:geomhash":"010aaa5587e8a98d184a4d522eb28a78",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694909,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"San Agustin",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

@@ -175,6 +175,7 @@
     "wof:concordances":{
         "hasc:id":"SV.AH.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493326,
     "wof:geomhash":"dc9c33ac480ba8d3d1f8f5c6105f4cff",
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":1108694975,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85677139,
     "wof:placetype":"county",

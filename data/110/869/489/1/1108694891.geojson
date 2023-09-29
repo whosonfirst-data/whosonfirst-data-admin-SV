@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493243,
     "wof:geomhash":"0211472dbaef50e4a5f913cf6317b91f",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694891,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"Pasaquina",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

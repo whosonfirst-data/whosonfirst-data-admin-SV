@@ -76,6 +76,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493321,
     "wof:geomhash":"5e0282c06239daab25da83b0ef4ec801",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108694969,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"San Juan Talpa",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

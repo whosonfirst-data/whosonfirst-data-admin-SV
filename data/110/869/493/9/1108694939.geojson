@@ -173,6 +173,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493287,
     "wof:geomhash":"01e2a66759453d60482da4c62f4b3c52",
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1108694939,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"San Fernando",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493339,
     "wof:geomhash":"d3580cc7ee2c08a8acd3dc4ab037df9a",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694989,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Miguel De Mercedes",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

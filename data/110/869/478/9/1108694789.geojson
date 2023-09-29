@@ -97,6 +97,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493141,
     "wof:geomhash":"814daf5fa1ee6c966522e1a95d70759d",
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108694789,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886437,
     "wof:name":"El Rosario",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

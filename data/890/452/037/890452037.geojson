@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003594,
-    "geom:area_square_m":43196058.055698,
+    "geom:area_square_m":43196383.114088,
     "geom:bbox":"-88.44636,13.53361,-88.375417,13.666201",
     "geom:latitude":13.608681,
     "geom:longitude":-88.409872,
@@ -111,12 +111,13 @@
         "wd:id":"Q164920",
         "wk:page":"Puerto El Triunfo"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1469052802,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d1d204b5c60470a8aa1474ccb806ca1",
+    "wof:geomhash":"6b4ebd35ddb039e888f780f31e9aaa36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":890452037,
-    "wof:lastmodified":1690867056,
+    "wof:lastmodified":1695886784,
     "wof:name":"El Triunfo",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

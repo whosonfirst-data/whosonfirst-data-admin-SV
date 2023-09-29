@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000374,
-    "geom:area_square_m":4490188.499992,
+    "geom:area_square_m":4490184.384336,
     "geom:bbox":"-89.723392,13.735091,-89.699764,13.763569",
     "geom:latitude":13.746824,
     "geom:longitude":-89.709252,
@@ -126,12 +126,13 @@
         "qs_pg:id":773146,
         "wd:id":"Q2287976"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010075,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02094f3f63c45b944ff1c5b9b44b85dd",
+    "wof:geomhash":"3a79f97e214c1f6860a42ecdc92b6c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421201523,
-    "wof:lastmodified":1690867042,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sonzacate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

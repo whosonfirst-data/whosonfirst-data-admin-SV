@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493410,
     "wof:geomhash":"28d1582b14decacc2184cbf8028affef",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695067,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886502,
     "wof:name":"Talnique",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

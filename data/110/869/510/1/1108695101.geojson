@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.UN.YU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493443,
     "wof:geomhash":"491ba0f5624859cf81702d3e26347b47",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108695101,
-    "wof:lastmodified":1694492797,
+    "wof:lastmodified":1695886503,
     "wof:name":"Yucuaiquin",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493135,
     "wof:geomhash":"03614a7ad180460b26cb4076fd0d8558",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694783,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886496,
     "wof:name":"El Paraiso",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005381,
-    "geom:area_square_m":64695682.881109,
+    "geom:area_square_m":64695494.724295,
     "geom:bbox":"-88.945471,13.399005,-88.855834,13.602283",
     "geom:latitude":13.497086,
     "geom:longitude":-88.906596,
@@ -120,12 +120,13 @@
         "qs_pg:id":1203861,
         "wd:id":"Q647944"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008876,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57ac041947612594e6e1bbafc79dbf94",
+    "wof:geomhash":"c56641cc9bf89f02b0d3b4e1ce359f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421170965,
-    "wof:lastmodified":1690867044,
+    "wof:lastmodified":1695886784,
     "wof:name":"San Juan Nonualco",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

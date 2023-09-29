@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014256,
-    "geom:area_square_m":171568821.343368,
+    "geom:area_square_m":171569143.875936,
     "geom:bbox":"-87.943173,13.198699,-87.792016,13.367954",
     "geom:latitude":13.278449,
     "geom:longitude":-87.880983,
@@ -111,12 +111,13 @@
         "qs_pg:id":61188,
         "wd:id":"Q3686207"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0465792e82221fe247757fe188d22253",
+    "wof:geomhash":"d86c91be6fc72a56021cdb2fc509d29f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421191221,
-    "wof:lastmodified":1690867036,
+    "wof:lastmodified":1695886784,
     "wof:name":"Conchagua",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

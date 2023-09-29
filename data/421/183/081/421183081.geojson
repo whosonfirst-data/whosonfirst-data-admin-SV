@@ -113,6 +113,7 @@
         "hasc:id":"SV.SS.CU",
         "qs_pg:id":961141
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009357,
     "wof:geom_alt":[
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421183081,
-    "wof:lastmodified":1694492498,
+    "wof:lastmodified":1695886784,
     "wof:name":"Delgado",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

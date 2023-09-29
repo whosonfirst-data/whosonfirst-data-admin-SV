@@ -107,6 +107,7 @@
         "hasc:id":"SV.SA.CO",
         "qs_pg:id":115543
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009648,
     "wof:geom_alt":[
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421190155,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Coatepeque",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493344,
     "wof:geomhash":"f3d8d2c7af4db36e2b5b597d8674ae99",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694995,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886439,
     "wof:name":"San Pedro Masahuat",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

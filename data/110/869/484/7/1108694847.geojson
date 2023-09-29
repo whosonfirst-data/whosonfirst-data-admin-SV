@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493206,
     "wof:geomhash":"a06f548b0fe09533fbbba162cf2ee942",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694847,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"Mercedes La Ceiba",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

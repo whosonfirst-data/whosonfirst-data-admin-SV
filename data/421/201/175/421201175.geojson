@@ -197,6 +197,7 @@
         "hasc:id":"SV.SM.SM",
         "qs_pg:id":210251
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459010064,
     "wof:geom_alt":[
@@ -212,7 +213,7 @@
         }
     ],
     "wof:id":421201175,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886762,
     "wof:name":"San Miguel",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

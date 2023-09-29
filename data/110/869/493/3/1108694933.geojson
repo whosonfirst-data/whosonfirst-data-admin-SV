@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493282,
     "wof:geomhash":"83281b07ec6edc8f19d55e65a0778397",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694933,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"San Emigdio",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

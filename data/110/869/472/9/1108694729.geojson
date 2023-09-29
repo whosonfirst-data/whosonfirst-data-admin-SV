@@ -625,6 +625,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493080,
     "wof:geomhash":"effc4d4f3c38a37ba897ca936b7bdf30",
@@ -637,7 +638,7 @@
         }
     ],
     "wof:id":1108694729,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886440,
     "wof:name":"California",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

@@ -215,6 +215,7 @@
         "hasc:id":"SV.SA.SA",
         "qs_pg:id":1264061
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459008700,
     "wof:geom_alt":[
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":421166707,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"Santa Ana",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

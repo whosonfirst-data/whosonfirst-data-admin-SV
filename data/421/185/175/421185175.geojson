@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006579,
-    "geom:area_square_m":79068085.81705,
+    "geom:area_square_m":79067986.072759,
     "geom:bbox":"-88.058508,13.564637,-87.957811,13.676459",
     "geom:latitude":13.617602,
     "geom:longitude":-88.014186,
@@ -111,12 +111,13 @@
         "qs_pg:id":1019041,
         "wd:id":"Q3808621"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009434,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d6a35081098f7b6f54af1b2ffc35ff94",
+    "wof:geomhash":"1a9846d576f61c3f8c78bf2d21880091",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421185175,
-    "wof:lastmodified":1690867055,
+    "wof:lastmodified":1695886784,
     "wof:name":"Jocoro",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

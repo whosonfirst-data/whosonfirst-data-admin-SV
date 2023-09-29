@@ -189,6 +189,7 @@
         "hasc:id":"SV.UN.LU",
         "qs_pg:id":61190
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009684,
     "wof:geom_alt":[
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":421191227,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886761,
     "wof:name":"La Union",
     "wof:parent_id":85677169,
     "wof:placetype":"county",

@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.MO.DC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493123,
     "wof:geomhash":"bcaa69c3c479e6e8d65b8bb0591e6974",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694767,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Delicias De Concepcion",
     "wof:parent_id":85677173,
     "wof:placetype":"county",

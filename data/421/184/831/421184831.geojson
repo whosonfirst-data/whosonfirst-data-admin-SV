@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017883,
-    "geom:area_square_m":214917766.016113,
+    "geom:area_square_m":214917815.625459,
     "geom:bbox":"-89.805204,13.523185,-89.629402,13.740462",
     "geom:latitude":13.607633,
     "geom:longitude":-89.730335,
@@ -219,12 +219,13 @@
         "qs_pg:id":1119679,
         "wd:id":"Q1014248"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009423,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c03ea9a1b15a5d14fb1d1fe61fa470d0",
+    "wof:geomhash":"b26df76d40b5870feb9360b362ffe4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":421184831,
-    "wof:lastmodified":1690867042,
+    "wof:lastmodified":1695886762,
     "wof:name":"Sonsonate",
     "wof:parent_id":85677159,
     "wof:placetype":"county",

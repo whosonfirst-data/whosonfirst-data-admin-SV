@@ -82,6 +82,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CH.LV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493194,
     "wof:geomhash":"1c59ecbd961455b3c0b108c341d136ca",
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108694833,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886438,
     "wof:name":"Las Vueltas",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

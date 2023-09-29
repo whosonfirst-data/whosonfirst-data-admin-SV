@@ -159,6 +159,7 @@
         "hasc:id":"SV.LI.CL",
         "qs_pg:id":1110201
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009605,
     "wof:geom_alt":[
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421189127,
-    "wof:lastmodified":1694492498,
+    "wof:lastmodified":1695886783,
     "wof:name":"Colon",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

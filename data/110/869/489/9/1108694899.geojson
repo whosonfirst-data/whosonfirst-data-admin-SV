@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SM.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493251,
     "wof:geomhash":"a1f7c95a6061175c2df380e669f16fe9",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108694899,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"Quelepa",
     "wof:parent_id":85677177,
     "wof:placetype":"county",

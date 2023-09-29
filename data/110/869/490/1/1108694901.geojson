@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.RM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493253,
     "wof:geomhash":"ef6363f0d9a3f4acd728596f86ba3809",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694901,
-    "wof:lastmodified":1694492795,
+    "wof:lastmodified":1695886499,
     "wof:name":"Rosario De Mora",
     "wof:parent_id":85677163,
     "wof:placetype":"county",

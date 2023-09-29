@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.LI.OP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493319,
     "wof:geomhash":"7ebcdcce2f0a3005450b907f8cc39528",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694967,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Juan Opico",
     "wof:parent_id":85677151,
     "wof:placetype":"county",

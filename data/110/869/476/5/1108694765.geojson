@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493120,
     "wof:geomhash":"528e8015785eb897a50f2af56a2a7e4c",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694765,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886495,
     "wof:name":"Cuyultitan",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

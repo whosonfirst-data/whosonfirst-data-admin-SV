@@ -758,6 +758,7 @@
     "wof:concordances":{
         "hasc:id":"SV.US.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493074,
     "wof:geomhash":"1b092acbdd534952c937a349a69f540d",
@@ -770,7 +771,7 @@
         }
     ],
     "wof:id":1108694721,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886440,
     "wof:name":"Berlin",
     "wof:parent_id":85677187,
     "wof:placetype":"county",

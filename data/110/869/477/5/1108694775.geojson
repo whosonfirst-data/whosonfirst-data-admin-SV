@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SA.EC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493130,
     "wof:geomhash":"038ff40ebe9b693c1f4fd54a3cf6271d",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108694775,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1695886496,
     "wof:name":"El Congo",
     "wof:parent_id":85677195,
     "wof:placetype":"county",

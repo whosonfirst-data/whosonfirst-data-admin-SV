@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005754,
-    "geom:area_square_m":68923778.75607,
+    "geom:area_square_m":68923746.191172,
     "geom:bbox":"-89.333244,14.328925,-89.175,14.415878",
     "geom:latitude":14.37225,
     "geom:longitude":-89.259725,
@@ -108,12 +108,13 @@
         "qs_pg:id":61159,
         "wd:id":"Q1154046"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f185aad0c884adc2514e2cb28dd030bf",
+    "wof:geomhash":"8ec7ff133a462ebc5b0e0c7807e917e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421191209,
-    "wof:lastmodified":1690867037,
+    "wof:lastmodified":1695886784,
     "wof:name":"Citala",
     "wof:parent_id":85677193,
     "wof:placetype":"county",

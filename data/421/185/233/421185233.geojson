@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00082,
-    "geom:area_square_m":9865456.471031,
+    "geom:area_square_m":9865456.810124,
     "geom:bbox":"-88.937797,13.465375,-88.909141,13.512687",
     "geom:latitude":13.487648,
     "geom:longitude":-88.922898,
@@ -108,12 +108,13 @@
         "qs_pg:id":1019916,
         "wd:id":"Q1154783"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1459009436,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3baf2aa034d1d56ccf2d1436b40c2d6",
+    "wof:geomhash":"2ea70d185d6b6acd2cf6b2b493ff86df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421185233,
-    "wof:lastmodified":1690867055,
+    "wof:lastmodified":1695886784,
     "wof:name":"San Rafael Obrajuelo",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

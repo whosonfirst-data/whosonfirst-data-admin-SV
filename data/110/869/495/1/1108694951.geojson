@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493304,
     "wof:geomhash":"1277ccb5dfefc7a033ab91ad390eeb3e",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1108694951,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Ildefonso",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

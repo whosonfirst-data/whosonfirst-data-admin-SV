@@ -163,6 +163,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SV.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493153,
     "wof:geomhash":"8b8d160048b09547670e2df4acd3a3ee",
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1108694801,
-    "wof:lastmodified":1694492410,
+    "wof:lastmodified":1695886441,
     "wof:name":"Guadalupe",
     "wof:parent_id":85677185,
     "wof:placetype":"county",

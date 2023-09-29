@@ -73,6 +73,7 @@
     "wof:concordances":{
         "hasc:id":"SV.PA.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493413,
     "wof:geomhash":"e1839d0eeeb954e3f100f9063d4d4eb7",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108695073,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1695886440,
     "wof:name":"Tapalhuaca",
     "wof:parent_id":85677155,
     "wof:placetype":"county",

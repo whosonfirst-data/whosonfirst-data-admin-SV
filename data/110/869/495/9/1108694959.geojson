@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"SV.CU.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493313,
     "wof:geomhash":"46ab99d4905b3a42accaef6194dea755",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108694959,
-    "wof:lastmodified":1694492796,
+    "wof:lastmodified":1695886500,
     "wof:name":"San Jose Guayabal",
     "wof:parent_id":85677145,
     "wof:placetype":"county",

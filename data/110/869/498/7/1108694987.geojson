@@ -139,6 +139,7 @@
     "wof:concordances":{
         "hasc:id":"SV.SS.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SV",
     "wof:created":1474493334,
     "wof:geomhash":"e7cd6ff573366391cfc85acf3f05fc26",
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108694987,
-    "wof:lastmodified":1694492931,
+    "wof:lastmodified":1695886760,
     "wof:name":"San Marcos",
     "wof:parent_id":85677163,
     "wof:placetype":"county",
